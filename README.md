@@ -11,7 +11,9 @@ The /requirements.txt file contains all the required libs for the project. Pleas
 # Demo Site
 
 Please navigate to following URL to try the interface: 
+
 https://infovis-userstudy.herokuapp.com/task?chart=test1
+
 https://infovis-userstudy.herokuapp.com/task?chart=test2
 
 (Press N/P to navigate through the available charts, press H to hear HELP). 

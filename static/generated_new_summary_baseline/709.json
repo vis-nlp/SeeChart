@@ -1,0 +1,121 @@
+{
+   "title": "Unemployment rate in Cambodia 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 2000 and 2001.",
+      "Maximum Unemployment rate, about 2.55 was reported at Year 1999",
+      "The lowest Unemployment rate, of value 1.02 was reported at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " In general Unemployment rate has fallen over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 2000 and 2001.",
+      "Maximum Unemployment rate, about 2.55 was reported at Year 1999",
+      "The lowest Unemployment rate, of value 1.02 was reported at Year 2019"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 2000 and 2001.",
+      "Maximum Unemployment rate, about 2.55 was reported at Year 1999",
+      "The lowest Unemployment rate, of value 1.02 was reported at Year 2019",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 1.02
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 1.05
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 1.06
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 1.13
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 1.2
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 1.23
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 1.32
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 1.38
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 1.15
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 1.17
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 1.28
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 1.47
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 1.56
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 1.57
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 1.63
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 1.64
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 2.45
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 2.55
+      }
+   ]
+}

@@ -1,0 +1,113 @@
+{
+   "title": "Electricity prices for households in Belgium 2010 - 2019 , semi-annually",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 19.",
+      " In general Euro cents per kilowatt-hour has rose over the Year.",
+      "The steepest increase occurs in between the Year 2015_S1 and 2015_S2.",
+      "The highest Euro cents per kilowatt-hour, of value 29.37 was reached at Year 2018_S2",
+      "Minimum Euro cents per kilowatt-hour about 19.59 was reached at Year 2010_S1"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 19.",
+      " In general Euro cents per kilowatt-hour has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 19.",
+      " In general Euro cents per kilowatt-hour has rose over the Year.",
+      "The steepest increase occurs in between the Year 2015_S1 and 2015_S2.",
+      "The highest Euro cents per kilowatt-hour, of value 29.37 was reached at Year 2018_S2",
+      "Minimum Euro cents per kilowatt-hour about 19.59 was reached at Year 2010_S1"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, containing a total of 19 data points.",
+      " Overall Euro cents per kilowatt-hour has increased over the Year.",
+      "The most drastic increase took place within the Year 2015_S1 and 2015_S2.",
+      "The highest Euro cents per kilowatt-hour, of value 29.37 was reached at Year 2018_S2",
+      "Minimum Euro cents per kilowatt-hour about 19.59 was reached at Year 2010_S1",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019 S1",
+         "Euro cents per kilowatt-hour": 28.39
+      },
+      {
+         "Year": "2018 S2",
+         "Euro cents per kilowatt-hour": 29.37
+      },
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": 27.33
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": 28.77
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": 27.99
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": 27.45
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": 25.44
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": 23.52
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": 21.27
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": 20.43
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": 20.97
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": 22.15
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": 21.73
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": 22.23
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": 23.27
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": 21.19
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": 21.36
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": 19.74
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": 19.59
+      }
+   ]
+}

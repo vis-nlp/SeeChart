@@ -1,0 +1,144 @@
+{
+   "title": "The 25 most valuable brands worldwide 2020",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Brand in the x axis and Brand value in million U.S. dollars in the y axis. ",
+      "Brand Amazon has the highest Brand value in million U.S. dollars and Volkswagen has the lowest Brand value in million U.S. dollars. ",
+      "The maximum Brand Amazon has got 4.92 times higher Brand value in million U.S. dollars than the minimum Brand Volkswagen. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Brand value in million U.S. dollars for 25 number of Brands. ",
+      "Brand Amazon has the highest Brand value in million U.S. dollars and Volkswagen has the lowest Brand value in million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Brand in the x axis and Brand value in million U.S. dollars in the y axis. ",
+      "Brand Amazon has the highest Brand value in million U.S. dollars and Volkswagen has the lowest Brand value in million U.S. dollars. ",
+      "The maximum Brand Amazon has got 4.92 times higher Brand value in million U.S. dollars than the minimum Brand Volkswagen. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Brand value in million U.S. dollars for 25 number of Brands. ",
+      "The Brand value in million U.S. dollars is highest at Brand Amazon and lowest at Brand Volkswagen. ",
+      "The highest Brand Amazon has 175894.0 more Brand value in million U.S. dollars than the lowest Brand Volkswagen. ",
+      "Brand value in million U.S. dollars at Brand Amazon is 220791.0 , second place is  at 220791.0, and thirdly is Apple at 140524.0.",
+      "The Brand Volkswagen tends to be 2.87 percent lower than average. ",
+      "The Brand value in million U.S. dollars is 1924604.0 if we add up values of all Brands. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 24,
+         "12": 24
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Amazon",
+         "Brand value in million U.S. dollars": 220791.0
+      },
+      {
+         "Brand": "Google",
+         "Brand value in million U.S. dollars": 159722.0
+      },
+      {
+         "Brand": "Apple",
+         "Brand value in million U.S. dollars": 140524.0
+      },
+      {
+         "Brand": "Microsoft",
+         "Brand value in million U.S. dollars": 117072.0
+      },
+      {
+         "Brand": "Samsung",
+         "Brand value in million U.S. dollars": 94494.0
+      },
+      {
+         "Brand": "ICBC",
+         "Brand value in million U.S. dollars": 80791.0
+      },
+      {
+         "Brand": "Facebook",
+         "Brand value in million U.S. dollars": 79804.0
+      },
+      {
+         "Brand": "Walmart",
+         "Brand value in million U.S. dollars": 77520.0
+      },
+      {
+         "Brand": "Ping An",
+         "Brand value in million U.S. dollars": 69041.0
+      },
+      {
+         "Brand": "Huawei",
+         "Brand value in million U.S. dollars": 65084.0
+      },
+      {
+         "Brand": "Mercedes-Benz",
+         "Brand value in million U.S. dollars": 65041.0
+      },
+      {
+         "Brand": "Verizon",
+         "Brand value in million U.S. dollars": 63692.0
+      },
+      {
+         "Brand": "China Construction Bank",
+         "Brand value in million U.S. dollars": 62602.0
+      },
+      {
+         "Brand": "AT&T",
+         "Brand value in million U.S. dollars": 59103.0
+      },
+      {
+         "Brand": "Toyota",
+         "Brand value in million U.S. dollars": 58076.0
+      },
+      {
+         "Brand": "State Grid",
+         "Brand value in million U.S. dollars": 56965.0
+      },
+      {
+         "Brand": "Disney",
+         "Brand value in million U.S. dollars": 56123.0
+      },
+      {
+         "Brand": "Agricultural Bank of China",
+         "Brand value in million U.S. dollars": 54658.0
+      },
+      {
+         "Brand": "WeChat",
+         "Brand value in million U.S. dollars": 54146.0
+      },
+      {
+         "Brand": "Bank of China",
+         "Brand value in million U.S. dollars": 50630.0
+      },
+      {
+         "Brand": "Home Depot",
+         "Brand value in million U.S. dollars": 50508.0
+      },
+      {
+         "Brand": "China Mobile",
+         "Brand value in million U.S. dollars": 49023.0
+      },
+      {
+         "Brand": "Shell",
+         "Brand value in million U.S. dollars": 47529.0
+      },
+      {
+         "Brand": "Saudi Aramco",
+         "Brand value in million U.S. dollars": 46768.0
+      },
+      {
+         "Brand": "Volkswagen",
+         "Brand value in million U.S. dollars": 44897.0
+      }
+   ]
+}

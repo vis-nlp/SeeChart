@@ -1,0 +1,177 @@
+{
+   "title": "Annual imports of cement into Great Britain by importer 2001 to 2018",
+   "labels": [
+      "Year",
+      "by manufacturers",
+      "by others"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 2 lines namely by manufacturers, and by others. The y axis represents Imports in thousand metric tons and the x axis represents Year.",
+      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. by others, and lastly, 2. by manufacturers. ",
+      "Throughout the period, by others generally had the highest Imports in thousand metric tons relative to others with an average of 1139.78, and it reached its maximum at 2017 with a value of 1932.0.",
+      "The botommost line, by manufacturers,  has a mean of 424.22, and peaked at 2001. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Imports in thousand metric tons",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting by manufacturers, and by others. The y axis indicates the Imports in thousand metric tons and the x axis indicates Year.",
+      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year",
+      "Overall across the Year, by others mostly maintained the highest Imports in thousand metric tons when compared to others with a mean value of 1139.78, and it peaked at 2017.",
+      "by manufacturers mostly had the least Imports in thousand metric tons with a mean value of 424.22, which peaked at 2001 with a value of 1182.0. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely by manufacturers, and by others. The y axis represents Imports in thousand metric tons and the x axis represents Year.",
+      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. by others, and lastly, 2. by manufacturers. ",
+      "Throughout the period, by others generally had the highest Imports in thousand metric tons relative to others with an average of 1139.78, and it reached its maximum at 2017 with a value of 1932.0.",
+      "The botommost line, by manufacturers,  has a mean of 424.22, and peaked at 2001. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting by manufacturers, and by others. The y axis indicates the Imports in thousand metric tons and the x axis indicates Year.",
+      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. by others, and lastly, 2. by manufacturers. ",
+      "Throughout the period, by others generally had the highest Imports in thousand metric tons relative to others with an average of 1139.78, and it reached its maximum at 2017 with a value of 1932.0.",
+      "The botommost line, by manufacturers,  has a mean of 424.22, and peaked at 2001. ",
+      "by manufacturers reported the lowest Imports in thousand metric tons about 0.0 in Year 2016",
+      "The greatest difference of Imports in thousand metric tons between by manufacturers and by others occurs at Year 2016 and the smallest difference occurs at 2003."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "17",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "9": [
+            "1",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "17",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "17",
+            "0"
+         ],
+         "10": [
+            "17",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "by manufacturers": "935",
+         "by others": "1663"
+      },
+      {
+         "Year": "2017",
+         "by manufacturers": "1114",
+         "by others": "1932"
+      },
+      {
+         "Year": "2016",
+         "by manufacturers": "0",
+         "by others": "1503"
+      },
+      {
+         "Year": "2015",
+         "by manufacturers": "635",
+         "by others": "1425"
+      },
+      {
+         "Year": "2014",
+         "by manufacturers": "227",
+         "by others": "1590"
+      },
+      {
+         "Year": "2013",
+         "by manufacturers": "117",
+         "by others": "1322"
+      },
+      {
+         "Year": "2012",
+         "by manufacturers": "61",
+         "by others": "1122"
+      },
+      {
+         "Year": "2011",
+         "by manufacturers": "86",
+         "by others": "1173"
+      },
+      {
+         "Year": "2010",
+         "by manufacturers": "61",
+         "by others": "1153"
+      },
+      {
+         "Year": "2009",
+         "by manufacturers": "99",
+         "by others": "1085"
+      },
+      {
+         "Year": "2008",
+         "by manufacturers": "283",
+         "by others": "1084"
+      },
+      {
+         "Year": "2007",
+         "by manufacturers": "255",
+         "by others": "1121"
+      },
+      {
+         "Year": "2006",
+         "by manufacturers": "124",
+         "by others": "1089"
+      },
+      {
+         "Year": "2005",
+         "by manufacturers": "306",
+         "by others": "971"
+      },
+      {
+         "Year": "2004",
+         "by manufacturers": "609",
+         "by others": "825"
+      },
+      {
+         "Year": "2003",
+         "by manufacturers": "576",
+         "by others": "646"
+      },
+      {
+         "Year": "2002",
+         "by manufacturers": "966",
+         "by others": "452"
+      },
+      {
+         "Year": "2001",
+         "by manufacturers": "1182",
+         "by others": "360"
+      }
+   ]
+}

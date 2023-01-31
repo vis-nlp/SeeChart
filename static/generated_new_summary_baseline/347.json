@@ -1,0 +1,118 @@
+{
+   "title": "Ebola cases and deaths in West African outbreak by country 2016",
+   "labels": [
+      "Country",
+      "Cases",
+      "Deaths"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Number of cases/deaths on the Y-axis for 11 different Countrys for 2 groups Cases, and Deaths that are presented on the X-axis. ",
+      " Country Total had the maximum Number of cases/deaths among all 2 groups, and it was for Cases. The minimum Number of cases/deaths was observed in Country Senegal for Deaths. ",
+      " There is a gap of 11323.0 between the highest and lowest Number of cases/deaths found for Deaths in Country Total and Senegal. ",
+      "On average, the Country Total had the highest Number of cases/deaths for all 2 groups Cases, and Deaths. Whereas Senegal had the lowest average Number of cases/deaths. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Number of cases/deaths",
+   "min_summary": [
+      "This grouped bar chart shows Number of cases/deaths on the Y-axis for 11 different Countrys for 2 groups Cases, and Deaths that are presented on the X-axis. ",
+      " Country Total had the maximum Number of cases/deaths among all 2 groups, and it was for Cases. The minimum Number of cases/deaths was observed in Country Senegal for Deaths. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of cases/deaths on the Y-axis for 11 different Countrys for 2 groups Cases, and Deaths that are presented on the X-axis. ",
+      " Country Total had the maximum Number of cases/deaths among all 2 groups, and it was for Cases. The minimum Number of cases/deaths was observed in Country Senegal for Deaths. ",
+      " There is a gap of 11323.0 between the highest and lowest Number of cases/deaths found for Deaths in Country Total and Senegal. ",
+      "On average, the Country Total had the highest Number of cases/deaths for all 2 groups Cases, and Deaths. Whereas Senegal had the lowest average Number of cases/deaths. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 11 different Countrys on X-axis for 2 groups Cases, and Deaths. On the Y-axis it shows their corresponding Number of cases/deaths. ",
+      " Country Total had the maximum Number of cases/deaths among all 2 groups, and it was for Cases. The minimum Number of cases/deaths was observed in Country Senegal for Deaths. ",
+      " Among all the Countrys, Deaths had the highest Number of cases/deaths in Country Total and lowest Number of cases/deaths in Country Senegal. ",
+      " There is a gap of 11323.0 between the highest and lowest Number of cases/deaths found for Deaths in Country Total and Senegal. ",
+      " Among all 2 groups, Cases had the gap of 28645.0 between the maximum and minimum Number of cases/deaths observed in Country Total and Senegal respectively. ",
+      "Averaging all 2 groups Cases, and Deaths, the Country Total is the maximum Number of cases/deaths and Senegal is the minimum Number of cases/deaths. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "10"
+         ],
+         "13": [
+            "2",
+            "10"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Guinea",
+         "Cases": "3811",
+         "Deaths": "2543"
+      },
+      {
+         "Country": "Liberia",
+         "Cases": "10675",
+         "Deaths": "4809"
+      },
+      {
+         "Country": "Sierra Leone",
+         "Cases": "14124",
+         "Deaths": "3956"
+      },
+      {
+         "Country": "Nigeria",
+         "Cases": "20",
+         "Deaths": "8"
+      },
+      {
+         "Country": "Senegal",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Spain",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "United States",
+         "Cases": "4",
+         "Deaths": "1"
+      },
+      {
+         "Country": "Mali",
+         "Cases": "8",
+         "Deaths": "6"
+      },
+      {
+         "Country": "United Kingdom",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Italy",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Total",
+         "Cases": "28646",
+         "Deaths": "11323"
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Becton , Dickinson , and Company 's employees from 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 8 data points.",
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly slightly increasing from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Number of employees, of value 76032.0 was reached at Year 2018",
+      "The lowest Number of employees, of value 29400.0 was reported at Year 2011"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 8.",
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly slightly increasing from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 8 data points.",
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly slightly increasing from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Number of employees, of value 76032.0 was reached at Year 2018",
+      "The lowest Number of employees, of value 29400.0 was reported at Year 2011"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 8 data points.",
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly slightly increasing from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Number of employees, of value 76032.0 was reached at Year 2018",
+      "The lowest Number of employees, of value 29400.0 was reported at Year 2011",
+      "The line rapidly increased by 81.46% from Year 2017 to 2018."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": 76032.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees": 41900.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 50900.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 49500.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 30600.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 30000.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees": 29600.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 29400.0
+      }
+   ]
+}

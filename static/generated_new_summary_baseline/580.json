@@ -1,0 +1,65 @@
+{
+   "title": "Costco membership worldwide 2014 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Total number of card holders",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Total number of card holders. In total the number of data points it has is 6.",
+      " Overall Total number of card holders has increased over the Year.",
+      "Total number of card holders is slightly increasing from 2014 to 2019.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "The highest Total number of card holders, of value 98.5 was reached at Year 2019",
+      "Minimum Total number of card holders about 76.4 was reached at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Total number of card holders. In total the number of data points it has is 6.",
+      " In general Total number of card holders has rose over the Year.",
+      "Total number of card holders is slightly increasing from 2014 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Total number of card holders. In total the number of data points it has is 6.",
+      " Overall Total number of card holders has increased over the Year.",
+      "Total number of card holders is slightly increasing from 2014 to 2019.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "The highest Total number of card holders, of value 98.5 was reached at Year 2019",
+      "Minimum Total number of card holders about 76.4 was reached at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Total number of card holders, containing a total of 6 data points.",
+      " In general Total number of card holders has rose over the Year.",
+      "Total number of card holders is slightly increasing from 2014 to 2019.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "The highest Total number of card holders, of value 98.5 was reached at Year 2019",
+      "Minimum Total number of card holders about 76.4 was reached at Year 2014",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2014",
+         "Total number of card holders": 76.4
+      },
+      {
+         "Year": "2015",
+         "Total number of card holders": 81.3
+      },
+      {
+         "Year": "2016",
+         "Total number of card holders": 86.7
+      },
+      {
+         "Year": "2017",
+         "Total number of card holders": 90.3
+      },
+      {
+         "Year": "2018",
+         "Total number of card holders": 94.3
+      },
+      {
+         "Year": "2019",
+         "Total number of card holders": 98.5
+      }
+   ]
+}

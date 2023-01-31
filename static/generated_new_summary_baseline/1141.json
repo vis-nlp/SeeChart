@@ -1,0 +1,162 @@
+{
+   "title": "Gate revenues in sports worldwide by region 2015",
+   "labels": [
+      "Year",
+      "North America",
+      "EMEA",
+      "Asia Pacific",
+      "Latin America"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 4 lines denoting North America, EMEA, Asia Pacific, and Latin America. The y axis indicates the Gate revenues in billion U.S. dollars and the x axis indicates Year.",
+      "Overall North America, EMEA, and Asia Pacific are gradually increasing, Latin America is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Gate revenues in billion U.S. dollars in descending order is: 1. EMEA, 2. North America, 3. Asia Pacific, and lastly, 4. Latin America. ",
+      "Throughout the period, EMEA generally had the highest Gate revenues in billion U.S. dollars relative to others with an average of 16.76, and it reached its maximum at 2015 with a value of 18.31.",
+      "Followed by North America which ranks as the second topmpost line , with an average of 16.0 Gate revenues in billion U.S. dollars,reaching its highest point  at 2015 with a value of 17.8. ",
+      "The botommost line, Latin America,  has a mean of 1.79, and peaked at 2014. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Gate revenues in billion U.S. dollars",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 4 lines denoting North America, EMEA, Asia Pacific, and Latin America. The y axis indicates the Gate revenues in billion U.S. dollars and the x axis indicates Year.",
+      "Overall North America, EMEA, and Asia Pacific are gradually increasing, Latin America is roughly constant,  throughout the Year",
+      "Throughout the period, EMEA generally had the highest Gate revenues in billion U.S. dollars relative to others with an average of 16.76, and it reached its maximum at 2015 with a value of 18.31.",
+      "Followed by North America which ranks as the second topmpost line , with an average of 16.0 Gate revenues in billion U.S. dollars,reaching its highest point  at 2015 with a value of 17.8. ",
+      "The botommost line, Latin America,  has a mean of 1.79, and peaked at 2014. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 4 lines denoting North America, EMEA, Asia Pacific, and Latin America. The y axis indicates the Gate revenues in billion U.S. dollars and the x axis indicates Year.",
+      "Overall North America, EMEA, and Asia Pacific are gradually increasing, Latin America is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Gate revenues in billion U.S. dollars in descending order is: 1. EMEA, 2. North America, 3. Asia Pacific, and lastly, 4. Latin America. ",
+      "Throughout the period, EMEA generally had the highest Gate revenues in billion U.S. dollars relative to others with an average of 16.76, and it reached its maximum at 2015 with a value of 18.31.",
+      "Followed by North America which ranks as the second topmpost line , with an average of 16.0 Gate revenues in billion U.S. dollars,reaching its highest point  at 2015 with a value of 17.8. ",
+      "The botommost line, Latin America,  has a mean of 1.79, and peaked at 2014. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 4 lines representing North America, EMEA, Asia Pacific, and Latin America. The y axis denotes Gate revenues in billion U.S. dollars and the x axis denotes Year.",
+      "Overall North America, EMEA, and Asia Pacific are gradually increasing, Latin America is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Gate revenues in billion U.S. dollars in descending order is: 1. EMEA, 2. North America, 3. Asia Pacific, and lastly, 4. Latin America. ",
+      "Overall across the Year, EMEA mostly maintained the highest Gate revenues in billion U.S. dollars when compared to others with a mean value of 16.76, and it peaked at 2015.",
+      "Followed by North America which ranks as the second topmpost line , with an average of 16.0 Gate revenues in billion U.S. dollars,reaching its highest point  at 2015 with a value of 17.8. ",
+      "The botommost line, Latin America,  has a mean of 1.79, and peaked at 2014. ",
+      "Latin America reported the lowest Gate revenues in billion U.S. dollars about 1.62 in Year 2006"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "9",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "9",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "North America": "17.84",
+         "EMEA": "18.31",
+         "Asia Pacific": "6.59",
+         "Latin America": "2.01"
+      },
+      {
+         "Year": "2014",
+         "North America": "17.21",
+         "EMEA": "17.78",
+         "Asia Pacific": "6.19",
+         "Latin America": "2.36"
+      },
+      {
+         "Year": "2013",
+         "North America": "16.63",
+         "EMEA": "16.96",
+         "Asia Pacific": "5.91",
+         "Latin America": "1.81"
+      },
+      {
+         "Year": "2012",
+         "North America": "15.86",
+         "EMEA": "17.26",
+         "Asia Pacific": "5.74",
+         "Latin America": "1.75"
+      },
+      {
+         "Year": "2011",
+         "North America": "15.33",
+         "EMEA": "16.1",
+         "Asia Pacific": "5.89",
+         "Latin America": "1.72"
+      },
+      {
+         "Year": "2010",
+         "North America": "15.71",
+         "EMEA": "16.54",
+         "Asia Pacific": "5.68",
+         "Latin America": "1.64"
+      },
+      {
+         "Year": "2009",
+         "North America": "15.55",
+         "EMEA": "16.13",
+         "Asia Pacific": "5.56",
+         "Latin America": "1.63"
+      },
+      {
+         "Year": "2008",
+         "North America": "15.98",
+         "EMEA": "16.54",
+         "Asia Pacific": "5.81",
+         "Latin America": "1.67"
+      },
+      {
+         "Year": "2007",
+         "North America": "15.6",
+         "EMEA": "16.03",
+         "Asia Pacific": "5.06",
+         "Latin America": "1.7"
+      },
+      {
+         "Year": "2006",
+         "North America": "14.51",
+         "EMEA": "15.95",
+         "Asia Pacific": "4.97",
+         "Latin America": "1.62"
+      }
+   ]
+}

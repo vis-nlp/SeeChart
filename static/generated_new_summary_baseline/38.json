@@ -1,0 +1,122 @@
+{
+   "title": "Murder in the U.S. : number of victims by race/ethnicity and gender 2018",
+   "labels": [
+      "Race",
+      "Total",
+      "Male",
+      "Female",
+      "Unknown"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Number of victims on the Y-axis for 8 different Races for 4 groups Total, Male, Female, and Unknown that are presented on the X-axis. ",
+      " Race Total had the maximum Number of victims among all 4 groups, and it was for Total. The minimum Number of victims was observed in Race Hispanic or Latino for Unknown. ",
+      "Race Total and Unknown race had the biggest gap of 3121.0 between the highest and lowest Number of victims found for Female. ",
+      "Averaging all 4 groups Total, Male, Female, and Unknown, the Race Total is the maximum Number of victims and Unknown race is the minimum Number of victims. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "Number of victims",
+   "min_summary": [
+      "This grouped bar chart shows Number of victims on the Y-axis for 8 different Races for 4 groups Total, Male, Female, and Unknown that are presented on the X-axis. ",
+      " For Race Total, Total had the highest Number of victims 14123.0 among the 4 groups and in Hispanic or Latino, Unknown had the lowest Number of victims 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of victims on the Y-axis for 8 different Races for 4 groups Total, Male, Female, and Unknown that are presented on the X-axis. ",
+      " Race Total had the maximum Number of victims among all 4 groups, and it was for Total. The minimum Number of victims was observed in Race Hispanic or Latino for Unknown. ",
+      "Race Total and Unknown race had the biggest gap of 3121.0 between the highest and lowest Number of victims found for Female. ",
+      "Averaging all 4 groups Total, Male, Female, and Unknown, the Race Total is the maximum Number of victims and Unknown race is the minimum Number of victims. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 8 different Races on X-axis for 4 groups Total, Male, Female, and Unknown. On the Y-axis it shows their corresponding Number of victims. ",
+      " Out of all 4 groups, Total had the highest Number of victims for Race Total and Unknown had the lowest Number of victims for Race Hispanic or Latino. ",
+      " Among all the Races, Female had the highest Number of victims 3180.0 in Race Total and lowest value 59.0 in Race Unknown race. ",
+      " The maximum Number of victims for Female that was found in Race Total was 53.9 times larger than the minimum Number of victims observed in Race Unknown race. ",
+      " Among all 4 groups, Total had the gap of 13890.0 between the maximum and minimum Number of victims observed in Race Total and Unknown race respectively. ",
+      " In case of Race Total, Total had the highest Number of victims 14123.0 among the 4 groups and in Hispanic or Latino, Unknown had the lowest Number of victims 0.0. The second highest Number of victims 3180.0 was observed for Total in Race Total. ",
+      "Averaging all 4 groups Total, Male, Female, and Unknown, the Race Total is the maximum Number of victims and Unknown race is the minimum Number of victims. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "6"
+         ],
+         "14": [
+            "4",
+            "6"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "Total",
+         "Total": "14123",
+         "Male": "10914",
+         "Female": "3180",
+         "Unknown": "29"
+      },
+      {
+         "Race": "White",
+         "Total": "6088",
+         "Male": "4255",
+         "Female": "1832",
+         "Unknown": "1"
+      },
+      {
+         "Race": "Black",
+         "Total": "7407",
+         "Male": "6237",
+         "Female": "1168",
+         "Unknown": "2"
+      },
+      {
+         "Race": "Other race",
+         "Total": "395",
+         "Male": "273",
+         "Female": "121",
+         "Unknown": "1"
+      },
+      {
+         "Race": "Unknown race",
+         "Total": "233",
+         "Male": "149",
+         "Female": "59",
+         "Unknown": "25"
+      },
+      {
+         "Race": "Hispanic or Latino",
+         "Total": "2173",
+         "Male": "1752",
+         "Female": "421",
+         "Unknown": "0"
+      },
+      {
+         "Race": "Not Hispanic or Latino",
+         "Total": "9066",
+         "Male": "7005",
+         "Female": "2058",
+         "Unknown": "3"
+      },
+      {
+         "Race": "Unknown",
+         "Total": "1840",
+         "Male": "1371",
+         "Female": "450",
+         "Unknown": "19"
+      }
+   ]
+}

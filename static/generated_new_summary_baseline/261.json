@@ -1,0 +1,153 @@
+{
+   "title": "U.S. - Infant mortality rate 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Infant mortality rate per thousand live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Infant mortality rate per thousand live births. In total the number of data points it has is 29.",
+      " Overall Infant mortality rate per thousand live births has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 1990 and 1991.",
+      "The highest Infant mortality rate per thousand live births, of value 9.4 was reached at Year 1990",
+      "Minimum Infant mortality rate per thousand live births about 5.6 was reached at Year 2018"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Infant mortality rate per thousand live births. In total the number of data points it has is 29.",
+      " Overall Infant mortality rate per thousand live births has decreased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Infant mortality rate per thousand live births. In total the number of data points it has is 29.",
+      " Overall Infant mortality rate per thousand live births has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 1990 and 1991.",
+      "The highest Infant mortality rate per thousand live births, of value 9.4 was reached at Year 1990",
+      "Minimum Infant mortality rate per thousand live births about 5.6 was reached at Year 2018"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Infant mortality rate per thousand live births, containing a total of 29 data points.",
+      " In general Infant mortality rate per thousand live births has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 1990 and 1991.",
+      "The highest Infant mortality rate per thousand live births, of value 9.4 was reached at Year 1990",
+      "Minimum Infant mortality rate per thousand live births about 5.6 was reached at Year 2018",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Infant mortality rate per thousand live births": 5.6
+      },
+      {
+         "Year": "2017",
+         "Infant mortality rate per thousand live births": 5.7
+      },
+      {
+         "Year": "2016",
+         "Infant mortality rate per thousand live births": 5.7
+      },
+      {
+         "Year": "2015",
+         "Infant mortality rate per thousand live births": 5.8
+      },
+      {
+         "Year": "2014",
+         "Infant mortality rate per thousand live births": 5.9
+      },
+      {
+         "Year": "2013",
+         "Infant mortality rate per thousand live births": 6.0
+      },
+      {
+         "Year": "2012",
+         "Infant mortality rate per thousand live births": 6.1
+      },
+      {
+         "Year": "2011",
+         "Infant mortality rate per thousand live births": 6.1
+      },
+      {
+         "Year": "2010",
+         "Infant mortality rate per thousand live births": 6.2
+      },
+      {
+         "Year": "2009",
+         "Infant mortality rate per thousand live births": 6.4
+      },
+      {
+         "Year": "2008",
+         "Infant mortality rate per thousand live births": 6.5
+      },
+      {
+         "Year": "2007",
+         "Infant mortality rate per thousand live births": 6.6
+      },
+      {
+         "Year": "2006",
+         "Infant mortality rate per thousand live births": 6.7
+      },
+      {
+         "Year": "2005",
+         "Infant mortality rate per thousand live births": 6.8
+      },
+      {
+         "Year": "2004",
+         "Infant mortality rate per thousand live births": 6.9
+      },
+      {
+         "Year": "2003",
+         "Infant mortality rate per thousand live births": 6.9
+      },
+      {
+         "Year": "2002",
+         "Infant mortality rate per thousand live births": 6.9
+      },
+      {
+         "Year": "2001",
+         "Infant mortality rate per thousand live births": 7.0
+      },
+      {
+         "Year": "2000",
+         "Infant mortality rate per thousand live births": 7.1
+      },
+      {
+         "Year": "1999",
+         "Infant mortality rate per thousand live births": 7.2
+      },
+      {
+         "Year": "1998",
+         "Infant mortality rate per thousand live births": 7.3
+      },
+      {
+         "Year": "1997",
+         "Infant mortality rate per thousand live births": 7.5
+      },
+      {
+         "Year": "1996",
+         "Infant mortality rate per thousand live births": 7.7
+      },
+      {
+         "Year": "1995",
+         "Infant mortality rate per thousand live births": 8.0
+      },
+      {
+         "Year": "1994",
+         "Infant mortality rate per thousand live births": 8.2
+      },
+      {
+         "Year": "1993",
+         "Infant mortality rate per thousand live births": 8.5
+      },
+      {
+         "Year": "1992",
+         "Infant mortality rate per thousand live births": 8.8
+      },
+      {
+         "Year": "1991",
+         "Infant mortality rate per thousand live births": 9.1
+      },
+      {
+         "Year": "1990",
+         "Infant mortality rate per thousand live births": 9.4
+      }
+   ]
+}

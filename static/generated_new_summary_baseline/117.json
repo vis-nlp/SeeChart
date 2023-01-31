@@ -1,0 +1,112 @@
+{
+   "title": "Coal - global proved reserves by type 2010 to 2018",
+   "labels": [
+      "Year",
+      "Anthracite and bituminous",
+      "Sub-bituminous and lignite"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Anthracite and bituminous, and Sub-bituminous and lignite. The y axis indicates the Reserves in million metric tons and the x axis indicates Year.",
+      "Overall Anthracite and bituminous is gradually increasing, Sub-bituminous and lignite is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Anthracite and bituminous, and lastly, 2. Sub-bituminous and lignite. ",
+      "Throughout the period, Anthracite and bituminous generally had the highest Reserves in million metric tons relative to others with an average of 552768.0, and it reached its maximum at 2016 with a value of 816214.0.",
+      "The botommost line, Sub-bituminous and lignite,  has a mean of 408736.0, and peaked at 2014. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Reserves in million metric tons",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing Anthracite and bituminous, and Sub-bituminous and lignite. The y axis denotes Reserves in million metric tons and the x axis denotes Year.",
+      "Overall Anthracite and bituminous is gradually increasing, Sub-bituminous and lignite is gradually decreasing,  throughout the Year",
+      "Throughout the period, Anthracite and bituminous generally had the highest Reserves in million metric tons relative to others with an average of 552768.0, and it reached its maximum at 2016 with a value of 816214.0.",
+      "Sub-bituminous and lignite mostly had the least Reserves in million metric tons with a mean value of 408736.0, which peaked at 2014 with a value of 488332.0. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Anthracite and bituminous, and Sub-bituminous and lignite. The y axis indicates the Reserves in million metric tons and the x axis indicates Year.",
+      "Overall Anthracite and bituminous is gradually increasing, Sub-bituminous and lignite is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Anthracite and bituminous, and lastly, 2. Sub-bituminous and lignite. ",
+      "Throughout the period, Anthracite and bituminous generally had the highest Reserves in million metric tons relative to others with an average of 552768.0, and it reached its maximum at 2016 with a value of 816214.0.",
+      "The botommost line, Sub-bituminous and lignite,  has a mean of 408736.0, and peaked at 2014. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Anthracite and bituminous, and Sub-bituminous and lignite. The y axis indicates the Reserves in million metric tons and the x axis indicates Year.",
+      "Overall Anthracite and bituminous is gradually increasing, Sub-bituminous and lignite is gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Reserves in million metric tons in descending order is: 1. Anthracite and bituminous, and lastly, 2. Sub-bituminous and lignite. ",
+      "Overall across the Year, Anthracite and bituminous mostly maintained the highest Reserves in million metric tons when compared to others with a mean value of 552768.0, and it peaked at 2016.",
+      "Sub-bituminous and lignite mostly had the least Reserves in million metric tons with a mean value of 408736.0, which peaked at 2014 with a value of 488332.0. ",
+      "Sub-bituminous and lignite reported the lowest Reserves in million metric tons about 319879.0 in Year 2018",
+      "The difference of Reserves in million metric tons between Anthracite and bituminous and Sub-bituminous and lignite is greater at Year 2018 compared to the Year 2010."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "0"
+         ],
+         "9": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "1"
+         ],
+         "10": [
+            "2",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Anthracite and bituminous": "404762",
+         "Sub-bituminous and lignite": "456176"
+      },
+      {
+         "Year": "2012",
+         "Anthracite and bituminous": "404762",
+         "Sub-bituminous and lignite": "456176"
+      },
+      {
+         "Year": "2014",
+         "Anthracite and bituminous": "403199",
+         "Sub-bituminous and lignite": "488332"
+      },
+      {
+         "Year": "2016",
+         "Anthracite and bituminous": "816214",
+         "Sub-bituminous and lignite": "323117"
+      },
+      {
+         "Year": "2018",
+         "Anthracite and bituminous": "734903",
+         "Sub-bituminous and lignite": "319879"
+      }
+   ]
+}

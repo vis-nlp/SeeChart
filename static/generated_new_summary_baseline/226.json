@@ -1,0 +1,204 @@
+{
+   "title": "Gross domestic product ( GDP ) in Sudan 2024",
+   "xAxis": "Year",
+   "yAxis": "Gross domestic product in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross domestic product in billion U.S. dollars. In total the number of data points it has is 41.",
+      " In general Gross domestic product in billion U.S. dollars has rose over the Year.",
+      "The most drastic decrease took place within the Year 2011 and 2012.",
+      "Maximum Gross domestic product in billion U.S. dollars, about 66.45 was reported at Year 2011",
+      "Minimum Gross domestic product in billion U.S. dollars about 2.25 was reached at Year 1990"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross domestic product in billion U.S. dollars. In total the number of data points it has is 41.",
+      " In general Gross domestic product in billion U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross domestic product in billion U.S. dollars. In total the number of data points it has is 41.",
+      " In general Gross domestic product in billion U.S. dollars has rose over the Year.",
+      "The most drastic decrease took place within the Year 2011 and 2012.",
+      "Maximum Gross domestic product in billion U.S. dollars, about 66.45 was reported at Year 2011",
+      "Minimum Gross domestic product in billion U.S. dollars about 2.25 was reached at Year 1990"
+   ],
+   "max_summary": [
+      "The chart generally has many fluctuations.",
+      "The chart generally has many fluctuations.",
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 41 data points.",
+      " In general Gross domestic product in billion U.S. dollars has rose over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The most drastic decrease took place within the Year 2011 and 2012.",
+      "Maximum Gross domestic product in billion U.S. dollars, about 66.45 was reported at Year 2011",
+      "Minimum Gross domestic product in billion U.S. dollars about 2.25 was reached at Year 1990",
+      "The line rapidly increased by 76.44% from Year 1988 to 1989, and lastly, decreased by 86.65% from Year 1989 to 1990."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "Gross domestic product in billion U.S. dollars": 35.48
+      },
+      {
+         "Year": "2023",
+         "Gross domestic product in billion U.S. dollars": 34.89
+      },
+      {
+         "Year": "2022",
+         "Gross domestic product in billion U.S. dollars": 34.34
+      },
+      {
+         "Year": "2021",
+         "Gross domestic product in billion U.S. dollars": 33.93
+      },
+      {
+         "Year": "2020",
+         "Gross domestic product in billion U.S. dollars": 33.69
+      },
+      {
+         "Year": "2019",
+         "Gross domestic product in billion U.S. dollars": 30.87
+      },
+      {
+         "Year": "2018",
+         "Gross domestic product in billion U.S. dollars": 34.28
+      },
+      {
+         "Year": "2017",
+         "Gross domestic product in billion U.S. dollars": 45.94
+      },
+      {
+         "Year": "2016",
+         "Gross domestic product in billion U.S. dollars": 55.56
+      },
+      {
+         "Year": "2015",
+         "Gross domestic product in billion U.S. dollars": 65.27
+      },
+      {
+         "Year": "2014",
+         "Gross domestic product in billion U.S. dollars": 60.73
+      },
+      {
+         "Year": "2013",
+         "Gross domestic product in billion U.S. dollars": 52.89
+      },
+      {
+         "Year": "2012",
+         "Gross domestic product in billion U.S. dollars": 48.95
+      },
+      {
+         "Year": "2011",
+         "Gross domestic product in billion U.S. dollars": 66.45
+      },
+      {
+         "Year": "2010",
+         "Gross domestic product in billion U.S. dollars": 65.72
+      },
+      {
+         "Year": "2009",
+         "Gross domestic product in billion U.S. dollars": 54.81
+      },
+      {
+         "Year": "2008",
+         "Gross domestic product in billion U.S. dollars": 64.83
+      },
+      {
+         "Year": "2007",
+         "Gross domestic product in billion U.S. dollars": 59.44
+      },
+      {
+         "Year": "2006",
+         "Gross domestic product in billion U.S. dollars": 45.26
+      },
+      {
+         "Year": "2005",
+         "Gross domestic product in billion U.S. dollars": 35.18
+      },
+      {
+         "Year": "2004",
+         "Gross domestic product in billion U.S. dollars": 26.65
+      },
+      {
+         "Year": "2003",
+         "Gross domestic product in billion U.S. dollars": 21.36
+      },
+      {
+         "Year": "2002",
+         "Gross domestic product in billion U.S. dollars": 18.14
+      },
+      {
+         "Year": "2001",
+         "Gross domestic product in billion U.S. dollars": 15.72
+      },
+      {
+         "Year": "2000",
+         "Gross domestic product in billion U.S. dollars": 13.13
+      },
+      {
+         "Year": "1999",
+         "Gross domestic product in billion U.S. dollars": 10.71
+      },
+      {
+         "Year": "1998",
+         "Gross domestic product in billion U.S. dollars": 10.92
+      },
+      {
+         "Year": "1997",
+         "Gross domestic product in billion U.S. dollars": 10.24
+      },
+      {
+         "Year": "1996",
+         "Gross domestic product in billion U.S. dollars": 8.38
+      },
+      {
+         "Year": "1995",
+         "Gross domestic product in billion U.S. dollars": 6.69
+      },
+      {
+         "Year": "1994",
+         "Gross domestic product in billion U.S. dollars": 5.96
+      },
+      {
+         "Year": "1993",
+         "Gross domestic product in billion U.S. dollars": 5.25
+      },
+      {
+         "Year": "1992",
+         "Gross domestic product in billion U.S. dollars": 3.1
+      },
+      {
+         "Year": "1991",
+         "Gross domestic product in billion U.S. dollars": 2.53
+      },
+      {
+         "Year": "1990",
+         "Gross domestic product in billion U.S. dollars": 2.25
+      },
+      {
+         "Year": "1989",
+         "Gross domestic product in billion U.S. dollars": 16.85
+      },
+      {
+         "Year": "1988",
+         "Gross domestic product in billion U.S. dollars": 9.55
+      },
+      {
+         "Year": "1987",
+         "Gross domestic product in billion U.S. dollars": 11.96
+      },
+      {
+         "Year": "1986",
+         "Gross domestic product in billion U.S. dollars": 7.4
+      },
+      {
+         "Year": "1985",
+         "Gross domestic product in billion U.S. dollars": 5.55
+      },
+      {
+         "Year": "1984",
+         "Gross domestic product in billion U.S. dollars": 7.99
+      }
+   ]
+}

@@ -1,0 +1,157 @@
+{
+   "title": "Age structure in Ethiopia 2018",
+   "labels": [
+      "Year",
+      "0-14 years",
+      "15-64 years",
+      "65 years and older"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 3 lines representing 0-14 years, 15-64 years, and 65 years and older. The y axis denotes Share of total population and the x axis denotes Year.",
+      "Overall 15-64 years is gradually increasing, 0-14 years is gradually decreasing, 65 years and older is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of total population in descending order is: 1. 15-64 years, 2. 0-14 years, and lastly, 3. 65 years and older. ",
+      "Throughout the period, 15-64 years generally had the highest Share of total population relative to others with an average of 53.32, and it reached its maximum at 2018 with a value of 55.72.",
+      "Followed by 0-14 years which ranks as the second topmpost line , with an average of 43.3 Share of total population,reaching its highest point  at 2008 with a value of 45.7. ",
+      "65 years and older mostly had the least Share of total population with a mean value of 3.38, which peaked at 2018 with a value of 3.5. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of total population",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely 0-14 years, 15-64 years, and 65 years and older. The y axis represents Share of total population and the x axis represents Year.",
+      "Overall 15-64 years is gradually increasing, 0-14 years is gradually decreasing, 65 years and older is roughly constant,  throughout the Year",
+      "Overall across the Year, 15-64 years mostly maintained the highest Share of total population when compared to others with a mean value of 53.32, and it peaked at 2018.",
+      "Followed by 0-14 years which ranks as the second topmpost line , with an average of 43.3 Share of total population,reaching its highest point  at 2008 with a value of 45.7. ",
+      "65 years and older mostly had the least Share of total population with a mean value of 3.38, which peaked at 2018 with a value of 3.5. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 3 lines representing 0-14 years, 15-64 years, and 65 years and older. The y axis denotes Share of total population and the x axis denotes Year.",
+      "Overall 15-64 years is gradually increasing, 0-14 years is gradually decreasing, 65 years and older is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of total population in descending order is: 1. 15-64 years, 2. 0-14 years, and lastly, 3. 65 years and older. ",
+      "Throughout the period, 15-64 years generally had the highest Share of total population relative to others with an average of 53.32, and it reached its maximum at 2018 with a value of 55.72.",
+      "Followed by 0-14 years which ranks as the second topmpost line , with an average of 43.3 Share of total population,reaching its highest point  at 2008 with a value of 45.7. ",
+      "65 years and older mostly had the least Share of total population with a mean value of 3.38, which peaked at 2018 with a value of 3.5. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting 0-14 years, 15-64 years, and 65 years and older. The y axis indicates the Share of total population and the x axis indicates Year.",
+      "Overall 15-64 years is gradually increasing, 0-14 years is gradually decreasing, 65 years and older is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of total population in descending order is: 1. 15-64 years, 2. 0-14 years, and lastly, 3. 65 years and older. ",
+      "Overall across the Year, 15-64 years mostly maintained the highest Share of total population when compared to others with a mean value of 53.32, and it peaked at 2018.",
+      "After 15-64 years, 0-14 years overall has the second highest values , with a mean value of 43.3, peaking at 2008. ",
+      "65 years and older mostly had the least Share of total population with a mean value of 3.38, which peaked at 2018 with a value of 3.5. ",
+      "65 years and older reported the lowest Share of total population about 3.22 in Year 2008"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "0"
+         ],
+         "10": [
+            "10",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "0-14 years": "40.78",
+         "15-64 years": "55.72",
+         "65 years and older": "3.5"
+      },
+      {
+         "Year": "2017",
+         "0-14 years": "41.25",
+         "15-64 years": "55.26",
+         "65 years and older": "3.49"
+      },
+      {
+         "Year": "2016",
+         "0-14 years": "41.72",
+         "15-64 years": "54.81",
+         "65 years and older": "3.47"
+      },
+      {
+         "Year": "2015",
+         "0-14 years": "42.18",
+         "15-64 years": "54.37",
+         "65 years and older": "3.45"
+      },
+      {
+         "Year": "2014",
+         "0-14 years": "42.74",
+         "15-64 years": "53.83",
+         "65 years and older": "3.43"
+      },
+      {
+         "Year": "2013",
+         "0-14 years": "43.3",
+         "15-64 years": "53.3",
+         "65 years and older": "3.4"
+      },
+      {
+         "Year": "2012",
+         "0-14 years": "43.86",
+         "15-64 years": "52.77",
+         "65 years and older": "3.37"
+      },
+      {
+         "Year": "2011",
+         "0-14 years": "44.41",
+         "15-64 years": "52.26",
+         "65 years and older": "3.34"
+      },
+      {
+         "Year": "2010",
+         "0-14 years": "44.93",
+         "15-64 years": "51.77",
+         "65 years and older": "3.3"
+      },
+      {
+         "Year": "2009",
+         "0-14 years": "45.37",
+         "15-64 years": "51.37",
+         "65 years and older": "3.26"
+      },
+      {
+         "Year": "2008",
+         "0-14 years": "45.75",
+         "15-64 years": "51.02",
+         "65 years and older": "3.22"
+      }
+   ]
+}

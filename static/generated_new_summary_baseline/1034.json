@@ -1,0 +1,85 @@
+{
+   "title": "Smartphone users in Canada 2013 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Smartphone users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Smartphone users in millions. In total the number of data points it has is 11.",
+      " In general Smartphone users in millions has rose over the Year.",
+      "Smartphone users in millions is slightly increasing from 2013 to 2018, and finally roughly constant from 2018 to 2023.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Smartphone users in millions, of value 30.4 was reached at Year 2023",
+      "The lowest Smartphone users in millions, of value 15.2 was reported at Year 2013"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Smartphone users in millions, containing a total of 11 data points.",
+      " Overall Smartphone users in millions has increased over the Year.",
+      "Smartphone users in millions is slightly increasing from 2013 to 2018, and finally roughly constant from 2018 to 2023."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Smartphone users in millions. In total the number of data points it has is 11.",
+      " In general Smartphone users in millions has rose over the Year.",
+      "Smartphone users in millions is slightly increasing from 2013 to 2018, and finally roughly constant from 2018 to 2023.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Smartphone users in millions, of value 30.4 was reached at Year 2023",
+      "The lowest Smartphone users in millions, of value 15.2 was reported at Year 2013"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Smartphone users in millions. In total the number of data points it has is 11.",
+      " Overall Smartphone users in millions has increased over the Year.",
+      "Smartphone users in millions is slightly increasing from 2013 to 2018, and finally roughly constant from 2018 to 2023.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Smartphone users in millions, of value 30.4 was reached at Year 2023",
+      "The lowest Smartphone users in millions, of value 15.2 was reported at Year 2013",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2023",
+         "Smartphone users in millions": 30.4
+      },
+      {
+         "Year": "2022",
+         "Smartphone users in millions": 29.6
+      },
+      {
+         "Year": "2021",
+         "Smartphone users in millions": 28.7
+      },
+      {
+         "Year": "2020",
+         "Smartphone users in millions": 27.7
+      },
+      {
+         "Year": "2019",
+         "Smartphone users in millions": 26.6
+      },
+      {
+         "Year": "2018",
+         "Smartphone users in millions": 25.4
+      },
+      {
+         "Year": "2017",
+         "Smartphone users in millions": 24.1
+      },
+      {
+         "Year": "2016",
+         "Smartphone users in millions": 22.63
+      },
+      {
+         "Year": "2015",
+         "Smartphone users in millions": 21.09
+      },
+      {
+         "Year": "2014",
+         "Smartphone users in millions": 18.0
+      },
+      {
+         "Year": "2013",
+         "Smartphone users in millions": 15.2
+      }
+   ]
+}

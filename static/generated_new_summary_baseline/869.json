@@ -1,0 +1,89 @@
+{
+   "title": "Average ticket price of the New Orleans Saints 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 13.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest Average ticket price in U.S. dollars, of value 97.72 was reached at Year 2019",
+      "The lowest Average ticket price in U.S. dollars, of value 54.86 was reported at Year 2006, and 2007"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 13.",
+      " In general Average ticket price in U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 13.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest Average ticket price in U.S. dollars, of value 97.72 was reached at Year 2019",
+      "The lowest Average ticket price in U.S. dollars, of value 54.86 was reported at Year 2006, and 2007"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 13.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Average ticket price in U.S. dollars, of value 97.72 was reached at Year 2019",
+      "The lowest Average ticket price in U.S. dollars, of value 54.86 was reported at Year 2006, and 2007",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": 97.72
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": 90.14
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": 91.25
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": 84.87
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": 84.87
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": 74.99
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": 74.99
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": 74.99
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": 74.99
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": 62.22
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": 62.22
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": 54.86
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": 54.86
+      }
+   ]
+}

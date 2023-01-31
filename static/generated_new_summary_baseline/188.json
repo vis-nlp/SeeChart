@@ -1,0 +1,85 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Finland 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2015, gradually increasing from 2015 to 2016, and lastly roughly constant from 2016 to 2024.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum GDP growth compared to previous year, about 3.04 was reported at Year 2017",
+      "The lowest GDP growth compared to previous year, of value 0.5 was reported at Year 2015"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2015, gradually increasing from 2015 to 2016, and lastly roughly constant from 2016 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2015, gradually increasing from 2015 to 2016, and lastly roughly constant from 2016 to 2024.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum GDP growth compared to previous year, about 3.04 was reported at Year 2017",
+      "The lowest GDP growth compared to previous year, of value 0.5 was reported at Year 2015"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth compared to previous year has rose over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2015, gradually increasing from 2015 to 2016, and lastly roughly constant from 2016 to 2024.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum GDP growth compared to previous year, about 3.04 was reported at Year 2017",
+      "The lowest GDP growth compared to previous year, of value 0.5 was reported at Year 2015",
+      "The line significantly increased by 2.27 from Year 2015 to 2016."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 1.35
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 1.34
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 1.39
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 1.47
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 1.47
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 1.24
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 1.66
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 3.04
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 2.77
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 0.5
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 0.63
+      }
+   ]
+}

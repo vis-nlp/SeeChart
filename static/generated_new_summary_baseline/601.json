@@ -1,0 +1,133 @@
+{
+   "title": "Household rent to income ratio in the United Kingdom ( UK ) 2018 - 2019 , by region",
+   "labels": [
+      "Region",
+      "Oct' 18",
+      "Oct '19"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Rent to income ratio on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
+      " Region London had the maximum Rent to income ratio among all 2 groups, and it was for Oct' 18. The minimum Rent to income ratio was observed in Region Yorkshire & Humber for Oct' 18. ",
+      " There is a gap of 340.0 between the highest and lowest Rent to income ratio found for Oct' 18 in Region London and Yorkshire & Humber. ",
+      "On average, the Region London had the highest Rent to income ratio for all 2 groups Oct' 18, and Oct '19. Whereas North East had the lowest average Rent to income ratio. "
+   ],
+   "xAxis": "Region",
+   "yAxis": "Rent to income ratio",
+   "min_summary": [
+      "This grouped bar chart shows Rent to income ratio on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
+      " For Region London, Oct' 18 had the highest Rent to income ratio 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest Rent to income ratio 26.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Rent to income ratio on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
+      " Region London had the maximum Rent to income ratio among all 2 groups, and it was for Oct' 18. The minimum Rent to income ratio was observed in Region Yorkshire & Humber for Oct' 18. ",
+      " There is a gap of 340.0 between the highest and lowest Rent to income ratio found for Oct' 18 in Region London and Yorkshire & Humber. ",
+      "On average, the Region London had the highest Rent to income ratio for all 2 groups Oct' 18, and Oct '19. Whereas North East had the lowest average Rent to income ratio. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding Rent to income ratio. ",
+      " Out of all 2 groups, Oct' 18 had the highest Rent to income ratio for Region London and Oct' 18 had the lowest Rent to income ratio for Region Yorkshire & Humber. ",
+      " For Region London, Oct' 18 had the maximum Rent to income ratio and it saw the lowest in Region Yorkshire & Humber out of all 14 Regions. ",
+      " There is a gap of 340.0 between the highest and lowest Rent to income ratio found for Oct' 18 in Region London and Yorkshire & Humber. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Rent to income ratio was found in case of Oct' 18. ",
+      "Averaging all 2 groups Oct' 18, and Oct '19, the Region London is the maximum Rent to income ratio and North East is the minimum Rent to income ratio. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "London",
+         "Oct' 18": "36.6",
+         "Oct '19": "35.6"
+      },
+      {
+         "Region": "South West",
+         "Oct' 18": "32.8",
+         "Oct '19": "31.5"
+      },
+      {
+         "Region": "South East",
+         "Oct' 18": "31.6",
+         "Oct '19": "31.6"
+      },
+      {
+         "Region": "UK Average",
+         "Oct' 18": "31",
+         "Oct '19": "30.6"
+      },
+      {
+         "Region": "East England",
+         "Oct' 18": "30.3",
+         "Oct '19": "30.3"
+      },
+      {
+         "Region": "UK Average (Excluding London)",
+         "Oct' 18": "29.4",
+         "Oct '19": "29.2"
+      },
+      {
+         "Region": "Wales",
+         "Oct' 18": "29",
+         "Oct '19": "29.3"
+      },
+      {
+         "Region": "East Midlands",
+         "Oct' 18": "28.7",
+         "Oct '19": "28.8"
+      },
+      {
+         "Region": "North West",
+         "Oct' 18": "28.6",
+         "Oct '19": "27.1"
+      },
+      {
+         "Region": "West Midlands",
+         "Oct' 18": "28.5",
+         "Oct '19": "29.2"
+      },
+      {
+         "Region": "Scotland",
+         "Oct' 18": "27.5",
+         "Oct '19": "27"
+      },
+      {
+         "Region": "Northern Ireland",
+         "Oct' 18": "26.6",
+         "Oct '19": "25.9"
+      },
+      {
+         "Region": "Yorkshire & Humber",
+         "Oct' 18": "26",
+         "Oct '19": "26.3"
+      },
+      {
+         "Region": "North East",
+         "Oct' 18": "24.4",
+         "Oct '19": "23.7"
+      }
+   ]
+}

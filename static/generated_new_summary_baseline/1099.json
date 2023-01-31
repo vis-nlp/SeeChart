@@ -1,0 +1,156 @@
+{
+   "title": "National Hockey League - Florida Panthers home attendance 2005 to 2019",
+   "labels": [
+      "Year",
+      "Total attendance",
+      "Average attendance"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 2 lines namely Total attendance, and Average attendance. The y axis represents Home attendance and the x axis represents Year.",
+      "Overall Total attendance is gradually decreasing, Average attendance is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Total attendance, and lastly, 2. Average attendance. ",
+      "Throughout the period, Total attendance generally had the highest Home attendance relative to others with an average of 592771.79, and it reached its maximum at 2011/12 with a value of 681763.0.",
+      "Average attendance mostly had the least Home attendance with a mean value of 14960.64, which peaked at 2012/13 with a value of 16991.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Home attendance",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Total attendance, and Average attendance. The y axis indicates the Home attendance and the x axis indicates Year.",
+      "Overall Total attendance is gradually decreasing, Average attendance is roughly constant,  throughout the Year",
+      "Throughout the period, Total attendance generally had the highest Home attendance relative to others with an average of 592771.79, and it reached its maximum at 2011/12 with a value of 681763.0.",
+      "The botommost line, Average attendance,  has a mean of 14960.64, and peaked at 2012/13. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely Total attendance, and Average attendance. The y axis represents Home attendance and the x axis represents Year.",
+      "Overall Total attendance is gradually decreasing, Average attendance is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Total attendance, and lastly, 2. Average attendance. ",
+      "Throughout the period, Total attendance generally had the highest Home attendance relative to others with an average of 592771.79, and it reached its maximum at 2011/12 with a value of 681763.0.",
+      "Average attendance mostly had the least Home attendance with a mean value of 14960.64, which peaked at 2012/13 with a value of 16991.0. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Total attendance, and Average attendance. The y axis represents Home attendance and the x axis represents Year.",
+      "Overall Total attendance is gradually decreasing, Average attendance is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Total attendance, and lastly, 2. Average attendance. ",
+      "Throughout the period, Total attendance generally had the highest Home attendance relative to others with an average of 592771.79, and it reached its maximum at 2011/12 with a value of 681763.0.",
+      "Average attendance mostly had the least Home attendance with a mean value of 14960.64, which peaked at 2012/13 with a value of 16991.0. ",
+      "The greatest difference of Home attendance between Total attendance and Average attendance occurs at Year 2011/12 and the smallest difference occurs at 2012/13."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "13",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "7",
+            "0"
+         ],
+         "9": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "13",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "1"
+         ],
+         "10": [
+            "6",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Total attendance": "543734",
+         "Average attendance": "13261"
+      },
+      {
+         "Year": "2017/18",
+         "Total attendance": "567897",
+         "Average attendance": "13851"
+      },
+      {
+         "Year": "2016/17",
+         "Total attendance": "599447",
+         "Average attendance": "14620"
+      },
+      {
+         "Year": "2015/16",
+         "Total attendance": "630746",
+         "Average attendance": "15384"
+      },
+      {
+         "Year": "2014/15",
+         "Total attendance": "461877",
+         "Average attendance": "11265"
+      },
+      {
+         "Year": "2013/14",
+         "Total attendance": "581286",
+         "Average attendance": "14177"
+      },
+      {
+         "Year": "2012/13",
+         "Total attendance": "407806",
+         "Average attendance": "16991"
+      },
+      {
+         "Year": "2011/12",
+         "Total attendance": "681763",
+         "Average attendance": "16628"
+      },
+      {
+         "Year": "2010/11",
+         "Total attendance": "643116",
+         "Average attendance": "15685"
+      },
+      {
+         "Year": "2009/10",
+         "Total attendance": "620986",
+         "Average attendance": "15146"
+      },
+      {
+         "Year": "2008/09",
+         "Total attendance": "640496",
+         "Average attendance": "15621"
+      },
+      {
+         "Year": "2007/08",
+         "Total attendance": "632881",
+         "Average attendance": "15436"
+      },
+      {
+         "Year": "2006/07",
+         "Total attendance": "630183",
+         "Average attendance": "15370"
+      },
+      {
+         "Year": "2005/06",
+         "Total attendance": "656587",
+         "Average attendance": "16014"
+      }
+   ]
+}

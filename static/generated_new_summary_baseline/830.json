@@ -1,0 +1,81 @@
+{
+   "title": "Pork imports of selected countries worldwide 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Import volume in thousand metric tones",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Import volume in thousand metric tones in the y axis. ",
+      "The Import volume in thousand metric tones is highest at Country China and lowest at Country Canada. ",
+      "There is a difference of 3440.0 between the maximum Country China and minimum Country Canada. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Import volume in thousand metric tones in the y axis. ",
+      "The maximum Import volume in thousand metric tones 3700.0 is found at Country China and the minimum is found at Canada where Import volume in thousand metric tones is 260.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Import volume in thousand metric tones in the y axis. ",
+      "The Import volume in thousand metric tones is highest at Country China and lowest at Country Canada. ",
+      "There is a difference of 3440.0 between the maximum Country China and minimum Country Canada. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Import volume in thousand metric tones in the y axis. ",
+      "The Import volume in thousand metric tones is appeared to be the highest at Country China and lowest at Country Canada. ",
+      "Country  has the second highest value for Import volume in thousand metric tones. ",
+      "The difference of Import volume in thousand metric tones between the highest and lowest Country is 3440.0. ",
+      "Import volume in thousand metric tones at Country China is 3700.0 , second place is  at 3700.0, and thirdly is Japan at 1490.0.",
+      "Similar Import volume in thousand metric tones is found in Country Hong Kong, and Philippines. ",
+      "The Country Canada tends to be 3.34 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Import volume in thousand metric tones": 3700.0
+      },
+      {
+         "Country": "Japan",
+         "Import volume in thousand metric tones": 1490.0
+      },
+      {
+         "Country": "Mexico",
+         "Import volume in thousand metric tones": 1235.0
+      },
+      {
+         "Country": "Korea South",
+         "Import volume in thousand metric tones": 695.0
+      },
+      {
+         "Country": "United States",
+         "Import volume in thousand metric tones": 401.0
+      },
+      {
+         "Country": "Hong Kong",
+         "Import volume in thousand metric tones": 300.0
+      },
+      {
+         "Country": "Philippines",
+         "Import volume in thousand metric tones": 300.0
+      },
+      {
+         "Country": "Canada",
+         "Import volume in thousand metric tones": 260.0
+      },
+      {
+         "Country": "Others",
+         "Import volume in thousand metric tones": 1590.0
+      }
+   ]
+}

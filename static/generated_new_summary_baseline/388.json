@@ -1,0 +1,61 @@
+{
+   "title": "Mass shootings in the U.S. : legality of shooter 's weapons , as of February 2020",
+   "xAxis": "Category Of The Weapon",
+   "yAxis": "Number of incidents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 4 columns on the x axis representing Category Of The Weapon, and Number of incidents in each Category Of The Weapon on the y axis. ",
+      "The Number of incidents is appeared to be the highest at Category Of The Weapon Legally obtained and lowest at Category Of The Weapon Some weapons were legally obtained others possibly illegally. ",
+      "The difference of Number of incidents between the highest and lowest Category Of The Weapon is 81.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Category Of The Weapon in the x axis and Number of incidents in the y axis. ",
+      "The Number of incidents is appeared to be the highest at Category Of The Weapon Legally obtained and lowest at Category Of The Weapon Some weapons were legally obtained others possibly illegally. "
+   ],
+   "mid_summary": [
+      "This bar chart has 4 columns on the x axis representing Category Of The Weapon, and Number of incidents in each Category Of The Weapon on the y axis. ",
+      "The Number of incidents is appeared to be the highest at Category Of The Weapon Legally obtained and lowest at Category Of The Weapon Some weapons were legally obtained others possibly illegally. ",
+      "The difference of Number of incidents between the highest and lowest Category Of The Weapon is 81.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 4 columns on the x axis representing Category Of The Weapon, and Number of incidents in each Category Of The Weapon on the y axis. ",
+      "The Number of incidents is appeared to be the highest at Category Of The Weapon Legally obtained and lowest at Category Of The Weapon Some weapons were legally obtained others possibly illegally. ",
+      "The second highest Number of incidents is appeared to be the Category Of The Weapon . ",
+      "The difference of Number of incidents between the highest and lowest Category Of The Weapon is 81.0. ",
+      "Category Of The Weapon Legally obtained is higher than any other Category Of The Weapons with value 82.0, followed by , and Illegally obtained. Down to Category Of The Weapon Some weapons were legally obtained others possibly illegally with the lowest value 1.0. ",
+      "The Category Of The Weapon Some weapons were legally obtained others possibly illegally has 2.8 times less Number of incidents than average. ",
+      "Summing up the values of all Category Of The Weapons, we get total 117.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category Of The Weapon": "Legally obtained",
+         "Number of incidents": 82.0
+      },
+      {
+         "Category Of The Weapon": "Illegally obtained",
+         "Number of incidents": 16.0
+      },
+      {
+         "Category Of The Weapon": "Unknown/to be determined",
+         "Number of incidents": 18.0
+      },
+      {
+         "Category Of The Weapon": "Some weapons were legally obtained others possibly illegally",
+         "Number of incidents": 1.0
+      }
+   ]
+}

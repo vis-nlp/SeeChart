@@ -1,0 +1,60 @@
+{
+   "title": "Wearable technology market share in the United Kingdom ( UK ) 2014 , by product",
+   "xAxis": "Wearable technology products",
+   "yAxis": "Share of market",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 4 columns on the x axis representing Wearable technology products, and Share of market in each Wearable technology products on the y axis. ",
+      "The maximum Share of market 39.0 is found at Wearable technology products Health and fitness trackers and the minimum is found at Smart watches where Share of market is 11.0. ",
+      "The Share of market of Wearable technology products Smart watches is 3.55% smaller than the maximum value at Health and fitness trackers. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of market for 4 number of Wearable technology productss. ",
+      "The maximum Share of market 39.0 is found at Wearable technology products Health and fitness trackers and the minimum is found at Smart watches where Share of market is 11.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 4 columns on the x axis representing Wearable technology products, and Share of market in each Wearable technology products on the y axis. ",
+      "The maximum Share of market 39.0 is found at Wearable technology products Health and fitness trackers and the minimum is found at Smart watches where Share of market is 11.0. ",
+      "The Share of market of Wearable technology products Smart watches is 3.55% smaller than the maximum value at Health and fitness trackers. "
+   ],
+   "max_summary": [
+      "This bar chart has 4 columns on the x axis representing Wearable technology products, and Share of market in each Wearable technology products on the y axis. ",
+      "Wearable technology products Health and fitness trackers has the highest Share of market and Smart watches has the lowest Share of market. ",
+      "The difference of Share of market between the highest and lowest Wearable technology products is 28.0. ",
+      "The Wearable technology products Health and fitness trackers has the highest Share of market, followed by , and Action cameras headsets and glasses. Down to the Wearable technology products Smart watches which is the lowest. ",
+      "The Wearable technology products Smart watches has 1.56 times less Share of market than average. ",
+      "The Share of market is 100.0 if we add up values of all Wearable technology productss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Wearable technology products": "Health and fitness trackers",
+         "Share of market": 39.0
+      },
+      {
+         "Wearable technology products": "Wrist sport computers",
+         "Share of market": 26.0
+      },
+      {
+         "Wearable technology products": "Action cameras headsets and glasses",
+         "Share of market": 24.0
+      },
+      {
+         "Wearable technology products": "Smart watches",
+         "Share of market": 11.0
+      }
+   ]
+}

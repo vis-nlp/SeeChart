@@ -1,0 +1,81 @@
+{
+   "title": "Budget balance in Greece 2024",
+   "xAxis": "Year",
+   "yAxis": "Budget balance in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Budget balance in billion euros. In total the number of data points it has is 11.",
+      " In general Budget balance in billion euros has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "Maximum Budget balance in billion euros, about 7.27 was reported at Year 2014",
+      "The lowest Budget balance in billion euros, of value 0.59 was reported at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Budget balance in billion euros. In total the number of data points it has is 11.",
+      " In general Budget balance in billion euros has fallen over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Budget balance in billion euros. In total the number of data points it has is 11.",
+      " In general Budget balance in billion euros has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "Maximum Budget balance in billion euros, about 7.27 was reported at Year 2014",
+      "The lowest Budget balance in billion euros, of value 0.59 was reported at Year 2019"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Budget balance in billion euros. In total the number of data points it has is 11.",
+      " In general Budget balance in billion euros has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Maximum Budget balance in billion euros, about 7.27 was reported at Year 2014",
+      "The lowest Budget balance in billion euros, of value 0.59 was reported at Year 2019",
+      "The line drastically decreased by 5.0 times from Year 2015 to 2016,increased by 1.9 times from Year 2016 to 2017, and lastly, increased by 3.3 times from Year 2019 to 2020."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "Budget balance in billion euros": 3.59
+      },
+      {
+         "Year": "2023",
+         "Budget balance in billion euros": 2.98
+      },
+      {
+         "Year": "2022",
+         "Budget balance in billion euros": 2.42
+      },
+      {
+         "Year": "2021",
+         "Budget balance in billion euros": 2.18
+      },
+      {
+         "Year": "2020",
+         "Budget balance in billion euros": 1.97
+      },
+      {
+         "Year": "2019",
+         "Budget balance in billion euros": 0.59
+      },
+      {
+         "Year": "2018",
+         "Budget balance in billion euros": 1.77
+      },
+      {
+         "Year": "2017",
+         "Budget balance in billion euros": 1.91
+      },
+      {
+         "Year": "2016",
+         "Budget balance in billion euros": 0.98
+      },
+      {
+         "Year": "2015",
+         "Budget balance in billion euros": 4.91
+      },
+      {
+         "Year": "2014",
+         "Budget balance in billion euros": 7.27
+      }
+   ]
+}

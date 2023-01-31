@@ -1,0 +1,104 @@
+{
+   "title": "Value of the leading merchandise exporters worldwide 2018 , by exporting nation",
+   "xAxis": "Exporting nation",
+   "yAxis": "Export value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Export value in billion U.S. dollars for 15 number of Exporting nations. ",
+      "The Export value in billion U.S. dollars is highest at Exporting nation China and lowest at Exporting nation Kingdom of Saudi Arabia. ",
+      "The difference of Export value in billion U.S. dollars between the highest and lowest Exporting nation is 2188.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Export value in billion U.S. dollars for 15 number of Exporting nations. ",
+      "The maximum Export value in billion U.S. dollars 2487.0 is found at Exporting nation China and the minimum is found at Kingdom of Saudi Arabia where Export value in billion U.S. dollars is 299.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Export value in billion U.S. dollars for 15 number of Exporting nations. ",
+      "The Export value in billion U.S. dollars is highest at Exporting nation China and lowest at Exporting nation Kingdom of Saudi Arabia. ",
+      "The difference of Export value in billion U.S. dollars between the highest and lowest Exporting nation is 2188.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 15 columns on the x axis representing Exporting nation, and Export value in billion U.S. dollars in each Exporting nation on the y axis. ",
+      "The Export value in billion U.S. dollars is highest at Exporting nation China and lowest at Exporting nation Kingdom of Saudi Arabia. ",
+      "The difference of Export value in billion U.S. dollars between the highest and lowest Exporting nation is 2188.0. ",
+      "Exporting nation China is higher than any other Exporting nations with value 2487.0, followed by , and United States. Down to Exporting nation Kingdom of Saudi Arabia with the lowest value 299.0. ",
+      "The Exporting nation Kingdom of Saudi Arabia tends to be 3.18 percent lower than average. ",
+      "The Export value in billion U.S. dollars is 11748.0 if we add up values of all Exporting nations. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Exporting nation": "China",
+         "Export value in billion U.S. dollars": 2487.0
+      },
+      {
+         "Exporting nation": "Extra-EU (28)",
+         "Export value in billion U.S. dollars": 2309.0
+      },
+      {
+         "Exporting nation": "United States",
+         "Export value in billion U.S. dollars": 1664.0
+      },
+      {
+         "Exporting nation": "Japan",
+         "Export value in billion U.S. dollars": 738.0
+      },
+      {
+         "Exporting nation": "Republic of Korea",
+         "Export value in billion U.S. dollars": 605.0
+      },
+      {
+         "Exporting nation": "Hong Kong China",
+         "Export value in billion U.S. dollars": 569.0
+      },
+      {
+         "Exporting nation": "Mexico",
+         "Export value in billion U.S. dollars": 451.0
+      },
+      {
+         "Exporting nation": "Canada",
+         "Export value in billion U.S. dollars": 450.0
+      },
+      {
+         "Exporting nation": "Russian Federation",
+         "Export value in billion U.S. dollars": 444.0
+      },
+      {
+         "Exporting nation": "Singapore",
+         "Export value in billion U.S. dollars": 413.0
+      },
+      {
+         "Exporting nation": "United Arab Emirates",
+         "Export value in billion U.S. dollars": 346.0
+      },
+      {
+         "Exporting nation": "Chinese Taipei",
+         "Export value in billion U.S. dollars": 336.0
+      },
+      {
+         "Exporting nation": "India",
+         "Export value in billion U.S. dollars": 326.0
+      },
+      {
+         "Exporting nation": "Switzerland",
+         "Export value in billion U.S. dollars": 311.0
+      },
+      {
+         "Exporting nation": "Kingdom of Saudi Arabia",
+         "Export value in billion U.S. dollars": 299.0
+      }
+   ]
+}

@@ -1,0 +1,157 @@
+{
+   "title": "Unemployment rate in Belgium 2008 - 2018 , by region",
+   "labels": [
+      "Year",
+      "Flemish Region",
+      "Brussels-Capital Region",
+      "Walloon Region"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 3 lines representing Flemish Region, Brussels-Capital Region, and Walloon Region. The y axis denotes Employment rate and the x axis denotes Year.",
+      "Overall Brussels-Capital Region, and Walloon Region are gradually decreasing, Flemish Region is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Brussels-Capital Region, 2. Walloon Region, and lastly, 3. Flemish Region. ",
+      "Throughout the period, Brussels-Capital Region generally had the highest Employment rate relative to others with an average of 16.77, and it reached its maximum at 2013 with a value of 19.3.",
+      "Followed by Walloon Region which ranks as the second topmpost line , with an average of 10.6 Employment rate,reaching its highest point  at 2015 with a value of 12.0. ",
+      "The botommost line, Flemish Region,  has a mean of 4.65, and peaked at 2010, and 2015. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Employment rate",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely Flemish Region, Brussels-Capital Region, and Walloon Region. The y axis represents Employment rate and the x axis represents Year.",
+      "Overall Brussels-Capital Region, and Walloon Region are gradually decreasing, Flemish Region is roughly constant,  throughout the Year",
+      "Overall across the Year, Brussels-Capital Region mostly maintained the highest Employment rate when compared to others with a mean value of 16.77, and it peaked at 2013.",
+      "Followed by Walloon Region which ranks as the second topmpost line , with an average of 10.6 Employment rate,reaching its highest point  at 2015 with a value of 12.0. ",
+      "The botommost line, Flemish Region,  has a mean of 4.65, and peaked at 2010, and 2015. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 3 lines representing Flemish Region, Brussels-Capital Region, and Walloon Region. The y axis denotes Employment rate and the x axis denotes Year.",
+      "Overall Brussels-Capital Region, and Walloon Region are gradually decreasing, Flemish Region is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Brussels-Capital Region, 2. Walloon Region, and lastly, 3. Flemish Region. ",
+      "Throughout the period, Brussels-Capital Region generally had the highest Employment rate relative to others with an average of 16.77, and it reached its maximum at 2013 with a value of 19.3.",
+      "Followed by Walloon Region which ranks as the second topmpost line , with an average of 10.6 Employment rate,reaching its highest point  at 2015 with a value of 12.0. ",
+      "The botommost line, Flemish Region,  has a mean of 4.65, and peaked at 2010, and 2015. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 3 lines namely Flemish Region, Brussels-Capital Region, and Walloon Region. The y axis represents Employment rate and the x axis represents Year.",
+      "Overall Brussels-Capital Region, and Walloon Region are gradually decreasing, Flemish Region is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Employment rate in descending order is: 1. Brussels-Capital Region, 2. Walloon Region, and lastly, 3. Flemish Region. ",
+      "Throughout the period, Brussels-Capital Region generally had the highest Employment rate relative to others with an average of 16.77, and it reached its maximum at 2013 with a value of 19.3.",
+      "Followed by Walloon Region which ranks as the second topmpost line , with an average of 10.6 Employment rate,reaching its highest point  at 2015 with a value of 12.0. ",
+      "Flemish Region mostly had the least Employment rate with a mean value of 4.65, which peaked at 2010, and 2015 with a value of 5.2. ",
+      "The minimum Employment rate about 3.5, occured at 2018 by Flemish Region."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "9": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "2"
+         ],
+         "10": [
+            "3",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Flemish Region": "3.5",
+         "Brussels-Capital Region": "13.4",
+         "Walloon Region": "8.5"
+      },
+      {
+         "Year": "2017",
+         "Flemish Region": "4.4",
+         "Brussels-Capital Region": "15",
+         "Walloon Region": "9.8"
+      },
+      {
+         "Year": "2016",
+         "Flemish Region": "4.9",
+         "Brussels-Capital Region": "16.9",
+         "Walloon Region": "10.6"
+      },
+      {
+         "Year": "2015",
+         "Flemish Region": "5.2",
+         "Brussels-Capital Region": "17.5",
+         "Walloon Region": "12"
+      },
+      {
+         "Year": "2014",
+         "Flemish Region": "5.1",
+         "Brussels-Capital Region": "18.5",
+         "Walloon Region": "12"
+      },
+      {
+         "Year": "2013",
+         "Flemish Region": "5.1",
+         "Brussels-Capital Region": "19.3",
+         "Walloon Region": "11.4"
+      },
+      {
+         "Year": "2012",
+         "Flemish Region": "4.6",
+         "Brussels-Capital Region": "17.5",
+         "Walloon Region": "10.1"
+      },
+      {
+         "Year": "2011",
+         "Flemish Region": "4.3",
+         "Brussels-Capital Region": "17.1",
+         "Walloon Region": "9.5"
+      },
+      {
+         "Year": "2010",
+         "Flemish Region": "5.2",
+         "Brussels-Capital Region": "17.4",
+         "Walloon Region": "11.5"
+      },
+      {
+         "Year": "2009",
+         "Flemish Region": "5",
+         "Brussels-Capital Region": "15.9",
+         "Walloon Region": "11.2"
+      },
+      {
+         "Year": "2008",
+         "Flemish Region": "3.9",
+         "Brussels-Capital Region": "16",
+         "Walloon Region": "10.1"
+      }
+   ]
+}

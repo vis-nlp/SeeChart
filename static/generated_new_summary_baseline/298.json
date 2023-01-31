@@ -1,0 +1,81 @@
+{
+   "title": "Number of births in Norway 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of live births. In total the number of data points it has is 11.",
+      " Overall Number of live births has decreased over the Year.",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "Maximum Number of live births, about 61807.0 was reported at Year 2009",
+      "The lowest Number of live births, of value 55120.0 was reported at Year 2018"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of live births, containing a total of 11 data points.",
+      " Overall Number of live births has decreased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of live births. In total the number of data points it has is 11.",
+      " Overall Number of live births has decreased over the Year.",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "Maximum Number of live births, about 61807.0 was reported at Year 2009",
+      "The lowest Number of live births, of value 55120.0 was reported at Year 2018"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of live births, containing a total of 11 data points.",
+      " Overall Number of live births has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "Maximum Number of live births, about 61807.0 was reported at Year 2009",
+      "The lowest Number of live births, of value 55120.0 was reported at Year 2018",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of live births": 55120.0
+      },
+      {
+         "Year": "2017",
+         "Number of live births": 56633.0
+      },
+      {
+         "Year": "2016",
+         "Number of live births": 58890.0
+      },
+      {
+         "Year": "2015",
+         "Number of live births": 59058.0
+      },
+      {
+         "Year": "2014",
+         "Number of live births": 59084.0
+      },
+      {
+         "Year": "2013",
+         "Number of live births": 58995.0
+      },
+      {
+         "Year": "2012",
+         "Number of live births": 60255.0
+      },
+      {
+         "Year": "2011",
+         "Number of live births": 60220.0
+      },
+      {
+         "Year": "2010",
+         "Number of live births": 61442.0
+      },
+      {
+         "Year": "2009",
+         "Number of live births": 61807.0
+      },
+      {
+         "Year": "2008",
+         "Number of live births": 60497.0
+      }
+   ]
+}

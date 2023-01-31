@@ -1,0 +1,49 @@
+{
+   "title": "Global organic chocolate market size 2012 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Market size in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market size in million U.S. dollars, containing a total of 2 data points.",
+      " Overall Market size in million U.S. dollars has increased over the Year.",
+      "Market size in million U.S. dollars is slightly increasing from 2012 to 2018.",
+      "The steepest increase occurs in between the Year 2012 and 2018.",
+      "Maximum Market size in million U.S. dollars, about 886.0 was reported at Year 2018",
+      "The lowest Market size in million U.S. dollars, of value 734.0 was reported at Year 2012"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market size in million U.S. dollars. In total the number of data points it has is 2.",
+      " Overall Market size in million U.S. dollars has increased over the Year.",
+      "Market size in million U.S. dollars is slightly increasing from 2012 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market size in million U.S. dollars, containing a total of 2 data points.",
+      " Overall Market size in million U.S. dollars has increased over the Year.",
+      "Market size in million U.S. dollars is slightly increasing from 2012 to 2018.",
+      "The steepest increase occurs in between the Year 2012 and 2018.",
+      "Maximum Market size in million U.S. dollars, about 886.0 was reported at Year 2018",
+      "The lowest Market size in million U.S. dollars, of value 734.0 was reported at Year 2012"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market size in million U.S. dollars. In total the number of data points it has is 2.",
+      " In general Market size in million U.S. dollars has rose over the Year.",
+      "Market size in million U.S. dollars is slightly increasing from 2012 to 2018.",
+      "The most drastic increase took place within the Year 2012 and 2018.",
+      "Maximum Market size in million U.S. dollars, about 886.0 was reported at Year 2018",
+      "The lowest Market size in million U.S. dollars, of value 734.0 was reported at Year 2012",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Market size in million U.S. dollars": 886.0
+      },
+      {
+         "Year": "2012",
+         "Market size in million U.S. dollars": 734.0
+      }
+   ]
+}

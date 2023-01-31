@@ -1,0 +1,130 @@
+{
+   "title": "FIFA World Cup : Number of goals scored at each tournament 1930 to 2018",
+   "xAxis": "Countries",
+   "yAxis": "Number of goals scored",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 21 columns on the x axis representing Countries, and Number of goals scored in each Countries on the y axis. ",
+      "The maximum Number of goals scored 171.0 is found at Countries Brazil 2014 and the minimum is found at Italy 1934 where Number of goals scored is 70.0. ",
+      "The highest Countries Brazil 2014 has 101.0 more Number of goals scored than the lowest Countries Italy 1934. "
+   ],
+   "min_summary": [
+      "This bar chart has 21 columns on the x axis representing Countries, and Number of goals scored in each Countries on the y axis. ",
+      "The Number of goals scored is appeared to be the highest at Countries Brazil 2014 and lowest at Countries Italy 1934. "
+   ],
+   "mid_summary": [
+      "This bar chart has 21 columns on the x axis representing Countries, and Number of goals scored in each Countries on the y axis. ",
+      "The maximum Number of goals scored 171.0 is found at Countries Brazil 2014 and the minimum is found at Italy 1934 where Number of goals scored is 70.0. ",
+      "The highest Countries Brazil 2014 has 101.0 more Number of goals scored than the lowest Countries Italy 1934. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Countries in the x axis and Number of goals scored in the y axis. ",
+      "The Number of goals scored is appeared to be the highest at Countries Brazil 2014 and lowest at Countries Italy 1934. ",
+      "Second maximum Number of goals scored is found at Countries . ",
+      "There is a difference of 101.0 between the maximum Countries Brazil 2014 and minimum Countries Italy 1934. ",
+      "The Countries Brazil 2014 has the highest Number of goals scored, followed by , and Russia 2018. Down to the Countries Italy 1934 which is the lowest. ",
+      "Similar Number of goals scored is found in Countries Brazil 2014, and France 1998. ",
+      "The lowest value 70.0 at Italy 1934 is almost 1.41 times smaller than the average value 121.24. ",
+      "Summing up the values of all Countriess, we get total 2546.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Countries": "Russia 2018",
+         "Number of goals scored": 169.0
+      },
+      {
+         "Countries": "Brazil 2014",
+         "Number of goals scored": 171.0
+      },
+      {
+         "Countries": "South Africa 2010",
+         "Number of goals scored": 143.0
+      },
+      {
+         "Countries": "Germany 2006",
+         "Number of goals scored": 147.0
+      },
+      {
+         "Countries": "South Korea / Japan 2002",
+         "Number of goals scored": 161.0
+      },
+      {
+         "Countries": "France 1998",
+         "Number of goals scored": 171.0
+      },
+      {
+         "Countries": "USA 1994",
+         "Number of goals scored": 141.0
+      },
+      {
+         "Countries": "Italy 1990",
+         "Number of goals scored": 115.0
+      },
+      {
+         "Countries": "Mexico 1986",
+         "Number of goals scored": 132.0
+      },
+      {
+         "Countries": "Spain 1982",
+         "Number of goals scored": 146.0
+      },
+      {
+         "Countries": "Argentina 1978",
+         "Number of goals scored": 102.0
+      },
+      {
+         "Countries": "Germany 1974",
+         "Number of goals scored": 97.0
+      },
+      {
+         "Countries": "Mexico 1970",
+         "Number of goals scored": 95.0
+      },
+      {
+         "Countries": "England 1966",
+         "Number of goals scored": 89.0
+      },
+      {
+         "Countries": "Chile 1962",
+         "Number of goals scored": 89.0
+      },
+      {
+         "Countries": "Sweden 1958",
+         "Number of goals scored": 126.0
+      },
+      {
+         "Countries": "Switzerland 1954",
+         "Number of goals scored": 140.0
+      },
+      {
+         "Countries": "Brazil 1950",
+         "Number of goals scored": 88.0
+      },
+      {
+         "Countries": "France 1938",
+         "Number of goals scored": 84.0
+      },
+      {
+         "Countries": "Italy 1934",
+         "Number of goals scored": 70.0
+      },
+      {
+         "Countries": "Uruguay 1930",
+         "Number of goals scored": 70.0
+      }
+   ]
+}

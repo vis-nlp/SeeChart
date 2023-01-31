@@ -1,0 +1,105 @@
+{
+   "title": "eBay Enterprise : annual net revenue 1999 to 2014",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 16 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 1999 to 2001, roughly constant from 2001 to 2010, roughly increasing from 2010 to 2012, and finally roughly constant from 2012 to 2014.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Revenue in million U.S. dollars, about 1358.0 was reported at Year 2010",
+      "The lowest Revenue in million U.S. dollars, of value 5.5 was reported at Year 1999"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 16.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 1999 to 2001, roughly constant from 2001 to 2010, roughly increasing from 2010 to 2012, and finally roughly constant from 2012 to 2014."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 16 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 1999 to 2001, roughly constant from 2001 to 2010, roughly increasing from 2010 to 2012, and finally roughly constant from 2012 to 2014.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Revenue in million U.S. dollars, about 1358.0 was reported at Year 2010",
+      "The lowest Revenue in million U.S. dollars, of value 5.5 was reported at Year 1999"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 16 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 1999 to 2001, roughly constant from 2001 to 2010, roughly increasing from 2010 to 2012, and finally roughly constant from 2012 to 2014.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Revenue in million U.S. dollars, about 1358.0 was reported at Year 2010",
+      "The lowest Revenue in million U.S. dollars, of value 5.5 was reported at Year 1999",
+      "The line rapidly increased by 678.18% from Year 1999 to 2000,increased by 139.72% from Year 2000 to 2001, and lastly, increased by 112.77% from Year 2011 to 2012."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "1999",
+         "Revenue in million U.S. dollars": 5.5
+      },
+      {
+         "Year": "2000",
+         "Revenue in million U.S. dollars": 42.8
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 102.6
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 172.6
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 241.9
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 335.3
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 440.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 609.6
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 750.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 966.9
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 1004.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 1358.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 509.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 1083.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 1166.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 1238.0
+      }
+   ]
+}

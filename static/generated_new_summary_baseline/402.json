@@ -1,0 +1,90 @@
+{
+   "title": "YouTube : annual beauty content views 2009 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Annual beauty content views in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Annual beauty content views in billions, containing a total of 13 data points.",
+      " Overall Annual beauty content views in billions has increased over the Year.",
+      "Annual beauty content views in billions is roughly increasing from 2006 to 2008, and lastly roughly constant from 2008 to 2018.",
+      "Maximum Annual beauty content views in billions, about 169.0 was reported at Year 2018",
+      "Minimum Annual beauty content views in billions about 0.13 was reached at Year 2006"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Annual beauty content views in billions. In total the number of data points it has is 13.",
+      " Overall Annual beauty content views in billions has increased over the Year.",
+      "Annual beauty content views in billions is roughly increasing from 2006 to 2008, and lastly roughly constant from 2008 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Annual beauty content views in billions, containing a total of 13 data points.",
+      " Overall Annual beauty content views in billions has increased over the Year.",
+      "Annual beauty content views in billions is roughly increasing from 2006 to 2008, and lastly roughly constant from 2008 to 2018.",
+      "Maximum Annual beauty content views in billions, about 169.0 was reported at Year 2018",
+      "Minimum Annual beauty content views in billions about 0.13 was reached at Year 2006"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Annual beauty content views in billions, containing a total of 13 data points.",
+      " Overall Annual beauty content views in billions has increased over the Year.",
+      "Annual beauty content views in billions is roughly increasing from 2006 to 2008, and lastly roughly constant from 2008 to 2018.",
+      "Maximum Annual beauty content views in billions, about 169.0 was reported at Year 2018",
+      "Minimum Annual beauty content views in billions about 0.13 was reached at Year 2006",
+      "The line rapidly increased by 569.23% from Year 2006 to 2007,increased by 129.89% from Year 2007 to 2008, and lastly, increased by 76.27% from Year 2016 to 2017."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Annual beauty content views in billions": 169.0
+      },
+      {
+         "Year": "2017",
+         "Annual beauty content views in billions": 104.0
+      },
+      {
+         "Year": "2016",
+         "Annual beauty content views in billions": 59.0
+      },
+      {
+         "Year": "2015",
+         "Annual beauty content views in billions": 37.0
+      },
+      {
+         "Year": "2014",
+         "Annual beauty content views in billions": 25.0
+      },
+      {
+         "Year": "2013",
+         "Annual beauty content views in billions": 16.0
+      },
+      {
+         "Year": "2012",
+         "Annual beauty content views in billions": 11.0
+      },
+      {
+         "Year": "2011",
+         "Annual beauty content views in billions": 7.0
+      },
+      {
+         "Year": "2010",
+         "Annual beauty content views in billions": 5.0
+      },
+      {
+         "Year": "2009",
+         "Annual beauty content views in billions": 3.0
+      },
+      {
+         "Year": "2008",
+         "Annual beauty content views in billions": 2.0
+      },
+      {
+         "Year": "2007",
+         "Annual beauty content views in billions": 0.87
+      },
+      {
+         "Year": "2006",
+         "Annual beauty content views in billions": 0.13
+      }
+   ]
+}

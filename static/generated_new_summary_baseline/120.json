@@ -1,0 +1,84 @@
+{
+   "title": "Leading hair conditioner brands in the U.S. 2018",
+   "xAxis": "Brand",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
+      "Brand Organix has the highest Sales in million U.S. dollars and L'Or\u00e9al EverPure has the lowest Sales in million U.S. dollars. ",
+      "The highest Brand Organix has 104.7 more Sales in million U.S. dollars than the lowest Brand L'Or\u00e9al EverPure. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
+      "The Sales in million U.S. dollars is highest at Brand Organix and lowest at Brand L'Or\u00e9al EverPure. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
+      "Brand Organix has the highest Sales in million U.S. dollars and L'Or\u00e9al EverPure has the lowest Sales in million U.S. dollars. ",
+      "The highest Brand Organix has 104.7 more Sales in million U.S. dollars than the lowest Brand L'Or\u00e9al EverPure. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
+      "The Sales in million U.S. dollars is highest at Brand Organix and lowest at Brand L'Or\u00e9al EverPure. ",
+      "The second highest Sales in million U.S. dollars is appeared to be the Brand . ",
+      "The highest Brand Organix has 104.7 more Sales in million U.S. dollars than the lowest Brand L'Or\u00e9al EverPure. ",
+      "Brand Organix is higher than any other Brands with value 133.7, followed by , and Garnier Whole Blends. Down to Brand L'Or\u00e9al EverPure with the lowest value 29.0. ",
+      "The Brand Organix has 2.39 times more Sales in million U.S. dollars than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Organix",
+         "Sales in million U.S. dollars": 133.7
+      },
+      {
+         "Brand": "Shea Moisture",
+         "Sales in million U.S. dollars": 77.1
+      },
+      {
+         "Brand": "Garnier Whole Blends",
+         "Sales in million U.S. dollars": 63.0
+      },
+      {
+         "Brand": "It's A 10 Miracle",
+         "Sales in million U.S. dollars": 59.8
+      },
+      {
+         "Brand": "Garnier Fructis Sleek And Shine",
+         "Sales in million U.S. dollars": 52.0
+      },
+      {
+         "Brand": "TRESemm\u00e9 Moisture Rich",
+         "Sales in million U.S. dollars": 37.0
+      },
+      {
+         "Brand": "Dove Nutritive Solutions",
+         "Sales in million U.S. dollars": 36.9
+      },
+      {
+         "Brand": "Suave Professionals",
+         "Sales in million U.S. dollars": 35.6
+      },
+      {
+         "Brand": "Herbal Essences Bio Renew",
+         "Sales in million U.S. dollars": 34.6
+      },
+      {
+         "Brand": "L'Or\u00e9al EverPure",
+         "Sales in million U.S. dollars": 29.0
+      }
+   ]
+}

@@ -1,0 +1,89 @@
+{
+   "title": "Number of Papa John 's restaurants worldwide 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of restaurants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of restaurants. In total the number of data points it has is 12.",
+      " Overall Number of restaurants has increased over the Year.",
+      "Number of restaurants is roughly constant from 2007 to 2009, gradually increasing from 2009 to 2015, and lastly roughly constant from 2015 to 2018.",
+      "The most drastic increase took place within the Year 2011 and 2012.",
+      "The highest Number of restaurants, of value 5303.0 was reached at Year 2018",
+      "Minimum Number of restaurants about 3208.0 was reached at Year 2007"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of restaurants. In total the number of data points it has is 12.",
+      " Overall Number of restaurants has increased over the Year.",
+      "Number of restaurants is roughly constant from 2007 to 2009, gradually increasing from 2009 to 2015, and lastly roughly constant from 2015 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of restaurants. In total the number of data points it has is 12.",
+      " Overall Number of restaurants has increased over the Year.",
+      "Number of restaurants is roughly constant from 2007 to 2009, gradually increasing from 2009 to 2015, and lastly roughly constant from 2015 to 2018.",
+      "The most drastic increase took place within the Year 2011 and 2012.",
+      "The highest Number of restaurants, of value 5303.0 was reached at Year 2018",
+      "Minimum Number of restaurants about 3208.0 was reached at Year 2007"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of restaurants, containing a total of 12 data points.",
+      " Overall Number of restaurants has increased over the Year.",
+      "Number of restaurants is roughly constant from 2007 to 2009, gradually increasing from 2009 to 2015, and lastly roughly constant from 2015 to 2018.",
+      "The most drastic increase took place within the Year 2011 and 2012.",
+      "The highest Number of restaurants, of value 5303.0 was reached at Year 2018",
+      "Minimum Number of restaurants about 3208.0 was reached at Year 2007",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of restaurants": 5303.0
+      },
+      {
+         "Year": "2017",
+         "Number of restaurants": 5199.0
+      },
+      {
+         "Year": "2016",
+         "Number of restaurants": 5097.0
+      },
+      {
+         "Year": "2015",
+         "Number of restaurants": 4893.0
+      },
+      {
+         "Year": "2014",
+         "Number of restaurants": 4663.0
+      },
+      {
+         "Year": "2013",
+         "Number of restaurants": 4428.0
+      },
+      {
+         "Year": "2012",
+         "Number of restaurants": 4163.0
+      },
+      {
+         "Year": "2011",
+         "Number of restaurants": 3883.0
+      },
+      {
+         "Year": "2010",
+         "Number of restaurants": 3646.0
+      },
+      {
+         "Year": "2009",
+         "Number of restaurants": 3469.0
+      },
+      {
+         "Year": "2008",
+         "Number of restaurants": 3380.0
+      },
+      {
+         "Year": "2007",
+         "Number of restaurants": 3208.0
+      }
+   ]
+}

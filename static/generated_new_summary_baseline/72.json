@@ -1,0 +1,85 @@
+{
+   "title": "Leading banks by market capitalization in Italy 2019",
+   "xAxis": "Company Name",
+   "yAxis": "Market capitalization in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Market capitalization in million euros for 10 number of Company Names. ",
+      "The Market capitalization in million euros is appeared to be the highest at Company Name Intesa Sanpaolo and lowest at Company Name Banca Popolare di Sondrio. ",
+      "There is a difference of 37282.07 between the maximum Company Name Intesa Sanpaolo and minimum Company Name Banca Popolare di Sondrio. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Company Name in the x axis and Market capitalization in million euros in the y axis. ",
+      "The Market capitalization in million euros is highest at Company Name Intesa Sanpaolo and lowest at Company Name Banca Popolare di Sondrio. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Market capitalization in million euros for 10 number of Company Names. ",
+      "The Market capitalization in million euros is appeared to be the highest at Company Name Intesa Sanpaolo and lowest at Company Name Banca Popolare di Sondrio. ",
+      "There is a difference of 37282.07 between the maximum Company Name Intesa Sanpaolo and minimum Company Name Banca Popolare di Sondrio. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Market capitalization in million euros for 10 number of Company Names. ",
+      "The Market capitalization in million euros is highest at Company Name Intesa Sanpaolo and lowest at Company Name Banca Popolare di Sondrio. ",
+      "Second maximum Market capitalization in million euros is found at Company Name . ",
+      "The difference of Market capitalization in million euros between the highest and lowest Company Name is 37282.07. ",
+      "Market capitalization in million euros at Company Name Intesa Sanpaolo is 38043.87 , second place is  at 38043.87, and thirdly is Mediobanca at 8863.88.",
+      "The lowest value 761.8 at Banca Popolare di Sondrio is almost 4.28 times smaller than the average value 8890.39. ",
+      "The Market capitalization in million euros is 88903.91 if we add up values of all Company Names. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company Name": "Intesa Sanpaolo",
+         "Market capitalization in million euros": 38043.87
+      },
+      {
+         "Company Name": "UniCredit",
+         "Market capitalization in million euros": 24228.42
+      },
+      {
+         "Company Name": "Mediobanca",
+         "Market capitalization in million euros": 8863.88
+      },
+      {
+         "Company Name": "Fineco Bank",
+         "Market capitalization in million euros": 5902.19
+      },
+      {
+         "Company Name": "UBI Banca",
+         "Market capitalization in million euros": 2947.23
+      },
+      {
+         "Company Name": "Banco BPM",
+         "Market capitalization in million euros": 2842.07
+      },
+      {
+         "Company Name": "BPER Banca",
+         "Market capitalization in million euros": 1935.76
+      },
+      {
+         "Company Name": "Banca Monte dei Paschi di Siena",
+         "Market capitalization in million euros": 1737.76
+      },
+      {
+         "Company Name": "Credito Emiliano",
+         "Market capitalization in million euros": 1640.93
+      },
+      {
+         "Company Name": "Banca Popolare di Sondrio",
+         "Market capitalization in million euros": 761.8
+      }
+   ]
+}

@@ -1,0 +1,89 @@
+{
+   "title": "Brazil : poverty headcount ratio at 3.20 U.S. dollars a day 2005 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 12 data points.",
+      " In general Percentage of population has fallen over the Year.",
+      "Percentage of population is gradually decreasing from 2005 to 2012, roughly constant from 2012 to 2013, slightly decreasing from 2013 to 2014, slightly increasing from 2014 to 2016, and lastly roughly constant from 2016 to 2017.",
+      "The steepest decrease occurs in between the Year 2005 and 2006.",
+      "The highest Percentage of population, of value 19.7 was reached at Year 2005",
+      "Minimum Percentage of population about 6.9 was reached at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 12.",
+      " In general Percentage of population has fallen over the Year.",
+      "Percentage of population is gradually decreasing from 2005 to 2012, roughly constant from 2012 to 2013, slightly decreasing from 2013 to 2014, slightly increasing from 2014 to 2016, and lastly roughly constant from 2016 to 2017."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 12 data points.",
+      " In general Percentage of population has fallen over the Year.",
+      "Percentage of population is gradually decreasing from 2005 to 2012, roughly constant from 2012 to 2013, slightly decreasing from 2013 to 2014, slightly increasing from 2014 to 2016, and lastly roughly constant from 2016 to 2017.",
+      "The steepest decrease occurs in between the Year 2005 and 2006.",
+      "The highest Percentage of population, of value 19.7 was reached at Year 2005",
+      "Minimum Percentage of population about 6.9 was reached at Year 2014"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 12.",
+      " In general Percentage of population has fallen over the Year.",
+      "Percentage of population is gradually decreasing from 2005 to 2012, roughly constant from 2012 to 2013, slightly decreasing from 2013 to 2014, slightly increasing from 2014 to 2016, and lastly roughly constant from 2016 to 2017.",
+      "The steepest decrease occurs in between the Year 2005 and 2006.",
+      "The highest Percentage of population, of value 19.7 was reached at Year 2005",
+      "Minimum Percentage of population about 6.9 was reached at Year 2014",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Percentage of population": 9.6
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": 9.3
+      },
+      {
+         "Year": "2015",
+         "Percentage of population": 8.0
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": 6.9
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": 8.2
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": 8.7
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": 10.3
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": 12.5
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": 13.5
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": 15.7
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": 17.1
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": 19.7
+      }
+   ]
+}

@@ -1,0 +1,86 @@
+{
+   "title": "Top selling Nintendo Wii games worldwide in 2019",
+   "xAxis": "Month",
+   "yAxis": "Sales in million units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Sales in million units in each Month on the y axis. ",
+      "The Sales in million units is appeared to be the highest at Month Wii Sports and lowest at Month Wii Party. ",
+      "Month Wii Party has 8.87 times less Sales in million units than Month Wii Sports which is the highest. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Sales in million units for 10 number of Months. ",
+      "Month Wii Sports has the highest Sales in million units and Wii Party has the lowest Sales in million units. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Sales in million units in each Month on the y axis. ",
+      "The Sales in million units is appeared to be the highest at Month Wii Sports and lowest at Month Wii Party. ",
+      "Month Wii Party has 8.87 times less Sales in million units than Month Wii Sports which is the highest. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Sales in million units in each Month on the y axis. ",
+      "Month Wii Sports has the highest Sales in million units and Wii Party has the lowest Sales in million units. ",
+      "The second highest Sales in million units is appeared to be the Month . ",
+      "There is a difference of 73.54 between the maximum Month Wii Sports and minimum Month Wii Party. ",
+      "Month Wii Sports is higher than any other Months with value 82.88, followed by , and Wii Sports Resort. Down to Month Wii Party with the lowest value 9.34. ",
+      "The Sales in million units has lowered over the past 10 Months. ",
+      "The Month Wii Sports tends to be 2.85 percent higher than average. ",
+      "Summing up the values of all Months, we get total 290.76. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Wii Sports",
+         "Sales in million units": 82.88
+      },
+      {
+         "Month": "Mario Kart Wii",
+         "Sales in million units": 37.24
+      },
+      {
+         "Month": "Wii Sports Resort",
+         "Sales in million units": 33.11
+      },
+      {
+         "Month": "New Super Mario Bros. Wii",
+         "Sales in million units": 30.28
+      },
+      {
+         "Month": "Wii Play",
+         "Sales in million units": 28.02
+      },
+      {
+         "Month": "Wii Fit",
+         "Sales in million units": 22.67
+      },
+      {
+         "Month": "Wii Fit Plus",
+         "Sales in million units": 21.13
+      },
+      {
+         "Month": "Super Smash Bros. Brawl",
+         "Sales in million units": 13.3
+      },
+      {
+         "Month": "Super Mario Galaxy",
+         "Sales in million units": 12.79
+      },
+      {
+         "Month": "Wii Party",
+         "Sales in million units": 9.34
+      }
+   ]
+}

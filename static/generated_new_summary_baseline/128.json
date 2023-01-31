@@ -1,0 +1,129 @@
+{
+   "title": "Factors influencing U.S. consumers ' foods and beverages purchases 2012 to 2016",
+   "labels": [
+      "Year",
+      "Taste",
+      "Price",
+      "Healthfulness",
+      "Convenience",
+      "Sustainability"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 5 lines namely Taste, Price, Healthfulness, Convenience, and Sustainability. The y axis represents Has a great impact and the x axis represents Year.",
+      "Overall Sustainability is gradually increasing, Taste, Price, Healthfulness, and Convenience are roughly constant,  throughout the Year",
+      "Throughout the period, Taste generally had the highest Has a great impact relative to others with an average of 86.6, and it reached its maximum at 2014 with a value of 90.0.",
+      "Followed by Price which ranks as the second topmpost line , with an average of 71.2 Has a great impact,reaching its highest point  at 2012 with a value of 73.0. ",
+      "The botommost line, Sustainability,  has a mean of 37.0, and peaked at 2016. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Has a great impact",
+   "min_summary": [
+      "The given chart is of multi-line type with 5 lines namely Taste, Price, Healthfulness, Convenience, and Sustainability. The y axis represents Has a great impact and the x axis represents Year.",
+      "Overall Sustainability is gradually increasing, Taste, Price, Healthfulness, and Convenience are roughly constant,  throughout the Year",
+      "Throughout the period, Taste generally had the highest Has a great impact relative to others with an average of 86.6, and it reached its maximum at 2014 with a value of 90.0.",
+      "Followed by Price which ranks as the second topmpost line , with an average of 71.2 Has a great impact,reaching its highest point  at 2012 with a value of 73.0. ",
+      "Sustainability mostly had the least Has a great impact with a mean value of 37.0, which peaked at 2016 with a value of 41.0. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 5 lines namely Taste, Price, Healthfulness, Convenience, and Sustainability. The y axis represents Has a great impact and the x axis represents Year.",
+      "Overall Sustainability is gradually increasing, Taste, Price, Healthfulness, and Convenience are roughly constant,  throughout the Year",
+      "Throughout the period, Taste generally had the highest Has a great impact relative to others with an average of 86.6, and it reached its maximum at 2014 with a value of 90.0.",
+      "Followed by Price which ranks as the second topmpost line , with an average of 71.2 Has a great impact,reaching its highest point  at 2012 with a value of 73.0. ",
+      "The botommost line, Sustainability,  has a mean of 37.0, and peaked at 2016. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 5 lines namely Taste, Price, Healthfulness, Convenience, and Sustainability. The y axis represents Has a great impact and the x axis represents Year.",
+      "Overall Sustainability is gradually increasing, Taste, Price, Healthfulness, and Convenience are roughly constant,  throughout the Year",
+      "Throughout the period, Taste generally had the highest Has a great impact relative to others with an average of 86.6, and it reached its maximum at 2014 with a value of 90.0.",
+      "After Taste, Price overall has the second highest values , with a mean value of 71.2, peaking at 2012. ",
+      "The botommost line, Sustainability,  has a mean of 37.0, and peaked at 2016. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "9": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Taste": "87",
+         "Price": "73",
+         "Healthfulness": "61",
+         "Convenience": "53",
+         "Sustainability": "35"
+      },
+      {
+         "Year": "2013",
+         "Taste": "89",
+         "Price": "71",
+         "Healthfulness": "64",
+         "Convenience": "56",
+         "Sustainability": "36"
+      },
+      {
+         "Year": "2014",
+         "Taste": "90",
+         "Price": "73",
+         "Healthfulness": "71",
+         "Convenience": "51",
+         "Sustainability": "38"
+      },
+      {
+         "Year": "2015",
+         "Taste": "83",
+         "Price": "68",
+         "Healthfulness": "60",
+         "Convenience": "52",
+         "Sustainability": "35"
+      },
+      {
+         "Year": "2016",
+         "Taste": "84",
+         "Price": "71",
+         "Healthfulness": "64",
+         "Convenience": "52",
+         "Sustainability": "41"
+      }
+   ]
+}

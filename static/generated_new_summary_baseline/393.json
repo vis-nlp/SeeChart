@@ -1,0 +1,83 @@
+{
+   "title": "Novartis ' spending on research and development by segment 2017 to 2019",
+   "labels": [
+      "Company",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Expenditure in billion USD on the Y-axis for 3 different Companys for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Company Innovative Medicines had the maximum Expenditure in billion USD among all 3 groups, and it was for 2019. The minimum Expenditure in billion USD was observed in Company Alcon for 2019. ",
+      "Company Innovative Medicines and Alcon had the biggest gap of 709.0 between the highest and lowest Expenditure in billion USD found for 2018. ",
+      "On average, the Company Innovative Medicines had the highest Expenditure in billion USD for all 3 groups 2017, 2018, and 2019. Whereas Alcon had the lowest average Expenditure in billion USD. "
+   ],
+   "xAxis": "Company",
+   "yAxis": "Expenditure in billion USD",
+   "min_summary": [
+      "This grouped bar chart shows Expenditure in billion USD on the Y-axis for 3 different Companys for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " For Company Innovative Medicines, 2019 had the highest Expenditure in billion USD 815.0 among the 3 groups and in Alcon, 2019 had the lowest Expenditure in billion USD 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Expenditure in billion USD on the Y-axis for 3 different Companys for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Company Innovative Medicines had the maximum Expenditure in billion USD among all 3 groups, and it was for 2019. The minimum Expenditure in billion USD was observed in Company Alcon for 2019. ",
+      "Company Innovative Medicines and Alcon had the biggest gap of 709.0 between the highest and lowest Expenditure in billion USD found for 2018. ",
+      "On average, the Company Innovative Medicines had the highest Expenditure in billion USD for all 3 groups 2017, 2018, and 2019. Whereas Alcon had the lowest average Expenditure in billion USD. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Expenditure in billion USD on the Y-axis for 3 different Companys for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Out of all 3 groups, 2019 had the highest Expenditure in billion USD for Company Innovative Medicines and 2019 had the lowest Expenditure in billion USD for Company Alcon. ",
+      " Among all the Companys, 2018 had the highest Expenditure in billion USD 768.0 in Company Innovative Medicines and lowest value 59.0 in Company Alcon. ",
+      " The maximum Expenditure in billion USD for 2018 that was found in Company Innovative Medicines was 13.02 times larger than the minimum Expenditure in billion USD observed in Company Alcon. ",
+      " Among all 3 groups, 2018 had the gap of 709.0 between the maximum and minimum Expenditure in billion USD observed in Company Innovative Medicines and Alcon respectively. ",
+      " In case of Company Innovative Medicines, 2019 had the highest Expenditure in billion USD 815.0 among the 3 groups and in Alcon, 2019 had the lowest Expenditure in billion USD 0.0. The second highest Expenditure in billion USD 768.0 was observed for 2019 in Company Innovative Medicines. ",
+      "Averaging all 3 groups 2017, 2018, and 2019, the Company Innovative Medicines is the maximum Expenditure in billion USD and Alcon is the minimum Expenditure in billion USD. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Innovative Medicines",
+         "2017": "7.62",
+         "2018": "7.68",
+         "2019": "8.15"
+      },
+      {
+         "Company": "Sandoz",
+         "2017": "0.77",
+         "2018": "0.81",
+         "2019": "1.25"
+      },
+      {
+         "Company": "Alcon",
+         "2017": "0.58",
+         "2018": "0.59",
+         "2019": "0"
+      }
+   ]
+}

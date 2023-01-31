@@ -1,0 +1,57 @@
+{
+   "title": "Average sales per unit of Outback Steakhouse restaurants in the U.S. 2015 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average sales in thousand U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average sales in thousand U.S. dollars. In total the number of data points it has is 4.",
+      " Overall Average sales in thousand U.S. dollars has increased over the Year.",
+      "Average sales in thousand U.S. dollars is slightly increasing from 2015 to 2017, and finally roughly constant from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Average sales in thousand U.S. dollars, of value 3580.0 was reached at Year 2018",
+      "Minimum Average sales in thousand U.S. dollars about 3354.0 was reached at Year 2016"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average sales in thousand U.S. dollars. In total the number of data points it has is 4.",
+      " In general Average sales in thousand U.S. dollars has stayed the same over the Year.",
+      "Average sales in thousand U.S. dollars is slightly increasing from 2015 to 2017, and finally roughly constant from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average sales in thousand U.S. dollars. In total the number of data points it has is 4.",
+      " Overall Average sales in thousand U.S. dollars has increased over the Year.",
+      "Average sales in thousand U.S. dollars is slightly increasing from 2015 to 2017, and finally roughly constant from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Average sales in thousand U.S. dollars, of value 3580.0 was reached at Year 2018",
+      "Minimum Average sales in thousand U.S. dollars about 3354.0 was reached at Year 2016"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average sales in thousand U.S. dollars. In total the number of data points it has is 4.",
+      " Overall Average sales in thousand U.S. dollars has increased over the Year.",
+      "Average sales in thousand U.S. dollars is slightly increasing from 2015 to 2017, and finally roughly constant from 2017 to 2018.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "The highest Average sales in thousand U.S. dollars, of value 3580.0 was reached at Year 2018",
+      "Minimum Average sales in thousand U.S. dollars about 3354.0 was reached at Year 2016",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Average sales in thousand U.S. dollars": 3580.0
+      },
+      {
+         "Year": "2017",
+         "Average sales in thousand U.S. dollars": 3542.0
+      },
+      {
+         "Year": "2016",
+         "Average sales in thousand U.S. dollars": 3354.0
+      },
+      {
+         "Year": "2015",
+         "Average sales in thousand U.S. dollars": 3430.0
+      }
+   ]
+}

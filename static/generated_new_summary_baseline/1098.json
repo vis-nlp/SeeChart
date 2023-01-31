@@ -1,0 +1,116 @@
+{
+   "title": "Fans of NHL hockey in Canada 2014 , by age group",
+   "labels": [
+      "Year",
+      "Yes",
+      "No"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Yes, and No. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall No is gradually increasing, Yes is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Yes, and lastly, 2. No. ",
+      "Overall across the Year, Yes mostly maintained the highest Share of respondents when compared to others with a mean value of 52.33, and it peaked at 18-34_years.",
+      "No mostly had the least Share of respondents with a mean value of 47.67, which peaked at 65+_years with a value of 53.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Yes, and No. The y axis indicates the Share of respondents and the x axis indicates Year.",
+      "Overall No is gradually increasing, Yes is gradually decreasing,  throughout the Year",
+      "Overall across the Year, Yes mostly maintained the highest Share of respondents when compared to others with a mean value of 52.33, and it peaked at 18-34_years.",
+      "No mostly had the least Share of respondents with a mean value of 47.67, which peaked at 65+_years with a value of 53.0. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing Yes, and No. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall No is gradually increasing, Yes is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Yes, and lastly, 2. No. ",
+      "Overall across the Year, Yes mostly maintained the highest Share of respondents when compared to others with a mean value of 52.33, and it peaked at 18-34_years.",
+      "No mostly had the least Share of respondents with a mean value of 47.67, which peaked at 65+_years with a value of 53.0. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Yes, and No. The y axis indicates the Share of respondents and the x axis indicates Year.",
+      "Overall No is gradually increasing, Yes is gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Share of respondents in descending order is: 1. Yes, and lastly, 2. No. ",
+      "Overall across the Year, Yes mostly maintained the highest Share of respondents when compared to others with a mean value of 52.33, and it peaked at 18-34_years.",
+      "No mostly had the least Share of respondents with a mean value of 47.67, which peaked at 65+_years with a value of 53.0. ",
+      "The difference of Share of respondents between Yes and No is smaller at Year Total compared to the Year 18-34_years."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "9": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "10": [
+            "5",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Total",
+         "Yes": "53",
+         "No": "47"
+      },
+      {
+         "Year": "18-34 years",
+         "Yes": "60",
+         "No": "40"
+      },
+      {
+         "Year": "35-44 years",
+         "Yes": "49",
+         "No": "51"
+      },
+      {
+         "Year": "45-54 years",
+         "Yes": "57",
+         "No": "43"
+      },
+      {
+         "Year": "55-64 years",
+         "Yes": "48",
+         "No": "52"
+      },
+      {
+         "Year": "65+ years",
+         "Yes": "47",
+         "No": "53"
+      }
+   ]
+}

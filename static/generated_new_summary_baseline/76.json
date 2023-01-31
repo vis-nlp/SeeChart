@@ -1,0 +1,113 @@
+{
+   "title": "Global barley producers by country 2018/19",
+   "xAxis": "Country",
+   "yAxis": "Amount in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Amount in million metric tons for 17 number of Countrys. ",
+      "The maximum Amount in million metric tons 56.34 is found at Country European Union and the minimum is found at Belarus where Amount in million metric tons is 1.7. ",
+      "The highest value at Country European Union is 33.14x times more than the lowest value at Belarus. "
+   ],
+   "min_summary": [
+      "This bar chart has 17 columns on the x axis representing Country, and Amount in million metric tons in each Country on the y axis. ",
+      "The maximum Amount in million metric tons 56.34 is found at Country European Union and the minimum is found at Belarus where Amount in million metric tons is 1.7. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Amount in million metric tons for 17 number of Countrys. ",
+      "The maximum Amount in million metric tons 56.34 is found at Country European Union and the minimum is found at Belarus where Amount in million metric tons is 1.7. ",
+      "The highest value at Country European Union is 33.14x times more than the lowest value at Belarus. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Amount in million metric tons in the y axis. ",
+      "Country European Union has the highest Amount in million metric tons and Belarus has the lowest Amount in million metric tons. ",
+      "The second highest Amount in million metric tons is appeared to be the Country . ",
+      "The highest Country European Union has 54.64 more Amount in million metric tons than the lowest Country Belarus. ",
+      "Amount in million metric tons at Country European Union is 56.34 , second place is  at 56.34, and thirdly is Others at 9.68.",
+      "Country Ukraine, and Turkey have the same Amount in million metric tons. ",
+      "The Country Belarus tends to be 6.81 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 16,
+         "12": 16
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "European Union",
+         "Amount in million metric tons": 56.34
+      },
+      {
+         "Country": "Russia",
+         "Amount in million metric tons": 16.6
+      },
+      {
+         "Country": "Others",
+         "Amount in million metric tons": 9.68
+      },
+      {
+         "Country": "Canada",
+         "Amount in million metric tons": 8.4
+      },
+      {
+         "Country": "Ukraine",
+         "Amount in million metric tons": 7.4
+      },
+      {
+         "Country": "Turkey",
+         "Amount in million metric tons": 7.4
+      },
+      {
+         "Country": "Australia",
+         "Amount in million metric tons": 7.3
+      },
+      {
+         "Country": "Argentina",
+         "Amount in million metric tons": 4.5
+      },
+      {
+         "Country": "Kazakhstan",
+         "Amount in million metric tons": 4.2
+      },
+      {
+         "Country": "United States",
+         "Amount in million metric tons": 3.33
+      },
+      {
+         "Country": "Iran",
+         "Amount in million metric tons": 3.1
+      },
+      {
+         "Country": "Morocco",
+         "Amount in million metric tons": 2.91
+      },
+      {
+         "Country": "Ethiopia",
+         "Amount in million metric tons": 2.17
+      },
+      {
+         "Country": "Algeria",
+         "Amount in million metric tons": 1.95
+      },
+      {
+         "Country": "China",
+         "Amount in million metric tons": 1.85
+      },
+      {
+         "Country": "India",
+         "Amount in million metric tons": 1.77
+      },
+      {
+         "Country": "Belarus",
+         "Amount in million metric tons": 1.7
+      }
+   ]
+}

@@ -1,0 +1,157 @@
+{
+   "title": "Distribution of the workforce across economic sectors in Italy 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Percentage of the workforce and the x axis indicates Year.",
+      "Overall Services is gradually increasing, Industry is gradually decreasing, Agriculture is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Percentage of the workforce in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest Percentage of the workforce relative to others with an average of 69.2, and it reached its maximum at 2019 with a value of 70.66.",
+      "After Services, Industry overall has the second highest values , with a mean value of 27.0, peaking at 2009. ",
+      "Agriculture mostly had the least Percentage of the workforce with a mean value of 3.72, which peaked at 2016 with a value of 3.88. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Percentage of the workforce",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Percentage of the workforce and the x axis represents Year.",
+      "Overall Services is gradually increasing, Industry is gradually decreasing, Agriculture is roughly constant,  throughout the Year",
+      "Throughout the period, Services generally had the highest Percentage of the workforce relative to others with an average of 69.2, and it reached its maximum at 2019 with a value of 70.66.",
+      "After Services, Industry overall has the second highest values , with a mean value of 27.0, peaking at 2009. ",
+      "The botommost line, Agriculture,  has a mean of 3.72, and peaked at 2016. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Percentage of the workforce and the x axis indicates Year.",
+      "Overall Services is gradually increasing, Industry is gradually decreasing, Agriculture is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Percentage of the workforce in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest Percentage of the workforce relative to others with an average of 69.2, and it reached its maximum at 2019 with a value of 70.66.",
+      "After Services, Industry overall has the second highest values , with a mean value of 27.0, peaking at 2009. ",
+      "Agriculture mostly had the least Percentage of the workforce with a mean value of 3.72, which peaked at 2016 with a value of 3.88. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Percentage of the workforce and the x axis denotes Year.",
+      "Overall Services is gradually increasing, Industry is gradually decreasing, Agriculture is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Percentage of the workforce in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Percentage of the workforce when compared to others with a mean value of 69.2, and it peaked at 2019.",
+      "After Services, Industry overall has the second highest values , with a mean value of 27.0, peaking at 2009. ",
+      "The botommost line, Agriculture,  has a mean of 3.72, and peaked at 2016. ",
+      "Agriculture reported the lowest Percentage of the workforce about 3.6 in Year 2013"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "10": [
+            "10",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "3.72",
+         "Industry": "25.62",
+         "Services": "70.66"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "3.75",
+         "Industry": "25.81",
+         "Services": "70.44"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "3.78",
+         "Industry": "26",
+         "Services": "70.21"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "3.88",
+         "Industry": "26.12",
+         "Services": "69.99"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "3.75",
+         "Industry": "26.6",
+         "Services": "69.65"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "3.64",
+         "Industry": "26.9",
+         "Services": "69.46"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "3.6",
+         "Industry": "27.05",
+         "Services": "69.35"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "3.69",
+         "Industry": "27.58",
+         "Services": "68.72"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "3.68",
+         "Industry": "28.29",
+         "Services": "68.03"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "3.77",
+         "Industry": "28.61",
+         "Services": "67.62"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "3.69",
+         "Industry": "29.24",
+         "Services": "67.07"
+      }
+   ]
+}

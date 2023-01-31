@@ -1,0 +1,61 @@
+{
+   "title": "NFL Monday Night Football average viewers 2015 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Viewers in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Viewers in millions. In total the number of data points it has is 5.",
+      " Overall Viewers in millions has decreased over the Year.",
+      "Viewers in millions is slightly decreasing from 2015 to 2016, and lastly slightly increasing from 2016 to 2019.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "The highest Viewers in millions, of value 12.9 was reached at Year 2015",
+      "The lowest Viewers in millions, of value 10.76 was reported at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Viewers in millions. In total the number of data points it has is 5.",
+      " In general Viewers in millions has stayed the same over the Year.",
+      "Viewers in millions is slightly decreasing from 2015 to 2016, and lastly slightly increasing from 2016 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Viewers in millions. In total the number of data points it has is 5.",
+      " Overall Viewers in millions has decreased over the Year.",
+      "Viewers in millions is slightly decreasing from 2015 to 2016, and lastly slightly increasing from 2016 to 2019.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "The highest Viewers in millions, of value 12.9 was reached at Year 2015",
+      "The lowest Viewers in millions, of value 10.76 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Viewers in millions, containing a total of 5 data points.",
+      " In general Viewers in millions has stayed the same over the Year.",
+      "Viewers in millions is slightly decreasing from 2015 to 2016, and lastly slightly increasing from 2016 to 2019.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "The highest Viewers in millions, of value 12.9 was reached at Year 2015",
+      "The lowest Viewers in millions, of value 10.76 was reported at Year 2017",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Viewers in millions": 12.6
+      },
+      {
+         "Year": "2018",
+         "Viewers in millions": 11.6
+      },
+      {
+         "Year": "2017",
+         "Viewers in millions": 10.76
+      },
+      {
+         "Year": "2016",
+         "Viewers in millions": 11.36
+      },
+      {
+         "Year": "2015",
+         "Viewers in millions": 12.9
+      }
+   ]
+}

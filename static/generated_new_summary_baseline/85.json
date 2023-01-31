@@ -1,0 +1,107 @@
+{
+   "title": "U.S. investment banking : Number of establishments and employees",
+   "labels": [
+      "Year",
+      "Establishments",
+      "Employees"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 2 lines namely Establishments, and Employees. The y axis represents Number in thousands and the x axis represents Year.",
+      "Overall Employees is gradually decreasing, Establishments is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Number in thousands in descending order is: 1. Employees, and lastly, 2. Establishments. ",
+      "Throughout the period, Employees generally had the highest Number in thousands relative to others with an average of 148.0, and it reached its maximum at 2007 with a value of 184.0.",
+      "The botommost line, Establishments,  has a mean of 6.58, and peaked at 2007. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number in thousands",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing Establishments, and Employees. The y axis denotes Number in thousands and the x axis denotes Year.",
+      "Overall Employees is gradually decreasing, Establishments is roughly constant,  throughout the Year",
+      "Overall across the Year, Employees mostly maintained the highest Number in thousands when compared to others with a mean value of 148.0, and it peaked at 2007.",
+      "The botommost line, Establishments,  has a mean of 6.58, and peaked at 2007. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely Establishments, and Employees. The y axis represents Number in thousands and the x axis represents Year.",
+      "Overall Employees is gradually decreasing, Establishments is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Number in thousands in descending order is: 1. Employees, and lastly, 2. Establishments. ",
+      "Throughout the period, Employees generally had the highest Number in thousands relative to others with an average of 148.0, and it reached its maximum at 2007 with a value of 184.0.",
+      "The botommost line, Establishments,  has a mean of 6.58, and peaked at 2007. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Establishments, and Employees. The y axis represents Number in thousands and the x axis represents Year.",
+      "Overall Employees is gradually decreasing, Establishments is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Employees, and lastly, 2. Establishments. ",
+      "Throughout the period, Employees generally had the highest Number in thousands relative to others with an average of 148.0, and it reached its maximum at 2007 with a value of 184.0.",
+      "Establishments mostly had the least Number in thousands with a mean value of 6.58, which peaked at 2007 with a value of 9.3. ",
+      "The minimum Number in thousands about 4.5, occured at 2008 by Establishments.",
+      "The difference of Number in thousands between Establishments and Employees is smaller at Year 2009 compared to the Year 2006."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "3",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "9": [
+            "1",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "10": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2006",
+         "Establishments": "7.6",
+         "Employees": "156"
+      },
+      {
+         "Year": "2007",
+         "Establishments": "9.3",
+         "Employees": "184"
+      },
+      {
+         "Year": "2008",
+         "Establishments": "4.5",
+         "Employees": "137"
+      },
+      {
+         "Year": "2009",
+         "Establishments": "4.9",
+         "Employees": "115"
+      }
+   ]
+}

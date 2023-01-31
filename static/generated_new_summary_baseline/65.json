@@ -1,0 +1,88 @@
+{
+   "title": "Number of H-1B visas issued in U.S. , by countries with the most recipients 2011",
+   "xAxis": "Country",
+   "yAxis": "Number of visas issued",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of visas issued for 11 number of Countrys. ",
+      "The Number of visas issued is appeared to be the highest at Country India and lowest at Country Germany. ",
+      "The highest Country India has 70811.0 more Number of visas issued than the lowest Country Germany. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of visas issued for 11 number of Countrys. ",
+      "The Number of visas issued is highest at Country India and lowest at Country Germany. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of visas issued for 11 number of Countrys. ",
+      "The Number of visas issued is appeared to be the highest at Country India and lowest at Country Germany. ",
+      "The highest Country India has 70811.0 more Number of visas issued than the lowest Country Germany. "
+   ],
+   "max_summary": [
+      "This bar chart has 11 columns on the x axis representing Country, and Number of visas issued in each Country on the y axis. ",
+      "Country India has the highest Number of visas issued and Germany has the lowest Number of visas issued. ",
+      "There is a difference of 70811.0 between the maximum Country India and minimum Country Germany. ",
+      "The Country India has the highest Number of visas issued, followed by , and China-mainland. Down to the Country Germany which is the lowest. ",
+      "The lowest value 1627.0 at Germany is almost 6.17 times smaller than the average value 11739.45. ",
+      "Summing up the values of all Countrys, we get total 129134.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "India",
+         "Number of visas issued": 72438.0
+      },
+      {
+         "Country": "China-mainland",
+         "Number of visas issued": 10849.0
+      },
+      {
+         "Country": "U.K.",
+         "Number of visas issued": 3660.0
+      },
+      {
+         "Country": "South Korea",
+         "Number of visas issued": 3501.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of visas issued": 2647.0
+      },
+      {
+         "Country": "Philippines",
+         "Number of visas issued": 2369.0
+      },
+      {
+         "Country": "France",
+         "Number of visas issued": 2069.0
+      },
+      {
+         "Country": "Japan",
+         "Number of visas issued": 2054.0
+      },
+      {
+         "Country": "China-Taiwan",
+         "Number of visas issued": 1705.0
+      },
+      {
+         "Country": "Germany",
+         "Number of visas issued": 1627.0
+      },
+      {
+         "Country": "Other",
+         "Number of visas issued": 26215.0
+      }
+   ]
+}

@@ -1,0 +1,49 @@
+{
+   "title": "Global photo printing and merchandising market value 2016 and 2021",
+   "xAxis": "Year",
+   "yAxis": "Market revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market revenue in billion U.S. dollars. In total the number of data points it has is 2.",
+      " In general Market revenue in billion U.S. dollars has rose over the Year.",
+      "Market revenue in billion U.S. dollars is slightly increasing from 2016 to 2021.",
+      "The steepest increase occurs in between the Year 2016 and 2021.",
+      "The highest Market revenue in billion U.S. dollars, of value 19.09 was reached at Year 2021",
+      "Minimum Market revenue in billion U.S. dollars about 14.5 was reached at Year 2016"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market revenue in billion U.S. dollars. In total the number of data points it has is 2.",
+      " Overall Market revenue in billion U.S. dollars has increased over the Year.",
+      "Market revenue in billion U.S. dollars is slightly increasing from 2016 to 2021."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market revenue in billion U.S. dollars. In total the number of data points it has is 2.",
+      " In general Market revenue in billion U.S. dollars has rose over the Year.",
+      "Market revenue in billion U.S. dollars is slightly increasing from 2016 to 2021.",
+      "The steepest increase occurs in between the Year 2016 and 2021.",
+      "The highest Market revenue in billion U.S. dollars, of value 19.09 was reached at Year 2021",
+      "Minimum Market revenue in billion U.S. dollars about 14.5 was reached at Year 2016"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market revenue in billion U.S. dollars. In total the number of data points it has is 2.",
+      " Overall Market revenue in billion U.S. dollars has increased over the Year.",
+      "Market revenue in billion U.S. dollars is slightly increasing from 2016 to 2021.",
+      "The most drastic increase took place within the Year 2016 and 2021.",
+      "The highest Market revenue in billion U.S. dollars, of value 19.09 was reached at Year 2021",
+      "Minimum Market revenue in billion U.S. dollars about 14.5 was reached at Year 2016",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2021",
+         "Market revenue in billion U.S. dollars": 19.09
+      },
+      {
+         "Year": "2016",
+         "Market revenue in billion U.S. dollars": 14.5
+      }
+   ]
+}

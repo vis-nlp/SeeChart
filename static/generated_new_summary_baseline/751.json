@@ -1,0 +1,110 @@
+{
+   "title": "Number of conference championship game appearances of NFL teams 2020",
+   "xAxis": "American Football Teams",
+   "yAxis": "Number of appearances",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 16 columns on the x axis representing American Football Teams, and Number of appearances in each American Football Teams on the y axis. ",
+      "American Football Teams Pittsburgh Steelers has the highest Number of appearances and New York Giants has the lowest Number of appearances. ",
+      "There is a difference of 11.0 between the maximum American Football Teams Pittsburgh Steelers and minimum American Football Teams New York Giants. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of appearances for 16 number of American Football Teamss. ",
+      "American Football Teams Pittsburgh Steelers has the highest Number of appearances and New York Giants has the lowest Number of appearances. "
+   ],
+   "mid_summary": [
+      "This bar chart has 16 columns on the x axis representing American Football Teams, and Number of appearances in each American Football Teams on the y axis. ",
+      "American Football Teams Pittsburgh Steelers has the highest Number of appearances and New York Giants has the lowest Number of appearances. ",
+      "There is a difference of 11.0 between the maximum American Football Teams Pittsburgh Steelers and minimum American Football Teams New York Giants. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of appearances for 16 number of American Football Teamss. ",
+      "American Football Teams Pittsburgh Steelers has the highest Number of appearances and New York Giants has the lowest Number of appearances. ",
+      "The second highest Number of appearances is appeared to be the American Football Teams . ",
+      "There is a difference of 11.0 between the maximum American Football Teams Pittsburgh Steelers and minimum American Football Teams New York Giants. ",
+      "American Football Teams Pittsburgh Steelers is higher than any other American Football Teamss with value 16.0, followed by , and New England Patriots. Down to American Football Teams New York Giants with the lowest value 5.0. ",
+      "Similar Number of appearances is found in American Football Teams Miami Dolphins, Baltimore / Indianapolis Colts, and Philadelphia Eagles. ",
+      "The lowest value 5.0 at New York Giants is almost 1.7 times smaller than the average value 9.44. ",
+      "Summing up the values of all American Football Teamss, we get total 151.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "American Football Teams": "Pittsburgh Steelers",
+         "Number of appearances": 16.0
+      },
+      {
+         "American Football Teams": "San Francisco 49ers",
+         "Number of appearances": 16.0
+      },
+      {
+         "American Football Teams": "New England Patriots",
+         "Number of appearances": 15.0
+      },
+      {
+         "American Football Teams": "Dallas Cowboys",
+         "Number of appearances": 14.0
+      },
+      {
+         "American Football Teams": "L.A. / Oakland Raiders",
+         "Number of appearances": 11.0
+      },
+      {
+         "American Football Teams": "Denver Broncos",
+         "Number of appearances": 10.0
+      },
+      {
+         "American Football Teams": "L.A. / St. Louis Rams",
+         "Number of appearances": 10.0
+      },
+      {
+         "American Football Teams": "Minnesota Vikings",
+         "Number of appearances": 9.0
+      },
+      {
+         "American Football Teams": "Green Bay Packers",
+         "Number of appearances": 8.0
+      },
+      {
+         "American Football Teams": "Miami Dolphins",
+         "Number of appearances": 7.0
+      },
+      {
+         "American Football Teams": "Baltimore / Indianapolis Colts",
+         "Number of appearances": 7.0
+      },
+      {
+         "American Football Teams": "Philadelphia Eagles",
+         "Number of appearances": 7.0
+      },
+      {
+         "American Football Teams": "Washington Redskins",
+         "Number of appearances": 6.0
+      },
+      {
+         "American Football Teams": "New York Giants",
+         "Number of appearances": 5.0
+      },
+      {
+         "American Football Teams": "Chicago Bears",
+         "Number of appearances": 5.0
+      },
+      {
+         "American Football Teams": "Buffalo Bills",
+         "Number of appearances": 5.0
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Prevalence of undernourishment worldwide 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Proportion of undernourished people",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Proportion of undernourished people. In total the number of data points it has is 11.",
+      " In general Proportion of undernourished people has fallen over the Year.",
+      "Proportion of undernourished people is gradually decreasing from 2000 to 2010, roughly constant from 2010 to 2012, roughly decreasing from 2012 to 2013, and lastly roughly constant from 2013 to 2018.",
+      "The steepest decrease occurs in between the Year 2005 and 2010.",
+      "Maximum Proportion of undernourished people, about 14.5 was reported at Year 2000",
+      "Minimum Proportion of undernourished people about 10.6 was reached at Year 2015"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Proportion of undernourished people. In total the number of data points it has is 11.",
+      " In general Proportion of undernourished people has fallen over the Year.",
+      "Proportion of undernourished people is gradually decreasing from 2000 to 2010, roughly constant from 2010 to 2012, roughly decreasing from 2012 to 2013, and lastly roughly constant from 2013 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Proportion of undernourished people. In total the number of data points it has is 11.",
+      " In general Proportion of undernourished people has fallen over the Year.",
+      "Proportion of undernourished people is gradually decreasing from 2000 to 2010, roughly constant from 2010 to 2012, roughly decreasing from 2012 to 2013, and lastly roughly constant from 2013 to 2018.",
+      "The steepest decrease occurs in between the Year 2005 and 2010.",
+      "Maximum Proportion of undernourished people, about 14.5 was reported at Year 2000",
+      "Minimum Proportion of undernourished people about 10.6 was reached at Year 2015"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Proportion of undernourished people. In total the number of data points it has is 11.",
+      " In general Proportion of undernourished people has fallen over the Year.",
+      "Proportion of undernourished people is gradually decreasing from 2000 to 2010, roughly constant from 2010 to 2012, roughly decreasing from 2012 to 2013, and lastly roughly constant from 2013 to 2018.",
+      "The steepest decrease occurs in between the Year 2005 and 2010.",
+      "Maximum Proportion of undernourished people, about 14.5 was reported at Year 2000",
+      "Minimum Proportion of undernourished people about 10.6 was reached at Year 2015",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Proportion of undernourished people": 10.8
+      },
+      {
+         "Year": "2017",
+         "Proportion of undernourished people": 10.8
+      },
+      {
+         "Year": "2016",
+         "Proportion of undernourished people": 10.7
+      },
+      {
+         "Year": "2015",
+         "Proportion of undernourished people": 10.6
+      },
+      {
+         "Year": "2014",
+         "Proportion of undernourished people": 10.7
+      },
+      {
+         "Year": "2013",
+         "Proportion of undernourished people": 11.0
+      },
+      {
+         "Year": "2012",
+         "Proportion of undernourished people": 11.3
+      },
+      {
+         "Year": "2011",
+         "Proportion of undernourished people": 11.5
+      },
+      {
+         "Year": "2010",
+         "Proportion of undernourished people": 11.8
+      },
+      {
+         "Year": "2005",
+         "Proportion of undernourished people": 13.8
+      },
+      {
+         "Year": "2000",
+         "Proportion of undernourished people": 14.5
+      }
+   ]
+}

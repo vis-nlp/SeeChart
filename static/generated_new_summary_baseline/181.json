@@ -1,0 +1,73 @@
+{
+   "title": "French households savings rate 2010 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Savings rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Savings rate. In total the number of data points it has is 8.",
+      " Overall Savings rate has decreased over the Year.",
+      "Savings rate is roughly constant from 2010 to 2011, gradually decreasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly decreasing from 2015 to 2016, and lastly slightly increasing from 2016 to 2017.",
+      "The steepest decrease occurs in between the Year 2012 and 2013.",
+      "The highest Savings rate, of value 15.8 was reached at Year 2010",
+      "The lowest Savings rate, of value 14.0 was reported at Year 2016"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Savings rate, containing a total of 8 data points.",
+      " In general Savings rate has fallen over the Year.",
+      "Savings rate is roughly constant from 2010 to 2011, gradually decreasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly decreasing from 2015 to 2016, and lastly slightly increasing from 2016 to 2017."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Savings rate. In total the number of data points it has is 8.",
+      " Overall Savings rate has decreased over the Year.",
+      "Savings rate is roughly constant from 2010 to 2011, gradually decreasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly decreasing from 2015 to 2016, and lastly slightly increasing from 2016 to 2017.",
+      "The steepest decrease occurs in between the Year 2012 and 2013.",
+      "The highest Savings rate, of value 15.8 was reached at Year 2010",
+      "The lowest Savings rate, of value 14.0 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Savings rate, containing a total of 8 data points.",
+      " In general Savings rate has fallen over the Year.",
+      "Savings rate is roughly constant from 2010 to 2011, gradually decreasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly decreasing from 2015 to 2016, and lastly slightly increasing from 2016 to 2017.",
+      "The most drastic decrease took place within the Year 2012 and 2013.",
+      "The highest Savings rate, of value 15.8 was reached at Year 2010",
+      "The lowest Savings rate, of value 14.0 was reported at Year 2016",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Savings rate": 14.6
+      },
+      {
+         "Year": "2016",
+         "Savings rate": 14.0
+      },
+      {
+         "Year": "2015",
+         "Savings rate": 14.5
+      },
+      {
+         "Year": "2014",
+         "Savings rate": 14.4
+      },
+      {
+         "Year": "2013",
+         "Savings rate": 14.3
+      },
+      {
+         "Year": "2012",
+         "Savings rate": 15.1
+      },
+      {
+         "Year": "2011",
+         "Savings rate": 15.6
+      },
+      {
+         "Year": "2010",
+         "Savings rate": 15.8
+      }
+   ]
+}

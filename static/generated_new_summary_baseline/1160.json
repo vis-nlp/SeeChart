@@ -1,0 +1,85 @@
+{
+   "title": "Celanese 's revenue 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 12.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Revenue in million U.S. dollars, of value 7155.0 was reached at Year 2018",
+      "Minimum Revenue in million U.S. dollars about 5082.0 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 12 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 12.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Revenue in million U.S. dollars, of value 7155.0 was reached at Year 2018",
+      "Minimum Revenue in million U.S. dollars about 5082.0 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 12.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest Revenue in million U.S. dollars, of value 7155.0 was reached at Year 2018",
+      "Minimum Revenue in million U.S. dollars about 5082.0 was reached at Year 2009",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 7155.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 6140.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 5389.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 5674.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 6802.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 6510.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 6418.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 6763.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 5918.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 5082.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 6823.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 6444.0
+      }
+   ]
+}

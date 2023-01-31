@@ -1,0 +1,56 @@
+{
+   "title": "Popularity of Fidel Castro in Cuba 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Very/somewhat negative and lowest at Response Don't know / no answer. ",
+      "The difference of Share of respondents between the highest and lowest Response is 44.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 50.0 is found at Response Very/somewhat negative and the minimum is found at Don't know / no answer where Share of respondents is 6.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Very/somewhat negative and lowest at Response Don't know / no answer. ",
+      "The difference of Share of respondents between the highest and lowest Response is 44.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 50.0 is found at Response Very/somewhat negative and the minimum is found at Don't know / no answer where Share of respondents is 6.0. ",
+      "Response  has the second highest value for Share of respondents. ",
+      "The difference of Share of respondents between the highest and lowest Response is 44.0. ",
+      "The average Share of respondents in all 3 Responses is 33.33. ",
+      "Summing up the values of all Responses, we get total 100.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Very/somewhat positive",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Very/somewhat negative",
+         "Share of respondents": 50.0
+      },
+      {
+         "Response": "Don't know / no answer",
+         "Share of respondents": 6.0
+      }
+   ]
+}

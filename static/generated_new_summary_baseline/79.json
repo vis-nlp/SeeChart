@@ -1,0 +1,69 @@
+{
+   "title": "Leading cause of ransomware infection 2019",
+   "xAxis": "Cause of ransomware infection",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 columns on the x axis representing Cause of ransomware infection, and Percentage of respondents in each Cause of ransomware infection on the y axis. ",
+      "The Percentage of respondents is highest at Cause of ransomware infection Spam/phishing emails and lowest at Cause of ransomware infection Malicious websites/web ads. ",
+      "The lowest value at Cause of ransomware infection Malicious websites/web ads is 4.19x times less than the highest value at Spam/phishing emails. "
+   ],
+   "min_summary": [
+      "This bar chart has 6 columns on the x axis representing Cause of ransomware infection, and Percentage of respondents in each Cause of ransomware infection on the y axis. ",
+      "The Percentage of respondents is highest at Cause of ransomware infection Spam/phishing emails and lowest at Cause of ransomware infection Malicious websites/web ads. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Cause of ransomware infection, and Percentage of respondents in each Cause of ransomware infection on the y axis. ",
+      "The Percentage of respondents is highest at Cause of ransomware infection Spam/phishing emails and lowest at Cause of ransomware infection Malicious websites/web ads. ",
+      "The lowest value at Cause of ransomware infection Malicious websites/web ads is 4.19x times less than the highest value at Spam/phishing emails. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Percentage of respondents for 6 number of Cause of ransomware infections. ",
+      "The Percentage of respondents is highest at Cause of ransomware infection Spam/phishing emails and lowest at Cause of ransomware infection Malicious websites/web ads. ",
+      "The highest Cause of ransomware infection Spam/phishing emails has 51.0 more Percentage of respondents than the lowest Cause of ransomware infection Malicious websites/web ads. ",
+      "Cause of ransomware infection Spam/phishing emails is higher than any other Cause of ransomware infections with value 67.0, followed by , and Weak passwords/access management. Down to Cause of ransomware infection Malicious websites/web ads with the lowest value 16.0. ",
+      "Similar Percentage of respondents is found in Cause of ransomware infection Malicious websites/web ads, and Report clickbait. ",
+      "The Cause of ransomware infection Spam/phishing emails has 2.12 times more Percentage of respondents than average. ",
+      "Summing up the values of all Cause of ransomware infections, we get total 190.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cause of ransomware infection": "Spam/phishing emails",
+         "Percentage of respondents": 67.0
+      },
+      {
+         "Cause of ransomware infection": "Lack of cyber security training",
+         "Percentage of respondents": 36.0
+      },
+      {
+         "Cause of ransomware infection": "Weak passwords/access management",
+         "Percentage of respondents": 30.0
+      },
+      {
+         "Cause of ransomware infection": "Poor user practices/gullibility",
+         "Percentage of respondents": 25.0
+      },
+      {
+         "Cause of ransomware infection": "Malicious websites/web ads",
+         "Percentage of respondents": 16.0
+      },
+      {
+         "Cause of ransomware infection": "Report clickbait",
+         "Percentage of respondents": 16.0
+      }
+   ]
+}

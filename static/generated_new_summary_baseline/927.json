@@ -1,0 +1,124 @@
+{
+   "title": "Most played PC games 2015",
+   "xAxis": "Video Game",
+   "yAxis": "Share of playing time",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of playing time for 20 number of Video Games. ",
+      "The Share of playing time is appeared to be the highest at Video Game League of Legends and lowest at Video Game Call of Duty: Black Ops III. ",
+      "The Share of playing time of Video Game League of Legends is 31.83% larger than the minimum value at Call of Duty: Black Ops III. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Video Game in the x axis and Share of playing time in the y axis. ",
+      "The Share of playing time is appeared to be the highest at Video Game League of Legends and lowest at Video Game Call of Duty: Black Ops III. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of playing time for 20 number of Video Games. ",
+      "The Share of playing time is appeared to be the highest at Video Game League of Legends and lowest at Video Game Call of Duty: Black Ops III. ",
+      "The Share of playing time of Video Game League of Legends is 31.83% larger than the minimum value at Call of Duty: Black Ops III. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Video Game in the x axis and Share of playing time in the y axis. ",
+      "The Share of playing time is highest at Video Game League of Legends and lowest at Video Game Call of Duty: Black Ops III. ",
+      "The second highest Share of playing time is appeared to be the Video Game . ",
+      "The Share of playing time of Video Game League of Legends is 31.83% larger than the minimum value at Call of Duty: Black Ops III. ",
+      "Share of playing time at Video Game League of Legends is 22.92 , second place is  at 22.92, and thirdly is Fallout 4 at 5.78.",
+      "Considered together, the average Share of playing time in all 20 Video Games is roughly 3.27. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Video Game": "League of Legends",
+         "Share of playing time": 22.92
+      },
+      {
+         "Video Game": "Counter-Strike: Global Offensive",
+         "Share of playing time": 6.88
+      },
+      {
+         "Video Game": "Fallout 4",
+         "Share of playing time": 5.78
+      },
+      {
+         "Video Game": "DOTA 2",
+         "Share of playing time": 5.09
+      },
+      {
+         "Video Game": "World of Warcraft",
+         "Share of playing time": 4.82
+      },
+      {
+         "Video Game": "World of Tanks",
+         "Share of playing time": 3.48
+      },
+      {
+         "Video Game": "Hearthstone: Heroes of Warcraft",
+         "Share of playing time": 2.14
+      },
+      {
+         "Video Game": "Minecraft",
+         "Share of playing time": 1.97
+      },
+      {
+         "Video Game": "Smite",
+         "Share of playing time": 1.3
+      },
+      {
+         "Video Game": "Grand Theft Auto V",
+         "Share of playing time": 1.29
+      },
+      {
+         "Video Game": "Heroes of the Storm",
+         "Share of playing time": 1.16
+      },
+      {
+         "Video Game": "ARK: Survival Evolved",
+         "Share of playing time": 1.15
+      },
+      {
+         "Video Game": "Guild Wars 2",
+         "Share of playing time": 1.12
+      },
+      {
+         "Video Game": "Star Wars:The Old Republic",
+         "Share of playing time": 1.1
+      },
+      {
+         "Video Game": "Diablo III",
+         "Share of playing time": 1.08
+      },
+      {
+         "Video Game": "StarCraft II",
+         "Share of playing time": 1.04
+      },
+      {
+         "Video Game": "Spider Solitaire",
+         "Share of playing time": 0.89
+      },
+      {
+         "Video Game": "Battlefield 4",
+         "Share of playing time": 0.8
+      },
+      {
+         "Video Game": "Final Fantasy XIV Online",
+         "Share of playing time": 0.73
+      },
+      {
+         "Video Game": "Call of Duty: Black Ops III",
+         "Share of playing time": 0.72
+      }
+   ]
+}

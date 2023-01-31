@@ -1,0 +1,157 @@
+{
+   "title": "Distribution of GDP across economic sectors in the United Kingdom 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Distribution of GDP and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Distribution of GDP in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest Distribution of GDP relative to others with an average of 70.47, and it reached its maximum at 2009 with a value of 71.61.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.4 Distribution of GDP,reaching its highest point  at 2008 with a value of 20.0. ",
+      "The botommost line, Agriculture,  has a mean of 0.64, and peaked at 2009. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Distribution of GDP",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Distribution of GDP and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "Overall across the Year, Services mostly maintained the highest Distribution of GDP when compared to others with a mean value of 70.47, and it peaked at 2009.",
+      "After Services, Industry overall has the second highest values , with a mean value of 18.4, peaking at 2008. ",
+      "The botommost line, Agriculture,  has a mean of 0.64, and peaked at 2009. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Distribution of GDP and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Distribution of GDP in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest Distribution of GDP relative to others with an average of 70.47, and it reached its maximum at 2009 with a value of 71.61.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.4 Distribution of GDP,reaching its highest point  at 2008 with a value of 20.0. ",
+      "The botommost line, Agriculture,  has a mean of 0.64, and peaked at 2009. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Distribution of GDP and the x axis denotes Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Distribution of GDP in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest Distribution of GDP relative to others with an average of 70.47, and it reached its maximum at 2009 with a value of 71.61.",
+      "After Services, Industry overall has the second highest values , with a mean value of 18.4, peaking at 2008. ",
+      "The botommost line, Agriculture,  has a mean of 0.64, and peaked at 2009. ",
+      "Agriculture reported the lowest Distribution of GDP about 0.6 in Year 2016"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "9",
+            "2"
+         ],
+         "9": [
+            "9",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "10": [
+            "10",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "0.63",
+         "Industry": "17.51",
+         "Services": "71.04"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "0.65",
+         "Industry": "17.56",
+         "Services": "70.93"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "0.6",
+         "Industry": "17.58",
+         "Services": "70.92"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "0.62",
+         "Industry": "18.14",
+         "Services": "70.41"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "0.67",
+         "Industry": "18.36",
+         "Services": "70.14"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "0.67",
+         "Industry": "18.82",
+         "Services": "69.76"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "0.66",
+         "Industry": "18.63",
+         "Services": "70.08"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "0.64",
+         "Industry": "18.66",
+         "Services": "69.96"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "0.62",
+         "Industry": "18.87",
+         "Services": "70.55"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "0.69",
+         "Industry": "18.74",
+         "Services": "71.61"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "0.64",
+         "Industry": "20.04",
+         "Services": "69.79"
+      }
+   ]
+}

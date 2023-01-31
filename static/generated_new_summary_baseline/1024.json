@@ -1,0 +1,93 @@
+{
+   "title": "Average daily television viewing time in France 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Time in hours and minutes (hh.mm)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Time in hours and minutes (hh.mm), containing a total of 14 data points.",
+      " In general Time in hours and minutes (hh.mm) has stayed the same over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Time in hours and minutes (hh.mm), about 3.5 was reported at Year 2012",
+      "Minimum Time in hours and minutes (hh.mm) about 3.24 was reached at Year 2006, and 2008"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Time in hours and minutes (hh.mm), containing a total of 14 data points.",
+      " Overall Time in hours and minutes (hh.mm) has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Time in hours and minutes (hh.mm), containing a total of 14 data points.",
+      " In general Time in hours and minutes (hh.mm) has stayed the same over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Time in hours and minutes (hh.mm), about 3.5 was reported at Year 2012",
+      "Minimum Time in hours and minutes (hh.mm) about 3.24 was reached at Year 2006, and 2008"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Time in hours and minutes (hh.mm), containing a total of 14 data points.",
+      " Overall Time in hours and minutes (hh.mm) has increased over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Time in hours and minutes (hh.mm), about 3.5 was reported at Year 2012",
+      "Minimum Time in hours and minutes (hh.mm) about 3.24 was reached at Year 2006, and 2008",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Time in hours and minutes (hh.mm)": 3.36
+      },
+      {
+         "Year": "2017",
+         "Time in hours and minutes (hh.mm)": 3.42
+      },
+      {
+         "Year": "2016",
+         "Time in hours and minutes (hh.mm)": 3.43
+      },
+      {
+         "Year": "2015",
+         "Time in hours and minutes (hh.mm)": 3.44
+      },
+      {
+         "Year": "2014",
+         "Time in hours and minutes (hh.mm)": 3.41
+      },
+      {
+         "Year": "2013",
+         "Time in hours and minutes (hh.mm)": 3.46
+      },
+      {
+         "Year": "2012",
+         "Time in hours and minutes (hh.mm)": 3.5
+      },
+      {
+         "Year": "2011",
+         "Time in hours and minutes (hh.mm)": 3.47
+      },
+      {
+         "Year": "2010",
+         "Time in hours and minutes (hh.mm)": 3.32
+      },
+      {
+         "Year": "2009",
+         "Time in hours and minutes (hh.mm)": 3.25
+      },
+      {
+         "Year": "2008",
+         "Time in hours and minutes (hh.mm)": 3.24
+      },
+      {
+         "Year": "2007",
+         "Time in hours and minutes (hh.mm)": 3.27
+      },
+      {
+         "Year": "2006",
+         "Time in hours and minutes (hh.mm)": 3.24
+      },
+      {
+         "Year": "2005",
+         "Time in hours and minutes (hh.mm)": 3.26
+      }
+   ]
+}

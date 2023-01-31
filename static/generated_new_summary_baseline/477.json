@@ -1,0 +1,80 @@
+{
+   "title": "Profile of Millennial travelers in the U.S. as of July 2016",
+   "xAxis": "Profile Type",
+   "yAxis": "Average Traveler Psychographic Intensity Index score",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Profile Type in the x axis and Average Traveler Psychographic Intensity Index score in the y axis. ",
+      "The Average Traveler Psychographic Intensity Index score is appeared to be the highest at Profile Type Cultural interest and lowest at Profile Type Price sensitivity. ",
+      "The Average Traveler Psychographic Intensity Index score of Profile Type Price sensitivity is 1.27% smaller than the maximum value at Cultural interest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Profile Type in the x axis and Average Traveler Psychographic Intensity Index score in the y axis. ",
+      "Profile Type Cultural interest has the highest Average Traveler Psychographic Intensity Index score and Price sensitivity has the lowest Average Traveler Psychographic Intensity Index score. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Profile Type in the x axis and Average Traveler Psychographic Intensity Index score in the y axis. ",
+      "The Average Traveler Psychographic Intensity Index score is appeared to be the highest at Profile Type Cultural interest and lowest at Profile Type Price sensitivity. ",
+      "The Average Traveler Psychographic Intensity Index score of Profile Type Price sensitivity is 1.27% smaller than the maximum value at Cultural interest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Average Traveler Psychographic Intensity Index score for 9 number of Profile Types. ",
+      "The maximum Average Traveler Psychographic Intensity Index score 70.3 is found at Profile Type Cultural interest and the minimum is found at Price sensitivity where Average Traveler Psychographic Intensity Index score is 55.4. ",
+      "The highest Profile Type Cultural interest has 14.9 more Average Traveler Psychographic Intensity Index score than the lowest Profile Type Price sensitivity. ",
+      "The Profile Type Cultural interest has the highest Average Traveler Psychographic Intensity Index score, followed by , and Food and cuisine driven traveler. Down to the Profile Type Price sensitivity which is the lowest. ",
+      "The Profile Type Cultural interest tends to be 1.11 percent higher than average. ",
+      "The Average Traveler Psychographic Intensity Index score is 570.2 if we add up values of all Profile Types. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Profile Type": "Cultural interest",
+         "Average Traveler Psychographic Intensity Index score": 70.3
+      },
+      {
+         "Profile Type": "Exploration hungry",
+         "Average Traveler Psychographic Intensity Index score": 69.5
+      },
+      {
+         "Profile Type": "Food and cuisine driven traveler",
+         "Average Traveler Psychographic Intensity Index score": 68.5
+      },
+      {
+         "Profile Type": "Wants the real destination not commercial tourism product",
+         "Average Traveler Psychographic Intensity Index score": 65.2
+      },
+      {
+         "Profile Type": "Connected during leisure travel and its planning",
+         "Average Traveler Psychographic Intensity Index score": 65.1
+      },
+      {
+         "Profile Type": "Intensively plans leisure travel",
+         "Average Traveler Psychographic Intensity Index score": 60.5
+      },
+      {
+         "Profile Type": "Nature lovers",
+         "Average Traveler Psychographic Intensity Index score": 58.8
+      },
+      {
+         "Profile Type": "Activity seekers",
+         "Average Traveler Psychographic Intensity Index score": 56.9
+      },
+      {
+         "Profile Type": "Price sensitivity",
+         "Average Traveler Psychographic Intensity Index score": 55.4
+      }
+   ]
+}

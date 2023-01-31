@@ -1,0 +1,101 @@
+{
+   "title": "Johnson & Johnson 's net income 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net income in million U.S. dollars, containing a total of 15 data points.",
+      " Overall Net income in million U.S. dollars has increased over the Year.",
+      "Net income in million U.S. dollars is roughly constant from 2005 to 2016, roughly increasing from 2016 to 2018, and finally roughly constant from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Maximum Net income in million U.S. dollars, about 16540.0 was reported at Year 2016",
+      "The lowest Net income in million U.S. dollars, of value 1300.0 was reported at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net income in million U.S. dollars. In total the number of data points it has is 15.",
+      " Overall Net income in million U.S. dollars has increased over the Year.",
+      "Net income in million U.S. dollars is roughly constant from 2005 to 2016, roughly increasing from 2016 to 2018, and finally roughly constant from 2018 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net income in million U.S. dollars, containing a total of 15 data points.",
+      " Overall Net income in million U.S. dollars has increased over the Year.",
+      "Net income in million U.S. dollars is roughly constant from 2005 to 2016, roughly increasing from 2016 to 2018, and finally roughly constant from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Maximum Net income in million U.S. dollars, about 16540.0 was reported at Year 2016",
+      "The lowest Net income in million U.S. dollars, of value 1300.0 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net income in million U.S. dollars, containing a total of 15 data points.",
+      " Overall Net income in million U.S. dollars has increased over the Year.",
+      "Net income in million U.S. dollars is roughly constant from 2005 to 2016, roughly increasing from 2016 to 2018, and finally roughly constant from 2018 to 2019.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum Net income in million U.S. dollars, about 16540.0 was reported at Year 2016",
+      "The lowest Net income in million U.S. dollars, of value 1300.0 was reported at Year 2017",
+      "The line significantly decreased by 15240.0 from Year 2016 to 2017, and lastly, increased by 13997.0 from Year 2017 to 2018."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Net income in million U.S. dollars": 15119.0
+      },
+      {
+         "Year": "2018",
+         "Net income in million U.S. dollars": 15297.0
+      },
+      {
+         "Year": "2017",
+         "Net income in million U.S. dollars": 1300.0
+      },
+      {
+         "Year": "2016",
+         "Net income in million U.S. dollars": 16540.0
+      },
+      {
+         "Year": "2015",
+         "Net income in million U.S. dollars": 15409.0
+      },
+      {
+         "Year": "2014",
+         "Net income in million U.S. dollars": 16323.0
+      },
+      {
+         "Year": "2013",
+         "Net income in million U.S. dollars": 13831.0
+      },
+      {
+         "Year": "2012",
+         "Net income in million U.S. dollars": 10853.0
+      },
+      {
+         "Year": "2011",
+         "Net income in million U.S. dollars": 9672.0
+      },
+      {
+         "Year": "2010",
+         "Net income in million U.S. dollars": 13334.0
+      },
+      {
+         "Year": "2009",
+         "Net income in million U.S. dollars": 12266.0
+      },
+      {
+         "Year": "2008",
+         "Net income in million U.S. dollars": 12949.0
+      },
+      {
+         "Year": "2007",
+         "Net income in million U.S. dollars": 10576.0
+      },
+      {
+         "Year": "2006",
+         "Net income in million U.S. dollars": 11053.0
+      },
+      {
+         "Year": "2005",
+         "Net income in million U.S. dollars": 10060.0
+      }
+   ]
+}

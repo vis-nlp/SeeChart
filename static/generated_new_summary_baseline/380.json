@@ -1,0 +1,105 @@
+{
+   "title": "Natural gas prices for households in Germany 2010 - 2018 , semi-annually",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 17.",
+      " In general Euro cents per kilowatt-hour has rose over the Year.",
+      "The most drastic increase took place within the Year 2011_S1 and 2011_S2.",
+      "Maximum Euro cents per kilowatt-hour, about 6.89 was reported at Year 2013_S2",
+      "Minimum Euro cents per kilowatt-hour about 5.65 was reached at Year 2010_S1"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, containing a total of 17 data points.",
+      " Overall Euro cents per kilowatt-hour has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 17.",
+      " In general Euro cents per kilowatt-hour has rose over the Year.",
+      "The most drastic increase took place within the Year 2011_S1 and 2011_S2.",
+      "Maximum Euro cents per kilowatt-hour, about 6.89 was reported at Year 2013_S2",
+      "Minimum Euro cents per kilowatt-hour about 5.65 was reached at Year 2010_S1"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 17.",
+      " Overall Euro cents per kilowatt-hour has increased over the Year.",
+      "The most drastic increase took place within the Year 2011_S1 and 2011_S2.",
+      "Maximum Euro cents per kilowatt-hour, about 6.89 was reported at Year 2013_S2",
+      "Minimum Euro cents per kilowatt-hour about 5.65 was reached at Year 2010_S1",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": 6.08
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": 6.09
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": 6.11
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": 6.42
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": 6.61
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": 6.81
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": 6.76
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": 6.81
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": 6.78
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": 6.89
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": 6.61
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": 6.48
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": 6.37
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": 6.4
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": 5.88
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": 5.71
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": 5.65
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Brand spend on eSports sponsorship and advertising worldwide 2015 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Spending in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Spending in million U.S. dollars, containing a total of 4 data points.",
+      " Overall Spending in million U.S. dollars has increased over the Year.",
+      "Spending in million U.S. dollars is slightly increasing from 2015 to 2020.",
+      "The steepest increase occurs in between the Year 2017 and 2020.",
+      "The highest Spending in million U.S. dollars, of value 1220.0 was reached at Year 2020",
+      "Minimum Spending in million U.S. dollars about 230.0 was reached at Year 2015"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Spending in million U.S. dollars, containing a total of 4 data points.",
+      " Overall Spending in million U.S. dollars has increased over the Year.",
+      "Spending in million U.S. dollars is slightly increasing from 2015 to 2020."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Spending in million U.S. dollars, containing a total of 4 data points.",
+      " Overall Spending in million U.S. dollars has increased over the Year.",
+      "Spending in million U.S. dollars is slightly increasing from 2015 to 2020.",
+      "The steepest increase occurs in between the Year 2017 and 2020.",
+      "The highest Spending in million U.S. dollars, of value 1220.0 was reached at Year 2020",
+      "Minimum Spending in million U.S. dollars about 230.0 was reached at Year 2015"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Spending in million U.S. dollars, containing a total of 4 data points.",
+      " In general Spending in million U.S. dollars has rose over the Year.",
+      "Spending in million U.S. dollars is slightly increasing from 2015 to 2020.",
+      "The most drastic increase took place within the Year 2017 and 2020.",
+      "The highest Spending in million U.S. dollars, of value 1220.0 was reached at Year 2020",
+      "Minimum Spending in million U.S. dollars about 230.0 was reached at Year 2015",
+      "The line rapidly increased by 135.98% from Year 2017 to 2020."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2020",
+         "Spending in million U.S. dollars": 1220.0
+      },
+      {
+         "Year": "2017",
+         "Spending in million U.S. dollars": 517.0
+      },
+      {
+         "Year": "2016",
+         "Spending in million U.S. dollars": 350.0
+      },
+      {
+         "Year": "2015",
+         "Spending in million U.S. dollars": 230.0
+      }
+   ]
+}

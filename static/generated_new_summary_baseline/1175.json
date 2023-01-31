@@ -1,0 +1,111 @@
+{
+   "title": "Companies on the Norwegian insurance market 2011 to 2015",
+   "labels": [
+      "Year",
+      "Domestic market",
+      "Total market"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 2 lines namely Domestic market, and Total market. The y axis represents Number of companies and the x axis represents Year.",
+      "Overall Domestic market, and Total market are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Number of companies in descending order is: 1. Total market, and lastly, 2. Domestic market. ",
+      "Throughout the period, Total market generally had the highest Number of companies relative to others with an average of 118.4, and it reached its maximum at 2013, 2014, and 2015 with a value of 119.0.",
+      "The botommost line, Domestic market,  has a mean of 118.4, and peaked at 2013, 2014, and 2015. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of companies",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Domestic market, and Total market. The y axis indicates the Number of companies and the x axis indicates Year.",
+      "Overall Domestic market, and Total market are roughly constant,  throughout the Year",
+      "Throughout the period, Total market generally had the highest Number of companies relative to others with an average of 118.4, and it reached its maximum at 2013, 2014, and 2015 with a value of 119.0.",
+      "Domestic market mostly had the least Number of companies with a mean value of 118.4, which peaked at 2013, 2014, and 2015 with a value of 119.0. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely Domestic market, and Total market. The y axis represents Number of companies and the x axis represents Year.",
+      "Overall Domestic market, and Total market are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Number of companies in descending order is: 1. Total market, and lastly, 2. Domestic market. ",
+      "Throughout the period, Total market generally had the highest Number of companies relative to others with an average of 118.4, and it reached its maximum at 2013, 2014, and 2015 with a value of 119.0.",
+      "The botommost line, Domestic market,  has a mean of 118.4, and peaked at 2013, 2014, and 2015. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Domestic market, and Total market. The y axis represents Number of companies and the x axis represents Year.",
+      "Overall Domestic market, and Total market are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Total market, and lastly, 2. Domestic market. ",
+      "Overall across the Year, Total market mostly maintained the highest Number of companies when compared to others with a mean value of 118.4, and it peaked at 2013, 2014, and 2015.",
+      "Domestic market mostly had the least Number of companies with a mean value of 118.4, which peaked at 2013, 2014, and 2015 with a value of 119.0. ",
+      "The difference of Number of companies between Domestic market and Total market is roughly same at Year 2015 compared to the Year 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2014",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2013",
+         "Domestic market": "119",
+         "Total market": "119"
+      },
+      {
+         "Year": "2012",
+         "Domestic market": "118",
+         "Total market": "118"
+      },
+      {
+         "Year": "2011",
+         "Domestic market": "117",
+         "Total market": "117"
+      }
+   ]
+}

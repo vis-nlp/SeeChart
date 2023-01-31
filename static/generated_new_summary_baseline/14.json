@@ -1,0 +1,115 @@
+{
+   "title": "Favorite James Bond actor in the United States 2018",
+   "labels": [
+      "Actor",
+      "Very favorable",
+      "Somewhat favorable",
+      "Somewhat unfavorable",
+      "Very unfavorable",
+      "Don't know/no opinion"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 6 different Actors on X-axis for 5 groups Very favorable, Somewhat favorable, Somewhat unfavorable, Very unfavorable, and Don't know/no opinion. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 5 groups, Very favorable had the highest Share of respondents for Actor Sean Connery and Very unfavorable had the lowest Share of respondents for Actor Sean Connery. ",
+      "Actor George Lazenby and Sean Connery had the biggest gap of 12.0 between the highest and lowest Share of respondents found for Somewhat unfavorable. ",
+      "Averaging all 5 groups Very favorable, Somewhat favorable, Somewhat unfavorable, Very unfavorable, and Don't know/no opinion, the Actor Daniel Craig is the maximum Share of respondents and Sean Connery is the minimum Share of respondents. "
+   ],
+   "xAxis": "Actor",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 6 different Actors on X-axis for 5 groups Very favorable, Somewhat favorable, Somewhat unfavorable, Very unfavorable, and Don't know/no opinion. On the Y-axis it shows their corresponding Share of respondents. ",
+      " For Actor Sean Connery, Very favorable had the highest Share of respondents 61.0 among the 5 groups and in Sean Connery, Very unfavorable had the lowest Share of respondents 2.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 6 different Actors on X-axis for 5 groups Very favorable, Somewhat favorable, Somewhat unfavorable, Very unfavorable, and Don't know/no opinion. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 5 groups, Very favorable had the highest Share of respondents for Actor Sean Connery and Very unfavorable had the lowest Share of respondents for Actor Sean Connery. ",
+      "Actor George Lazenby and Sean Connery had the biggest gap of 12.0 between the highest and lowest Share of respondents found for Somewhat unfavorable. ",
+      "Averaging all 5 groups Very favorable, Somewhat favorable, Somewhat unfavorable, Very unfavorable, and Don't know/no opinion, the Actor Daniel Craig is the maximum Share of respondents and Sean Connery is the minimum Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 6 different Actors for 5 groups Very favorable, Somewhat favorable, Somewhat unfavorable, Very unfavorable, and Don't know/no opinion that are presented on the X-axis. ",
+      " For Actor Sean Connery, Very favorable had the highest Share of respondents 61.0 among the 5 groups and in Sean Connery, Very unfavorable had the lowest Share of respondents 2.0. ",
+      " Among all the Actors, Somewhat unfavorable had the highest Share of respondents 16.0 in Actor George Lazenby and lowest value 4.0 in Actor Sean Connery. ",
+      " The maximum Share of respondents for Somewhat unfavorable that was found in Actor George Lazenby was 4.0 times larger than the minimum Share of respondents observed in Actor Sean Connery. ",
+      " Among the groups, Very favorable had the biggest difference in Share of respondents. Where the maximum Share of respondents was 8.71 times larger than the minimum Share of respondents. ",
+      " Very favorable had the maximum Share of respondents out of all 5 groups in Actor Sean Connery followed by Very favorable in Sean Connery, and the minimum Share of respondents is found for Very unfavorable in Sean Connery. ",
+      "On average, the Actor Daniel Craig had the highest Share of respondents for all 5 groups Very favorable, Somewhat favorable, Somewhat unfavorable, Very unfavorable, and Don't know/no opinion. Whereas Sean Connery had the lowest average Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "5",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "5",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Actor": "Sean Connery",
+         "Very favorable": "61",
+         "Somewhat favorable": "21",
+         "Somewhat unfavorable": "4",
+         "Very unfavorable": "2",
+         "Don't know/no opinion": "12"
+      },
+      {
+         "Actor": "Pierce Brosnan",
+         "Very favorable": "51",
+         "Somewhat favorable": "30",
+         "Somewhat unfavorable": "6",
+         "Very unfavorable": "2",
+         "Don't know/no opinion": "11"
+      },
+      {
+         "Actor": "Roger Moore",
+         "Very favorable": "42",
+         "Somewhat favorable": "32",
+         "Somewhat unfavorable": "6",
+         "Very unfavorable": "3",
+         "Don't know/no opinion": "18"
+      },
+      {
+         "Actor": "Daniel Craig",
+         "Very favorable": "41",
+         "Somewhat favorable": "30",
+         "Somewhat unfavorable": "9",
+         "Very unfavorable": "4",
+         "Don't know/no opinion": "17"
+      },
+      {
+         "Actor": "Timothy Dalton",
+         "Very favorable": "14",
+         "Somewhat favorable": "35",
+         "Somewhat unfavorable": "16",
+         "Very unfavorable": "5",
+         "Don't know/no opinion": "30"
+      },
+      {
+         "Actor": "George Lazenby",
+         "Very favorable": "7",
+         "Somewhat favorable": "24",
+         "Somewhat unfavorable": "16",
+         "Very unfavorable": "7",
+         "Don't know/no opinion": "46"
+      }
+   ]
+}

@@ -1,0 +1,139 @@
+{
+   "title": "The highest-paid female athletes 2019",
+   "labels": [
+      "Month",
+      "Prize money",
+      "Endorsements"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents Income in million USD on the Y-axis. And, how the value changed throughout 15 Months for Prize money, and Endorsements. ",
+      " All through the Months, similar trend was observed for Endorsements and Prize money. In both cases, the Income in million USD have reduced. ",
+      " Out of all 2 groups, Endorsements had the highest Income in million USD for Month Serena Williams (tennis) and Prize money had the lowest Income in million USD for Month P.V. Sindhu (badminton). ",
+      "Month Serena Williams (tennis) and Elina Svitolina (tennis) had the biggest gap of 235.0 between the highest and lowest Income in million USD found for Endorsements. "
+   ],
+   "xAxis": "Month",
+   "yAxis": "Income in million USD",
+   "min_summary": [
+      "This is a grouped bar chart showing Income in million USD on the Y-axis throughout 15 Months for Prize money, and Endorsements on the X-axis. ",
+      " All through the Months, similar trend was observed for Endorsements and Prize money. In both cases, the Income in million USD have reduced. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents Income in million USD on the Y-axis. And, how the value changed throughout 15 Months for Prize money, and Endorsements. ",
+      " All through the Months, similar trend was observed for Endorsements and Prize money. In both cases, the Income in million USD have reduced. ",
+      " Out of all 2 groups, Endorsements had the highest Income in million USD for Month Serena Williams (tennis) and Prize money had the lowest Income in million USD for Month P.V. Sindhu (badminton). ",
+      "Month Serena Williams (tennis) and Elina Svitolina (tennis) had the biggest gap of 235.0 between the highest and lowest Income in million USD found for Endorsements. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents Income in million USD on the Y-axis. And, its value throughout 15 Months for Prize money, and Endorsements. ",
+      " Over the 15 Months, the Income in million USD for both Endorsements and Prize money have reduced. ",
+      " Out of all 2 groups, Endorsements had the highest Income in million USD for Month Serena Williams (tennis) and Prize money had the lowest Income in million USD for Month P.V. Sindhu (badminton). ",
+      " For Month Serena Williams (tennis), Endorsements had the maximum Income in million USD and it saw the lowest in Month Elina Svitolina (tennis) out of all 15 Months. ",
+      " The maximum Income in million USD for Endorsements that was found in Month Serena Williams (tennis) was 16.67 times larger than the minimum Income in million USD observed in Month Elina Svitolina (tennis). ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Income in million USD was found in case of Prize money. ",
+      "On average, the Month Serena Williams (tennis) had the highest Income in million USD for all 2 groups Prize money, and Endorsements. Whereas Ariya Jutanugarn (golf) had the lowest average Income in million USD. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Serena Williams (tennis)",
+         "Prize money": "4.2",
+         "Endorsements": "25.0"
+      },
+      {
+         "Month": "Naomi Osaka (tennis)",
+         "Prize money": "8.3",
+         "Endorsements": "16.0"
+      },
+      {
+         "Month": "Angelique Kerber (tennis)",
+         "Prize money": "5.3",
+         "Endorsements": "6.5"
+      },
+      {
+         "Month": "Simona Halep (tennis)",
+         "Prize money": "6.2",
+         "Endorsements": "4.0"
+      },
+      {
+         "Month": "Sloane Stephens (tennis)",
+         "Prize money": "4.1",
+         "Endorsements": "5.5"
+      },
+      {
+         "Month": "Caroline Wozniacki (tennis)",
+         "Prize money": "3.5",
+         "Endorsements": "4.0"
+      },
+      {
+         "Month": "Maria Sharapova (tennis)",
+         "Prize money": "1.0",
+         "Endorsements": "6.0"
+      },
+      {
+         "Month": "Karolina Pliskova (tennis)",
+         "Prize money": "4.6",
+         "Endorsements": "1.7"
+      },
+      {
+         "Month": "Elina Svitolina (tennis)",
+         "Prize money": "4.6",
+         "Endorsements": "1.5"
+      },
+      {
+         "Month": "Venus Williams (tennis)",
+         "Prize money": "0.9",
+         "Endorsements": "5.0"
+      },
+      {
+         "Month": "Garbine Muguruza (tennis)",
+         "Prize money": "2.4",
+         "Endorsements": "3.5"
+      },
+      {
+         "Month": "Alex Morgan (soccer)",
+         "Prize money": "0.25",
+         "Endorsements": "5.5"
+      },
+      {
+         "Month": "P.V. Sindhu (badminton)",
+         "Prize money": "0.5",
+         "Endorsements": "5.0"
+      },
+      {
+         "Month": "Madison Keys (tennis)",
+         "Prize money": "2.5",
+         "Endorsements": "3.0"
+      },
+      {
+         "Month": "Ariya Jutanugarn (golf)",
+         "Prize money": "3.3",
+         "Endorsements": "2.0"
+      }
+   ]
+}

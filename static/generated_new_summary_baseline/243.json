@@ -1,0 +1,156 @@
+{
+   "title": "Employment by economic sector in Peru 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of individuals and the x axis indicates Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of individuals in descending order is: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
+      "Overall across the Year, Services mostly maintained the highest Share of individuals when compared to others with a mean value of 55.79, and it peaked at 2019.",
+      "After Services, Agriculture overall has the second highest values , with a mean value of 27.8, peaking at 2009. ",
+      "Industry mostly had the least Share of individuals with a mean value of 16.36, which peaked at 2012 with a value of 17.03. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of individuals",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of individuals and the x axis indicates Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "Overall across the Year, Services mostly maintained the highest Share of individuals when compared to others with a mean value of 55.79, and it peaked at 2019.",
+      "After Services, Agriculture overall has the second highest values , with a mean value of 27.8, peaking at 2009. ",
+      "Industry mostly had the least Share of individuals with a mean value of 16.36, which peaked at 2012 with a value of 17.03. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of individuals and the x axis indicates Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of individuals in descending order is: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
+      "Overall across the Year, Services mostly maintained the highest Share of individuals when compared to others with a mean value of 55.79, and it peaked at 2019.",
+      "After Services, Agriculture overall has the second highest values , with a mean value of 27.8, peaking at 2009. ",
+      "Industry mostly had the least Share of individuals with a mean value of 16.36, which peaked at 2012 with a value of 17.03. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of individuals and the x axis indicates Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
+      "Overall across the Year, Services mostly maintained the highest Share of individuals when compared to others with a mean value of 55.79, and it peaked at 2019.",
+      "After Services, Agriculture overall has the second highest values , with a mean value of 27.8, peaking at 2009. ",
+      "Industry mostly had the least Share of individuals with a mean value of 16.36, which peaked at 2012 with a value of 17.03. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "0"
+         ],
+         "10": [
+            "10",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "27.21",
+         "Industry": "15.64",
+         "Services": "57.15"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "27.46",
+         "Industry": "15.64",
+         "Services": "56.9"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "27.69",
+         "Industry": "15.65",
+         "Services": "56.65"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "28.38",
+         "Industry": "16.22",
+         "Services": "55.41"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "28.26",
+         "Industry": "16.57",
+         "Services": "55.17"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "28.03",
+         "Industry": "16.37",
+         "Services": "55.6"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "27.41",
+         "Industry": "17.02",
+         "Services": "55.56"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "27.44",
+         "Industry": "17.03",
+         "Services": "55.53"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "28.28",
+         "Industry": "16.48",
+         "Services": "55.24"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "27.73",
+         "Industry": "16.86",
+         "Services": "55.42"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "28.52",
+         "Industry": "16.44",
+         "Services": "55.04"
+      }
+   ]
+}

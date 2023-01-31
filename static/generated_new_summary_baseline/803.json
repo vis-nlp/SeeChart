@@ -1,0 +1,113 @@
+{
+   "title": "Number of snow sports ( skier/snowboard ) visits in the United States 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of skier visits in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of skier visits in millions, containing a total of 19 data points.",
+      " In general Number of skier visits in millions has stayed the same over the Year.",
+      "The most drastic decrease took place within the Year 10/11 and 11/12.",
+      "The highest Number of skier visits in millions, of value 60.54 was reached at Year 10/11",
+      "The lowest Number of skier visits in millions, of value 50.97 was reported at Year 11/12"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of skier visits in millions, containing a total of 19 data points.",
+      " In general Number of skier visits in millions has stayed the same over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of skier visits in millions, containing a total of 19 data points.",
+      " In general Number of skier visits in millions has stayed the same over the Year.",
+      "The most drastic decrease took place within the Year 10/11 and 11/12.",
+      "The highest Number of skier visits in millions, of value 60.54 was reached at Year 10/11",
+      "The lowest Number of skier visits in millions, of value 50.97 was reported at Year 11/12"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of skier visits in millions. In total the number of data points it has is 19.",
+      " Overall Number of skier visits in millions has increased over the Year.",
+      "The most drastic decrease took place within the Year 10/11 and 11/12.",
+      "The highest Number of skier visits in millions, of value 60.54 was reached at Year 10/11",
+      "The lowest Number of skier visits in millions, of value 50.97 was reported at Year 11/12",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "18/19",
+         "Number of skier visits in millions": 59.0
+      },
+      {
+         "Year": "17/18",
+         "Number of skier visits in millions": 53.3
+      },
+      {
+         "Year": "16/17",
+         "Number of skier visits in millions": 54.7
+      },
+      {
+         "Year": "15/16",
+         "Number of skier visits in millions": 52.8
+      },
+      {
+         "Year": "14/15",
+         "Number of skier visits in millions": 53.6
+      },
+      {
+         "Year": "13/14",
+         "Number of skier visits in millions": 56.49
+      },
+      {
+         "Year": "12/13",
+         "Number of skier visits in millions": 56.9
+      },
+      {
+         "Year": "11/12",
+         "Number of skier visits in millions": 50.97
+      },
+      {
+         "Year": "10/11",
+         "Number of skier visits in millions": 60.54
+      },
+      {
+         "Year": "09/10",
+         "Number of skier visits in millions": 59.79
+      },
+      {
+         "Year": "08/09",
+         "Number of skier visits in millions": 57.35
+      },
+      {
+         "Year": "07/08",
+         "Number of skier visits in millions": 60.5
+      },
+      {
+         "Year": "06/07",
+         "Number of skier visits in millions": 55.07
+      },
+      {
+         "Year": "05/06",
+         "Number of skier visits in millions": 58.9
+      },
+      {
+         "Year": "04/05",
+         "Number of skier visits in millions": 56.88
+      },
+      {
+         "Year": "03/04",
+         "Number of skier visits in millions": 57.07
+      },
+      {
+         "Year": "02/03",
+         "Number of skier visits in millions": 57.59
+      },
+      {
+         "Year": "01/02",
+         "Number of skier visits in millions": 54.41
+      },
+      {
+         "Year": "00/01",
+         "Number of skier visits in millions": 57.34
+      }
+   ]
+}

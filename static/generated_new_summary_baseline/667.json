@@ -1,0 +1,214 @@
+{
+   "title": "Brazil : voting intention for 2018 presidential elections , by candidate",
+   "labels": [
+      "Month",
+      "Situation A",
+      "Situation B"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents Share of respondents on the Y-axis. And, its value throughout 30 Months for Situation A, and Situation B. ",
+      " Over the 30 Months, the Share of respondents for Situation A have been reduced whereas climbed for Month. ",
+      " Month Luiz In\u00e1cio Lula da Silva (PT) had the maximum Share of respondents among all 2 groups, and it was for Situation A. The minimum Share of respondents was observed in Month Don't know for Situation A. ",
+      "Month Luiz In\u00e1cio Lula da Silva (PT) and Don't know had the biggest gap of 38.0 between the highest and lowest Share of respondents found for Situation A. "
+   ],
+   "xAxis": "Month",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents Share of respondents on the Y-axis. And, its value throughout 30 Months for Situation A, and Situation B. ",
+      " All through the Months, the Share of respondents for Situation A have reduced. On the other hand, for Month the Share of respondents have climbed. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents Share of respondents on the Y-axis. And, its value throughout 30 Months for Situation A, and Situation B. ",
+      " Over the 30 Months, the Share of respondents for Situation A have been reduced whereas climbed for Month. ",
+      " Month Luiz In\u00e1cio Lula da Silva (PT) had the maximum Share of respondents among all 2 groups, and it was for Situation A. The minimum Share of respondents was observed in Month Don't know for Situation A. ",
+      "Month Luiz In\u00e1cio Lula da Silva (PT) and Don't know had the biggest gap of 38.0 between the highest and lowest Share of respondents found for Situation A. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents Share of respondents on the Y-axis. And, its value throughout 30 Months for Situation A, and Situation B. ",
+      " Over the 30 Months, the Share of respondents for Situation A have been reduced whereas climbed for Month. ",
+      " Out of all 2 groups, Situation A had the highest Share of respondents for Month Luiz In\u00e1cio Lula da Silva (PT) and Situation A had the lowest Share of respondents for Month Don't know. ",
+      " For Month Luiz In\u00e1cio Lula da Silva (PT), Situation A had the highest Share of respondents among all 30 Months and it has the lowest Share of respondents in Month Don't know. ",
+      " The maximum Share of respondents for Situation A that was found in Month Luiz In\u00e1cio Lula da Silva (PT) was 39.0 times larger than the minimum Share of respondents observed in Month Don't know. ",
+      " Among the groups, Situation A had the biggest difference in Share of respondents. Where the maximum Share of respondents was 39.0 times larger than the minimum Share of respondents. ",
+      "On average, the Month Luiz In\u00e1cio Lula da Silva (PT) had the highest Share of respondents for all 2 groups Situation A, and Situation B. Whereas Jo\u00e3o Goulart Filho (PPL) had the lowest average Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "28"
+         ],
+         "14": [
+            "2",
+            "28"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Luiz In\u00e1cio Lula da Silva (PT)",
+         "Situation A": "39",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Jair Bolsonaro (PSL)",
+         "Situation A": "19",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Marina Silva (REDE)",
+         "Situation A": "8",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Geraldo Alckmin (PSDB)",
+         "Situation A": "6",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Ciro Gomes (PDT)",
+         "Situation A": "5",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Alvaro Dias (PODE)",
+         "Situation A": "3",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Jo\u00e3o Amoedo (NOVO)",
+         "Situation A": "2",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Henrique Meirelles (MDB)",
+         "Situation A": "1",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Guilherme Boulos (PSOL)",
+         "Situation A": "1",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Cabo Daciolo (PATRI)",
+         "Situation A": "1",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Vera L\u00facia (PSTU)",
+         "Situation A": "1",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Jo\u00e3o Goulart Filho (PPL)",
+         "Situation A": "0",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Jos\u00e9 Maria Eymael (DC)",
+         "Situation A": "0",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Blank or voided ballots / No vote",
+         "Situation A": "11",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Do not know",
+         "Situation A": "3",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Jair Bolsonaro",
+         "Situation A": "0",
+         "Situation B": "22"
+      },
+      {
+         "Month": "Marina Silva",
+         "Situation A": "0",
+         "Situation B": "16"
+      },
+      {
+         "Month": "Ciro Gomes",
+         "Situation A": "0",
+         "Situation B": "10"
+      },
+      {
+         "Month": "Geraldo Alckmin",
+         "Situation A": "0",
+         "Situation B": "9"
+      },
+      {
+         "Month": "Alvaro Dias",
+         "Situation A": "0",
+         "Situation B": "4"
+      },
+      {
+         "Month": "Fernando Haddad (PT)",
+         "Situation A": "0",
+         "Situation B": "4"
+      },
+      {
+         "Month": "Jo\u00e3o Amoedo",
+         "Situation A": "0",
+         "Situation B": "2"
+      },
+      {
+         "Month": "Henrique Meirelles",
+         "Situation A": "0",
+         "Situation B": "2"
+      },
+      {
+         "Month": "Vera L\u00facia",
+         "Situation A": "0",
+         "Situation B": "1"
+      },
+      {
+         "Month": "Cabo Daciolo",
+         "Situation A": "0",
+         "Situation B": "1"
+      },
+      {
+         "Month": "Guilherme Boulos",
+         "Situation A": "0",
+         "Situation B": "1"
+      },
+      {
+         "Month": "Jo\u00e3o Goulart Filho",
+         "Situation A": "0",
+         "Situation B": "1"
+      },
+      {
+         "Month": "Jos\u00e9 Maria Eymael",
+         "Situation A": "0",
+         "Situation B": "0"
+      },
+      {
+         "Month": "Blank or voided ballots/No vote",
+         "Situation A": "0",
+         "Situation B": "22"
+      },
+      {
+         "Month": "Don't know",
+         "Situation A": "0",
+         "Situation B": "6"
+      }
+   ]
+}

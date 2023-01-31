@@ -1,0 +1,113 @@
+{
+   "title": "GDP of New Brunswick , Canada 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "GDP in million chained 2012 Canadian dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP in million chained 2012 Canadian dollars, containing a total of 19 data points.",
+      " Overall GDP in million chained 2012 Canadian dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2001 and 2002.",
+      "The highest GDP in million chained 2012 Canadian dollars, of value 30446.6 was reached at Year 2018",
+      "Minimum GDP in million chained 2012 Canadian dollars about 25058.0 was reached at Year 2000"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP in million chained 2012 Canadian dollars. In total the number of data points it has is 19.",
+      " In general GDP in million chained 2012 Canadian dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP in million chained 2012 Canadian dollars, containing a total of 19 data points.",
+      " Overall GDP in million chained 2012 Canadian dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2001 and 2002.",
+      "The highest GDP in million chained 2012 Canadian dollars, of value 30446.6 was reached at Year 2018",
+      "Minimum GDP in million chained 2012 Canadian dollars about 25058.0 was reached at Year 2000"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP in million chained 2012 Canadian dollars. In total the number of data points it has is 19.",
+      " Overall GDP in million chained 2012 Canadian dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2001 and 2002.",
+      "The highest GDP in million chained 2012 Canadian dollars, of value 30446.6 was reached at Year 2018",
+      "Minimum GDP in million chained 2012 Canadian dollars about 25058.0 was reached at Year 2000",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "GDP in million chained 2012 Canadian dollars": 30446.6
+      },
+      {
+         "Year": "2017",
+         "GDP in million chained 2012 Canadian dollars": 30223.9
+      },
+      {
+         "Year": "2016",
+         "GDP in million chained 2012 Canadian dollars": 29546.0
+      },
+      {
+         "Year": "2015",
+         "GDP in million chained 2012 Canadian dollars": 29275.7
+      },
+      {
+         "Year": "2014",
+         "GDP in million chained 2012 Canadian dollars": 29039.6
+      },
+      {
+         "Year": "2013",
+         "GDP in million chained 2012 Canadian dollars": 29017.0
+      },
+      {
+         "Year": "2012",
+         "GDP in million chained 2012 Canadian dollars": 29117.4
+      },
+      {
+         "Year": "2011",
+         "GDP in million chained 2012 Canadian dollars": 29467.6
+      },
+      {
+         "Year": "2010",
+         "GDP in million chained 2012 Canadian dollars": 29404.4
+      },
+      {
+         "Year": "2009",
+         "GDP in million chained 2012 Canadian dollars": 28802.1
+      },
+      {
+         "Year": "2008",
+         "GDP in million chained 2012 Canadian dollars": 29215.2
+      },
+      {
+         "Year": "2007",
+         "GDP in million chained 2012 Canadian dollars": 28962.4
+      },
+      {
+         "Year": "2006",
+         "GDP in million chained 2012 Canadian dollars": 28787.2
+      },
+      {
+         "Year": "2005",
+         "GDP in million chained 2012 Canadian dollars": 28281.0
+      },
+      {
+         "Year": "2004",
+         "GDP in million chained 2012 Canadian dollars": 28008.6
+      },
+      {
+         "Year": "2003",
+         "GDP in million chained 2012 Canadian dollars": 27240.8
+      },
+      {
+         "Year": "2002",
+         "GDP in million chained 2012 Canadian dollars": 26653.8
+      },
+      {
+         "Year": "2001",
+         "GDP in million chained 2012 Canadian dollars": 25444.8
+      },
+      {
+         "Year": "2000",
+         "GDP in million chained 2012 Canadian dollars": 25058.0
+      }
+   ]
+}

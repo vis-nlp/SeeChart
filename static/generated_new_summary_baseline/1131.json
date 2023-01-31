@@ -1,0 +1,49 @@
+{
+   "title": "Global revenue of Birkenstock 2012 to 2013",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million euros. In total the number of data points it has is 2.",
+      " Overall Revenue in million euros has increased over the Year.",
+      "Revenue in million euros is slightly increasing from 2012 to 2013.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "The highest Revenue in million euros, of value 14525.69 was reached at Year 2013",
+      "Minimum Revenue in million euros about 14109.4 was reached at Year 2012"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million euros, containing a total of 2 data points.",
+      " Overall Revenue in million euros has increased over the Year.",
+      "Revenue in million euros is slightly increasing from 2012 to 2013."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million euros. In total the number of data points it has is 2.",
+      " Overall Revenue in million euros has increased over the Year.",
+      "Revenue in million euros is slightly increasing from 2012 to 2013.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "The highest Revenue in million euros, of value 14525.69 was reached at Year 2013",
+      "Minimum Revenue in million euros about 14109.4 was reached at Year 2012"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million euros, containing a total of 2 data points.",
+      " Overall Revenue in million euros has increased over the Year.",
+      "Revenue in million euros is slightly increasing from 2012 to 2013.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Revenue in million euros, of value 14525.69 was reached at Year 2013",
+      "Minimum Revenue in million euros about 14109.4 was reached at Year 2012",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2013",
+         "Revenue in million euros": 14525.69
+      },
+      {
+         "Year": "2012",
+         "Revenue in million euros": 14109.4
+      }
+   ]
+}

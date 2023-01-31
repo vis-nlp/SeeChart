@@ -1,0 +1,167 @@
+{
+   "title": "Apple App Store : global category revenue share per business model 2014",
+   "labels": [
+      "Category",
+      "Free apps with in-app purchases",
+      "Paid apps without in-app purchases",
+      "Paid apps with in-app purchases"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of revenue on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
+      " For Category Newsstand, Free apps with in-app purchases had the highest Share of revenue 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest Share of revenue 2.0. ",
+      " There is a gap of 679.0 between the highest and lowest Share of revenue found for Paid apps without in-app purchases in Category Medical and Newsstand. ",
+      "On average, the Category Productivity had the highest Share of revenue for all 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. Whereas Music had the lowest average Share of revenue. "
+   ],
+   "xAxis": "Category",
+   "yAxis": "Share of revenue",
+   "min_summary": [
+      "This grouped bar chart shows Share of revenue on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
+      " Out of all 3 groups, Free apps with in-app purchases had the highest Share of revenue for Category Newsstand and Paid apps without in-app purchases had the lowest Share of revenue for Category Newsstand. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of revenue on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
+      " For Category Newsstand, Free apps with in-app purchases had the highest Share of revenue 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest Share of revenue 2.0. ",
+      " There is a gap of 679.0 between the highest and lowest Share of revenue found for Paid apps without in-app purchases in Category Medical and Newsstand. ",
+      "On average, the Category Productivity had the highest Share of revenue for all 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. Whereas Music had the lowest average Share of revenue. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 17 different Categorys on X-axis for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. On the Y-axis it shows their corresponding Share of revenue. ",
+      " Category Newsstand had the maximum Share of revenue among all 3 groups, and it was for Free apps with in-app purchases. The minimum Share of revenue was observed in Category Newsstand for Paid apps without in-app purchases. ",
+      " For Category Medical, Paid apps without in-app purchases had the highest Share of revenue among all 17 Categorys and it has the lowest Share of revenue in Category Newsstand. ",
+      "Category Medical and Newsstand had the biggest gap of 679.0 between the highest and lowest Share of revenue found for Paid apps without in-app purchases. ",
+      " Among the groups, Free apps with in-app purchases had the biggest difference in Share of revenue. Where the maximum Share of revenue was 47.43 times larger than the minimum Share of revenue. ",
+      " Free apps with in-app purchases had the maximum Share of revenue out of all 3 groups in Category Newsstand followed by Free apps with in-app purchases in Newsstand, and the minimum Share of revenue is found for Paid apps without in-app purchases in Newsstand. ",
+      "On average, the Category Productivity had the highest Share of revenue for all 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. Whereas Music had the lowest average Share of revenue. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "13"
+         ],
+         "13": [
+            "3",
+            "13"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "8"
+         ],
+         "14": [
+            "3",
+            "8"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category": "Catalogs",
+         "Free apps with in-app purchases": "35.4",
+         "Paid apps without in-app purchases": "63.7",
+         "Paid apps with in-app purchases": "0.9"
+      },
+      {
+         "Category": "Education",
+         "Free apps with in-app purchases": "47.6",
+         "Paid apps without in-app purchases": "50.6",
+         "Paid apps with in-app purchases": "1.9"
+      },
+      {
+         "Category": "Entertainment",
+         "Free apps with in-app purchases": "70.4",
+         "Paid apps without in-app purchases": "27.8",
+         "Paid apps with in-app purchases": "1.8"
+      },
+      {
+         "Category": "Finance",
+         "Free apps with in-app purchases": "52.7",
+         "Paid apps without in-app purchases": "43.1",
+         "Paid apps with in-app purchases": "4.2"
+      },
+      {
+         "Category": "Food & Drink",
+         "Free apps with in-app purchases": "41.3",
+         "Paid apps without in-app purchases": "55",
+         "Paid apps with in-app purchases": "3.7"
+      },
+      {
+         "Category": "Games",
+         "Free apps with in-app purchases": "92",
+         "Paid apps without in-app purchases": "6.1",
+         "Paid apps with in-app purchases": "2"
+      },
+      {
+         "Category": "Health & Fitness",
+         "Free apps with in-app purchases": "29.7",
+         "Paid apps without in-app purchases": "66.6",
+         "Paid apps with in-app purchases": "3.8"
+      },
+      {
+         "Category": "Kids",
+         "Free apps with in-app purchases": "39.2",
+         "Paid apps without in-app purchases": "59",
+         "Paid apps with in-app purchases": "1.8"
+      },
+      {
+         "Category": "Medical",
+         "Free apps with in-app purchases": "29.4",
+         "Paid apps without in-app purchases": "68.1",
+         "Paid apps with in-app purchases": "2.6"
+      },
+      {
+         "Category": "Music",
+         "Free apps with in-app purchases": "73.8",
+         "Paid apps without in-app purchases": "23.3",
+         "Paid apps with in-app purchases": "2.8"
+      },
+      {
+         "Category": "Navigation",
+         "Free apps with in-app purchases": "21",
+         "Paid apps without in-app purchases": "51",
+         "Paid apps with in-app purchases": "28"
+      },
+      {
+         "Category": "Newsstand",
+         "Free apps with in-app purchases": "99.6",
+         "Paid apps without in-app purchases": "0.2",
+         "Paid apps with in-app purchases": "0.2"
+      },
+      {
+         "Category": "Photo & Video",
+         "Free apps with in-app purchases": "37.6",
+         "Paid apps without in-app purchases": "57.4",
+         "Paid apps with in-app purchases": "5"
+      },
+      {
+         "Category": "Productivity",
+         "Free apps with in-app purchases": "41.6",
+         "Paid apps without in-app purchases": "56.5",
+         "Paid apps with in-app purchases": "2"
+      },
+      {
+         "Category": "Social Networking",
+         "Free apps with in-app purchases": "90.6",
+         "Paid apps without in-app purchases": "4.4",
+         "Paid apps with in-app purchases": "5"
+      },
+      {
+         "Category": "Sports",
+         "Free apps with in-app purchases": "68.9",
+         "Paid apps without in-app purchases": "27.9",
+         "Paid apps with in-app purchases": "3.1"
+      },
+      {
+         "Category": "Weather",
+         "Free apps with in-app purchases": "31.4",
+         "Paid apps without in-app purchases": "59.9",
+         "Paid apps with in-app purchases": "8.7"
+      }
+   ]
+}

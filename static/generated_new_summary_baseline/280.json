@@ -1,0 +1,84 @@
+{
+   "title": "European cities ranked worst for over-tourism 2017",
+   "xAxis": "Tourist Places",
+   "yAxis": "Overtourism score (1-10)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Overtourism score (1-10) for 10 number of Tourist Placess. ",
+      "The Overtourism score (1-10) is highest at Tourist Places Nantes France and lowest at Tourist Places Barcelona Spain. ",
+      "The highest value at Tourist Places Nantes France is 1.76x times more than the lowest value at Barcelona Spain. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Tourist Places, and Overtourism score (1-10) in each Tourist Places on the y axis. ",
+      "The Overtourism score (1-10) is highest at Tourist Places Nantes France and lowest at Tourist Places Barcelona Spain. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Overtourism score (1-10) for 10 number of Tourist Placess. ",
+      "The Overtourism score (1-10) is highest at Tourist Places Nantes France and lowest at Tourist Places Barcelona Spain. ",
+      "The highest value at Tourist Places Nantes France is 1.76x times more than the lowest value at Barcelona Spain. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Tourist Places, and Overtourism score (1-10) in each Tourist Places on the y axis. ",
+      "Tourist Places Nantes France has the highest Overtourism score (1-10) and Barcelona Spain has the lowest Overtourism score (1-10). ",
+      "There is a difference of 1.56 between the maximum Tourist Places Nantes France and minimum Tourist Places Barcelona Spain. ",
+      "Overtourism score (1-10) at Tourist Places Nantes France is 3.61 , second place is  at 2.05, and thirdly is Moscow Russia at 3.27.",
+      "The Tourist Places Barcelona Spain has 1.25 times less Overtourism score (1-10) than average. ",
+      "Summing up the values of all Tourist Placess, we get total 28.78. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 9,
+         "12": 9
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Tourist Places": "Barcelona Spain",
+         "Overtourism score (1-10)": 2.05
+      },
+      {
+         "Tourist Places": "Amsterdam Netherlands",
+         "Overtourism score (1-10)": 2.18
+      },
+      {
+         "Tourist Places": "Venice Italy",
+         "Overtourism score (1-10)": 2.19
+      },
+      {
+         "Tourist Places": "Milan Italy",
+         "Overtourism score (1-10)": 2.66
+      },
+      {
+         "Tourist Places": "Budapest Hungary",
+         "Overtourism score (1-10)": 2.89
+      },
+      {
+         "Tourist Places": "Bucharest Romania",
+         "Overtourism score (1-10)": 3.22
+      },
+      {
+         "Tourist Places": "Reykjavik Iceland",
+         "Overtourism score (1-10)": 3.26
+      },
+      {
+         "Tourist Places": "Moscow Russia",
+         "Overtourism score (1-10)": 3.27
+      },
+      {
+         "Tourist Places": "Athens Greece",
+         "Overtourism score (1-10)": 3.45
+      },
+      {
+         "Tourist Places": "Nantes France",
+         "Overtourism score (1-10)": 3.61
+      }
+   ]
+}

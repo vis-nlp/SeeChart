@@ -1,0 +1,125 @@
+{
+   "title": "Leading chemical drugs dispensed in England 2018 , by items",
+   "xAxis": "Item",
+   "yAxis": "Number of items dispensed in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 columns on the x axis representing Item, and Number of items dispensed in millions in each Item on the y axis. ",
+      "The Number of items dispensed in millions is highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. ",
+      "The highest Item Atorvastatin has 31.8 more Number of items dispensed in millions than the lowest Item Bendroflumethiazide. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of items dispensed in millions for 20 number of Items. ",
+      "The Number of items dispensed in millions is appeared to be the highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing Item, and Number of items dispensed in millions in each Item on the y axis. ",
+      "The Number of items dispensed in millions is highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. ",
+      "The highest Item Atorvastatin has 31.8 more Number of items dispensed in millions than the lowest Item Bendroflumethiazide. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Item in the x axis and Number of items dispensed in millions in the y axis. ",
+      "The Number of items dispensed in millions is appeared to be the highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. ",
+      "Second maximum Number of items dispensed in millions is found at Item . ",
+      "The highest Item Atorvastatin has 31.8 more Number of items dispensed in millions than the lowest Item Bendroflumethiazide. ",
+      "Number of items dispensed in millions at Item Atorvastatin is 41.8 , second place is  at 41.8, and thirdly is Omeprazole at 31.0.",
+      "Item Bisoprolol Fumarate, and Colecalciferol have a similar Number of items dispensed in millions that is 23.6. ",
+      "The average Number of items dispensed in millions in all 20 Items is 21.74. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Item": "Atorvastatin",
+         "Number of items dispensed in millions": 41.8
+      },
+      {
+         "Item": "Levothyroxine Sodium",
+         "Number of items dispensed in millions": 32.2
+      },
+      {
+         "Item": "Omeprazole",
+         "Number of items dispensed in millions": 31.0
+      },
+      {
+         "Item": "Amlodipine",
+         "Number of items dispensed in millions": 29.1
+      },
+      {
+         "Item": "Ramipril",
+         "Number of items dispensed in millions": 28.6
+      },
+      {
+         "Item": "Lansoprazole",
+         "Number of items dispensed in millions": 25.5
+      },
+      {
+         "Item": "Simvastatin",
+         "Number of items dispensed in millions": 24.3
+      },
+      {
+         "Item": "Bisoprolol Fumarate",
+         "Number of items dispensed in millions": 23.6
+      },
+      {
+         "Item": "Colecalciferol",
+         "Number of items dispensed in millions": 23.6
+      },
+      {
+         "Item": "Aspirin",
+         "Number of items dispensed in millions": 23.4
+      },
+      {
+         "Item": "Metformin Hydrochloride",
+         "Number of items dispensed in millions": 21.8
+      },
+      {
+         "Item": "Salbutamol",
+         "Number of items dispensed in millions": 21.6
+      },
+      {
+         "Item": "Paracetamol",
+         "Number of items dispensed in millions": 18.5
+      },
+      {
+         "Item": "Co-Codamol (Codeine Phos/Paracetamol)",
+         "Number of items dispensed in millions": 15.2
+      },
+      {
+         "Item": "Sertraline Hydrochloride",
+         "Number of items dispensed in millions": 14.8
+      },
+      {
+         "Item": "Citalopram Hydrobromide",
+         "Number of items dispensed in millions": 14.1
+      },
+      {
+         "Item": "Amitriptyline Hydrochloride",
+         "Number of items dispensed in millions": 13.5
+      },
+      {
+         "Item": "Furosemide",
+         "Number of items dispensed in millions": 11.9
+      },
+      {
+         "Item": "Influenza",
+         "Number of items dispensed in millions": 10.3
+      },
+      {
+         "Item": "Bendroflumethiazide",
+         "Number of items dispensed in millions": 10.0
+      }
+   ]
+}

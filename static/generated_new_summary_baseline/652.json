@@ -1,0 +1,85 @@
+{
+   "title": "Urbanization in China 2018",
+   "xAxis": "Year",
+   "yAxis": "Share of urban population in total population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of urban population in total population. In total the number of data points it has is 11.",
+      " Overall Share of urban population in total population has increased over the Year.",
+      "Share of urban population in total population is slightly increasing from 2008 to 2018.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "Maximum Share of urban population in total population, about 59.15 was reported at Year 2018",
+      "Minimum Share of urban population in total population about 46.54 was reached at Year 2008"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of urban population in total population. In total the number of data points it has is 11.",
+      " In general Share of urban population in total population has rose over the Year.",
+      "Share of urban population in total population is slightly increasing from 2008 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of urban population in total population. In total the number of data points it has is 11.",
+      " Overall Share of urban population in total population has increased over the Year.",
+      "Share of urban population in total population is slightly increasing from 2008 to 2018.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "Maximum Share of urban population in total population, about 59.15 was reported at Year 2018",
+      "Minimum Share of urban population in total population about 46.54 was reached at Year 2008"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of urban population in total population, containing a total of 11 data points.",
+      " Overall Share of urban population in total population has increased over the Year.",
+      "Share of urban population in total population is slightly increasing from 2008 to 2018.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "Maximum Share of urban population in total population, about 59.15 was reported at Year 2018",
+      "Minimum Share of urban population in total population about 46.54 was reached at Year 2008",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Share of urban population in total population": 59.15
+      },
+      {
+         "Year": "2017",
+         "Share of urban population in total population": 57.96
+      },
+      {
+         "Year": "2016",
+         "Share of urban population in total population": 56.74
+      },
+      {
+         "Year": "2015",
+         "Share of urban population in total population": 55.5
+      },
+      {
+         "Year": "2014",
+         "Share of urban population in total population": 54.26
+      },
+      {
+         "Year": "2013",
+         "Share of urban population in total population": 53.01
+      },
+      {
+         "Year": "2012",
+         "Share of urban population in total population": 51.77
+      },
+      {
+         "Year": "2011",
+         "Share of urban population in total population": 50.51
+      },
+      {
+         "Year": "2010",
+         "Share of urban population in total population": 49.23
+      },
+      {
+         "Year": "2009",
+         "Share of urban population in total population": 47.88
+      },
+      {
+         "Year": "2008",
+         "Share of urban population in total population": 46.54
+      }
+   ]
+}

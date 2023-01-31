@@ -1,0 +1,125 @@
+{
+   "title": "Travel spending of U.S. travelers by age group 2015",
+   "labels": [
+      "Year",
+      "Less than 1,000 U.S. dollars",
+      "1,000-3,999 U.S. dollars",
+      "4,000-3,000 U.S. dollars",
+      "8,000-11,999 U.S. dollars",
+      "12,000-15,999 U.S. dollars",
+      "16,000-19,999 U.S. dollars",
+      "20,000-24,999 U.S. dollars",
+      "25,000 U.S. dollars or more"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 8 lines representing Less than 1,000 U.S. dollars, 1,000-3,999 U.S. dollars, 4,000-3,000 U.S. dollars, 8,000-11,999 U.S. dollars, 12,000-15,999 U.S. dollars, 16,000-19,999 U.S. dollars, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall Less than 1,000 U.S. dollars, and 8,000-11,999 U.S. dollars are gradually increasing, 1,000-3,999 U.S. dollars, and 16,000-19,999 U.S. dollars are gradually decreasing, 4,000-3,000 U.S. dollars, 12,000-15,999 U.S. dollars, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more are roughly constant,  throughout the Year",
+      "Throughout the period, 1,000-3,999 U.S. dollars generally had the highest Share of respondents relative to others with an average of 37.33, and it reached its maximum at 21-34_years_old with a value of 43.0.",
+      "After 1,000-3,999 U.S. dollars, 4,000-3,000 U.S. dollars overall has the second highest values , with a mean value of 21.0, peaking at 35-54_years_old. ",
+      "20,000-24,999 U.S. dollars mostly had the least Share of respondents with a mean value of 2.67, which peaked at 21-34_years_old, and 35-54_years_old with a value of 3.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 8 lines denoting Less than 1,000 U.S. dollars, 1,000-3,999 U.S. dollars, 4,000-3,000 U.S. dollars, 8,000-11,999 U.S. dollars, 12,000-15,999 U.S. dollars, 16,000-19,999 U.S. dollars, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more. The y axis indicates the Share of respondents and the x axis indicates Year.",
+      "Overall Less than 1,000 U.S. dollars, and 8,000-11,999 U.S. dollars are gradually increasing, 1,000-3,999 U.S. dollars, and 16,000-19,999 U.S. dollars are gradually decreasing, 4,000-3,000 U.S. dollars, 12,000-15,999 U.S. dollars, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more are roughly constant,  throughout the Year",
+      "Throughout the period, 1,000-3,999 U.S. dollars generally had the highest Share of respondents relative to others with an average of 37.33, and it reached its maximum at 21-34_years_old with a value of 43.0.",
+      "Followed by 4,000-3,000 U.S. dollars which ranks as the second topmpost line , with an average of 21.0 Share of respondents,reaching its highest point  at 35-54_years_old with a value of 26.0. ",
+      "The botommost line, 20,000-24,999 U.S. dollars,  has a mean of 2.67, and peaked at 21-34_years_old, and 35-54_years_old. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 8 lines representing Less than 1,000 U.S. dollars, 1,000-3,999 U.S. dollars, 4,000-3,000 U.S. dollars, 8,000-11,999 U.S. dollars, 12,000-15,999 U.S. dollars, 16,000-19,999 U.S. dollars, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall Less than 1,000 U.S. dollars, and 8,000-11,999 U.S. dollars are gradually increasing, 1,000-3,999 U.S. dollars, and 16,000-19,999 U.S. dollars are gradually decreasing, 4,000-3,000 U.S. dollars, 12,000-15,999 U.S. dollars, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more are roughly constant,  throughout the Year",
+      "Throughout the period, 1,000-3,999 U.S. dollars generally had the highest Share of respondents relative to others with an average of 37.33, and it reached its maximum at 21-34_years_old with a value of 43.0.",
+      "After 1,000-3,999 U.S. dollars, 4,000-3,000 U.S. dollars overall has the second highest values , with a mean value of 21.0, peaking at 35-54_years_old. ",
+      "20,000-24,999 U.S. dollars mostly had the least Share of respondents with a mean value of 2.67, which peaked at 21-34_years_old, and 35-54_years_old with a value of 3.0. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 8 lines representing Less than 1,000 U.S. dollars, 1,000-3,999 U.S. dollars, 4,000-3,000 U.S. dollars, 8,000-11,999 U.S. dollars, 12,000-15,999 U.S. dollars, 16,000-19,999 U.S. dollars, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall Less than 1,000 U.S. dollars, and 8,000-11,999 U.S. dollars are gradually increasing, 1,000-3,999 U.S. dollars, and 16,000-19,999 U.S. dollars are gradually decreasing, 4,000-3,000 U.S. dollars, 12,000-15,999 U.S. dollars, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more are roughly constant,  throughout the Year",
+      "Overall across the Year, 1,000-3,999 U.S. dollars mostly maintained the highest Share of respondents when compared to others with a mean value of 37.33, and it peaked at 21-34_years_old.",
+      "Followed by 4,000-3,000 U.S. dollars which ranks as the second topmpost line , with an average of 21.0 Share of respondents,reaching its highest point  at 35-54_years_old with a value of 26.0. ",
+      "20,000-24,999 U.S. dollars mostly had the least Share of respondents with a mean value of 2.67, which peaked at 21-34_years_old, and 35-54_years_old with a value of 3.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "2",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "2"
+         ],
+         "10": [
+            "1",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "21-34 years old",
+         "Less than 1,000 U.S. dollars": "15",
+         "1,000-3,999 U.S. dollars": "43",
+         "4,000-3,000 U.S. dollars": "19",
+         "8,000-11,999 U.S. dollars": "6",
+         "12,000-15,999 U.S. dollars": "3",
+         "16,000-19,999 U.S. dollars": "7",
+         "20,000-24,999 U.S. dollars": "3",
+         "25,000 U.S. dollars or more": "4"
+      },
+      {
+         "Year": "35-54 years old",
+         "Less than 1,000 U.S. dollars": "12",
+         "1,000-3,999 U.S. dollars": "33",
+         "4,000-3,000 U.S. dollars": "26",
+         "8,000-11,999 U.S. dollars": "14",
+         "12,000-15,999 U.S. dollars": "6",
+         "16,000-19,999 U.S. dollars": "2",
+         "20,000-24,999 U.S. dollars": "3",
+         "25,000 U.S. dollars or more": "4"
+      },
+      {
+         "Year": "55+ years old",
+         "Less than 1,000 U.S. dollars": "23",
+         "1,000-3,999 U.S. dollars": "36",
+         "4,000-3,000 U.S. dollars": "18",
+         "8,000-11,999 U.S. dollars": "10",
+         "12,000-15,999 U.S. dollars": "5",
+         "16,000-19,999 U.S. dollars": "3",
+         "20,000-24,999 U.S. dollars": "2",
+         "25,000 U.S. dollars or more": "4"
+      }
+   ]
+}

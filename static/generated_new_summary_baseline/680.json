@@ -1,0 +1,93 @@
+{
+   "title": "China 's share of global gross domestic product ( GDP ) 2012 to 2024",
+   "xAxis": "Year",
+   "yAxis": "Share of global GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of global GDP. In total the number of data points it has is 13.",
+      " Overall Share of global GDP has increased over the Year.",
+      "Share of global GDP is slightly increasing from 2012 to 2024.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Share of global GDP, of value 21.39 was reached at Year 2024",
+      "Minimum Share of global GDP about 15.26 was reached at Year 2012"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of global GDP. In total the number of data points it has is 13.",
+      " In general Share of global GDP has rose over the Year.",
+      "Share of global GDP is slightly increasing from 2012 to 2024."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of global GDP. In total the number of data points it has is 13.",
+      " Overall Share of global GDP has increased over the Year.",
+      "Share of global GDP is slightly increasing from 2012 to 2024.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Share of global GDP, of value 21.39 was reached at Year 2024",
+      "Minimum Share of global GDP about 15.26 was reached at Year 2012"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of global GDP, containing a total of 13 data points.",
+      " In general Share of global GDP has rose over the Year.",
+      "Share of global GDP is slightly increasing from 2012 to 2024.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "The highest Share of global GDP, of value 21.39 was reached at Year 2024",
+      "Minimum Share of global GDP about 15.26 was reached at Year 2012",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "Share of global GDP": 21.39
+      },
+      {
+         "Year": "2023",
+         "Share of global GDP": 21.01
+      },
+      {
+         "Year": "2022",
+         "Share of global GDP": 20.61
+      },
+      {
+         "Year": "2021",
+         "Share of global GDP": 20.18
+      },
+      {
+         "Year": "2020",
+         "Share of global GDP": 19.72
+      },
+      {
+         "Year": "2019",
+         "Share of global GDP": 19.24
+      },
+      {
+         "Year": "2018",
+         "Share of global GDP": 18.69
+      },
+      {
+         "Year": "2017",
+         "Share of global GDP": 18.16
+      },
+      {
+         "Year": "2016",
+         "Share of global GDP": 17.64
+      },
+      {
+         "Year": "2015",
+         "Share of global GDP": 17.07
+      },
+      {
+         "Year": "2014",
+         "Share of global GDP": 16.5
+      },
+      {
+         "Year": "2013",
+         "Share of global GDP": 15.91
+      },
+      {
+         "Year": "2012",
+         "Share of global GDP": 15.26
+      }
+   ]
+}

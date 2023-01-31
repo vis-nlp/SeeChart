@@ -1,0 +1,172 @@
+{
+   "title": "Brand value of Premier League ( England ) football teams 2019",
+   "labels": [
+      "Year",
+      "Manchester United",
+      "Chelsea",
+      "Manchester City",
+      "Arsenal",
+      "Liverpool",
+      "Tottenham Hotspur"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 6 lines denoting Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis indicates the Value in million USD and the x axis indicates Year.",
+      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
+      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
+      "Followed by Manchester City which ranks as the second topmpost line , with an average of 753.1 Value in million USD,reaching its highest point  at 2019 with a value of 1407.0. ",
+      "The botommost line, Tottenham Hotspur,  has a mean of 440.0, and peaked at 2019. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Value in million USD",
+   "min_summary": [
+      "The given chart is of multi-line type with 6 lines namely Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis represents Value in million USD and the x axis represents Year.",
+      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
+      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
+      "After Manchester United, Manchester City overall has the second highest values , with a mean value of 753.1, peaking at 2019. ",
+      "The botommost line, Tottenham Hotspur,  has a mean of 440.0, and peaked at 2019. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 6 lines denoting Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis indicates the Value in million USD and the x axis indicates Year.",
+      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
+      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
+      "Followed by Manchester City which ranks as the second topmpost line , with an average of 753.1 Value in million USD,reaching its highest point  at 2019 with a value of 1407.0. ",
+      "The botommost line, Tottenham Hotspur,  has a mean of 440.0, and peaked at 2019. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 6 lines denoting Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis indicates the Value in million USD and the x axis indicates Year.",
+      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
+      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
+      "After Manchester United, Manchester City overall has the second highest values , with a mean value of 753.1, peaking at 2019. ",
+      "The botommost line, Tottenham Hotspur,  has a mean of 440.0, and peaked at 2019. ",
+      "The minimum Value in million USD about 127.0, occured at 2011 by Tottenham Hotspur."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "8",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "7",
+            "0"
+         ],
+         "9": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "8",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "8",
+            "2"
+         ],
+         "10": [
+            "8",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "Manchester United": "661",
+         "Chelsea": "314",
+         "Manchester City": "170",
+         "Arsenal": "301",
+         "Liverpool": "250",
+         "Tottenham Hotspur": "127"
+      },
+      {
+         "Year": "2012",
+         "Manchester United": "853",
+         "Chelsea": "398",
+         "Manchester City": "302",
+         "Arsenal": "388",
+         "Liverpool": "367",
+         "Tottenham Hotspur": "255"
+      },
+      {
+         "Year": "2013",
+         "Manchester United": "837",
+         "Chelsea": "418",
+         "Manchester City": "332",
+         "Arsenal": "410",
+         "Liverpool": "361",
+         "Tottenham Hotspur": "219"
+      },
+      {
+         "Year": "2014",
+         "Manchester United": "739",
+         "Chelsea": "502",
+         "Manchester City": "510",
+         "Arsenal": "505",
+         "Liverpool": "469",
+         "Tottenham Hotspur": "248"
+      },
+      {
+         "Year": "2015",
+         "Manchester United": "1206",
+         "Chelsea": "795",
+         "Manchester City": "800",
+         "Arsenal": "703",
+         "Liverpool": "577",
+         "Tottenham Hotspur": "360"
+      },
+      {
+         "Year": "2016",
+         "Manchester United": "1170",
+         "Chelsea": "776",
+         "Manchester City": "905",
+         "Arsenal": "858",
+         "Liverpool": "748",
+         "Tottenham Hotspur": "441"
+      },
+      {
+         "Year": "2017",
+         "Manchester United": "1733",
+         "Chelsea": "1248",
+         "Manchester City": "1021",
+         "Arsenal": "941",
+         "Liverpool": "908",
+         "Tottenham Hotspur": "696"
+      },
+      {
+         "Year": "2018",
+         "Manchester United": "1895",
+         "Chelsea": "1195",
+         "Manchester City": "1331",
+         "Arsenal": "1083",
+         "Liverpool": "1204",
+         "Tottenham Hotspur": "764"
+      },
+      {
+         "Year": "2019",
+         "Manchester United": "1651",
+         "Chelsea": "1085",
+         "Manchester City": "1407",
+         "Arsenal": "993",
+         "Liverpool": "1336",
+         "Tottenham Hotspur": "850"
+      }
+   ]
+}

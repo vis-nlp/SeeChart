@@ -1,0 +1,93 @@
+{
+   "title": "France : number of public primary schools 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of public schools",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of public schools. In total the number of data points it has is 13.",
+      " In general Number of public schools has fallen over the Year.",
+      "Number of public schools is slightly decreasing from 2005 to 2018.",
+      "The most drastic decrease took place within the Year 2005 and 2007.",
+      "The highest Number of public schools, of value 50668.0 was reached at Year 2005",
+      "Minimum Number of public schools about 44902.0 was reached at Year 2018"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of public schools, containing a total of 13 data points.",
+      " Overall Number of public schools has decreased over the Year.",
+      "Number of public schools is slightly decreasing from 2005 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of public schools. In total the number of data points it has is 13.",
+      " In general Number of public schools has fallen over the Year.",
+      "Number of public schools is slightly decreasing from 2005 to 2018.",
+      "The most drastic decrease took place within the Year 2005 and 2007.",
+      "The highest Number of public schools, of value 50668.0 was reached at Year 2005",
+      "Minimum Number of public schools about 44902.0 was reached at Year 2018"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of public schools. In total the number of data points it has is 13.",
+      " Overall Number of public schools has decreased over the Year.",
+      "Number of public schools is slightly decreasing from 2005 to 2018.",
+      "The most drastic decrease took place within the Year 2005 and 2007.",
+      "The highest Number of public schools, of value 50668.0 was reached at Year 2005",
+      "Minimum Number of public schools about 44902.0 was reached at Year 2018",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of public schools": 44902.0
+      },
+      {
+         "Year": "2017",
+         "Number of public schools": 45401.0
+      },
+      {
+         "Year": "2016",
+         "Number of public schools": 45877.0
+      },
+      {
+         "Year": "2015",
+         "Number of public schools": 46435.0
+      },
+      {
+         "Year": "2014",
+         "Number of public schools": 46962.0
+      },
+      {
+         "Year": "2013",
+         "Number of public schools": 47306.0
+      },
+      {
+         "Year": "2012",
+         "Number of public schools": 47672.0
+      },
+      {
+         "Year": "2011",
+         "Number of public schools": 48139.0
+      },
+      {
+         "Year": "2010",
+         "Number of public schools": 48522.0
+      },
+      {
+         "Year": "2009",
+         "Number of public schools": 48975.0
+      },
+      {
+         "Year": "2008",
+         "Number of public schools": 49498.0
+      },
+      {
+         "Year": "2007",
+         "Number of public schools": 49928.0
+      },
+      {
+         "Year": "2005",
+         "Number of public schools": 50668.0
+      }
+   ]
+}

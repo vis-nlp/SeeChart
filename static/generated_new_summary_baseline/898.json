@@ -1,0 +1,79 @@
+{
+   "title": "Average annual consumer spending , by type U.S. 2018",
+   "xAxis": "Spending Type",
+   "yAxis": "Spending in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Spending in U.S. dollars for 9 number of Spending Types. ",
+      "Spending Type Housing has the highest Spending in U.S. dollars and Apparel and services has the lowest Spending in U.S. dollars. ",
+      "There is a difference of 18225.0 between the maximum Spending Type Housing and minimum Spending Type Apparel and services. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Spending in U.S. dollars for 9 number of Spending Types. ",
+      "Spending Type Housing has the highest Spending in U.S. dollars and Apparel and services has the lowest Spending in U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Spending in U.S. dollars for 9 number of Spending Types. ",
+      "Spending Type Housing has the highest Spending in U.S. dollars and Apparel and services has the lowest Spending in U.S. dollars. ",
+      "There is a difference of 18225.0 between the maximum Spending Type Housing and minimum Spending Type Apparel and services. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Spending in U.S. dollars for 9 number of Spending Types. ",
+      "The maximum Spending in U.S. dollars 20091.0 is found at Spending Type Housing and the minimum is found at Apparel and services where Spending in U.S. dollars is 1866.0. ",
+      "The highest Spending Type Housing has 18225.0 more Spending in U.S. dollars than the lowest Spending Type Apparel and services. ",
+      "The Spending Type Housing has the highest Spending in U.S. dollars, followed by , and Food. Down to the Spending Type Apparel and services which is the lowest. ",
+      "Considered together, the average Spending in U.S. dollars in all 9 Spending Types is roughly 6561.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Spending Type": "Housing",
+         "Spending in U.S. dollars": 20091.0
+      },
+      {
+         "Spending Type": "Transportation",
+         "Spending in U.S. dollars": 9761.0
+      },
+      {
+         "Spending Type": "Food",
+         "Spending in U.S. dollars": 7923.0
+      },
+      {
+         "Spending Type": "Personal insurance and pensions",
+         "Spending in U.S. dollars": 7296.0
+      },
+      {
+         "Spending Type": "Healthcare",
+         "Spending in U.S. dollars": 4968.0
+      },
+      {
+         "Spending Type": "Entertainment",
+         "Spending in U.S. dollars": 3226.0
+      },
+      {
+         "Spending Type": "All other expenditures",
+         "Spending in U.S. dollars": 2030.0
+      },
+      {
+         "Spending Type": "Cash contributions",
+         "Spending in U.S. dollars": 1888.0
+      },
+      {
+         "Spending Type": "Apparel and services",
+         "Spending in U.S. dollars": 1866.0
+      }
+   ]
+}

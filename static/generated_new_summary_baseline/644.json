@@ -1,0 +1,81 @@
+{
+   "title": "Number of expressways gas stations , by provider in France 2018",
+   "xAxis": "Company",
+   "yAxis": "Number of gas stations",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of gas stations for 9 number of Companys. ",
+      "The maximum Number of gas stations 121.0 is found at Company Total and the minimum is found at Dyneff where Number of gas stations is 8.0. ",
+      "There is a difference of 113.0 between the maximum Company Total and minimum Company Dyneff. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Company, and Number of gas stations in each Company on the y axis. ",
+      "The Number of gas stations is highest at Company Total and lowest at Company Dyneff. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of gas stations for 9 number of Companys. ",
+      "The maximum Number of gas stations 121.0 is found at Company Total and the minimum is found at Dyneff where Number of gas stations is 8.0. ",
+      "There is a difference of 113.0 between the maximum Company Total and minimum Company Dyneff. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of gas stations for 9 number of Companys. ",
+      "The Number of gas stations is appeared to be the highest at Company Total and lowest at Company Dyneff. ",
+      "The difference of Number of gas stations between the highest and lowest Company is 113.0. ",
+      "Number of gas stations at Company Total is 121.0 , second place is  at 121.0, and thirdly is Shell at 69.0.",
+      "Company Eni, and Esso share the same value 46.0. ",
+      "Considered together, the average Number of gas stations in all 9 Companys is roughly 49.22. ",
+      "The Number of gas stations is 443.0 if we add up values of all Companys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Total",
+         "Number of gas stations": 121.0
+      },
+      {
+         "Company": "Shell",
+         "Number of gas stations": 69.0
+      },
+      {
+         "Company": "Avia",
+         "Number of gas stations": 72.0
+      },
+      {
+         "Company": "BP",
+         "Number of gas stations": 59.0
+      },
+      {
+         "Company": "Eni",
+         "Number of gas stations": 46.0
+      },
+      {
+         "Company": "Esso",
+         "Number of gas stations": 46.0
+      },
+      {
+         "Company": "Carrefour",
+         "Number of gas stations": 10.0
+      },
+      {
+         "Company": "Leclerc",
+         "Number of gas stations": 12.0
+      },
+      {
+         "Company": "Dyneff",
+         "Number of gas stations": 8.0
+      }
+   ]
+}

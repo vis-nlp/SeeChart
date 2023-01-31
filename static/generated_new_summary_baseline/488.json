@@ -1,0 +1,121 @@
+{
+   "title": "Density of the population of Finland in 2018 , by region",
+   "xAxis": "Finnish Region",
+   "yAxis": "Number of inhabitants per square kilometer",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of inhabitants per square kilometer for 19 number of Finnish Regions. ",
+      "The Number of inhabitants per square kilometer is appeared to be the highest at Finnish Region Uusimaa and lowest at Finnish Region Lapland. ",
+      "There is a difference of 181.8 between the maximum Finnish Region Uusimaa and minimum Finnish Region Lapland. "
+   ],
+   "min_summary": [
+      "This bar chart has 19 columns on the x axis representing Finnish Region, and Number of inhabitants per square kilometer in each Finnish Region on the y axis. ",
+      "Finnish Region Uusimaa has the highest Number of inhabitants per square kilometer and Lapland has the lowest Number of inhabitants per square kilometer. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of inhabitants per square kilometer for 19 number of Finnish Regions. ",
+      "The Number of inhabitants per square kilometer is appeared to be the highest at Finnish Region Uusimaa and lowest at Finnish Region Lapland. ",
+      "There is a difference of 181.8 between the maximum Finnish Region Uusimaa and minimum Finnish Region Lapland. "
+   ],
+   "max_summary": [
+      "This bar chart has 19 columns on the x axis representing Finnish Region, and Number of inhabitants per square kilometer in each Finnish Region on the y axis. ",
+      "The maximum Number of inhabitants per square kilometer 183.7 is found at Finnish Region Uusimaa and the minimum is found at Lapland where Number of inhabitants per square kilometer is 1.9. ",
+      "Finnish Region  has the second highest value for Number of inhabitants per square kilometer. ",
+      "There is a difference of 181.8 between the maximum Finnish Region Uusimaa and minimum Finnish Region Lapland. ",
+      "Finnish Region Uusimaa is higher than any other Finnish Regions with value 183.7, followed by , and Pirkanmaa. Down to Finnish Region Lapland with the lowest value 1.9. ",
+      "The highest value 183.7 at Uusimaa is almost 6.18 times larger than the average value 29.73. ",
+      "Summing up the values of all Finnish Regions, we get total 564.8. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 18,
+         "12": 18
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Finnish Region": "Uusimaa",
+         "Number of inhabitants per square kilometer": 183.7
+      },
+      {
+         "Finnish Region": "Southwest Finland",
+         "Number of inhabitants per square kilometer": 44.9
+      },
+      {
+         "Finnish Region": "Pirkanmaa",
+         "Number of inhabitants per square kilometer": 40.9
+      },
+      {
+         "Finnish Region": "P\u00e4ij\u00e4t-H\u00e4me",
+         "Number of inhabitants per square kilometer": 39.2
+      },
+      {
+         "Finnish Region": "Kymenlaakso",
+         "Number of inhabitants per square kilometer": 33.7
+      },
+      {
+         "Finnish Region": "Kanta-H\u00e4me",
+         "Number of inhabitants per square kilometer": 33.0
+      },
+      {
+         "Finnish Region": "Satakunta",
+         "Number of inhabitants per square kilometer": 28.0
+      },
+      {
+         "Finnish Region": "South Karelia",
+         "Number of inhabitants per square kilometer": 24.2
+      },
+      {
+         "Finnish Region": "Ostrobothnia",
+         "Number of inhabitants per square kilometer": 23.3
+      },
+      {
+         "Finnish Region": "\u00c5land",
+         "Number of inhabitants per square kilometer": 19.2
+      },
+      {
+         "Finnish Region": "Central Finland",
+         "Number of inhabitants per square kilometer": 16.5
+      },
+      {
+         "Finnish Region": "North Savo",
+         "Number of inhabitants per square kilometer": 14.6
+      },
+      {
+         "Finnish Region": "South Ostrobothnia",
+         "Number of inhabitants per square kilometer": 14.1
+      },
+      {
+         "Finnish Region": "Central Ostrobothnia",
+         "Number of inhabitants per square kilometer": 13.6
+      },
+      {
+         "Finnish Region": "North Ostrobothnia",
+         "Number of inhabitants per square kilometer": 11.2
+      },
+      {
+         "Finnish Region": "South Savo",
+         "Number of inhabitants per square kilometer": 10.1
+      },
+      {
+         "Finnish Region": "North Karelia",
+         "Number of inhabitants per square kilometer": 9.1
+      },
+      {
+         "Finnish Region": "Kainuu",
+         "Number of inhabitants per square kilometer": 3.6
+      },
+      {
+         "Finnish Region": "Lapland",
+         "Number of inhabitants per square kilometer": 1.9
+      }
+   ]
+}

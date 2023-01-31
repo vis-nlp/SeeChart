@@ -1,0 +1,85 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in India 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth rate compared to previous year. In total the number of data points it has is 11.",
+      " In general GDP growth rate compared to previous year has stayed the same over the Year.",
+      "GDP growth rate compared to previous year is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, gradually decreasing from 2016 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest GDP growth rate compared to previous year, of value 8.17 was reached at Year 2016",
+      "The lowest GDP growth rate compared to previous year, of value 6.12 was reported at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth rate compared to previous year. In total the number of data points it has is 11.",
+      " In general GDP growth rate compared to previous year has stayed the same over the Year.",
+      "GDP growth rate compared to previous year is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, gradually decreasing from 2016 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth rate compared to previous year. In total the number of data points it has is 11.",
+      " In general GDP growth rate compared to previous year has stayed the same over the Year.",
+      "GDP growth rate compared to previous year is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, gradually decreasing from 2016 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest GDP growth rate compared to previous year, of value 8.17 was reached at Year 2016",
+      "The lowest GDP growth rate compared to previous year, of value 6.12 was reported at Year 2019"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth rate compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth rate compared to previous year has stayed the same over the Year.",
+      "GDP growth rate compared to previous year is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, gradually decreasing from 2016 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest GDP growth rate compared to previous year, of value 8.17 was reached at Year 2016",
+      "The lowest GDP growth rate compared to previous year, of value 6.12 was reported at Year 2019",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth rate compared to previous year": 7.33
+      },
+      {
+         "Year": "2023",
+         "GDP growth rate compared to previous year": 7.44
+      },
+      {
+         "Year": "2022",
+         "GDP growth rate compared to previous year": 7.44
+      },
+      {
+         "Year": "2021",
+         "GDP growth rate compared to previous year": 7.44
+      },
+      {
+         "Year": "2020",
+         "GDP growth rate compared to previous year": 7.03
+      },
+      {
+         "Year": "2019",
+         "GDP growth rate compared to previous year": 6.12
+      },
+      {
+         "Year": "2018",
+         "GDP growth rate compared to previous year": 6.81
+      },
+      {
+         "Year": "2017",
+         "GDP growth rate compared to previous year": 7.17
+      },
+      {
+         "Year": "2016",
+         "GDP growth rate compared to previous year": 8.17
+      },
+      {
+         "Year": "2015",
+         "GDP growth rate compared to previous year": 8.0
+      },
+      {
+         "Year": "2014",
+         "GDP growth rate compared to previous year": 7.41
+      }
+   ]
+}

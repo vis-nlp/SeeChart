@@ -1,0 +1,116 @@
+{
+   "title": "Average player salary in the Bundesliga 2019/20 , by team",
+   "xAxis": "Month",
+   "yAxis": "Average player salary in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Average player salary in million U.S. dollars in the y axis. ",
+      "The Average player salary in million U.S. dollars is appeared to be the highest at Month Bayern Munich and lowest at Month Paderborn. ",
+      "There is a difference of 7.7 between the maximum Month Bayern Munich and minimum Month Paderborn. "
+   ],
+   "min_summary": [
+      "This bar chart has 18 columns on the x axis representing Month, and Average player salary in million U.S. dollars in each Month on the y axis. ",
+      "The Average player salary in million U.S. dollars is appeared to be the highest at Month Bayern Munich and lowest at Month Paderborn. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Average player salary in million U.S. dollars in the y axis. ",
+      "The Average player salary in million U.S. dollars is appeared to be the highest at Month Bayern Munich and lowest at Month Paderborn. ",
+      "There is a difference of 7.7 between the maximum Month Bayern Munich and minimum Month Paderborn. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Average player salary in million U.S. dollars for 18 number of Months. ",
+      "The maximum Average player salary in million U.S. dollars 8.12 is found at Month Bayern Munich and the minimum is found at Paderborn where Average player salary in million U.S. dollars is 0.42. ",
+      "The highest Month Bayern Munich has 7.7 more Average player salary in million U.S. dollars than the lowest Month Paderborn. ",
+      "The Month Bayern Munich has the highest Average player salary in million U.S. dollars, followed by , and Bayer Leverkusen. Down to the Month Paderborn which is the lowest. ",
+      "Overall Average player salary in million U.S. dollars has decreased over the Months. ",
+      "The lowest value 0.42 at Paderborn is almost 3.95 times smaller than the average value 2.06. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Bayern Munich",
+         "Average player salary in million U.S. dollars": 8.12
+      },
+      {
+         "Month": "Borussia Dortmund",
+         "Average player salary in million U.S. dollars": 4.97
+      },
+      {
+         "Month": "Bayer Leverkusen",
+         "Average player salary in million U.S. dollars": 3.19
+      },
+      {
+         "Month": "RB Leipzig",
+         "Average player salary in million U.S. dollars": 2.42
+      },
+      {
+         "Month": "Wolfsburg",
+         "Average player salary in million U.S. dollars": 2.41
+      },
+      {
+         "Month": "Schalke",
+         "Average player salary in million U.S. dollars": 2.19
+      },
+      {
+         "Month": "Borussia Monchengladbach",
+         "Average player salary in million U.S. dollars": 1.92
+      },
+      {
+         "Month": "Hoffenheim",
+         "Average player salary in million U.S. dollars": 1.7
+      },
+      {
+         "Month": "Werder Bremen",
+         "Average player salary in million U.S. dollars": 1.57
+      },
+      {
+         "Month": "Eintracht Frankfurt",
+         "Average player salary in million U.S. dollars": 1.54
+      },
+      {
+         "Month": "Hertha Berlin",
+         "Average player salary in million U.S. dollars": 1.3
+      },
+      {
+         "Month": "FC Koln",
+         "Average player salary in million U.S. dollars": 1.22
+      },
+      {
+         "Month": "Augsburg",
+         "Average player salary in million U.S. dollars": 1.02
+      },
+      {
+         "Month": "Mainz",
+         "Average player salary in million U.S. dollars": 0.85
+      },
+      {
+         "Month": "Fortuna Dusseldorf",
+         "Average player salary in million U.S. dollars": 0.76
+      },
+      {
+         "Month": "SC Freiburg",
+         "Average player salary in million U.S. dollars": 0.73
+      },
+      {
+         "Month": "Union Berlin",
+         "Average player salary in million U.S. dollars": 0.68
+      },
+      {
+         "Month": "Paderborn",
+         "Average player salary in million U.S. dollars": 0.42
+      }
+   ]
+}

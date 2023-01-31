@@ -1,0 +1,84 @@
+{
+   "title": "Ranking of the largest web shops in Sweden 2018 , by revenue",
+   "xAxis": "Web Shops",
+   "yAxis": "Revenue in thousand SEK",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Revenue in thousand SEK for 10 number of Web Shopss. ",
+      "The Revenue in thousand SEK is highest at Web Shops Dustin / Dustin home and lowest at Web Shops Bygghemma.se. ",
+      "The highest value at Web Shops Dustin / Dustin home is 9.37x times more than the lowest value at Bygghemma.se. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Web Shops, and Revenue in thousand SEK in each Web Shops on the y axis. ",
+      "The Revenue in thousand SEK is highest at Web Shops Dustin / Dustin home and lowest at Web Shops Bygghemma.se. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Revenue in thousand SEK for 10 number of Web Shopss. ",
+      "The Revenue in thousand SEK is highest at Web Shops Dustin / Dustin home and lowest at Web Shops Bygghemma.se. ",
+      "The highest value at Web Shops Dustin / Dustin home is 9.37x times more than the lowest value at Bygghemma.se. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Web Shops in the x axis and Revenue in thousand SEK in the y axis. ",
+      "The Revenue in thousand SEK is appeared to be the highest at Web Shops Dustin / Dustin home and lowest at Web Shops Bygghemma.se. ",
+      "Web Shops  has the second highest value for Revenue in thousand SEK. ",
+      "The minimum Web Shops Bygghemma.se has got 9.37 times less Revenue in thousand SEK than the maximum Web Shops Dustin / Dustin home. ",
+      "Revenue in thousand SEK at Web Shops Dustin / Dustin home is 8689669.0 , second place is  at 8689669.0, and thirdly is Ellos at 1619359.0.",
+      "The Web Shops Dustin / Dustin home has 4.33 times more Revenue in thousand SEK than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Web Shops": "Dustin / Dustin home",
+         "Revenue in thousand SEK": 8689669.0
+      },
+      {
+         "Web Shops": "Cdon.com",
+         "Revenue in thousand SEK": 1721072.0
+      },
+      {
+         "Web Shops": "Ellos",
+         "Revenue in thousand SEK": 1619359.0
+      },
+      {
+         "Web Shops": "Adlibris",
+         "Revenue in thousand SEK": 1449069.0
+      },
+      {
+         "Web Shops": "Boozt.com",
+         "Revenue in thousand SEK": 1407400.0
+      },
+      {
+         "Web Shops": "Nelly.com / NLY Man",
+         "Revenue in thousand SEK": 1195213.0
+      },
+      {
+         "Web Shops": "Komplett.se",
+         "Revenue in thousand SEK": 1110272.0
+      },
+      {
+         "Web Shops": "Apotea / Vitaminvaruhuset.se",
+         "Revenue in thousand SEK": 967620.0
+      },
+      {
+         "Web Shops": "MatHem",
+         "Revenue in thousand SEK": 961363.0
+      },
+      {
+         "Web Shops": "Bygghemma.se",
+         "Revenue in thousand SEK": 927830.0
+      }
+   ]
+}

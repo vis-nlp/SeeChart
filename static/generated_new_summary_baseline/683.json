@@ -1,0 +1,125 @@
+{
+   "title": "Most followed EPL team in the U.S. 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Manchester United and lowest at Response Bournemouth. ",
+      "The minimum Response Bournemouth has got 3200000000000.0 times less Share of respondents than the maximum Response Manchester United. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 20 number of Responses. ",
+      "Response Manchester United has the highest Share of respondents and Bournemouth has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Manchester United and lowest at Response Bournemouth. ",
+      "The minimum Response Bournemouth has got 3200000000000.0 times less Share of respondents than the maximum Response Manchester United. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 20 number of Responses. ",
+      "The Share of respondents is highest at Response Manchester United and lowest at Response Bournemouth. ",
+      "Response  has the second highest value for Share of respondents. ",
+      "The highest Response Manchester United has 32.0 more Share of respondents than the lowest Response Bournemouth. ",
+      "The Response Manchester United has the highest Share of respondents, followed by , and Manchester City. Down to the Response Bournemouth which is the lowest. ",
+      "Response Aston Villa, Brighton & Hove Albion, Burnley, Everton, Leicester City, Norwich City, Sheffield United, Southampton, Watford, West Ham United, and Wolverhamption Wanderers have the same Share of respondents. ",
+      "The lowest value 0.0 at Bournemouth is almost 7.62 times smaller than the average value 4.2. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Manchester United",
+         "Share of respondents": 32.0
+      },
+      {
+         "Response": "Liverpool",
+         "Share of respondents": 14.0
+      },
+      {
+         "Response": "Manchester City",
+         "Share of respondents": 9.0
+      },
+      {
+         "Response": "Arsenal",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Chelsea",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Crystal Palace",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Newcastle United",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Tottenham Hostpur",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Aston Villa",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "Brighton & Hove Albion",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "Burnley",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "Everton",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "Leicester City",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "Norwich City",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "Sheffield United",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "Southampton",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "Watford",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "West Ham United",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "Wolverhamption Wanderers",
+         "Share of respondents": 1.0
+      },
+      {
+         "Response": "Bournemouth",
+         "Share of respondents": 0.0
+      }
+   ]
+}

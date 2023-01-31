@@ -1,0 +1,125 @@
+{
+   "title": "Most hashtagged cities on Instagram worldwide 2017",
+   "xAxis": "State",
+   "yAxis": "Number of hashtagged posts in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing State in the x axis and Number of hashtagged posts in millions in the y axis. ",
+      "The maximum Number of hashtagged posts in millions 88.78 is found at State London and the minimum is found at Bangkok where Number of hashtagged posts in millions is 17.66. ",
+      "The highest State London has 71.12 more Number of hashtagged posts in millions than the lowest State Bangkok. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing State in the x axis and Number of hashtagged posts in millions in the y axis. ",
+      "The Number of hashtagged posts in millions is highest at State London and lowest at State Bangkok. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing State in the x axis and Number of hashtagged posts in millions in the y axis. ",
+      "The maximum Number of hashtagged posts in millions 88.78 is found at State London and the minimum is found at Bangkok where Number of hashtagged posts in millions is 17.66. ",
+      "The highest State London has 71.12 more Number of hashtagged posts in millions than the lowest State Bangkok. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of hashtagged posts in millions for 20 number of States. ",
+      "The maximum Number of hashtagged posts in millions 88.78 is found at State London and the minimum is found at Bangkok where Number of hashtagged posts in millions is 17.66. ",
+      "Second maximum Number of hashtagged posts in millions is found at State . ",
+      "There is a difference of 71.12 between the maximum State London and minimum State Bangkok. ",
+      "The State London has the highest Number of hashtagged posts in millions, followed by , and Paris. Down to the State Bangkok which is the lowest. ",
+      "The State London has 2.31 times more Number of hashtagged posts in millions than average. ",
+      "The Number of hashtagged posts in millions is 768.45 if we add up values of all States. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "London",
+         "Number of hashtagged posts in millions": 88.78
+      },
+      {
+         "State": "New York",
+         "Number of hashtagged posts in millions": 88.51
+      },
+      {
+         "State": "Paris",
+         "Number of hashtagged posts in millions": 75.01
+      },
+      {
+         "State": "Dubai",
+         "Number of hashtagged posts in millions": 59.64
+      },
+      {
+         "State": "Istanbul",
+         "Number of hashtagged posts in millions": 50.15
+      },
+      {
+         "State": "Miami",
+         "Number of hashtagged posts in millions": 44.27
+      },
+      {
+         "State": "Los Angeles",
+         "Number of hashtagged posts in millions": 36.37
+      },
+      {
+         "State": "Barcelona",
+         "Number of hashtagged posts in millions": 34.11
+      },
+      {
+         "State": "Moscow",
+         "Number of hashtagged posts in millions": 32.44
+      },
+      {
+         "State": "Chicago",
+         "Number of hashtagged posts in millions": 31.37
+      },
+      {
+         "State": "Tokyo",
+         "Number of hashtagged posts in millions": 29.02
+      },
+      {
+         "State": "Toronto",
+         "Number of hashtagged posts in millions": 26.31
+      },
+      {
+         "State": "Berlin",
+         "Number of hashtagged posts in millions": 26.0
+      },
+      {
+         "State": "Las Vegas",
+         "Number of hashtagged posts in millions": 24.63
+      },
+      {
+         "State": "Madrid",
+         "Number of hashtagged posts in millions": 23.02
+      },
+      {
+         "State": "Hong Kong",
+         "Number of hashtagged posts in millions": 21.74
+      },
+      {
+         "State": "Amsterdam",
+         "Number of hashtagged posts in millions": 20.36
+      },
+      {
+         "State": "Sydney",
+         "Number of hashtagged posts in millions": 20.27
+      },
+      {
+         "State": "San Fancisco",
+         "Number of hashtagged posts in millions": 18.79
+      },
+      {
+         "State": "Bangkok",
+         "Number of hashtagged posts in millions": 17.66
+      }
+   ]
+}

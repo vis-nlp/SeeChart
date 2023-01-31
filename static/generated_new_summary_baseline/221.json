@@ -1,0 +1,93 @@
+{
+   "title": "Domestic teams with the most players at the 2018 World Cup",
+   "xAxis": "Team",
+   "yAxis": "Number of players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Team in the x axis and Number of players in the y axis. ",
+      "Team Manchester City has the highest Number of players and Atl\u00e9tico Madrid has the lowest Number of players. ",
+      "There is a difference of 7.0 between the maximum Team Manchester City and minimum Team Atl\u00e9tico Madrid. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Team in the x axis and Number of players in the y axis. ",
+      "The maximum Number of players 16.0 is found at Team Manchester City and the minimum is found at Atl\u00e9tico Madrid where Number of players is 9.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Team in the x axis and Number of players in the y axis. ",
+      "Team Manchester City has the highest Number of players and Atl\u00e9tico Madrid has the lowest Number of players. ",
+      "There is a difference of 7.0 between the maximum Team Manchester City and minimum Team Atl\u00e9tico Madrid. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Team in the x axis and Number of players in the y axis. ",
+      "The Number of players is highest at Team Manchester City and lowest at Team Atl\u00e9tico Madrid. ",
+      "Team Manchester City has 1.78 times more Number of players than Team Atl\u00e9tico Madrid which is has the lowest. ",
+      "The Team Manchester City has the highest Number of players, followed by , and FC Barcelona. Down to the Team Atl\u00e9tico Madrid which is the lowest. ",
+      "Team Tottenham Hotspur, FC Paris Saint-Germain, and Chelsea FC share the same value 12.0. ",
+      "The highest value 16.0 at Manchester City is almost 1.36 times larger than the average value 11.75. ",
+      "The Number of players is 141.0 if we add up values of all Teams. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Team": "Manchester City",
+         "Number of players": 16.0
+      },
+      {
+         "Team": "Real Madrid",
+         "Number of players": 15.0
+      },
+      {
+         "Team": "FC Barcelona",
+         "Number of players": 14.0
+      },
+      {
+         "Team": "Tottenham Hotspur",
+         "Number of players": 12.0
+      },
+      {
+         "Team": "FC Paris Saint-Germain",
+         "Number of players": 12.0
+      },
+      {
+         "Team": "Chelsea FC",
+         "Number of players": 12.0
+      },
+      {
+         "Team": "FC Bayern M\u00fcnchen",
+         "Number of players": 11.0
+      },
+      {
+         "Team": "Manchester United",
+         "Number of players": 11.0
+      },
+      {
+         "Team": "Juventus",
+         "Number of players": 11.0
+      },
+      {
+         "Team": "Atl\u00e9tico Madrid",
+         "Number of players": 9.0
+      },
+      {
+         "Team": "Al-Hilal Riad",
+         "Number of players": 9.0
+      },
+      {
+         "Team": "Al-Ahli Dschidda",
+         "Number of players": 9.0
+      }
+   ]
+}

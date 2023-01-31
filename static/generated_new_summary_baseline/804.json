@@ -1,0 +1,65 @@
+{
+   "title": "Forecast CAGR global digital health market by major segment 2015 to 2020",
+   "xAxis": "Name",
+   "yAxis": "Compound annual growth rate 2015-2020",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 columns on the x axis representing Name, and Compound annual growth rate 2015-2020 in each Name on the y axis. ",
+      "The Compound annual growth rate 2015-2020 is highest at Name Mobile health and lowest at Name EHR/EMR. ",
+      "The difference of Compound annual growth rate 2015-2020 between the highest and lowest Name is 37.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Compound annual growth rate 2015-2020 for 5 number of Names. ",
+      "The Compound annual growth rate 2015-2020 is appeared to be the highest at Name Mobile health and lowest at Name EHR/EMR. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Name, and Compound annual growth rate 2015-2020 in each Name on the y axis. ",
+      "The Compound annual growth rate 2015-2020 is highest at Name Mobile health and lowest at Name EHR/EMR. ",
+      "The difference of Compound annual growth rate 2015-2020 between the highest and lowest Name is 37.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Compound annual growth rate 2015-2020 for 5 number of Names. ",
+      "The Compound annual growth rate 2015-2020 is highest at Name Mobile health and lowest at Name EHR/EMR. ",
+      "Name  has the second highest value for Compound annual growth rate 2015-2020. ",
+      "The difference of Compound annual growth rate 2015-2020 between the highest and lowest Name is 37.0. ",
+      "Name Mobile health is higher than any other Names with value 41.0, followed by , and Average. Down to Name EHR/EMR with the lowest value 4.0. ",
+      "The Name EHR/EMR has 1.97 times less Compound annual growth rate 2015-2020 than average. ",
+      "Summing up the values of all Names, we get total 104.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Name": "Average",
+         "Compound annual growth rate 2015-2020": 21.0
+      },
+      {
+         "Name": "EHR/EMR",
+         "Compound annual growth rate 2015-2020": 4.0
+      },
+      {
+         "Name": "Telehealth",
+         "Compound annual growth rate 2015-2020": 15.0
+      },
+      {
+         "Name": "Wireless health",
+         "Compound annual growth rate 2015-2020": 23.0
+      },
+      {
+         "Name": "Mobile health",
+         "Compound annual growth rate 2015-2020": 41.0
+      }
+   ]
+}

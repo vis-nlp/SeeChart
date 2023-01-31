@@ -1,0 +1,65 @@
+{
+   "title": "Share of global net sales of Luxottica by geographical area 2018",
+   "xAxis": "Geographical area",
+   "yAxis": "Share of net sales",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 columns on the x axis representing Geographical area, and Share of net sales in each Geographical area on the y axis. ",
+      "The Share of net sales is highest at Geographical area North America and lowest at Geographical area Rest of the world. ",
+      "The difference of Share of net sales between the highest and lowest Geographical area is 56.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Geographical area in the x axis and Share of net sales in the y axis. ",
+      "Geographical area North America has the highest Share of net sales and Rest of the world has the lowest Share of net sales. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Geographical area, and Share of net sales in each Geographical area on the y axis. ",
+      "The Share of net sales is highest at Geographical area North America and lowest at Geographical area Rest of the world. ",
+      "The difference of Share of net sales between the highest and lowest Geographical area is 56.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of net sales for 5 number of Geographical areas. ",
+      "The Share of net sales is highest at Geographical area North America and lowest at Geographical area Rest of the world. ",
+      "The second highest Share of net sales is appeared to be the Geographical area . ",
+      "The highest Geographical area North America has 56.0 more Share of net sales than the lowest Geographical area Rest of the world. ",
+      "Share of net sales at Geographical area North America is 58.0 , second place is  at 58.0, and thirdly is Asia-Pacific at 13.0.",
+      "The Geographical area North America tends to be 2.9 percent higher than average. ",
+      "The Share of net sales is 100.0 if we add up values of all Geographical areas. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Geographical area": "North America",
+         "Share of net sales": 58.0
+      },
+      {
+         "Geographical area": "Europe",
+         "Share of net sales": 21.0
+      },
+      {
+         "Geographical area": "Asia-Pacific",
+         "Share of net sales": 13.0
+      },
+      {
+         "Geographical area": "Latin America",
+         "Share of net sales": 6.0
+      },
+      {
+         "Geographical area": "Rest of the world",
+         "Share of net sales": 2.0
+      }
+   ]
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Worldwide shipments of smart watches 2013 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Shipments in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Shipments in millions. In total the number of data points it has is 3.",
+      " In general Shipments in millions has rose over the Year.",
+      "Shipments in millions is slightly increasing from 2013 to 2015.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Shipments in millions, about 24.92 was reported at Year 2015",
+      "Minimum Shipments in millions about 1.23 was reached at Year 2013"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Shipments in millions, containing a total of 3 data points.",
+      " Overall Shipments in millions has increased over the Year.",
+      "Shipments in millions is slightly increasing from 2013 to 2015."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Shipments in millions. In total the number of data points it has is 3.",
+      " In general Shipments in millions has rose over the Year.",
+      "Shipments in millions is slightly increasing from 2013 to 2015.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Shipments in millions, about 24.92 was reported at Year 2015",
+      "Minimum Shipments in millions about 1.23 was reached at Year 2013"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Shipments in millions, containing a total of 3 data points.",
+      " In general Shipments in millions has rose over the Year.",
+      "Shipments in millions is slightly increasing from 2013 to 2015.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Shipments in millions, about 24.92 was reported at Year 2015",
+      "Minimum Shipments in millions about 1.23 was reached at Year 2013",
+      "The line drastically increased by 6.0 times from Year 2013 to 2014, and lastly, increased by 3.3 times from Year 2014 to 2015."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2015",
+         "Shipments in millions": 24.92
+      },
+      {
+         "Year": "2014",
+         "Shipments in millions": 7.44
+      },
+      {
+         "Year": "2013",
+         "Shipments in millions": 1.23
+      }
+   ]
+}

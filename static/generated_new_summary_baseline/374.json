@@ -1,0 +1,121 @@
+{
+   "title": "BMI : adult 's body mass index in England 2018 , by gender and age",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Mean BMI in kilograms per meter squared and the x axis represents Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Mean BMI in kilograms per meter squared in descending order is: 1. Men, and lastly, 2. Women. ",
+      "Overall across the Year, Men mostly maintained the highest Mean BMI in kilograms per meter squared when compared to others with a mean value of 27.46, and it peaked at 55-64_years.",
+      "Women mostly had the least Mean BMI in kilograms per meter squared with a mean value of 27.43, which peaked at 65-74_years with a value of 28.5. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Mean BMI in kilograms per meter squared",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Mean BMI in kilograms per meter squared and the x axis denotes Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "Overall across the Year, Men mostly maintained the highest Mean BMI in kilograms per meter squared when compared to others with a mean value of 27.46, and it peaked at 55-64_years.",
+      "The botommost line, Women,  has a mean of 27.43, and peaked at 65-74_years. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Mean BMI in kilograms per meter squared and the x axis represents Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Mean BMI in kilograms per meter squared in descending order is: 1. Men, and lastly, 2. Women. ",
+      "Overall across the Year, Men mostly maintained the highest Mean BMI in kilograms per meter squared when compared to others with a mean value of 27.46, and it peaked at 55-64_years.",
+      "Women mostly had the least Mean BMI in kilograms per meter squared with a mean value of 27.43, which peaked at 65-74_years with a value of 28.5. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Mean BMI in kilograms per meter squared and the x axis represents Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Mean BMI in kilograms per meter squared in descending order is: 1. Men, and lastly, 2. Women. ",
+      "Overall across the Year, Men mostly maintained the highest Mean BMI in kilograms per meter squared when compared to others with a mean value of 27.46, and it peaked at 55-64_years.",
+      "The botommost line, Women,  has a mean of 27.43, and peaked at 65-74_years. ",
+      "The difference of Mean BMI in kilograms per meter squared between Men and Women is roughly same at Year 75_years_and_over compared to the Year 16-24_years."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "4",
+            "0"
+         ],
+         "9": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "10": [
+            "5",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "16-24 years",
+         "Men": "24.4",
+         "Women": "24.5"
+      },
+      {
+         "Year": "25-34 years",
+         "Men": "26.2",
+         "Women": "26.9"
+      },
+      {
+         "Year": "35-44 years",
+         "Men": "27.4",
+         "Women": "27.7"
+      },
+      {
+         "Year": "45-54 years",
+         "Men": "28.8",
+         "Women": "28.4"
+      },
+      {
+         "Year": "55-64 years",
+         "Men": "29.0",
+         "Women": "28.3"
+      },
+      {
+         "Year": "65-74 years",
+         "Men": "28.6",
+         "Women": "28.5"
+      },
+      {
+         "Year": "75 years and over",
+         "Men": "27.8",
+         "Women": "27.7"
+      }
+   ]
+}

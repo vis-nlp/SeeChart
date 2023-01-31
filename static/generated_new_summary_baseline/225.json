@@ -1,0 +1,124 @@
+{
+   "title": "OLED panel fabrication : U.S. cost targets 2016 to 2025",
+   "labels": [
+      "Year",
+      "Depreciation",
+      "Labor",
+      "Organic materials",
+      "Inorganic materials",
+      "Other fixed costs"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 5 lines denoting Depreciation, Labor, Organic materials, Inorganic materials, and Other fixed costs. The y axis indicates the Cost target in USD per square meter and the x axis indicates Year.",
+      "Overall Depreciation is rapidly decreasing, Labor, Organic materials, Inorganic materials, and Other fixed costs are gradually decreasing,  throughout the Year",
+      "Depreciation has decreased by 94.16666666666667 percent.",
+      "Throughout the period, Depreciation generally had the highest Cost target in USD per square meter relative to others with an average of 211.25, and it reached its maximum at 2016 with a value of 600.0.",
+      "Followed by Inorganic materials which ranks as the second topmpost line , with an average of 117.5 Cost target in USD per square meter,reaching its highest point  at 2016 with a value of 200.0. ",
+      "Other fixed costs mostly had the least Cost target in USD per square meter with a mean value of 20.0, which peaked at 2016 with a value of 50.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Cost target in USD per square meter",
+   "min_summary": [
+      "This is a multi-line chart with 5 lines representing Depreciation, Labor, Organic materials, Inorganic materials, and Other fixed costs. The y axis denotes Cost target in USD per square meter and the x axis denotes Year.",
+      "Overall Depreciation is rapidly decreasing, Labor, Organic materials, Inorganic materials, and Other fixed costs are gradually decreasing,  throughout the Year",
+      "Overall across the Year, Depreciation mostly maintained the highest Cost target in USD per square meter when compared to others with a mean value of 211.25, and it peaked at 2016.",
+      "After Depreciation, Inorganic materials overall has the second highest values , with a mean value of 117.5, peaking at 2016. ",
+      "The botommost line, Other fixed costs,  has a mean of 20.0, and peaked at 2016. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 5 lines denoting Depreciation, Labor, Organic materials, Inorganic materials, and Other fixed costs. The y axis indicates the Cost target in USD per square meter and the x axis indicates Year.",
+      "Overall Depreciation is rapidly decreasing, Labor, Organic materials, Inorganic materials, and Other fixed costs are gradually decreasing,  throughout the Year",
+      "Depreciation has decreased by 94.16666666666667 percent.",
+      "Throughout the period, Depreciation generally had the highest Cost target in USD per square meter relative to others with an average of 211.25, and it reached its maximum at 2016 with a value of 600.0.",
+      "Followed by Inorganic materials which ranks as the second topmpost line , with an average of 117.5 Cost target in USD per square meter,reaching its highest point  at 2016 with a value of 200.0. ",
+      "Other fixed costs mostly had the least Cost target in USD per square meter with a mean value of 20.0, which peaked at 2016 with a value of 50.0. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 5 lines representing Depreciation, Labor, Organic materials, Inorganic materials, and Other fixed costs. The y axis denotes Cost target in USD per square meter and the x axis denotes Year.",
+      "Overall Depreciation is rapidly decreasing, Labor, Organic materials, Inorganic materials, and Other fixed costs are gradually decreasing,  throughout the Year",
+      "Depreciation has decreased by 94.16666666666667 percent.",
+      "Throughout the period, Depreciation generally had the highest Cost target in USD per square meter relative to others with an average of 211.25, and it reached its maximum at 2016 with a value of 600.0.",
+      "Followed by Inorganic materials which ranks as the second topmpost line , with an average of 117.5 Cost target in USD per square meter,reaching its highest point  at 2016 with a value of 200.0. ",
+      "The botommost line, Other fixed costs,  has a mean of 20.0, and peaked at 2016. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "15": [
+            "3",
+            "3"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "3"
+         ],
+         "10": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Depreciation": "600",
+         "Labor": "100",
+         "Organic materials": "150",
+         "Inorganic materials": "200",
+         "Other fixed costs": "50"
+      },
+      {
+         "Year": "2018",
+         "Depreciation": "140",
+         "Labor": "25",
+         "Organic materials": "100",
+         "Inorganic materials": "140",
+         "Other fixed costs": "15"
+      },
+      {
+         "Year": "2020",
+         "Depreciation": "70",
+         "Labor": "15",
+         "Organic materials": "50",
+         "Inorganic materials": "100",
+         "Other fixed costs": "10"
+      },
+      {
+         "Year": "2025",
+         "Depreciation": "35",
+         "Labor": "5",
+         "Organic materials": "15",
+         "Inorganic materials": "30",
+         "Other fixed costs": "5"
+      }
+   ]
+}

@@ -1,0 +1,61 @@
+{
+   "title": "Average hours spent watching TV weekly in the United Kingdom ( UK ) in 2015",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 5.",
+      " Overall Share of respondents has increased over the Year.",
+      "Share of respondents is roughly constant from 11_to_20_hours to I_don't_watch_TV, and lastly slightly increasing from I_don't_watch_TV to More_than_20_hours.",
+      "The most drastic increase took place within the Year I_don't_watch_TV and More_than_20_hours.",
+      "The highest Share of respondents, of value 39.0 was reached at Year More_than_20_hours",
+      "The lowest Share of respondents, of value 2.0 was reported at Year I_don't_watch_TV"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
+      " In general Share of respondents has rose over the Year.",
+      "Share of respondents is roughly constant from 11_to_20_hours to I_don't_watch_TV, and lastly slightly increasing from I_don't_watch_TV to More_than_20_hours."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 5.",
+      " Overall Share of respondents has increased over the Year.",
+      "Share of respondents is roughly constant from 11_to_20_hours to I_don't_watch_TV, and lastly slightly increasing from I_don't_watch_TV to More_than_20_hours.",
+      "The most drastic increase took place within the Year I_don't_watch_TV and More_than_20_hours.",
+      "The highest Share of respondents, of value 39.0 was reached at Year More_than_20_hours",
+      "The lowest Share of respondents, of value 2.0 was reported at Year I_don't_watch_TV"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
+      " Overall Share of respondents has increased over the Year.",
+      "Share of respondents is roughly constant from 11_to_20_hours to I_don't_watch_TV, and lastly slightly increasing from I_don't_watch_TV to More_than_20_hours.",
+      "The most drastic increase took place within the Year I_don't_watch_TV and More_than_20_hours.",
+      "The highest Share of respondents, of value 39.0 was reached at Year More_than_20_hours",
+      "The lowest Share of respondents, of value 2.0 was reported at Year I_don't_watch_TV",
+      "The line drastically remained stable by 3.4 times from Year 11_to_20_hours to 5_hours_or_less,remained stable by 2.0 times from Year 5_hours_or_less to 6_to_10_hours,remained stable by 9.0 times from Year 6_to_10_hours to I_don't_watch_TV, and lastly, increased by 19.5 times from Year I_don't_watch_TV to More_than_20_hours."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "5 hours or less",
+         "Share of respondents": 9.0
+      },
+      {
+         "Year": "6 to 10 hours",
+         "Share of respondents": 18.0
+      },
+      {
+         "Year": "11 to 20 hours",
+         "Share of respondents": 31.0
+      },
+      {
+         "Year": "More than 20 hours",
+         "Share of respondents": 39.0
+      },
+      {
+         "Year": "I don't watch TV",
+         "Share of respondents": 2.0
+      }
+   ]
+}

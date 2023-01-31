@@ -1,0 +1,85 @@
+{
+   "title": "U.S. passenger-miles : Intercity/Amtrak 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "U.S. passenger-miles in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes U.S. passenger-miles in millions. In total the number of data points it has is 12.",
+      " In general U.S. passenger-miles in millions has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2013 and 2014.",
+      "Maximum U.S. passenger-miles in millions, about 7283.0 was reported at Year 2013",
+      "Minimum U.S. passenger-miles in millions about 5784.0 was reached at Year 2007"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing U.S. passenger-miles in millions, containing a total of 12 data points.",
+      " Overall U.S. passenger-miles in millions has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes U.S. passenger-miles in millions. In total the number of data points it has is 12.",
+      " In general U.S. passenger-miles in millions has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2013 and 2014.",
+      "Maximum U.S. passenger-miles in millions, about 7283.0 was reported at Year 2013",
+      "Minimum U.S. passenger-miles in millions about 5784.0 was reached at Year 2007"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes U.S. passenger-miles in millions. In total the number of data points it has is 12.",
+      " In general U.S. passenger-miles in millions has rose over the Year.",
+      "The most drastic decrease took place within the Year 2013 and 2014.",
+      "Maximum U.S. passenger-miles in millions, about 7283.0 was reported at Year 2013",
+      "Minimum U.S. passenger-miles in millions about 5784.0 was reached at Year 2007",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. passenger-miles in millions": 6361.0
+      },
+      {
+         "Year": "2017",
+         "U.S. passenger-miles in millions": 6563.0
+      },
+      {
+         "Year": "2016",
+         "U.S. passenger-miles in millions": 6520.0
+      },
+      {
+         "Year": "2015",
+         "U.S. passenger-miles in millions": 6536.0
+      },
+      {
+         "Year": "2014",
+         "U.S. passenger-miles in millions": 6675.0
+      },
+      {
+         "Year": "2013",
+         "U.S. passenger-miles in millions": 7283.0
+      },
+      {
+         "Year": "2012",
+         "U.S. passenger-miles in millions": 6752.0
+      },
+      {
+         "Year": "2011",
+         "U.S. passenger-miles in millions": 6568.0
+      },
+      {
+         "Year": "2010",
+         "U.S. passenger-miles in millions": 6420.0
+      },
+      {
+         "Year": "2009",
+         "U.S. passenger-miles in millions": 5914.0
+      },
+      {
+         "Year": "2008",
+         "U.S. passenger-miles in millions": 6179.0
+      },
+      {
+         "Year": "2007",
+         "U.S. passenger-miles in millions": 5784.0
+      }
+   ]
+}

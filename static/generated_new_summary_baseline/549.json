@@ -1,0 +1,209 @@
+{
+   "title": "Research and development expenditure : U.S. pharmaceutical industry 1995 to 2018",
+   "labels": [
+      "Year",
+      "Total pharmaceutical industry ",
+      "PhRMA member companies"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Total pharmaceutical industry , and PhRMA member companies. The y axis denotes Expenditure in billion USD and the x axis denotes Year.",
+      "Overall PhRMA member companies is rapidly increasing, Total pharmaceutical industry  is roughly constant,  throughout the Year",
+      "PhRMA member companies has increased by 5.2 times.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. PhRMA member companies, and lastly, 2. Total pharmaceutical industry . ",
+      "Throughout the period, PhRMA member companies generally had the highest Expenditure in billion USD relative to others with an average of 41.98, and it reached its maximum at 2018 with a value of 79.6.",
+      "The botommost line, Total pharmaceutical industry ,  has a mean of 17.32, and peaked at 2010. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Expenditure in billion USD",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Total pharmaceutical industry , and PhRMA member companies. The y axis indicates the Expenditure in billion USD and the x axis indicates Year.",
+      "Overall PhRMA member companies is rapidly increasing, Total pharmaceutical industry  is roughly constant,  throughout the Year",
+      "Overall across the Year, PhRMA member companies mostly maintained the highest Expenditure in billion USD when compared to others with a mean value of 41.98, and it peaked at 2018.",
+      "The botommost line, Total pharmaceutical industry ,  has a mean of 17.32, and peaked at 2010. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing Total pharmaceutical industry , and PhRMA member companies. The y axis denotes Expenditure in billion USD and the x axis denotes Year.",
+      "Overall PhRMA member companies is rapidly increasing, Total pharmaceutical industry  is roughly constant,  throughout the Year",
+      "PhRMA member companies has increased by 5.2 times.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. PhRMA member companies, and lastly, 2. Total pharmaceutical industry . ",
+      "Throughout the period, PhRMA member companies generally had the highest Expenditure in billion USD relative to others with an average of 41.98, and it reached its maximum at 2018 with a value of 79.6.",
+      "The botommost line, Total pharmaceutical industry ,  has a mean of 17.32, and peaked at 2010. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing Total pharmaceutical industry , and PhRMA member companies. The y axis denotes Expenditure in billion USD and the x axis denotes Year.",
+      "Overall PhRMA member companies is rapidly increasing, Total pharmaceutical industry  is roughly constant,  throughout the Year",
+      "PhRMA member companies has increased by 5.2 times.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. PhRMA member companies, and lastly, 2. Total pharmaceutical industry . ",
+      "Throughout the period, PhRMA member companies generally had the highest Expenditure in billion USD relative to others with an average of 41.98, and it reached its maximum at 2018 with a value of 79.6.",
+      "The botommost line, Total pharmaceutical industry ,  has a mean of 17.32, and peaked at 2010. ",
+      "The difference of Expenditure in billion USD between Total pharmaceutical industry  and PhRMA member companies is greater at Year 2018 compared to the Year 1995."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "23",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "23",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "8",
+            "0"
+         ],
+         "10": [
+            "8",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "79.6"
+      },
+      {
+         "Year": "2017",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "71.4"
+      },
+      {
+         "Year": "2016",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "65.5"
+      },
+      {
+         "Year": "2015",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "59.6"
+      },
+      {
+         "Year": "2014",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "53.3"
+      },
+      {
+         "Year": "2013",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "51.6"
+      },
+      {
+         "Year": "2012",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "49.6"
+      },
+      {
+         "Year": "2011",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "48.6"
+      },
+      {
+         "Year": "2010",
+         "Total pharmaceutical industry ": "67.4",
+         "PhRMA member companies": "50.7"
+      },
+      {
+         "Year": "2009",
+         "Total pharmaceutical industry ": "65.9",
+         "PhRMA member companies": "46.4"
+      },
+      {
+         "Year": "2008",
+         "Total pharmaceutical industry ": "63.7",
+         "PhRMA member companies": "47.4"
+      },
+      {
+         "Year": "2007",
+         "Total pharmaceutical industry ": "63.2",
+         "PhRMA member companies": "47.9"
+      },
+      {
+         "Year": "2006",
+         "Total pharmaceutical industry ": "56.1",
+         "PhRMA member companies": "43.0"
+      },
+      {
+         "Year": "2005",
+         "Total pharmaceutical industry ": "51.8",
+         "PhRMA member companies": "39.9"
+      },
+      {
+         "Year": "2004",
+         "Total pharmaceutical industry ": "47.6",
+         "PhRMA member companies": "37.0"
+      },
+      {
+         "Year": "2003",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "34.5"
+      },
+      {
+         "Year": "2002",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "31.0"
+      },
+      {
+         "Year": "2001",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "29.8"
+      },
+      {
+         "Year": "2000",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "26.0"
+      },
+      {
+         "Year": "1999",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "22.7"
+      },
+      {
+         "Year": "1998",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "21.0"
+      },
+      {
+         "Year": "1997",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "19.0"
+      },
+      {
+         "Year": "1996",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "16.9"
+      },
+      {
+         "Year": "1995",
+         "Total pharmaceutical industry ": "0",
+         "PhRMA member companies": "15.2"
+      }
+   ]
+}

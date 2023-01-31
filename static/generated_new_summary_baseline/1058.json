@@ -1,0 +1,105 @@
+{
+   "title": "Most popular social network sites in Asian countries in 2013",
+   "xAxis": "Country and Platform",
+   "yAxis": "Number of registered users (in millions)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of registered users (in millions) for 15 number of Country and Platforms. ",
+      "Country and Platform China (QZone) has the highest Number of registered users (in millions) and Sri Lanka (Facebook) has the lowest Number of registered users (in millions). ",
+      "The difference of Number of registered users (in millions) between the highest and lowest Country and Platform is 596.4. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of registered users (in millions) for 15 number of Country and Platforms. ",
+      "The Number of registered users (in millions) is appeared to be the highest at Country and Platform China (QZone) and lowest at Country and Platform Sri Lanka (Facebook). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of registered users (in millions) for 15 number of Country and Platforms. ",
+      "Country and Platform China (QZone) has the highest Number of registered users (in millions) and Sri Lanka (Facebook) has the lowest Number of registered users (in millions). ",
+      "The difference of Number of registered users (in millions) between the highest and lowest Country and Platform is 596.4. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country and Platform in the x axis and Number of registered users (in millions) in the y axis. ",
+      "The Number of registered users (in millions) is appeared to be the highest at Country and Platform China (QZone) and lowest at Country and Platform Sri Lanka (Facebook). ",
+      "The highest Country and Platform China (QZone) has 596.4 more Number of registered users (in millions) than the lowest Country and Platform Sri Lanka (Facebook). ",
+      "Number of registered users (in millions) at Country and Platform China (QZone) is 598.0 , second place is  at 598.0, and thirdly is Indonesia (Facebook) at 48.0.",
+      "Country and Platform Taiwan (Facebook), and Malaysia (Facebook) have a similar Number of registered users (in millions) that is 13.0. ",
+      "The Country and Platform Sri Lanka (Facebook) has 10.32 times less Number of registered users (in millions) than average. ",
+      "The Number of registered users (in millions) is 869.4 if we add up values of all Country and Platforms. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country and Platform": "China (QZone)",
+         "Number of registered users (in millions)": 598.0
+      },
+      {
+         "Country and Platform": "India (Facebook)",
+         "Number of registered users (in millions)": 63.0
+      },
+      {
+         "Country and Platform": "Indonesia (Facebook)",
+         "Number of registered users (in millions)": 48.0
+      },
+      {
+         "Country and Platform": "Japan (LINE)",
+         "Number of registered users (in millions)": 36.0
+      },
+      {
+         "Country and Platform": "Philippines (Facebook)",
+         "Number of registered users (in millions)": 30.0
+      },
+      {
+         "Country and Platform": "South Korea (Kakaotalk)",
+         "Number of registered users (in millions)": 19.0
+      },
+      {
+         "Country and Platform": "Thailand (Facebook)",
+         "Number of registered users (in millions)": 18.0
+      },
+      {
+         "Country and Platform": "Taiwan (Facebook)",
+         "Number of registered users (in millions)": 13.0
+      },
+      {
+         "Country and Platform": "Malaysia (Facebook)",
+         "Number of registered users (in millions)": 13.0
+      },
+      {
+         "Country and Platform": "Vietnam (Facebook)",
+         "Number of registered users (in millions)": 12.0
+      },
+      {
+         "Country and Platform": "Pakistan (Facebook)",
+         "Number of registered users (in millions)": 8.0
+      },
+      {
+         "Country and Platform": "Hong Kong (Facebook)",
+         "Number of registered users (in millions)": 3.7
+      },
+      {
+         "Country and Platform": "Bangladesh (Facebook)",
+         "Number of registered users (in millions)": 3.4
+      },
+      {
+         "Country and Platform": "Singapore (Facebook)",
+         "Number of registered users (in millions)": 2.7
+      },
+      {
+         "Country and Platform": "Sri Lanka (Facebook)",
+         "Number of registered users (in millions)": 1.6
+      }
+   ]
+}

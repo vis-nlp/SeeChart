@@ -1,0 +1,81 @@
+{
+   "title": "Number of births in Sweden 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of births. In total the number of data points it has is 11.",
+      " In general Number of births has stayed the same over the Year.",
+      "The most drastic decrease took place within the Year 2010 and 2011.",
+      "The highest Number of births, of value 117425.0 was reached at Year 2016",
+      "The lowest Number of births, of value 111770.0 was reported at Year 2011"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of births, containing a total of 11 data points.",
+      " Overall Number of births has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of births. In total the number of data points it has is 11.",
+      " In general Number of births has stayed the same over the Year.",
+      "The most drastic decrease took place within the Year 2010 and 2011.",
+      "The highest Number of births, of value 117425.0 was reached at Year 2016",
+      "The lowest Number of births, of value 111770.0 was reported at Year 2011"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of births, containing a total of 11 data points.",
+      " In general Number of births has stayed the same over the Year.",
+      "The most drastic decrease took place within the Year 2010 and 2011.",
+      "The highest Number of births, of value 117425.0 was reached at Year 2016",
+      "The lowest Number of births, of value 111770.0 was reported at Year 2011",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of births": 114523.0
+      },
+      {
+         "Year": "2018",
+         "Number of births": 115832.0
+      },
+      {
+         "Year": "2017",
+         "Number of births": 115416.0
+      },
+      {
+         "Year": "2016",
+         "Number of births": 117425.0
+      },
+      {
+         "Year": "2015",
+         "Number of births": 114870.0
+      },
+      {
+         "Year": "2014",
+         "Number of births": 114907.0
+      },
+      {
+         "Year": "2013",
+         "Number of births": 113593.0
+      },
+      {
+         "Year": "2012",
+         "Number of births": 113177.0
+      },
+      {
+         "Year": "2011",
+         "Number of births": 111770.0
+      },
+      {
+         "Year": "2010",
+         "Number of births": 115641.0
+      },
+      {
+         "Year": "2009",
+         "Number of births": 111801.0
+      }
+   ]
+}

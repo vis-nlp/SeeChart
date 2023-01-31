@@ -1,0 +1,174 @@
+{
+   "title": "Automatic washers unit shipments in the United States 2012 - 2019 , by quarter",
+   "xAxis": "Quarter",
+   "yAxis": "Unit shipments in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Unit shipments in thousands for 32 number of Quarters. ",
+      "Quarter 4Q '19 has the highest Unit shipments in thousands and 1Q '12 has the lowest Unit shipments in thousands. ",
+      "The difference of Unit shipments in thousands between the highest and lowest Quarter is 1173.1. "
+   ],
+   "min_summary": [
+      "This bar chart has 32 columns on the x axis representing Quarter, and Unit shipments in thousands in each Quarter on the y axis. ",
+      "The Unit shipments in thousands is highest at Quarter 4Q '19 and lowest at Quarter 1Q '12. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Unit shipments in thousands for 32 number of Quarters. ",
+      "Quarter 4Q '19 has the highest Unit shipments in thousands and 1Q '12 has the lowest Unit shipments in thousands. ",
+      "The difference of Unit shipments in thousands between the highest and lowest Quarter is 1173.1. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Quarter in the x axis and Unit shipments in thousands in the y axis. ",
+      "The Unit shipments in thousands is highest at Quarter 4Q '19 and lowest at Quarter 1Q '12. ",
+      "The second highest Unit shipments in thousands is appeared to be the Quarter . ",
+      "There is a difference of 1173.1 between the maximum Quarter 4Q '19 and minimum Quarter 1Q '12. ",
+      "Unit shipments in thousands at Quarter 4Q '19 is 2905.3 , second place is  at 2905.3, and thirdly is 4Q '18 at 2774.9.",
+      "The Unit shipments in thousands has lowered over the past 32 Quarters. ",
+      "The Quarter 4Q '19 tends to be 1.25 percent higher than average. ",
+      "Summing up the values of all Quarters, we get total 74447.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 31,
+         "12": 31
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "4Q '19",
+         "Unit shipments in thousands": 2905.3
+      },
+      {
+         "Quarter": "3Q '19'",
+         "Unit shipments in thousands": 2748.4
+      },
+      {
+         "Quarter": "2Q '19'",
+         "Unit shipments in thousands": 2811.7
+      },
+      {
+         "Quarter": "1Q '19",
+         "Unit shipments in thousands": 2505.2
+      },
+      {
+         "Quarter": "4Q '18",
+         "Unit shipments in thousands": 2774.9
+      },
+      {
+         "Quarter": "3Q '18'",
+         "Unit shipments in thousands": 2612.6
+      },
+      {
+         "Quarter": "2Q '18'",
+         "Unit shipments in thousands": 2690.6
+      },
+      {
+         "Quarter": "1Q '18",
+         "Unit shipments in thousands": 2406.6
+      },
+      {
+         "Quarter": "4Q '17",
+         "Unit shipments in thousands": 2655.4
+      },
+      {
+         "Quarter": "3Q '17",
+         "Unit shipments in thousands": 2512.1
+      },
+      {
+         "Quarter": "2Q '17",
+         "Unit shipments in thousands": 2594.6
+      },
+      {
+         "Quarter": "1Q '17",
+         "Unit shipments in thousands": 2329.7
+      },
+      {
+         "Quarter": "4Q '16",
+         "Unit shipments in thousands": 2626.5
+      },
+      {
+         "Quarter": "3Q '16",
+         "Unit shipments in thousands": 2359.8
+      },
+      {
+         "Quarter": "2Q '16",
+         "Unit shipments in thousands": 2480.9
+      },
+      {
+         "Quarter": "1Q '16",
+         "Unit shipments in thousands": 2199.2
+      },
+      {
+         "Quarter": "4Q '15",
+         "Unit shipments in thousands": 2193.0
+      },
+      {
+         "Quarter": "3Q '15",
+         "Unit shipments in thousands": 2446.4
+      },
+      {
+         "Quarter": "2Q '15",
+         "Unit shipments in thousands": 2436.5
+      },
+      {
+         "Quarter": "1Q '15",
+         "Unit shipments in thousands": 2042.9
+      },
+      {
+         "Quarter": "4Q '14",
+         "Unit shipments in thousands": 2272.1
+      },
+      {
+         "Quarter": "3Q '14",
+         "Unit shipments in thousands": 2168.7
+      },
+      {
+         "Quarter": "2Q '14",
+         "Unit shipments in thousands": 2287.8
+      },
+      {
+         "Quarter": "1Q '14",
+         "Unit shipments in thousands": 1902.0
+      },
+      {
+         "Quarter": "4Q '13",
+         "Unit shipments in thousands": 2081.9
+      },
+      {
+         "Quarter": "3Q '13",
+         "Unit shipments in thousands": 2039.5
+      },
+      {
+         "Quarter": "2Q '13",
+         "Unit shipments in thousands": 2194.7
+      },
+      {
+         "Quarter": "1Q '13",
+         "Unit shipments in thousands": 1859.1
+      },
+      {
+         "Quarter": "4Q '12",
+         "Unit shipments in thousands": 1883.9
+      },
+      {
+         "Quarter": "3Q '12",
+         "Unit shipments in thousands": 1791.5
+      },
+      {
+         "Quarter": "2Q '12",
+         "Unit shipments in thousands": 1901.6
+      },
+      {
+         "Quarter": "1Q '12",
+         "Unit shipments in thousands": 1732.2
+      }
+   ]
+}

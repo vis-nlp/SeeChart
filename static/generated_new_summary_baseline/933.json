@@ -1,0 +1,122 @@
+{
+   "title": "Number of Burger King restaurants in the Asia Pacific region from 2012 to 2013",
+   "labels": [
+      "Country",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Number of restaurants on the Y-axis for 12 different Countries for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2013 had the highest Number of restaurants for Country Australia and 2012 had the lowest Number of restaurants for Country Philippines. ",
+      " There is a gap of 328.0 between the highest and lowest Number of restaurants found for 2012 in Country Australia and Philippines. ",
+      "Averaging all 2 groups 2012, and 2013, the Country Australia is the maximum Number of restaurants and Thailand is the minimum Number of restaurants. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Number of restaurants",
+   "min_summary": [
+      "This grouped bar chart shows Number of restaurants on the Y-axis for 12 different Countries in year 2012, and 2013 that are presented on the X-axis. ",
+      " Country Australia had the maximum Number of restaurants among all 2 groups, and it was for 2013. The minimum Number of restaurants was observed in Country Philippines for 2012. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of restaurants on the Y-axis for 12 different Countries in year 2012, and 2013 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2013 had the highest Number of restaurants for Country Australia and 2012 had the lowest Number of restaurants for Country Philippines. ",
+      " There is a gap of 328.0 between the highest and lowest Number of restaurants found for 2012 in Country Australia and Philippines. ",
+      "Averaging all 2 groups 2012, and 2013, the Country Australia is the maximum Number of restaurants and Thailand is the minimum Number of restaurants. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Number of restaurants on the Y-axis for 12 different Countries in year 2012, and 2013 that are presented on the X-axis. ",
+      " For Country Australia, 2013 had the highest Number of restaurants 371.0 among the 2 groups and in Philippines, 2012 had the lowest Number of restaurants 29.0. ",
+      " For Country Australia, 2012 had the maximum Number of restaurants and it saw the lowest in Country Philippines out of all 12 Countries. ",
+      " The maximum Number of restaurants for 2012 that was found in Country Australia was 12.31 times larger than the minimum Number of restaurants observed in Country Philippines. ",
+      "Averaging all 2 groups 2012, and 2013, the Country Australia is the maximum Number of restaurants and Thailand is the minimum Number of restaurants. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Australia",
+         "2012": "357",
+         "2013": "371"
+      },
+      {
+         "Country": "China",
+         "2012": "86",
+         "2013": "190"
+      },
+      {
+         "Country": "South Korea",
+         "2012": "139",
+         "2013": "164"
+      },
+      {
+         "Country": "New Zealand",
+         "2012": "82",
+         "2013": "86"
+      },
+      {
+         "Country": "Japan",
+         "2012": "64",
+         "2013": "82"
+      },
+      {
+         "Country": "Malaysia",
+         "2012": "43",
+         "2013": "56"
+      },
+      {
+         "Country": "Indonesia",
+         "2012": "40",
+         "2013": "48"
+      },
+      {
+         "Country": "Singapore",
+         "2012": "41",
+         "2013": "43"
+      },
+      {
+         "Country": "Philippines",
+         "2012": "29",
+         "2013": "36"
+      },
+      {
+         "Country": "Taiwan",
+         "2012": "41",
+         "2013": "36"
+      },
+      {
+         "Country": "Thailand",
+         "2012": "29",
+         "2013": "34"
+      },
+      {
+         "Country": "Other",
+         "2012": "59",
+         "2013": "85"
+      }
+   ]
+}

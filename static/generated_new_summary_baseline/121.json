@@ -1,0 +1,69 @@
+{
+   "title": "Indonesia : number of internet users 2017 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of users in millions, containing a total of 7 data points.",
+      " In general Number of users in millions has rose over the Year.",
+      "Number of users in millions is slightly increasing from 2017 to 2021, and lastly roughly constant from 2021 to 2023.",
+      "The steepest increase occurs in between the Year 2019 and 2020.",
+      "The highest Number of users in millions, of value 149.9 was reached at Year 2023",
+      "Minimum Number of users in millions about 84.0 was reached at Year 2017"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of users in millions, containing a total of 7 data points.",
+      " In general Number of users in millions has rose over the Year.",
+      "Number of users in millions is slightly increasing from 2017 to 2021, and lastly roughly constant from 2021 to 2023."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of users in millions, containing a total of 7 data points.",
+      " In general Number of users in millions has rose over the Year.",
+      "Number of users in millions is slightly increasing from 2017 to 2021, and lastly roughly constant from 2021 to 2023.",
+      "The steepest increase occurs in between the Year 2019 and 2020.",
+      "The highest Number of users in millions, of value 149.9 was reached at Year 2023",
+      "Minimum Number of users in millions about 84.0 was reached at Year 2017"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of users in millions, containing a total of 7 data points.",
+      " In general Number of users in millions has rose over the Year.",
+      "Number of users in millions is slightly increasing from 2017 to 2021, and lastly roughly constant from 2021 to 2023.",
+      "The steepest increase occurs in between the Year 2019 and 2020.",
+      "The highest Number of users in millions, of value 149.9 was reached at Year 2023",
+      "Minimum Number of users in millions about 84.0 was reached at Year 2017",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of users in millions": 149.9
+      },
+      {
+         "Year": "2022",
+         "Number of users in millions": 141.3
+      },
+      {
+         "Year": "2021",
+         "Number of users in millions": 131.0
+      },
+      {
+         "Year": "2020",
+         "Number of users in millions": 119.4
+      },
+      {
+         "Year": "2019",
+         "Number of users in millions": 107.2
+      },
+      {
+         "Year": "2018",
+         "Number of users in millions": 95.2
+      },
+      {
+         "Year": "2017",
+         "Number of users in millions": 84.0
+      }
+   ]
+}

@@ -1,0 +1,61 @@
+{
+   "title": "Outbound visitor growth in Africa 2018 to 2022",
+   "xAxis": "Year",
+   "yAxis": "Year-over-year visitor growth",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year-over-year visitor growth, containing a total of 5 data points.",
+      " Overall Year-over-year visitor growth has decreased over the Year.",
+      "Year-over-year visitor growth is slightly decreasing from 2018 to 2019, roughly increasing from 2019 to 2021, and lastly slightly decreasing from 2021 to 2022.",
+      "The steepest increase occurs in between the Year 2020 and 2021.",
+      "Maximum Year-over-year visitor growth, about 6.1 was reported at Year 2018",
+      "Minimum Year-over-year visitor growth about 3.3 was reached at Year 2020"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year-over-year visitor growth, containing a total of 5 data points.",
+      " Overall Year-over-year visitor growth has decreased over the Year.",
+      "Year-over-year visitor growth is slightly decreasing from 2018 to 2019, roughly increasing from 2019 to 2021, and lastly slightly decreasing from 2021 to 2022."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year-over-year visitor growth, containing a total of 5 data points.",
+      " Overall Year-over-year visitor growth has decreased over the Year.",
+      "Year-over-year visitor growth is slightly decreasing from 2018 to 2019, roughly increasing from 2019 to 2021, and lastly slightly decreasing from 2021 to 2022.",
+      "The steepest increase occurs in between the Year 2020 and 2021.",
+      "Maximum Year-over-year visitor growth, about 6.1 was reported at Year 2018",
+      "Minimum Year-over-year visitor growth about 3.3 was reached at Year 2020"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year-over-year visitor growth, containing a total of 5 data points.",
+      " Overall Year-over-year visitor growth has decreased over the Year.",
+      "Year-over-year visitor growth is slightly decreasing from 2018 to 2019, roughly increasing from 2019 to 2021, and lastly slightly decreasing from 2021 to 2022.",
+      "The most drastic increase took place within the Year 2020 and 2021.",
+      "Maximum Year-over-year visitor growth, about 6.1 was reported at Year 2018",
+      "Minimum Year-over-year visitor growth about 3.3 was reached at Year 2020",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2022",
+         "Year-over-year visitor growth": 3.9
+      },
+      {
+         "Year": "2021",
+         "Year-over-year visitor growth": 4.9
+      },
+      {
+         "Year": "2020",
+         "Year-over-year visitor growth": 3.3
+      },
+      {
+         "Year": "2019",
+         "Year-over-year visitor growth": 4.8
+      },
+      {
+         "Year": "2018",
+         "Year-over-year visitor growth": 6.1
+      }
+   ]
+}

@@ -1,0 +1,84 @@
+{
+   "title": "China : weekly box office revenue November 2019 , by movie",
+   "xAxis": "Hollywood Films",
+   "yAxis": "Box office revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Hollywood Films, and Box office revenue in million U.S. dollars in each Hollywood Films on the y axis. ",
+      "Hollywood Films Frozen 2 has the highest Box office revenue in million U.S. dollars and Wings Over Everest has the lowest Box office revenue in million U.S. dollars. ",
+      "The Box office revenue in million U.S. dollars of Hollywood Films Wings Over Everest is 24.87% smaller than the maximum value at Frozen 2. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Hollywood Films, and Box office revenue in million U.S. dollars in each Hollywood Films on the y axis. ",
+      "The Box office revenue in million U.S. dollars is highest at Hollywood Films Frozen 2 and lowest at Hollywood Films Wings Over Everest. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Hollywood Films, and Box office revenue in million U.S. dollars in each Hollywood Films on the y axis. ",
+      "Hollywood Films Frozen 2 has the highest Box office revenue in million U.S. dollars and Wings Over Everest has the lowest Box office revenue in million U.S. dollars. ",
+      "The Box office revenue in million U.S. dollars of Hollywood Films Wings Over Everest is 24.87% smaller than the maximum value at Frozen 2. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Hollywood Films in the x axis and Box office revenue in million U.S. dollars in the y axis. ",
+      "Hollywood Films Frozen 2 has the highest Box office revenue in million U.S. dollars and Wings Over Everest has the lowest Box office revenue in million U.S. dollars. ",
+      "The second highest Box office revenue in million U.S. dollars is appeared to be the Hollywood Films . ",
+      "The maximum Hollywood Films Frozen 2 has got 24.87 times higher Box office revenue in million U.S. dollars than the minimum Hollywood Films Wings Over Everest. ",
+      "Hollywood Films Frozen 2 is higher than any other Hollywood Filmss with value 37.3, followed by , and Knives Out. Down to Hollywood Films Wings Over Everest with the lowest value 1.5. ",
+      "The Hollywood Films Wings Over Everest has 4.03 times less Box office revenue in million U.S. dollars than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Hollywood Films": "Frozen 2",
+         "Box office revenue in million U.S. dollars": 37.3
+      },
+      {
+         "Hollywood Films": "Two Tigers",
+         "Box office revenue in million U.S. dollars": 19.6
+      },
+      {
+         "Hollywood Films": "Knives Out",
+         "Box office revenue in million U.S. dollars": 13.5
+      },
+      {
+         "Hollywood Films": "Miss Forever",
+         "Box office revenue in million U.S. dollars": 5.1
+      },
+      {
+         "Hollywood Films": "Somewhere Winter",
+         "Box office revenue in million U.S. dollars": 4.6
+      },
+      {
+         "Hollywood Films": "My People My Country",
+         "Box office revenue in million U.S. dollars": 3.3
+      },
+      {
+         "Hollywood Films": "Midway",
+         "Box office revenue in million U.S. dollars": 3.2
+      },
+      {
+         "Hollywood Films": "Leggenda del pianista sull'oceano La",
+         "Box office revenue in million U.S. dollars": 2.7
+      },
+      {
+         "Hollywood Films": "Better Days",
+         "Box office revenue in million U.S. dollars": 1.7
+      },
+      {
+         "Hollywood Films": "Wings Over Everest",
+         "Box office revenue in million U.S. dollars": 1.5
+      }
+   ]
+}

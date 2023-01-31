@@ -1,0 +1,84 @@
+{
+   "title": "The most spoken languages worldwide",
+   "xAxis": "Languages",
+   "yAxis": "Native speaker in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Languages, and Native speaker in millions in each Languages on the y axis. ",
+      "The maximum Native speaker in millions 1311.0 is found at Languages Chinese and the minimum is found at Lahnda where Native speaker in millions is 119.0. ",
+      "The highest value at Languages Chinese is 11.02x times more than the lowest value at Lahnda. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Languages in the x axis and Native speaker in millions in the y axis. ",
+      "Languages Chinese has the highest Native speaker in millions and Lahnda has the lowest Native speaker in millions. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Languages, and Native speaker in millions in each Languages on the y axis. ",
+      "The maximum Native speaker in millions 1311.0 is found at Languages Chinese and the minimum is found at Lahnda where Native speaker in millions is 119.0. ",
+      "The highest value at Languages Chinese is 11.02x times more than the lowest value at Lahnda. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Languages, and Native speaker in millions in each Languages on the y axis. ",
+      "The Native speaker in millions is highest at Languages Chinese and lowest at Languages Lahnda. ",
+      "There is a difference of 1192.0 between the maximum Languages Chinese and minimum Languages Lahnda. ",
+      "Languages Chinese is higher than any other Languagess with value 1311.0, followed by , and English. Down to Languages Lahnda with the lowest value 119.0. ",
+      "The highest value 1311.0 at Chinese is almost 3.58 times larger than the average value 366.0. ",
+      "The Native speaker in millions is 3660.0 if we add up values of all Languagess. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Languages": "Chinese",
+         "Native speaker in millions": 1311.0
+      },
+      {
+         "Languages": "Spanish",
+         "Native speaker in millions": 460.0
+      },
+      {
+         "Languages": "English",
+         "Native speaker in millions": 379.0
+      },
+      {
+         "Languages": "Hindi",
+         "Native speaker in millions": 341.0
+      },
+      {
+         "Languages": "Arabic",
+         "Native speaker in millions": 319.0
+      },
+      {
+         "Languages": "Bengali",
+         "Native speaker in millions": 228.0
+      },
+      {
+         "Languages": "Portuguese",
+         "Native speaker in millions": 221.0
+      },
+      {
+         "Languages": "Russian",
+         "Native speaker in millions": 154.0
+      },
+      {
+         "Languages": "Japanese",
+         "Native speaker in millions": 128.0
+      },
+      {
+         "Languages": "Lahnda",
+         "Native speaker in millions": 119.0
+      }
+   ]
+}

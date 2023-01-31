@@ -1,0 +1,117 @@
+{
+   "title": "Economic damage caused by floods in the U.S. 1995 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Damage in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Damage in million U.S. dollars, containing a total of 20 data points.",
+      " In general Damage in million U.S. dollars has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2017 and 2018.",
+      "The highest Damage in million U.S. dollars, of value 60700.0 was reached at Year 2017",
+      "Minimum Damage in million U.S. dollars about 494.0 was reached at Year 2012"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Damage in million U.S. dollars. In total the number of data points it has is 20.",
+      " Overall Damage in million U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Damage in million U.S. dollars, containing a total of 20 data points.",
+      " In general Damage in million U.S. dollars has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2017 and 2018.",
+      "The highest Damage in million U.S. dollars, of value 60700.0 was reached at Year 2017",
+      "Minimum Damage in million U.S. dollars about 494.0 was reached at Year 2012"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Damage in million U.S. dollars. In total the number of data points it has is 20.",
+      " Overall Damage in million U.S. dollars has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2017 and 2018.",
+      "The highest Damage in million U.S. dollars, of value 60700.0 was reached at Year 2017",
+      "Minimum Damage in million U.S. dollars about 494.0 was reached at Year 2012",
+      "The line rapidly increased by 287.94% from Year 2002 to 2003,increased by 144.99% from Year 2005 to 2006,increased by 166.51% from Year 2007 to 2008,increased by 274.0% from Year 2009 to 2010,increased by 103.16% from Year 2010 to 2011,decreased by 93.81% from Year 2011 to 2012,increased by 339.68% from Year 2012 to 2013,increased by 296.76% from Year 2015 to 2016,increased by 456.52% from Year 2016 to 2017, and lastly, decreased by 97.29% from Year 2017 to 2018."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "1995",
+         "Damage in million U.S. dollars": 1251.0
+      },
+      {
+         "Year": "2000",
+         "Damage in million U.S. dollars": 1255.0
+      },
+      {
+         "Year": "2001",
+         "Damage in million U.S. dollars": 1220.0
+      },
+      {
+         "Year": "2002",
+         "Damage in million U.S. dollars": 655.0
+      },
+      {
+         "Year": "2003",
+         "Damage in million U.S. dollars": 2541.0
+      },
+      {
+         "Year": "2004",
+         "Damage in million U.S. dollars": 1696.0
+      },
+      {
+         "Year": "2005",
+         "Damage in million U.S. dollars": 1538.0
+      },
+      {
+         "Year": "2006",
+         "Damage in million U.S. dollars": 3768.0
+      },
+      {
+         "Year": "2007",
+         "Damage in million U.S. dollars": 1278.0
+      },
+      {
+         "Year": "2008",
+         "Damage in million U.S. dollars": 3406.0
+      },
+      {
+         "Year": "2009",
+         "Damage in million U.S. dollars": 1050.0
+      },
+      {
+         "Year": "2010",
+         "Damage in million U.S. dollars": 3927.0
+      },
+      {
+         "Year": "2011",
+         "Damage in million U.S. dollars": 7978.0
+      },
+      {
+         "Year": "2012",
+         "Damage in million U.S. dollars": 494.0
+      },
+      {
+         "Year": "2013",
+         "Damage in million U.S. dollars": 2172.0
+      },
+      {
+         "Year": "2014",
+         "Damage in million U.S. dollars": 2626.0
+      },
+      {
+         "Year": "2015",
+         "Damage in million U.S. dollars": 2749.0
+      },
+      {
+         "Year": "2016",
+         "Damage in million U.S. dollars": 10907.0
+      },
+      {
+         "Year": "2017",
+         "Damage in million U.S. dollars": 60700.0
+      },
+      {
+         "Year": "2018",
+         "Damage in million U.S. dollars": 1644.0
+      }
+   ]
+}

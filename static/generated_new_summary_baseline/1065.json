@@ -1,0 +1,57 @@
+{
+   "title": "Total sales of Olive Garden in the U.S. 2016 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Sales in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 4.",
+      " Overall Sales in billion U.S. dollars has increased over the Year.",
+      "Sales in billion U.S. dollars is slightly increasing from 2016 to 2019.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "Maximum Sales in billion U.S. dollars, about 4.29 was reported at Year 2019",
+      "The lowest Sales in billion U.S. dollars, of value 3.84 was reported at Year 2016"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 4.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
+      "Sales in billion U.S. dollars is slightly increasing from 2016 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 4.",
+      " Overall Sales in billion U.S. dollars has increased over the Year.",
+      "Sales in billion U.S. dollars is slightly increasing from 2016 to 2019.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "Maximum Sales in billion U.S. dollars, about 4.29 was reported at Year 2019",
+      "The lowest Sales in billion U.S. dollars, of value 3.84 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in billion U.S. dollars, containing a total of 4 data points.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
+      "Sales in billion U.S. dollars is slightly increasing from 2016 to 2019.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "Maximum Sales in billion U.S. dollars, about 4.29 was reported at Year 2019",
+      "The lowest Sales in billion U.S. dollars, of value 3.84 was reported at Year 2016",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Sales in billion U.S. dollars": 4.29
+      },
+      {
+         "Year": "2018",
+         "Sales in billion U.S. dollars": 4.08
+      },
+      {
+         "Year": "2017",
+         "Sales in billion U.S. dollars": 3.94
+      },
+      {
+         "Year": "2016",
+         "Sales in billion U.S. dollars": 3.84
+      }
+   ]
+}

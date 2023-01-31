@@ -1,0 +1,64 @@
+{
+   "title": "Polish banks ranked by brand value in 2015",
+   "xAxis": "Banking Institution",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Banking Institution in the x axis and Brand value in million U.S. dollars in the y axis. ",
+      "The Brand value in million U.S. dollars is appeared to be the highest at Banking Institution PKO Bank Polski and lowest at Banking Institution Millennium. ",
+      "The highest value at Banking Institution PKO Bank Polski is 5.4x times more than the lowest value at Millennium. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Banking Institution, and Brand value in million U.S. dollars in each Banking Institution on the y axis. ",
+      "The Brand value in million U.S. dollars is appeared to be the highest at Banking Institution PKO Bank Polski and lowest at Banking Institution Millennium. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Banking Institution in the x axis and Brand value in million U.S. dollars in the y axis. ",
+      "The Brand value in million U.S. dollars is appeared to be the highest at Banking Institution PKO Bank Polski and lowest at Banking Institution Millennium. ",
+      "The highest value at Banking Institution PKO Bank Polski is 5.4x times more than the lowest value at Millennium. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Banking Institution, and Brand value in million U.S. dollars in each Banking Institution on the y axis. ",
+      "Banking Institution PKO Bank Polski has the highest Brand value in million U.S. dollars and Millennium has the lowest Brand value in million U.S. dollars. ",
+      "The Brand value in million U.S. dollars of Banking Institution Millennium is 5.4% smaller than the maximum value at PKO Bank Polski. ",
+      "Brand value in million U.S. dollars at Banking Institution PKO Bank Polski is 1594.0 , second place is  at 1594.0, and thirdly is Bank Zachodni WBK at 902.0.",
+      "The Banking Institution Millennium has 1.95 times less Brand value in million U.S. dollars than average. ",
+      "Summing up the values of all Banking Institutions, we get total 4086.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Banking Institution": "PKO Bank Polski",
+         "Brand value in million U.S. dollars": 1594.0
+      },
+      {
+         "Banking Institution": "Bank Pekao",
+         "Brand value in million U.S. dollars": 956.0
+      },
+      {
+         "Banking Institution": "Bank Zachodni WBK",
+         "Brand value in million U.S. dollars": 902.0
+      },
+      {
+         "Banking Institution": "mbank",
+         "Brand value in million U.S. dollars": 339.0
+      },
+      {
+         "Banking Institution": "Millennium",
+         "Brand value in million U.S. dollars": 295.0
+      }
+   ]
+}

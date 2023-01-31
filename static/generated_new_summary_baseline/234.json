@@ -1,0 +1,78 @@
+{
+   "title": "Recovery from an eating disorder in the United Kingdom ( UK ) 2015 , by disorder",
+   "labels": [
+      "Category",
+      "Anorexia nervosa",
+      "Bulimia nervosa"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 3 different Categorys on X-axis for 2 groups Anorexia nervosa, and Bulimia nervosa. On the Y-axis it shows their corresponding Share of individuals. ",
+      " For Category Full recovery, Anorexia nervosa had the highest Share of individuals 46.0 among the 2 groups and in Chronically ill, Anorexia nervosa had the lowest Share of individuals 20.0. ",
+      " There is a gap of 22.0 between the highest and lowest Share of individuals found for Bulimia nervosa in Category Full recovery and Chronically ill. ",
+      "Averaging all 2 groups Anorexia nervosa, and Bulimia nervosa, the Category Full recovery is the maximum Share of individuals and Chronically ill is the minimum Share of individuals. "
+   ],
+   "xAxis": "Category",
+   "yAxis": "Share of individuals",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Categorys on X-axis for 2 groups Anorexia nervosa, and Bulimia nervosa. On the Y-axis it shows their corresponding Share of individuals. ",
+      " For Category Full recovery, Anorexia nervosa had the highest Share of individuals 46.0 among the 2 groups and in Chronically ill, Anorexia nervosa had the lowest Share of individuals 20.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 3 different Categorys on X-axis for 2 groups Anorexia nervosa, and Bulimia nervosa. On the Y-axis it shows their corresponding Share of individuals. ",
+      " For Category Full recovery, Anorexia nervosa had the highest Share of individuals 46.0 among the 2 groups and in Chronically ill, Anorexia nervosa had the lowest Share of individuals 20.0. ",
+      " There is a gap of 22.0 between the highest and lowest Share of individuals found for Bulimia nervosa in Category Full recovery and Chronically ill. ",
+      "Averaging all 2 groups Anorexia nervosa, and Bulimia nervosa, the Category Full recovery is the maximum Share of individuals and Chronically ill is the minimum Share of individuals. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of individuals on the Y-axis for 3 different Categorys for 2 groups Anorexia nervosa, and Bulimia nervosa that are presented on the X-axis. ",
+      " Category Full recovery had the maximum Share of individuals among all 2 groups, and it was for Anorexia nervosa. The minimum Share of individuals was observed in Category Chronically ill for Anorexia nervosa. ",
+      " Among all the Categorys, Bulimia nervosa had the highest Share of individuals 45.0 in Category Full recovery and lowest value 23.0 in Category Chronically ill. ",
+      " The maximum Share of individuals for Bulimia nervosa that was found in Category Full recovery was 1.96 times larger than the minimum Share of individuals observed in Category Chronically ill. ",
+      " Among the groups, Anorexia nervosa had the biggest difference in Share of individuals. Where the maximum Share of individuals was 2.3 times larger than the minimum Share of individuals. ",
+      "On average, the Category Full recovery had the highest Share of individuals for all 2 groups Anorexia nervosa, and Bulimia nervosa. Whereas Chronically ill had the lowest average Share of individuals. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category": "Full recovery",
+         "Anorexia nervosa": "46",
+         "Bulimia nervosa": "45"
+      },
+      {
+         "Category": "Improvement",
+         "Anorexia nervosa": "33",
+         "Bulimia nervosa": "27"
+      },
+      {
+         "Category": "Chronically ill",
+         "Anorexia nervosa": "20",
+         "Bulimia nervosa": "23"
+      }
+   ]
+}

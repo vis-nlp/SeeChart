@@ -1,0 +1,212 @@
+{
+   "title": "Number of sexual partners worldwide by country",
+   "xAxis": "Country",
+   "yAxis": "Average number of partners",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Average number of partners for 42 number of Countrys. ",
+      "The Average number of partners is appeared to be the highest at Country Turkey and lowest at Country India. ",
+      "The Average number of partners of Country Turkey is 4.83% larger than the minimum value at India. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Average number of partners for 42 number of Countrys. ",
+      "The Average number of partners is highest at Country Turkey and lowest at Country India. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Average number of partners for 42 number of Countrys. ",
+      "The Average number of partners is appeared to be the highest at Country Turkey and lowest at Country India. ",
+      "The Average number of partners of Country Turkey is 4.83% larger than the minimum value at India. "
+   ],
+   "max_summary": [
+      "This bar chart has 42 columns on the x axis representing Country, and Average number of partners in each Country on the y axis. ",
+      "The maximum Average number of partners 14.5 is found at Country Turkey and the minimum is found at India where Average number of partners is 3.0. ",
+      "The highest Country Turkey has 11.5 more Average number of partners than the lowest Country India. ",
+      "Average number of partners at Country Turkey is 14.5 , second place is  at 9.0, and thirdly is New Zealand at 13.2.",
+      "Country Greece, Israel, and Thailand have a similar Average number of partners that is 10.6. ",
+      "The Country Turkey tends to be 1.63 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 41,
+         "12": 41
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Global",
+         "Average number of partners": 9.0
+      },
+      {
+         "Country": "Turkey",
+         "Average number of partners": 14.5
+      },
+      {
+         "Country": "Australia",
+         "Average number of partners": 13.3
+      },
+      {
+         "Country": "New Zealand",
+         "Average number of partners": 13.2
+      },
+      {
+         "Country": "Iceland",
+         "Average number of partners": 13.0
+      },
+      {
+         "Country": "South Africa",
+         "Average number of partners": 12.5
+      },
+      {
+         "Country": "Finland",
+         "Average number of partners": 12.4
+      },
+      {
+         "Country": "Norway",
+         "Average number of partners": 12.1
+      },
+      {
+         "Country": "Italy",
+         "Average number of partners": 11.8
+      },
+      {
+         "Country": "Sweden",
+         "Average number of partners": 11.8
+      },
+      {
+         "Country": "Ireland",
+         "Average number of partners": 11.1
+      },
+      {
+         "Country": "Switzerland",
+         "Average number of partners": 11.1
+      },
+      {
+         "Country": "Canada",
+         "Average number of partners": 10.7
+      },
+      {
+         "Country": "United States",
+         "Average number of partners": 10.7
+      },
+      {
+         "Country": "Greece",
+         "Average number of partners": 10.6
+      },
+      {
+         "Country": "Israel",
+         "Average number of partners": 10.6
+      },
+      {
+         "Country": "Thailand",
+         "Average number of partners": 10.6
+      },
+      {
+         "Country": "Japan",
+         "Average number of partners": 10.2
+      },
+      {
+         "Country": "Chile",
+         "Average number of partners": 10.1
+      },
+      {
+         "Country": "Serbia & Montenegro",
+         "Average number of partners": 10.1
+      },
+      {
+         "Country": "United Kingdom",
+         "Average number of partners": 9.8
+      },
+      {
+         "Country": "Austria",
+         "Average number of partners": 9.7
+      },
+      {
+         "Country": "Denmark",
+         "Average number of partners": 9.3
+      },
+      {
+         "Country": "Bulgaria",
+         "Average number of partners": 9.1
+      },
+      {
+         "Country": "Czech Republic",
+         "Average number of partners": 9.0
+      },
+      {
+         "Country": "France",
+         "Average number of partners": 8.1
+      },
+      {
+         "Country": "Croatia",
+         "Average number of partners": 7.5
+      },
+      {
+         "Country": "Belgium",
+         "Average number of partners": 7.5
+      },
+      {
+         "Country": "Singapore",
+         "Average number of partners": 7.2
+      },
+      {
+         "Country": "Netherlands",
+         "Average number of partners": 7.0
+      },
+      {
+         "Country": "Portugal",
+         "Average number of partners": 7.0
+      },
+      {
+         "Country": "Taiwan",
+         "Average number of partners": 6.6
+      },
+      {
+         "Country": "Spain",
+         "Average number of partners": 6.1
+      },
+      {
+         "Country": "Poland",
+         "Average number of partners": 6.0
+      },
+      {
+         "Country": "Germany",
+         "Average number of partners": 5.8
+      },
+      {
+         "Country": "Malaysia",
+         "Average number of partners": 5.8
+      },
+      {
+         "Country": "Slovakia",
+         "Average number of partners": 5.4
+      },
+      {
+         "Country": "Indonesia",
+         "Average number of partners": 5.1
+      },
+      {
+         "Country": "Hong Kong",
+         "Average number of partners": 3.7
+      },
+      {
+         "Country": "Vietnam",
+         "Average number of partners": 3.2
+      },
+      {
+         "Country": "China",
+         "Average number of partners": 3.1
+      },
+      {
+         "Country": "India",
+         "Average number of partners": 3.0
+      }
+   ]
+}

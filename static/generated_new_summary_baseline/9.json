@@ -1,0 +1,85 @@
+{
+   "title": "Average regular season home attendance of the Cleveland Browns 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
+      " In general Average attendance has fallen over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Average attendance, of value 72778.0 was reached at Year 2008",
+      "Minimum Average attendance about 63882.0 was reached at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average attendance. In total the number of data points it has is 12.",
+      " Overall Average attendance has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
+      " In general Average attendance has fallen over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Average attendance, of value 72778.0 was reached at Year 2008",
+      "Minimum Average attendance about 63882.0 was reached at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average attendance. In total the number of data points it has is 12.",
+      " In general Average attendance has fallen over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Average attendance, of value 72778.0 was reached at Year 2008",
+      "Minimum Average attendance about 63882.0 was reached at Year 2017",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": 67431.0
+      },
+      {
+         "Year": "2018",
+         "Average attendance": 65765.0
+      },
+      {
+         "Year": "2017",
+         "Average attendance": 63882.0
+      },
+      {
+         "Year": "2016",
+         "Average attendance": 64311.0
+      },
+      {
+         "Year": "2015",
+         "Average attendance": 66186.0
+      },
+      {
+         "Year": "2014",
+         "Average attendance": 67425.0
+      },
+      {
+         "Year": "2013",
+         "Average attendance": 71242.0
+      },
+      {
+         "Year": "2012",
+         "Average attendance": 66632.0
+      },
+      {
+         "Year": "2011",
+         "Average attendance": 65859.0
+      },
+      {
+         "Year": "2010",
+         "Average attendance": 66116.0
+      },
+      {
+         "Year": "2009",
+         "Average attendance": 68888.0
+      },
+      {
+         "Year": "2008",
+         "Average attendance": 72778.0
+      }
+   ]
+}

@@ -1,0 +1,166 @@
+{
+   "title": "Number of operable nuclear reactor plants by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Number of reactors",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of reactors for 30 number of Countrys. ",
+      "The Number of reactors is highest at Country United States and lowest at Country Iran. ",
+      "There is a difference of 96.0 between the maximum Country United States and minimum Country Iran. "
+   ],
+   "min_summary": [
+      "This bar chart has 30 columns on the x axis representing Country, and Number of reactors in each Country on the y axis. ",
+      "The maximum Number of reactors 97.0 is found at Country United States and the minimum is found at Iran where Number of reactors is 1.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of reactors for 30 number of Countrys. ",
+      "The Number of reactors is highest at Country United States and lowest at Country Iran. ",
+      "There is a difference of 96.0 between the maximum Country United States and minimum Country Iran. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Number of reactors in the y axis. ",
+      "The maximum Number of reactors 97.0 is found at Country United States and the minimum is found at Iran where Number of reactors is 1.0. ",
+      "Country  has the second highest value for Number of reactors. ",
+      "The highest Country United States has 96.0 more Number of reactors than the lowest Country Iran. ",
+      "The Country United States has the highest Number of reactors, followed by , and China. Down to the Country Iran which is the lowest. ",
+      "Country Mexico, Romania, South Africa, Brazil, and Bulgaria have the same Number of reactors. ",
+      "The average Number of reactors in all 30 Countrys is 14.73. ",
+      "Summing up the values of all Countrys, we get total 442.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 26,
+         "12": 26
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Number of reactors": 97.0
+      },
+      {
+         "Country": "France",
+         "Number of reactors": 58.0
+      },
+      {
+         "Country": "China",
+         "Number of reactors": 45.0
+      },
+      {
+         "Country": "Japan",
+         "Number of reactors": 37.0
+      },
+      {
+         "Country": "Russia",
+         "Number of reactors": 36.0
+      },
+      {
+         "Country": "South Korea",
+         "Number of reactors": 24.0
+      },
+      {
+         "Country": "India",
+         "Number of reactors": 22.0
+      },
+      {
+         "Country": "Canada",
+         "Number of reactors": 19.0
+      },
+      {
+         "Country": "Ukraine",
+         "Number of reactors": 15.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of reactors": 15.0
+      },
+      {
+         "Country": "Sweden",
+         "Number of reactors": 8.0
+      },
+      {
+         "Country": "Spain",
+         "Number of reactors": 7.0
+      },
+      {
+         "Country": "Belgium",
+         "Number of reactors": 7.0
+      },
+      {
+         "Country": "Germany",
+         "Number of reactors": 7.0
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of reactors": 6.0
+      },
+      {
+         "Country": "Switzerland",
+         "Number of reactors": 5.0
+      },
+      {
+         "Country": "Pakistan",
+         "Number of reactors": 5.0
+      },
+      {
+         "Country": "Slovakia",
+         "Number of reactors": 4.0
+      },
+      {
+         "Country": "Hungary",
+         "Number of reactors": 4.0
+      },
+      {
+         "Country": "Finland",
+         "Number of reactors": 4.0
+      },
+      {
+         "Country": "Argentina",
+         "Number of reactors": 3.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of reactors": 2.0
+      },
+      {
+         "Country": "Romania",
+         "Number of reactors": 2.0
+      },
+      {
+         "Country": "South Africa",
+         "Number of reactors": 2.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of reactors": 2.0
+      },
+      {
+         "Country": "Bulgaria",
+         "Number of reactors": 2.0
+      },
+      {
+         "Country": "Iran",
+         "Number of reactors": 1.0
+      },
+      {
+         "Country": "Netherlands",
+         "Number of reactors": 1.0
+      },
+      {
+         "Country": "Armenia",
+         "Number of reactors": 1.0
+      },
+      {
+         "Country": "Slovenia",
+         "Number of reactors": 1.0
+      }
+   ]
+}

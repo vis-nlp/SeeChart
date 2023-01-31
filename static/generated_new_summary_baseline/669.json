@@ -1,0 +1,104 @@
+{
+   "title": "Leading primetime TV programming genres viewed in the U.S. 2015",
+   "xAxis": "Genre",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 15 columns on the x axis representing Genre, and Share of respondents in each Genre on the y axis. ",
+      "Genre Sitcoms or comedy has the highest Share of respondents and Soap operas has the lowest Share of respondents. ",
+      "Genre Sitcoms or comedy has 12.0 times more Share of respondents than Genre Soap operas which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Genre in the x axis and Share of respondents in the y axis. ",
+      "Genre Sitcoms or comedy has the highest Share of respondents and Soap operas has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This bar chart has 15 columns on the x axis representing Genre, and Share of respondents in each Genre on the y axis. ",
+      "Genre Sitcoms or comedy has the highest Share of respondents and Soap operas has the lowest Share of respondents. ",
+      "Genre Sitcoms or comedy has 12.0 times more Share of respondents than Genre Soap operas which is has the lowest. "
+   ],
+   "max_summary": [
+      "This bar chart has 15 columns on the x axis representing Genre, and Share of respondents in each Genre on the y axis. ",
+      "Genre Sitcoms or comedy has the highest Share of respondents and Soap operas has the lowest Share of respondents. ",
+      "There is a difference of 44.0 between the maximum Genre Sitcoms or comedy and minimum Genre Soap operas. ",
+      "Share of respondents at Genre Sitcoms or comedy is 48.0 , second place is  at 48.0, and thirdly is Drama at 42.0.",
+      "Genre Children's, and Other type not listed share the same value 7.0. ",
+      "The average Share of respondents in all 15 Genres is 22.53. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Genre": "Sitcoms or comedy",
+         "Share of respondents": 48.0
+      },
+      {
+         "Genre": "Movies",
+         "Share of respondents": 43.0
+      },
+      {
+         "Genre": "Drama",
+         "Share of respondents": 42.0
+      },
+      {
+         "Genre": "Reality",
+         "Share of respondents": 34.0
+      },
+      {
+         "Genre": "Action/adventure",
+         "Share of respondents": 32.0
+      },
+      {
+         "Genre": "History or science",
+         "Share of respondents": 27.0
+      },
+      {
+         "Genre": "News/public affairs",
+         "Share of respondents": 26.0
+      },
+      {
+         "Genre": "Sports",
+         "Share of respondents": 22.0
+      },
+      {
+         "Genre": "'How to\" or home-related",
+         "Share of respondents": 17.0
+      },
+      {
+         "Genre": "Weather",
+         "Share of respondents": 13.0
+      },
+      {
+         "Genre": "Talk or interview",
+         "Share of respondents": 10.0
+      },
+      {
+         "Genre": "Children's",
+         "Share of respondents": 7.0
+      },
+      {
+         "Genre": "Other type not listed",
+         "Share of respondents": 7.0
+      },
+      {
+         "Genre": "Music videos",
+         "Share of respondents": 6.0
+      },
+      {
+         "Genre": "Soap operas",
+         "Share of respondents": 4.0
+      }
+   ]
+}

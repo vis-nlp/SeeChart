@@ -1,0 +1,84 @@
+{
+   "title": "Death toll in great earthquakes as of 2016",
+   "xAxis": "Earthquake",
+   "yAxis": "Death toll",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Death toll for 10 number of Earthquakes. ",
+      "The maximum Death toll 242000.0 is found at Earthquake Tangshan (China 1976) and the minimum is found at Muzaffarabad (Pakistan 2005) where Death toll is 73338.0. ",
+      "There is a difference of 168662.0 between the maximum Earthquake Tangshan (China 1976) and minimum Earthquake Muzaffarabad (Pakistan 2005). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Death toll for 10 number of Earthquakes. ",
+      "The maximum Death toll 242000.0 is found at Earthquake Tangshan (China 1976) and the minimum is found at Muzaffarabad (Pakistan 2005) where Death toll is 73338.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Death toll for 10 number of Earthquakes. ",
+      "The maximum Death toll 242000.0 is found at Earthquake Tangshan (China 1976) and the minimum is found at Muzaffarabad (Pakistan 2005) where Death toll is 73338.0. ",
+      "There is a difference of 168662.0 between the maximum Earthquake Tangshan (China 1976) and minimum Earthquake Muzaffarabad (Pakistan 2005). "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Earthquake, and Death toll in each Earthquake on the y axis. ",
+      "Earthquake Tangshan (China 1976) has the highest Death toll and Muzaffarabad (Pakistan 2005) has the lowest Death toll. ",
+      "The second highest Death toll is appeared to be the Earthquake . ",
+      "The difference of Death toll between the highest and lowest Earthquake is 168662.0. ",
+      "Death toll at Earthquake Tangshan (China 1976) is 242000.0 , second place is  at 242000.0, and thirdly is Nanchang (China 1927) at 200000.0.",
+      "The highest value 242000.0 at Tangshan (China 1976) is almost 1.61 times larger than the average value 149909.2. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Earthquake": "Tangshan (China 1976)",
+         "Death toll": 242000.0
+      },
+      {
+         "Earthquake": "Haiti (2010)",
+         "Death toll": 222570.0
+      },
+      {
+         "Earthquake": "Nanchang (China 1927)",
+         "Death toll": 200000.0
+      },
+      {
+         "Earthquake": "Haiyuan (China 1920)",
+         "Death toll": 180000.0
+      },
+      {
+         "Earthquake": "Sumatra (Indonesia 2004)",
+         "Death toll": 165708.0
+      },
+      {
+         "Earthquake": "Kanto (Japan 1923)",
+         "Death toll": 143000.0
+      },
+      {
+         "Earthquake": "Ashgabat (Turkmenistan 1948)",
+         "Death toll": 110000.0
+      },
+      {
+         "Earthquake": "Szechuan (China 2008)",
+         "Death toll": 87476.0
+      },
+      {
+         "Earthquake": "Messina (Italy 1908)",
+         "Death toll": 75000.0
+      },
+      {
+         "Earthquake": "Muzaffarabad (Pakistan 2005)",
+         "Death toll": 73338.0
+      }
+   ]
+}

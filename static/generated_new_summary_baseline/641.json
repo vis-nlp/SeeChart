@@ -1,0 +1,119 @@
+{
+   "title": "IT skill shortages facing IT leaders worldwide 2017 to 2019",
+   "labels": [
+      "IT category",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 9 different IT categorys for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Out of all 3 groups, 2018 had the highest Share of respondents for IT category Big data / analytics and 2017 had the lowest Share of respondents for IT category Artificial intelligence. ",
+      " The maximum Share of respondents for 2019 that was found in IT category Big data / analytics was 0 times larger than the minimum Share of respondents observed in IT category Development. ",
+      "On average, the IT category Big data / analytics had the highest Share of respondents for all 3 groups 2017, 2018, and 2019. Whereas Artificial intelligence had the lowest average Share of respondents. "
+   ],
+   "xAxis": "IT category",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 9 different IT categorys on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, 2018 had the highest Share of respondents for IT category Big data / analytics and 2017 had the lowest Share of respondents for IT category Artificial intelligence. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 9 different IT categorys for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Out of all 3 groups, 2018 had the highest Share of respondents for IT category Big data / analytics and 2017 had the lowest Share of respondents for IT category Artificial intelligence. ",
+      " The maximum Share of respondents for 2019 that was found in IT category Big data / analytics was 0 times larger than the minimum Share of respondents observed in IT category Development. ",
+      "On average, the IT category Big data / analytics had the highest Share of respondents for all 3 groups 2017, 2018, and 2019. Whereas Artificial intelligence had the lowest average Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 9 different IT categorys on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, 2018 had the highest Share of respondents for IT category Big data / analytics and 2017 had the lowest Share of respondents for IT category Artificial intelligence. ",
+      " Among all the IT categorys, 2019 had the highest Share of respondents 44.0 in IT category Big data / analytics and lowest value 0.0 in IT category Development. ",
+      " There is a gap of 44.0 between the highest and lowest Share of respondents found for 2019 in IT category Big data / analytics and Development. ",
+      " Out of all 3 groups, the highest gap between the maximum and minimum Share of respondents was found in case of 2018. ",
+      " 2018 had the maximum Share of respondents out of all 3 groups in IT category Big data / analytics followed by 2018 in Big data / analytics, and the minimum Share of respondents is found for 2017 in Artificial intelligence. ",
+      "On average, the IT category Big data / analytics had the highest Share of respondents for all 3 groups 2017, 2018, and 2019. Whereas Artificial intelligence had the lowest average Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "3",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "IT category": "Big data / analytics",
+         "2017": "42",
+         "2018": "46",
+         "2019": "44"
+      },
+      {
+         "IT category": "Artificial intelligence",
+         "2017": "0",
+         "2018": "0",
+         "2019": "39"
+      },
+      {
+         "IT category": "Cyber security",
+         "2017": "0",
+         "2018": "0",
+         "2019": "39"
+      },
+      {
+         "IT category": "Enterprise architecture",
+         "2017": "34",
+         "2018": "35",
+         "2019": "34"
+      },
+      {
+         "IT category": "Business analysis",
+         "2017": "34",
+         "2018": "31",
+         "2019": "31"
+      },
+      {
+         "IT category": "Development",
+         "2017": "25",
+         "2018": "24",
+         "2019": "0"
+      },
+      {
+         "IT category": "Project management",
+         "2017": "26",
+         "2018": "25",
+         "2019": "0"
+      },
+      {
+         "IT category": "Technical architecture",
+         "2017": "32",
+         "2018": "36",
+         "2019": "0"
+      },
+      {
+         "IT category": "Security and resilience",
+         "2017": "28",
+         "2018": "35",
+         "2019": "0"
+      }
+   ]
+}

@@ -1,0 +1,108 @@
+{
+   "title": "The Fast and the Furious : domestic and global box office revenue 2019",
+   "labels": [
+      "Movie",
+      "North America",
+      "Worldwide"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Box office gross in million USD on the Y-axis for 9 different Movies for 2 groups North America, and Worldwide that are presented on the X-axis. ",
+      " Out of all 2 groups, Worldwide had the highest Box office gross in million USD for Movie Fast & Furious Presents: Hobbs & Shaw and Worldwide had the lowest Box office gross in million USD for Movie The Fast and the Furious: Tokyo Drift. ",
+      "Movie Fast & Furious Presents: Hobbs & Shaw and The Fast and the Furious: Tokyo Drift had the biggest gap of 70519.0 between the highest and lowest Box office gross in million USD found for Worldwide. ",
+      "Averaging all 2 groups North America, and Worldwide, the Movie Furious 7 is the maximum Box office gross in million USD and The Fast and the Furious: Tokyo Drift is the minimum Box office gross in million USD. "
+   ],
+   "xAxis": "Movie",
+   "yAxis": "Box office gross in million USD",
+   "min_summary": [
+      "This grouped bar chart shows Box office gross in million USD on the Y-axis for 9 different Movies for 2 groups North America, and Worldwide that are presented on the X-axis. ",
+      " For Movie Fast & Furious Presents: Hobbs & Shaw, Worldwide had the highest Box office gross in million USD 72104.0 among the 2 groups and in The Fast and the Furious: Tokyo Drift, Worldwide had the lowest Box office gross in million USD 1585.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Box office gross in million USD on the Y-axis for 9 different Movies for 2 groups North America, and Worldwide that are presented on the X-axis. ",
+      " Out of all 2 groups, Worldwide had the highest Box office gross in million USD for Movie Fast & Furious Presents: Hobbs & Shaw and Worldwide had the lowest Box office gross in million USD for Movie The Fast and the Furious: Tokyo Drift. ",
+      "Movie Fast & Furious Presents: Hobbs & Shaw and The Fast and the Furious: Tokyo Drift had the biggest gap of 70519.0 between the highest and lowest Box office gross in million USD found for Worldwide. ",
+      "Averaging all 2 groups North America, and Worldwide, the Movie Furious 7 is the maximum Box office gross in million USD and The Fast and the Furious: Tokyo Drift is the minimum Box office gross in million USD. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Box office gross in million USD on the Y-axis for 9 different Movies for 2 groups North America, and Worldwide that are presented on the X-axis. ",
+      " Out of all 2 groups, Worldwide had the highest Box office gross in million USD for Movie Fast & Furious Presents: Hobbs & Shaw and Worldwide had the lowest Box office gross in million USD for Movie The Fast and the Furious: Tokyo Drift. ",
+      " For Movie Fast & Furious Presents: Hobbs & Shaw, Worldwide had the maximum Box office gross in million USD and it saw the lowest in Movie The Fast and the Furious: Tokyo Drift out of all 9 Movies. ",
+      "Movie Fast & Furious Presents: Hobbs & Shaw and The Fast and the Furious: Tokyo Drift had the biggest gap of 70519.0 between the highest and lowest Box office gross in million USD found for Worldwide. ",
+      " Among all 2 groups, North America had the gap of 29050.0 between the maximum and minimum Box office gross in million USD observed in Movie Furious 7 and The Fast and the Furious: Tokyo Drift respectively. ",
+      "Averaging all 2 groups North America, and Worldwide, the Movie Furious 7 is the maximum Box office gross in million USD and The Fast and the Furious: Tokyo Drift is the minimum Box office gross in million USD. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Movie": "Furious 7",
+         "North America": "353.01",
+         "Worldwide": "1516.0"
+      },
+      {
+         "Movie": "The Fate of the Furious",
+         "North America": "226.01",
+         "Worldwide": "1236.0"
+      },
+      {
+         "Movie": "Fast & Furious 6",
+         "North America": "238.68",
+         "Worldwide": "788.7"
+      },
+      {
+         "Movie": "Fast & Furious Presents: Hobbs & Shaw",
+         "North America": "164.34",
+         "Worldwide": "721.04"
+      },
+      {
+         "Movie": "Fast Five",
+         "North America": "209.84",
+         "Worldwide": "626.1"
+      },
+      {
+         "Movie": "Fast and Furious",
+         "North America": "155.06",
+         "Worldwide": "363.2"
+      },
+      {
+         "Movie": "2 Fast 2 Furious",
+         "North America": "127.15",
+         "Worldwide": "236.4"
+      },
+      {
+         "Movie": "The Fast and the Furious",
+         "North America": "144.53",
+         "Worldwide": "207.3"
+      },
+      {
+         "Movie": "The Fast and the Furious: Tokyo Drift",
+         "North America": "62.51",
+         "Worldwide": "158.5"
+      }
+   ]
+}

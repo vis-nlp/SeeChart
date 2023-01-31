@@ -1,0 +1,106 @@
+{
+   "title": "Harley-Davidson - motorcycle sales by region 2017/2018",
+   "labels": [
+      "Year",
+      "U.S.",
+      "Canada",
+      "Europe, Middle East, Africa (EMEA)",
+      "Asia-Pacific",
+      "Latin America"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 5 lines denoting U.S., Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America. The y axis indicates the Retail sales in units and the x axis indicates Year.",
+      "Overall U.S. is gradually decreasing, Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America are roughly constant,  throughout the Year",
+      "Overall across the Year, U.S. mostly maintained the highest Retail sales in units when compared to others with a mean value of 140420.0, and it peaked at 2017.",
+      "After U.S., Europe, Middle East, Africa (EMEA) overall has the second highest values , with a mean value of 45768.5, peaking at 2018. ",
+      "Latin America mostly had the least Retail sales in units with a mean value of 9809.5, which peaked at 2018 with a value of 10167.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Retail sales in units",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 5 lines denoting U.S., Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America. The y axis indicates the Retail sales in units and the x axis indicates Year.",
+      "Overall U.S. is gradually decreasing, Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America are roughly constant,  throughout the Year",
+      "Throughout the period, U.S. generally had the highest Retail sales in units relative to others with an average of 140420.0, and it reached its maximum at 2017 with a value of 147972.0.",
+      "After U.S., Europe, Middle East, Africa (EMEA) overall has the second highest values , with a mean value of 45768.5, peaking at 2018. ",
+      "The botommost line, Latin America,  has a mean of 9809.5, and peaked at 2018. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 5 lines denoting U.S., Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America. The y axis indicates the Retail sales in units and the x axis indicates Year.",
+      "Overall U.S. is gradually decreasing, Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America are roughly constant,  throughout the Year",
+      "Overall across the Year, U.S. mostly maintained the highest Retail sales in units when compared to others with a mean value of 140420.0, and it peaked at 2017.",
+      "After U.S., Europe, Middle East, Africa (EMEA) overall has the second highest values , with a mean value of 45768.5, peaking at 2018. ",
+      "Latin America mostly had the least Retail sales in units with a mean value of 9809.5, which peaked at 2018 with a value of 10167.0. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 5 lines denoting U.S., Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America. The y axis indicates the Retail sales in units and the x axis indicates Year.",
+      "Overall U.S. is gradually decreasing, Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America are roughly constant,  throughout the Year",
+      "Overall across the Year, U.S. mostly maintained the highest Retail sales in units when compared to others with a mean value of 140420.0, and it peaked at 2017.",
+      "Followed by Europe, Middle East, Africa (EMEA) which ranks as the second topmpost line , with an average of 45768.5 Retail sales in units,reaching its highest point  at 2018 with a value of 46602.0. ",
+      "The botommost line, Latin America,  has a mean of 9809.5, and peaked at 2018. ",
+      "Latin America reported the lowest Retail sales in units about 9452.0 in Year 2017"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "1",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "2"
+         ],
+         "10": [
+            "1",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "U.S.": "147972",
+         "Canada": "10081",
+         "Europe, Middle East, Africa (EMEA)": "44935",
+         "Asia-Pacific": "30348",
+         "Latin America": "9452"
+      },
+      {
+         "Year": "2018",
+         "U.S.": "132868",
+         "Canada": "9690",
+         "Europe, Middle East, Africa (EMEA)": "46602",
+         "Asia-Pacific": "28724",
+         "Latin America": "10167"
+      }
+   ]
+}

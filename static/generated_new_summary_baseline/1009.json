@@ -1,0 +1,63 @@
+{
+   "title": "Internet service provider market share in Australia fourth quarter 2013",
+   "xAxis": "Telecommunications Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Telecommunications Company in the x axis and Market share in the y axis. ",
+      "Telecommunications Company Telstra has the highest Market share and Australia Other has the lowest Market share. ",
+      "The highest Telecommunications Company Telstra has 35.3 more Market share than the lowest Telecommunications Company Australia Other. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Telecommunications Company, and Market share in each Telecommunications Company on the y axis. ",
+      "Telecommunications Company Telstra has the highest Market share and Australia Other has the lowest Market share. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Telecommunications Company in the x axis and Market share in the y axis. ",
+      "Telecommunications Company Telstra has the highest Market share and Australia Other has the lowest Market share. ",
+      "The highest Telecommunications Company Telstra has 35.3 more Market share than the lowest Telecommunications Company Australia Other. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Telecommunications Company, and Market share in each Telecommunications Company on the y axis. ",
+      "The Market share is appeared to be the highest at Telecommunications Company Telstra and lowest at Telecommunications Company Australia Other. ",
+      "The highest Telecommunications Company Telstra has 35.3 more Market share than the lowest Telecommunications Company Australia Other. ",
+      "Telecommunications Company Telstra is higher than any other Telecommunications Companys with value 46.3, followed by , and iiNet. Down to Telecommunications Company Australia Other with the lowest value 11.0. ",
+      "The lowest value 11.0 at Australia Other is almost 2.32 times smaller than the average value 19.98. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Telecommunications Company": "Telstra",
+         "Market share": 46.3
+      },
+      {
+         "Telecommunications Company": "Optus",
+         "Market share": 15.9
+      },
+      {
+         "Telecommunications Company": "iiNet",
+         "Market share": 15.1
+      },
+      {
+         "Telecommunications Company": "TPG",
+         "Market share": 11.6
+      },
+      {
+         "Telecommunications Company": "Australia Other",
+         "Market share": 11.0
+      }
+   ]
+}

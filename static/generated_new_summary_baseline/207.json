@@ -1,0 +1,73 @@
+{
+   "title": "Sales of state lotteries in the U.S. 2009 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Sales in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 8.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
+      "Sales in billion U.S. dollars is roughly constant from 2009 to 2010, slightly increasing from 2010 to 2012, roughly constant from 2012 to 2014, and lastly slightly increasing from 2014 to 2016.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum Sales in billion U.S. dollars, about 80.55 was reported at Year 2016",
+      "Minimum Sales in billion U.S. dollars about 58.25 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 8.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
+      "Sales in billion U.S. dollars is roughly constant from 2009 to 2010, slightly increasing from 2010 to 2012, roughly constant from 2012 to 2014, and lastly slightly increasing from 2014 to 2016."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 8.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
+      "Sales in billion U.S. dollars is roughly constant from 2009 to 2010, slightly increasing from 2010 to 2012, roughly constant from 2012 to 2014, and lastly slightly increasing from 2014 to 2016.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum Sales in billion U.S. dollars, about 80.55 was reported at Year 2016",
+      "Minimum Sales in billion U.S. dollars about 58.25 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 8.",
+      " Overall Sales in billion U.S. dollars has increased over the Year.",
+      "Sales in billion U.S. dollars is roughly constant from 2009 to 2010, slightly increasing from 2010 to 2012, roughly constant from 2012 to 2014, and lastly slightly increasing from 2014 to 2016.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum Sales in billion U.S. dollars, about 80.55 was reported at Year 2016",
+      "Minimum Sales in billion U.S. dollars about 58.25 was reached at Year 2009",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2009",
+         "Sales in billion U.S. dollars": 58.25
+      },
+      {
+         "Year": "2010",
+         "Sales in billion U.S. dollars": 58.82
+      },
+      {
+         "Year": "2011",
+         "Sales in billion U.S. dollars": 63.08
+      },
+      {
+         "Year": "2012",
+         "Sales in billion U.S. dollars": 68.78
+      },
+      {
+         "Year": "2013",
+         "Sales in billion U.S. dollars": 68.88
+      },
+      {
+         "Year": "2014",
+         "Sales in billion U.S. dollars": 70.15
+      },
+      {
+         "Year": "2015",
+         "Sales in billion U.S. dollars": 73.87
+      },
+      {
+         "Year": "2016",
+         "Sales in billion U.S. dollars": 80.55
+      }
+   ]
+}

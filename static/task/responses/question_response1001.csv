@@ -1,0 +1,117 @@
+1001,611_q1,Q1: How many units of Subaru car was sold in August 2018? ,asdasd,00:00:27,2021-12-09 23:19:33.728202
+1001,611_q2,Q2: When did Subaru see the maximum sales? ,asdasd,00:00:02,2021-12-09 23:19:36.785490
+1001,611_q3,Q3: Which month saw the maximum sale of Subaru can in year 2017? ,ghjghj,00:00:02,2021-12-09 23:19:39.818182
+1001,611_q4,Q5: How would you rate the ML-based-summary for this chart?,3,00:00:03,2021-12-09 23:19:43.675770
+1001,611_q4,Q4: How would you rate the Template-based-summary for this chart?,2,00:00:03,2021-12-09 23:19:43.678739
+1001,425_q1,Q5: What was the brand value of Christiano Ronaldo in 2017? ,567567,00:00:03,2021-12-09 23:19:47.976519
+1001,425_q2,"Q6: Who had the second highest brand value, and what was the value? ",90-90-,00:00:02,2021-12-09 23:19:50.886637
+1001,425_q3,Q7: What was the ratio of brand values between the player with most and least brand values? ,dfgdfg,00:00:02,2021-12-09 23:19:53.515448
+1001,425_q4,Q9: How would you rate the ML-based-summary for this chart?,3,00:00:03,2021-12-09 23:19:57.078807
+1001,425_q4,Q8: How would you rate the Template-based-summary for this chart?,1,00:00:03,2021-12-09 23:19:57.082532
+1001,876_q1,Q10: What was the revenue in Q3 2013? ,cvbcvb,00:00:02,2021-12-09 23:20:01.097524
+1001,876_q2,Q11: When was the minimum revenue observed? ,uiluio,00:00:04,2021-12-09 23:20:05.594383
+1001,876_q3,Q12: Which quarter had the lowest revenue in year 2015? ,yuiyui,00:00:02,2021-12-09 23:20:08.217209
+1001,876_q4,Q14: How would you rate the ML-based-summary for this chart?,3,00:00:04,2021-12-09 23:20:12.793055
+1001,876_q4,Q13: How would you rate the Template-based-summary for this chart?,2,00:00:04,2021-12-09 23:20:12.794826
+1001,818_q1,"Q1: Which month of Year 2016 saw the lowest average price for regular, unleaded gasoline in Canada? ",yuiyui,00:00:04,2021-12-09 23:20:33.867594
+1001,818_q2,"Q2: In the month of September, which year had the highest average price for regular, unleaded gasoline in Canada? ",tyutyu,00:00:02,2021-12-09 23:20:35.761220
+1001,818_q3,Q3: How many years’ data was presented in the chart? ,uiouio,00:00:02,2021-12-09 23:20:37.727247
+1001,818_q4,Q5: How would you rate the ML-based-summary for this chart?,3,00:00:03,2021-12-09 23:20:40.709218
+1001,818_q4,Q4: How would you rate the Template-based-summary for this chart?,2,00:00:03,2021-12-09 23:20:40.711985
+1001,921_q1,Q5: What was the least favorite social network in the Fall of 2015? ,ttyu,00:00:03,2021-12-09 23:20:44.660817
+1001,921_q2,"Q6: In Fall 2013, which Social Network was the most favorite one? ",op[op[,00:00:02,2021-12-09 23:20:46.810666
+1001,921_q3,Q7: How many Social Networks data was presented in the chart? ,iopiop,00:00:02,2021-12-09 23:20:49.416929
+1001,921_q4,Q9: How would you rate the ML-based-summary for this chart?,3,00:00:03,2021-12-09 23:20:52.950584
+1001,921_q4,Q8: How would you rate the Template-based-summary for this chart?,2,00:00:03,2021-12-09 23:20:52.954032
+1001,304_q1,Q10: How many units Toyota sold in year 2016? ,op[op[,00:00:03,2021-12-09 23:21:01.082061
+1001,304_q2,"Q11: For Volkswagen, which year had the highest number of units sold? ",l;'l;',00:00:02,2021-12-09 23:21:03.183656
+1001,304_q3,Q12: How many brands data was presented in the chart? ,l;'l;',00:00:02,2021-12-09 23:21:05.602806
+1001,304_q4,Q14: How would you rate the ML-based-summary for this chart?,3,00:00:04,2021-12-09 23:21:09.873827
+1001,795_q1,"Q1: In which year, the sales volume decreased for the first time in Germany? ",iopiop,00:00:03,2021-12-09 23:21:16.283112
+1001,795_q2,Q2: What is the maximum length summary of sales volume from year 2011 to 2018? ,iopiop,00:00:02,2021-12-09 23:21:18.721328
+1001,795_q3,Q3: What is the sales volume in the last year of the chart? ,l;'l;',00:00:02,2021-12-09 23:21:20.718062
+1001,795_q4,Q5: How would you rate the ML-based-summary for this chart?,3,00:00:03,2021-12-09 23:21:24.018925
+1001,795_q4,Q4: How would you rate the Template-based-summary for this chart?,2,00:00:03,2021-12-09 23:21:24.029636
+1001,831_q1,"Q5: In which year, Johnson & Johnson's net income decreased for the fiest time? ",567567,00:00:02,2021-12-09 23:21:27.680144
+1001,831_q2,Q6: What was the overall trend of income from year 2015 to 2017? ,yuiyui,00:00:02,2021-12-09 23:21:30.180280
+1001,831_q3,Q7: Which hear saw the least income? ,jkl,00:00:01,2021-12-09 23:21:31.834259
+1001,831_q4,Q9: How would you rate the ML-based-summary for this chart?,3,00:00:04,2021-12-09 23:21:35.656380
+1001,831_q4,Q8: How would you rate the Template-based-summary for this chart?,2,00:00:04,2021-12-09 23:21:35.654026
+1001,412_q1,"Q10: From 2005 to 2009, which year had the least percentage of poor population? ",yuiyu,00:00:02,2021-12-09 23:21:41.282481
+1001,412_q2,Q11: Was the trend increasing from 2013 to 2016? ,yui,00:00:01,2021-12-09 23:21:43.010757
+1001,412_q3,Q12: When did the poverty reach the maximum percentage? ,hk,00:00:01,2021-12-09 23:21:44.678155
+1001,412_q4,Q13: How would you rate the Template-based-summary for this chart?,2,00:00:07,2021-12-09 23:21:53.148712
+1001,412_q4,Q14: How would you rate the ML-based-summary for this chart?,3,00:00:07,2021-12-09 23:21:53.145824
+1001,791_q1,Q1: How many lines are presented in this chart? ,hjkhjk,00:00:02,2021-12-09 23:21:57.023105
+1001,791_q2,Q2: Which gender had the highest Share of respondents and when was the maximum value found? ,678678,00:00:02,2021-12-09 23:21:59.373059
+1001,791_q3,Q3: What are the values of Share of respondents in year 2009? ,uiouio,00:00:02,2021-12-09 23:22:01.458916
+1001,791_q4,Q5: How would you rate the ML-based-summary for this chart?,1,00:00:03,2021-12-09 23:22:04.674756
+1001,791_q4,Q4: How would you rate the Template-based-summary for this chart?,2,00:00:03,2021-12-09 23:22:04.678127
+1001,34_q1,Q5: How many lines are presented in this chart? ,tyutyu,00:00:02,2021-12-09 23:22:10.228725
+1001,34_q2,"Q6: Among import and export, which one was higher throughout the years? ",uiouio,00:00:02,2021-12-09 23:22:12.280914
+1001,34_q3,"Q7: From year 2011 to 2016, which year was the highest trade for export> ",678,00:00:02,2021-12-09 23:22:14.333848
+1001,34_q4,Q8: How would you rate the Template-based-summary for this chart?,3,00:00:03,2021-12-09 23:22:17.695521
+1001,34_q4,Q9: How would you rate the ML-based-summary for this chart?,2,00:00:03,2021-12-09 23:22:17.700393
+1001,389_q1,Q10: How many lines are presented in this chart? ,kl;kl;,00:00:02,2021-12-09 23:22:25.135258
+1001,389_q2,Q11: Which region saw the minimum increase along the years? ,yuiyui,00:00:02,2021-12-09 23:22:27.189114
+1001,389_q3,Q12: Which year saw the major decline of number? ,opio,00:00:02,2021-12-09 23:22:29.631220
+1001,389_q4,Q14: How would you rate the ML-based-summary for this chart?,3,00:00:03,2021-12-09 23:22:33.442118
+1001,389_q4,Q13: How would you rate the Template-based-summary for this chart?,2,00:00:03,2021-12-09 23:22:33.445496
+1001,611_q1,Q1: How many units of Subaru car was sold in August 2018? ,asd,00:00:10,2021-12-10 01:03:52.812035
+1001,611_q2,Q2: When did Subaru see the maximum sales? ,asd,00:00:05,2021-12-10 01:03:58.746923
+1001,611_q3,Q3: Which month saw the maximum sale of Subaru can in year 2017? ,asd,00:00:02,2021-12-10 01:04:00.906103
+1001,611_q1,Q1: How many units of Subaru car was sold in August 2018? ,ABUL,00:00:15,2021-12-10 01:14:27.253074
+1001,611_q1,Q1: How many units of Subaru car was sold in August 2018? ,asd,00:00:02,2021-12-10 01:25:04.165072
+1001,611_q2,Q2: When did Subaru see the maximum sales? ,sfg,00:00:02,2021-12-10 01:25:06.138076
+1001,611_q3,Q3: Which month saw the maximum sale of Subaru can in year 2017? ,fgh,00:00:02,2021-12-10 01:25:08.150769
+1001,611_q4,Q4: How would you rate the Template-based-summary for this chart?,3,00:00:03,2021-12-10 01:25:11.523833
+1001,611_q4,Q5: How would you rate the ML-based-summary for this chart?,3,00:00:03,2021-12-10 01:25:11.528731
+1001,425_q1,Q5: What was the brand value of Christiano Ronaldo in 2017? ,asd,00:00:02,2021-12-10 01:26:25.145119
+1001,425_q2,"Q6: Who had the second highest brand value, and what was the value? ",dfg,00:00:02,2021-12-10 01:26:26.957399
+1001,425_q3,Q7: What was the ratio of brand values between the player with most and least brand values? ,wer,00:00:02,2021-12-10 01:26:29.231413
+1001,425_q4,Q8: How would you rate the Template-based-summary for this chart?,3,00:00:03,2021-12-10 01:26:32.679062
+1001,425_q4,Q9: How would you rate the ML-based-summary for this chart?,3,00:00:03,2021-12-10 01:26:32.680275
+1001,876_q1,Q10: What was the revenue in Q3 2013? ,yui,00:00:02,2021-12-10 01:26:35.172178
+1001,876_q2,Q11: When was the minimum revenue observed? ,tyu,00:00:02,2021-12-10 01:26:36.951535
+1001,876_q3,Q12: Which quarter had the lowest revenue in year 2015? ,io;,00:00:02,2021-12-10 01:26:38.994958
+1001,876_q4,Q13: How would you rate the Template-based-summary for this chart?,3,00:00:04,2021-12-10 01:26:43.303495
+1001,876_q4,Q14: How would you rate the ML-based-summary for this chart?,4,00:00:04,2021-12-10 01:26:43.310009
+1001,818_q1,"Q1: Which month of Year 2016 saw the lowest average price for regular, unleaded gasoline in Canada? ",io,00:00:02,2021-12-10 01:26:45.978546
+1001,818_q2,"Q2: In the month of September, which year had the highest average price for regular, unleaded gasoline in Canada? ",io,00:00:02,2021-12-10 01:26:48.373000
+1001,818_q3,Q3: How many years’ data was presented in the chart? ,yui,00:00:02,2021-12-10 01:26:50.595503
+1001,818_q4,Q4: How would you rate the Template-based-summary for this chart?,3,00:00:04,2021-12-10 01:26:57.322795
+1001,818_q4,Q5: How would you rate the ML-based-summary for this chart?,4,00:00:04,2021-12-10 01:26:57.324637
+1001,921_q1,Q5: What was the least favorite social network in the Fall of 2015? ,yui,00:00:02,2021-12-10 01:27:01.650473
+1001,921_q2,"Q6: In Fall 2013, which Social Network was the most favorite one? ",yui,00:00:02,2021-12-10 01:27:03.633693
+1001,921_q3,Q7: How many Social Networks data was presented in the chart? ,yui,00:00:02,2021-12-10 01:27:05.212517
+1001,921_q4,Q9: How would you rate the ML-based-summary for this chart?,3,00:00:03,2021-12-10 01:27:08.214036
+1001,921_q4,Q8: How would you rate the Template-based-summary for this chart?,3,00:00:03,2021-12-10 01:27:08.217470
+1001,304_q1,Q10: How many units Toyota sold in year 2016? ,yui,00:00:01,2021-12-10 01:27:10.105240
+1001,304_q2,"Q11: For Volkswagen, which year had the highest number of units sold? ",yui,00:00:02,2021-12-10 01:27:11.962732
+1001,304_q3,Q12: How many brands data was presented in the chart? ,yui,00:00:02,2021-12-10 01:27:13.922761
+1001,304_q4,Q14: How would you rate the ML-based-summary for this chart?,2,00:00:04,2021-12-10 01:27:17.486485
+1001,304_q4,Q13: How would you rate the Template-based-summary for this chart?,3,00:00:04,2021-12-10 01:27:17.492968
+1001,795_q1,"Q1: In which year, the sales volume decreased for the first time in Germany? ",asd,00:00:02,2021-12-10 01:28:37.155130
+1001,795_q2,Q2: What is the maximum length summary of sales volume from year 2011 to 2018? ,asd,00:00:02,2021-12-10 01:28:38.997638
+1001,795_q3,Q3: What is the sales volume in the last year of the chart? ,asd,00:00:02,2021-12-10 01:28:40.791128
+1001,795_q1,"Q1: In which year, the sales volume decreased for the first time in Germany? ",asd,00:00:01,2021-12-10 01:29:00.359967
+1001,795_q2,Q2: What is the maximum length summary of sales volume from year 2011 to 2018? ,asd,00:00:02,2021-12-10 01:29:02.290338
+1001,795_q3,Q3: What is the sales volume in the last year of the chart? ,asd,00:00:02,2021-12-10 01:29:04.042562
+1001,795_q1,"Q1: In which year, the sales volume decreased for the first time in Germany? ",asd,00:00:02,2021-12-10 01:30:33.925135
+1001,795_q2,Q2: What is the maximum length summary of sales volume from year 2011 to 2018? ,asd,00:00:02,2021-12-10 01:30:36.959374
+1001,795_q3,Q3: What is the sales volume in the last year of the chart? ,asd,00:00:02,2021-12-10 01:30:38.911518
+1001,795_q1,"Q1: In which year, the sales volume decreased for the first time in Germany? ",asd,00:00:02,2021-12-10 01:36:05.716821
+1001,795_q2,Q2: What is the maximum length summary of sales volume from year 2011 to 2018? ,asd,00:00:02,2021-12-10 01:36:07.857742
+1001,795_q3,Q3: What is the sales volume in the last year of the chart? ,asd,00:00:01,2021-12-10 01:36:09.475096
+1001,795_q1,"Q1: In which year, the sales volume decreased for the first time in Germany? ",asd,00:00:03,2021-12-10 01:36:20.290639
+1001,795_q2,Q2: What is the maximum length summary of sales volume from year 2011 to 2018? ,asd,00:00:02,2021-12-10 01:36:22.263699
+1001,795_q3,Q3: What is the sales volume in the last year of the chart? ,asd,00:00:02,2021-12-10 01:36:24.550707
+1001,795_q1,"Q1: In which year, the sales volume decreased for the first time in Germany? ",asd,00:00:04,2021-12-10 01:36:45.388059
+1001,795_q2,Q2: What is the maximum length summary of sales volume from year 2011 to 2018? ,asd,00:00:02,2021-12-10 01:36:47.292708
+1001,795_q3,Q3: What is the sales volume in the last year of the chart? ,asd,00:00:02,2021-12-10 01:36:48.930327
+1001,795_q1,"Q1: In which year, the sales volume decreased for the first time in Germany? ",asd,00:00:02,2021-12-10 01:39:31.968178
+1001,795_q2,Q2: What is the maximum length summary of sales volume from year 2011 to 2018? ,asd,00:00:04,2021-12-10 01:39:37.605193
+1001,795_q3,Q3: What is the sales volume in the last year of the chart? ,asd,00:00:02,2021-12-10 01:39:39.437304
+1001,795_q1,"Q1: In which year, the sales volume decreased for the first time in Germany? ",asd,00:00:02,2021-12-10 01:42:36.503155
+1001,795_q2,Q2: What is the maximum length summary of sales volume from year 2011 to 2018? ,asd,00:00:02,2021-12-10 01:42:38.534413
+1001,795_q3,Q3: What is the sales volume in the last year of the chart? ,asd,00:00:02,2021-12-10 01:42:40.352798

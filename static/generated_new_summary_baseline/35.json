@@ -1,0 +1,93 @@
+{
+   "title": "Bayer CropScience 's revenue 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenues in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenues in million euros, containing a total of 14 data points.",
+      " In general Revenues in million euros has rose over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Revenues in million euros, about 14266.0 was reported at Year 2018",
+      "Minimum Revenues in million euros about 5700.0 was reached at Year 2006"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenues in million euros, containing a total of 14 data points.",
+      " In general Revenues in million euros has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenues in million euros, containing a total of 14 data points.",
+      " In general Revenues in million euros has rose over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Revenues in million euros, about 14266.0 was reported at Year 2018",
+      "Minimum Revenues in million euros about 5700.0 was reached at Year 2006"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenues in million euros. In total the number of data points it has is 14.",
+      " Overall Revenues in million euros has increased over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Revenues in million euros, about 14266.0 was reported at Year 2018",
+      "Minimum Revenues in million euros about 5700.0 was reached at Year 2006",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenues in million euros": 14266.0
+      },
+      {
+         "Year": "2017",
+         "Revenues in million euros": 9577.0
+      },
+      {
+         "Year": "2016",
+         "Revenues in million euros": 9915.0
+      },
+      {
+         "Year": "2015",
+         "Revenues in million euros": 10367.0
+      },
+      {
+         "Year": "2014",
+         "Revenues in million euros": 9494.0
+      },
+      {
+         "Year": "2013",
+         "Revenues in million euros": 8819.0
+      },
+      {
+         "Year": "2012",
+         "Revenues in million euros": 8383.0
+      },
+      {
+         "Year": "2011",
+         "Revenues in million euros": 7255.0
+      },
+      {
+         "Year": "2010",
+         "Revenues in million euros": 6830.0
+      },
+      {
+         "Year": "2009",
+         "Revenues in million euros": 6510.0
+      },
+      {
+         "Year": "2008",
+         "Revenues in million euros": 6382.0
+      },
+      {
+         "Year": "2007",
+         "Revenues in million euros": 5826.0
+      },
+      {
+         "Year": "2006",
+         "Revenues in million euros": 5700.0
+      },
+      {
+         "Year": "2005",
+         "Revenues in million euros": 5896.0
+      }
+   ]
+}

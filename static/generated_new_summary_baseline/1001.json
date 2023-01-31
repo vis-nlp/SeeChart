@@ -1,0 +1,82 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Oman 2024 ",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2019, gradually increasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "Maximum GDP growth compared to previous year, about 4.9 was reported at Year 2016",
+      "Minimum GDP growth compared to previous year about 0.04 was reached at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2019, gradually increasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2019, gradually increasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "Maximum GDP growth compared to previous year, about 4.9 was reported at Year 2016",
+      "Minimum GDP growth compared to previous year about 0.04 was reached at Year 2019"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth compared to previous year has rose over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2019, gradually increasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "Maximum GDP growth compared to previous year, about 4.9 was reported at Year 2016",
+      "Minimum GDP growth compared to previous year about 0.04 was reached at Year 2019",
+      "The line significantly remained stable by 3.24 from Year 2014 to 2015,remained stable by 4.55 from Year 2016 to 2017,remained stable by 1.41 from Year 2017 to 2018,remained stable by 1.72 from Year 2018 to 2019,increased by 3.64 from Year 2019 to 2020,remained stable by 3.42 from Year 2021 to 2022, and lastly, remained stable by 1.02 from Year 2023 to 2024."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 1.63
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 0.61
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 0.9
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 4.32
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 3.68
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 0.04
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 1.76
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 0.35
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 4.9
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 4.66
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 1.42
+      }
+   ]
+}

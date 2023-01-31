@@ -1,0 +1,172 @@
+{
+   "title": "Digital video ad impressions in the U.S. 2014 - 2018 , by ad length",
+   "labels": [
+      "Quarter",
+      "15 seconds",
+      "30 seconds",
+      "60 seconds",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of total video impressions on the Y-axis for 15 different Quarters for 4 groups 15 seconds, 30 seconds, 60 seconds, and Other that are presented on the X-axis. ",
+      " All through the Quarters, the Share of total video impressions for 30 seconds have decreased. On the other hand, for 15 seconds the Share of total video impressions have increased. ",
+      " Quarter Q3 2014 had the maximum Share of total video impressions among all 4 groups, and it was for 30 seconds. The minimum Share of total video impressions was observed in Quarter Q1 2018 for 60 seconds. ",
+      " The maximum Share of total video impressions for 30 seconds that was found in Quarter Q3 2014 was 1.75 times larger than the minimum Share of total video impressions observed in Quarter Q4 2016. "
+   ],
+   "xAxis": "Quarter",
+   "yAxis": "Share of total video impressions",
+   "min_summary": [
+      "This grouped bar chart represents 15 different Quarters on X-axis for 4 groups 15 seconds, 30 seconds, 60 seconds, and Other. On the Y-axis it shows their corresponding Share of total video impressions. ",
+      " All through the Quarters, the Share of total video impressions for 30 seconds have decreased. On the other hand, for 15 seconds the Share of total video impressions have increased. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of total video impressions on the Y-axis for 15 different Quarters for 4 groups 15 seconds, 30 seconds, 60 seconds, and Other that are presented on the X-axis. ",
+      " All through the Quarters, the Share of total video impressions for 30 seconds have decreased. On the other hand, for 15 seconds the Share of total video impressions have increased. ",
+      " Quarter Q3 2014 had the maximum Share of total video impressions among all 4 groups, and it was for 30 seconds. The minimum Share of total video impressions was observed in Quarter Q1 2018 for 60 seconds. ",
+      " The maximum Share of total video impressions for 30 seconds that was found in Quarter Q3 2014 was 1.75 times larger than the minimum Share of total video impressions observed in Quarter Q4 2016. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of total video impressions on the Y-axis for 15 different Quarters for 4 groups 15 seconds, 30 seconds, 60 seconds, and Other that are presented on the X-axis. ",
+      " Over the 15 Quarters, the Share of total video impressions for 30 seconds have been decreased whereas increased for 15 seconds. ",
+      " For Quarter Q3 2014, 30 seconds had the highest Share of total video impressions 63.0 among the 4 groups and in Q1 2018, 60 seconds had the lowest Share of total video impressions 0.0. ",
+      " Among all the Quarters, 30 seconds had the highest Share of total video impressions in Quarter Q3 2014 and lowest Share of total video impressions in Quarter Q4 2016. ",
+      " The maximum Share of total video impressions for 30 seconds that was found in Quarter Q3 2014 was 1.75 times larger than the minimum Share of total video impressions observed in Quarter Q4 2016. ",
+      " Among the groups, 30 seconds had the biggest difference in Share of total video impressions. Where the maximum Share of total video impressions was 1.75 times larger than the minimum Share of total video impressions. ",
+      " In case of Quarter Q3 2014, 30 seconds had the highest Share of total video impressions 63.0 among the 4 groups and in Q1 2018, 60 seconds had the lowest Share of total video impressions 0.0. The second highest Share of total video impressions 10.0 was observed for 30 seconds in Quarter Q3 2014. ",
+      "On average, the Quarter Q2 2014 had the highest Share of total video impressions for all 4 groups 15 seconds, 30 seconds, 60 seconds, and Other. Whereas Q3 2015 had the lowest average Share of total video impressions. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "14"
+         ],
+         "13": [
+            "4",
+            "14"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "9"
+         ],
+         "14": [
+            "4",
+            "9"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 2018",
+         "15 seconds": "46",
+         "30 seconds": "52",
+         "60 seconds": "0",
+         "Other": "2"
+      },
+      {
+         "Quarter": "Q4 2017",
+         "15 seconds": "35",
+         "30 seconds": "59",
+         "60 seconds": "0",
+         "Other": "6"
+      },
+      {
+         "Quarter": "Q3 2017",
+         "15 seconds": "37",
+         "30 seconds": "59",
+         "60 seconds": "0",
+         "Other": "4"
+      },
+      {
+         "Quarter": "Q2 2017",
+         "15 seconds": "37",
+         "30 seconds": "53",
+         "60 seconds": "0",
+         "Other": "10"
+      },
+      {
+         "Quarter": "Q1 2017",
+         "15 seconds": "47",
+         "30 seconds": "45",
+         "60 seconds": "0",
+         "Other": "8"
+      },
+      {
+         "Quarter": "Q4 2016",
+         "15 seconds": "55",
+         "30 seconds": "36",
+         "60 seconds": "0",
+         "Other": "9"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "15 seconds": "46",
+         "30 seconds": "50",
+         "60 seconds": "0",
+         "Other": "4"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "15 seconds": "36",
+         "30 seconds": "60",
+         "60 seconds": "0",
+         "Other": "4"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "15 seconds": "35",
+         "30 seconds": "61",
+         "60 seconds": "0",
+         "Other": "4"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "15 seconds": "36",
+         "30 seconds": "60",
+         "60 seconds": "0",
+         "Other": "4"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "15 seconds": "53",
+         "30 seconds": "44",
+         "60 seconds": "1",
+         "Other": "0"
+      },
+      {
+         "Quarter": "Q2 2015",
+         "15 seconds": "50",
+         "30 seconds": "48",
+         "60 seconds": "1",
+         "Other": "0"
+      },
+      {
+         "Quarter": "Q4 2014",
+         "15 seconds": "40",
+         "30 seconds": "59",
+         "60 seconds": "0",
+         "Other": "0"
+      },
+      {
+         "Quarter": "Q3 2014",
+         "15 seconds": "35",
+         "30 seconds": "63",
+         "60 seconds": "1",
+         "Other": "0"
+      },
+      {
+         "Quarter": "Q2 2014",
+         "15 seconds": "54",
+         "30 seconds": "46",
+         "60 seconds": "0",
+         "Other": "0"
+      }
+   ]
+}

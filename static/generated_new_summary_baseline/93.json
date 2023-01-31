@@ -1,0 +1,164 @@
+{
+   "title": "Gross domestic product ( GDP ) in Nigeria 2024 ",
+   "xAxis": "Year",
+   "yAxis": "Gross domestic product in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross domestic product in billion U.S. dollars. In total the number of data points it has is 31.",
+      " In general Gross domestic product in billion U.S. dollars has rose over the Year.",
+      "The steepest decrease occurs in between the Year 1998 and 1999.",
+      "The highest Gross domestic product in billion U.S. dollars, of value 762.02 was reached at Year 2024",
+      "Minimum Gross domestic product in billion U.S. dollars about 57.48 was reached at Year 1999"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 31 data points.",
+      " Overall Gross domestic product in billion U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross domestic product in billion U.S. dollars. In total the number of data points it has is 31.",
+      " In general Gross domestic product in billion U.S. dollars has rose over the Year.",
+      "The steepest decrease occurs in between the Year 1998 and 1999.",
+      "The highest Gross domestic product in billion U.S. dollars, of value 762.02 was reached at Year 2024",
+      "Minimum Gross domestic product in billion U.S. dollars about 57.48 was reached at Year 1999"
+   ],
+   "max_summary": [
+      "The chart in general has a zig-zag shape.",
+      "The chart in general has a zig-zag shape.",
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 31 data points.",
+      " In general Gross domestic product in billion U.S. dollars has rose over the Year.",
+      "The chart generally has many fluctuations.",
+      "The steepest decrease occurs in between the Year 1998 and 1999.",
+      "The highest Gross domestic product in billion U.S. dollars, of value 762.02 was reached at Year 2024",
+      "Minimum Gross domestic product in billion U.S. dollars about 57.48 was reached at Year 1999",
+      "The line drastically decreased by 3.6 times from Year 1998 to 1999."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "Gross domestic product in billion U.S. dollars": 762.02
+      },
+      {
+         "Year": "2023",
+         "Gross domestic product in billion U.S. dollars": 683.21
+      },
+      {
+         "Year": "2022",
+         "Gross domestic product in billion U.S. dollars": 613.39
+      },
+      {
+         "Year": "2021",
+         "Gross domestic product in billion U.S. dollars": 550.07
+      },
+      {
+         "Year": "2020",
+         "Gross domestic product in billion U.S. dollars": 494.83
+      },
+      {
+         "Year": "2019",
+         "Gross domestic product in billion U.S. dollars": 446.54
+      },
+      {
+         "Year": "2018",
+         "Gross domestic product in billion U.S. dollars": 398.19
+      },
+      {
+         "Year": "2017",
+         "Gross domestic product in billion U.S. dollars": 376.36
+      },
+      {
+         "Year": "2016",
+         "Gross domestic product in billion U.S. dollars": 405.44
+      },
+      {
+         "Year": "2015",
+         "Gross domestic product in billion U.S. dollars": 493.84
+      },
+      {
+         "Year": "2014",
+         "Gross domestic product in billion U.S. dollars": 568.5
+      },
+      {
+         "Year": "2013",
+         "Gross domestic product in billion U.S. dollars": 514.97
+      },
+      {
+         "Year": "2012",
+         "Gross domestic product in billion U.S. dollars": 460.95
+      },
+      {
+         "Year": "2011",
+         "Gross domestic product in billion U.S. dollars": 414.1
+      },
+      {
+         "Year": "2010",
+         "Gross domestic product in billion U.S. dollars": 369.06
+      },
+      {
+         "Year": "2009",
+         "Gross domestic product in billion U.S. dollars": 297.46
+      },
+      {
+         "Year": "2008",
+         "Gross domestic product in billion U.S. dollars": 330.26
+      },
+      {
+         "Year": "2007",
+         "Gross domestic product in billion U.S. dollars": 262.22
+      },
+      {
+         "Year": "2006",
+         "Gross domestic product in billion U.S. dollars": 222.79
+      },
+      {
+         "Year": "2005",
+         "Gross domestic product in billion U.S. dollars": 169.65
+      },
+      {
+         "Year": "2004",
+         "Gross domestic product in billion U.S. dollars": 130.35
+      },
+      {
+         "Year": "2003",
+         "Gross domestic product in billion U.S. dollars": 102.94
+      },
+      {
+         "Year": "2002",
+         "Gross domestic product in billion U.S. dollars": 93.98
+      },
+      {
+         "Year": "2001",
+         "Gross domestic product in billion U.S. dollars": 73.13
+      },
+      {
+         "Year": "2000",
+         "Gross domestic product in billion U.S. dollars": 67.82
+      },
+      {
+         "Year": "1999",
+         "Gross domestic product in billion U.S. dollars": 57.48
+      },
+      {
+         "Year": "1998",
+         "Gross domestic product in billion U.S. dollars": 209.68
+      },
+      {
+         "Year": "1997",
+         "Gross domestic product in billion U.S. dollars": 187.87
+      },
+      {
+         "Year": "1996",
+         "Gross domestic product in billion U.S. dollars": 172.69
+      },
+      {
+         "Year": "1995",
+         "Gross domestic product in billion U.S. dollars": 132.23
+      },
+      {
+         "Year": "1994",
+         "Gross domestic product in billion U.S. dollars": 81.13
+      }
+   ]
+}

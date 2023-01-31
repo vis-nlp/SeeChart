@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ JSGlue.include() }}
+    <meta charset="UTF-8">
+    <title>User Study Home for Admin</title>
+    <link href="static/css/homeStyle.css" rel="stylesheet">
+    <script type=text/javascript src="{{ url_for('static', filename='js/study.js') }}"></script>
+
+</head>
+
+<div class="topnav">
+<!--    <a href="{{ url_for('home') }}">Home</a>-->
+    <a href="{{ url_for('config') }}">Study Config</a>
+    <a class="active" href="{{ url_for('timer') }}">Timer</a>
+    <a href="{{ url_for('all_charts') }}">Charts</a>
+<!--    <a href="#" onClick="(function(){-->
+<!--        if (confirm('Are you sure?') == true){-->
+<!--            window.location.replace(Flask.url_for('logout'));-->
+<!--        }-->
+
+<!--    })();">Log Out</a>-->
+
+<!--    <p> Participant ID: ADMIN </p>-->
+</div>
+
+<body>
+<!--    <h3 class="main" align="center">Admin Portal</h3>-->
+
+    <div class="container" align="center">
+<!--        <h2 align="center"> Select Activated Summary Types </h2>-->
+
+        <br>
+        <br>
+        <label for="pid">Participant ID:</label><br>
+        <input type="text" id="pid" name="pid" style="width: 40%"><br>
+
+        <table border="1" class="styled-table" style="width: 90%;">
+            <tr>
+                <td>
+                    <label for="q_no">Qstn#:</label><br>
+                </td>
+                <td>
+<!--                    <input type="text" id="q_no" name="q_no" style="width: 60%"><br><br>-->
+
+                    <select name="q_no" id="q_no" style="width: 80%; height: 5.5rem;">
+                      <option value="none" selected>None</option>
+                      <option value="bar_158: What Age Group had the maximum number of people? [Extrema]" style="color: #006dcc; font-weight: bold;">bar_158: What Age Group had the maximum number of people? [Extrema]</option>
+                      <option value="bar_180: What is the minimum Share of US Adults you found in this chart? [Extrema] " style="color: #006dcc; font-weight: bold;">bar_180: What is the minimum Share of US Adults you found in this chart? [Extrema] </option>
+                      <option value="bar_186: Among Marlboro, Richmond, PLayers, which brand had the lowest Sales Value? [Filter, Extrema]" style="color: #006dcc; font-weight: bold;">bar_186: Among Marlboro, Richmond, PLayers, which brand had the lowest Sales Value? [Filter, Extrema]</option>
+                      <option value="bar_206:  Among the first FIVE provinces shown in this chart, which one had the LEAST number of snowmobile registered? [Filter, Extrema]" style="color: #006dcc; font-weight: bold;">bar_206:  Among the first FIVE provinces shown in this chart, which one had the LEAST number of snowmobile registered? [Filter, Extrema]</option>
+                      <option value="bar_775: Which airlines had the max and min number of passengers in 2018? [Extrema]" style="color: #006dcc; font-weight: bold;">bar_775: Which airlines had the max and min number of passengers in 2018? [Extrema]</option>
+                      <option value="bar_1092: From 2010 to 2016, which year had the minimum Revenue for Pandora? [Filter, Extrema]" style="color: #006dcc; font-weight: bold;">bar_1092: From 2010 to 2016, which year had the minimum Revenue for Pandora? [Filter, Extrema]</option>
+                      <option value="bar_308: Which country had the minimum production fo Kiwi in 2017? [Extrema]" style="color: #006dcc; font-weight: bold;">bar_308: Which country had the minimum production fo Kiwi in 2017? [Extrema]</option>
+                      <option value="bar_309: Among Spanish, English, Hindi, which language is spoken the least? [Filter, Extrema]" style="color: #006dcc; font-weight: bold;">bar_309: Among Spanish, English, Hindi, which language is spoken the least? [Filter, Extrema]</option>
+                      <option value="bar_377: In which country, the cost of an angioplasty is the highest? [Extrema]" style="color: #006dcc; font-weight: bold;">bar_377: In which country, the cost of an angioplasty is the highest? [Extrema]</option>
+                      <option value="bar_45: In 2018, which fruit was consumed the most in US? [Extrema]" style="color: #006dcc; font-weight: bold;">bar_45: In 2018, which fruit was consumed the most in US? [Extrema]</option>
+                      <option value="bar_669: Among Movies, Drama, Reality shows, which one is least favourite? [Filter, Extrema]" style="color: #006dcc; font-weight: bold;">bar_669: Among Movies, Drama, Reality shows, which one is least favourite? [Filter, Extrema]</option>
+<!--                      <option value="bar_694: How many tech giants has more than 30,000 patents? [Filter]" style="color: #006dcc; font-weight: bold;">bar_694: How many tech giants has more than 30,000 patents? [Filter]</option>-->
+                      <option value="bar_694: Among Xerox, Intel, Motorola, Ricoh, and Lucent, which Company had the minimum number of patents? [Filter, Extrema]" style="color: #006dcc; font-weight: bold;">bar_694: Among Xerox, Intel, Motorola, Ricoh, and Lucent, which Company had the minimum number of patents? [Filter, Extrema]</option>
+                      <option value="multi_line_170: Overall, which country had the minimum GDP? [Extrema]" style="color: #f60000; font-weight: bold;">multi_line_170: Overall, which country had the minimum GDP? [Extrema]</option>
+                      <option value="multi_line_176: Which sector is providing highest rate of employment? [Extrema]" style="color: #f60000; font-weight: bold;">multi_line_176: Which sector is providing highest rate of employment? [Extrema]</option>
+                      <option value="multi_line_189: In 2010 and 2011, which segment saw more revenue? [Filter, Extrema]" style="color: #f60000; font-weight: bold;">multi_line_189: In 2010 and 2011, which segment saw more revenue? [Filter, Extrema]</option>
+                      <option value="multi_line_197: What are the trends of Services and Industry from the year 2016 to 2018? [Filter, Trend]" style="color: #f60000; font-weight: bold;">multi_line_197: What are the trends of Services and Industry from the year 2016 to 2018? [Filter, Trend]</option>
+                      <option value="multi_line_205: Which sector had the least share of employment? [Extrema]" style="color: #f60000; font-weight: bold;">multi_line_205: Which sector had the least share of employment? [Extrema]</option>
+                      <option value="multi_line_220: Which sector maintained the highest share in GDP over the years? [Extrema]" style="color: #f60000; font-weight: bold;">multi_line_220: Which sector maintained the highest share in GDP over the years? [Extrema]</option>
+                      <option value="multi_line_711: What are the trends of Services and Agriculture from the year 2012 to 2014? [Filter, Trend]" style="color: #f60000; font-weight: bold;">multi_line_711: What are the trends of Services and Agriculture from the year 2012 to 2014? [Filter, Trend]</option>
+                      <option value="multi_line_752: What was the overall trend of stocks from year 2015 to 2017? [Filter, Trend]" style="color: #f60000; font-weight: bold;">multi_line_752: What was the overall trend of stocks from year 2015 to 2017? [Filter, Trend]</option>
+                      <option value="multi_line_245: What was the minimum share of workforce in the Agriculture sector? [Extrema]" style="color: #f60000; font-weight: bold;">multi_line_245: What was the minimum share of workforce in the Agriculture sector? [Extrema]</option>
+                      <option value="multi_line_457: When did the highest percentage of children of 11-15 years old play cricket? [Extrema]" style="color: #f60000; font-weight: bold;">multi_line_457: When did the highest percentage of children of 11-15 years old play cricket? [Extrema]</option>
+                      <option value="multi_line_545: What was the trend of Desktop internet usage from year 2011 to 2013? [Filter + Trend]" style="color: #f60000; font-weight: bold;">multi_line_545: What was the trend of Desktop internet usage from year 2011 to 2013? [Filter + Trend]</option>
+                      <option value="multi_line_524: From year 2016 to 2018, which source brought the least revenue? [Filter + Extrema]" style="color: #f60000; font-weight: bold;">multi_line_524: From year 2016 to 2018, which source brought the least revenue? [Filter + Extrema]</option>
+                    </select>
+
+                </td>
+            </tr>
+        </table>
+
+        <table id="timer" border="1" class="styled-table" style="width: 90%;">
+            <tr>
+                <td>
+                    <h3 id="stopwatch" align="center">00:00:00</h3>
+
+                </td>
+                <td>
+<!--                        <form id="time_check" name="Time Form" action="#" onsubmit="question_response(this); return false;">-->
+<!--                    <form id="time_check" name="Time Form">-->
+
+                        <button class="button" onclick="startTimer()">Start</button>
+                        <button class="button" onclick="resetTimer()">Reset</button>
+                        <button class="button" onclick="stopTimer()">Pause</button>
+<!--                    </form>-->
+                </td>
+            </tr>
+        </table>
+
+        <table border="1" class="styled-table" style="width: 90%;">
+
+            <tr>
+                <td style="height: 1rem;">
+                    <label for="ans">Answer:</label><br>
+                </td>
+                <td style="height: 1rem;">
+                    <input type="text" id="ans" name="ans" style="width: 80%"><br><br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="result">Correct?</label><br>
+                </td>
+                <td>
+                    <input type="checkbox" id="result" name="result" value="Right" checked>
+                </td>
+            </tr>
+
+        </table>
+
+        <input type="submit" value="Record Time" onclick="record_time()">
+
+        <h4 id="last_record"></h4>
+
+<!--        <button class="button" title="Insert PID to Download" onclick="download_report()">Download Report</button>-->
+
+        <a id="dl_link" href="" title="Insert PID then click here to download" onclick="click_dl()">Download Report</a>
+        <br>
+        <br>
+        <a id="dl_link_key" href="" title="Key press counter" onclick="click_dl_key()">Download Report of Key Press</a>
+
+<!--        https://127.0.0.1:8080/%7B%7B%20url_for('download',%20fileTimer_12333.csv=%20'name')%20%7D%7D -->
+
+    </div>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            initStopWatch();
+
+        }, false);
+
+
+        function click_dl(){
+            if (document.getElementById('pid').value !== ""){
+                // console.log(document.getElementById('pid'))
+
+                var a = document.getElementById("dl_link")
+
+                var f_name = 'Timer_' + document.getElementById('pid').value + '.csv'
+
+                console.log(f_name)
+
+                a.href = "{{ url_for('download', filename= 'name') }}".replace("name", f_name);
+
+                a.download;
+                // a.click();
+                a.hidden = false;
+            } else {
+                alert("Insert PID to download")
+            }
+        }
+
+
+        function click_dl_key(){
+            var a = document.getElementById("dl_link_key")
+
+            var f_name = 'key.csv'
+
+            a.href = "{{ url_for('download', filename= 'name') }}".replace("name", f_name);
+
+            a.download;
+        }
+
+
+
+
+    </script>
+
+</body>
+
+
+</html>

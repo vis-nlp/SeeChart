@@ -1,0 +1,113 @@
+{
+   "title": "U.S. arms exports 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Export value in TIV in million constant (1990) U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Export value in TIV in million constant (1990) U.S. dollars, containing a total of 19 data points.",
+      " Overall Export value in TIV in million constant (1990) U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum Export value in TIV in million constant (1990) U.S. dollars, about 12485.0 was reported at Year 2017",
+      "Minimum Export value in TIV in million constant (1990) U.S. dollars about 4953.0 was reached at Year 2002"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Export value in TIV in million constant (1990) U.S. dollars. In total the number of data points it has is 19.",
+      " In general Export value in TIV in million constant (1990) U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Export value in TIV in million constant (1990) U.S. dollars, containing a total of 19 data points.",
+      " Overall Export value in TIV in million constant (1990) U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum Export value in TIV in million constant (1990) U.S. dollars, about 12485.0 was reported at Year 2017",
+      "Minimum Export value in TIV in million constant (1990) U.S. dollars about 4953.0 was reached at Year 2002"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Export value in TIV in million constant (1990) U.S. dollars. In total the number of data points it has is 19.",
+      " In general Export value in TIV in million constant (1990) U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Maximum Export value in TIV in million constant (1990) U.S. dollars, about 12485.0 was reported at Year 2017",
+      "Minimum Export value in TIV in million constant (1990) U.S. dollars about 4953.0 was reached at Year 2002",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Export value in TIV in million constant (1990) U.S. dollars": 10508.0
+      },
+      {
+         "Year": "2017",
+         "Export value in TIV in million constant (1990) U.S. dollars": 12485.0
+      },
+      {
+         "Year": "2016",
+         "Export value in TIV in million constant (1990) U.S. dollars": 9955.0
+      },
+      {
+         "Year": "2015",
+         "Export value in TIV in million constant (1990) U.S. dollars": 9931.0
+      },
+      {
+         "Year": "2014",
+         "Export value in TIV in million constant (1990) U.S. dollars": 9601.0
+      },
+      {
+         "Year": "2013",
+         "Export value in TIV in million constant (1990) U.S. dollars": 7571.0
+      },
+      {
+         "Year": "2012",
+         "Export value in TIV in million constant (1990) U.S. dollars": 9086.0
+      },
+      {
+         "Year": "2011",
+         "Export value in TIV in million constant (1990) U.S. dollars": 9022.0
+      },
+      {
+         "Year": "2010",
+         "Export value in TIV in million constant (1990) U.S. dollars": 8074.0
+      },
+      {
+         "Year": "2009",
+         "Export value in TIV in million constant (1990) U.S. dollars": 6913.0
+      },
+      {
+         "Year": "2008",
+         "Export value in TIV in million constant (1990) U.S. dollars": 6800.0
+      },
+      {
+         "Year": "2007",
+         "Export value in TIV in million constant (1990) U.S. dollars": 7850.0
+      },
+      {
+         "Year": "2006",
+         "Export value in TIV in million constant (1990) U.S. dollars": 7523.0
+      },
+      {
+         "Year": "2005",
+         "Export value in TIV in million constant (1990) U.S. dollars": 6772.0
+      },
+      {
+         "Year": "2004",
+         "Export value in TIV in million constant (1990) U.S. dollars": 6845.0
+      },
+      {
+         "Year": "2003",
+         "Export value in TIV in million constant (1990) U.S. dollars": 5665.0
+      },
+      {
+         "Year": "2002",
+         "Export value in TIV in million constant (1990) U.S. dollars": 4953.0
+      },
+      {
+         "Year": "2001",
+         "Export value in TIV in million constant (1990) U.S. dollars": 5615.0
+      },
+      {
+         "Year": "2000",
+         "Export value in TIV in million constant (1990) U.S. dollars": 7576.0
+      }
+   ]
+}

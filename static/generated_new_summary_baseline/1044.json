@@ -1,0 +1,61 @@
+{
+   "title": "Singapore resident population as of June 2018 by ethnic group",
+   "xAxis": "Ethnicity",
+   "yAxis": "Population in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Population in thousands for 4 number of Ethnicitys. ",
+      "Ethnicity Chinese has the highest Population in thousands and Others has the lowest Population in thousands. ",
+      "The difference of Population in thousands between the highest and lowest Ethnicity is 2840.63. "
+   ],
+   "min_summary": [
+      "This bar chart has 4 columns on the x axis representing Ethnicity, and Population in thousands in each Ethnicity on the y axis. ",
+      "The maximum Population in thousands 2969.28 is found at Ethnicity Chinese and the minimum is found at Others where Population in thousands is 128.65. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Population in thousands for 4 number of Ethnicitys. ",
+      "Ethnicity Chinese has the highest Population in thousands and Others has the lowest Population in thousands. ",
+      "The difference of Population in thousands between the highest and lowest Ethnicity is 2840.63. "
+   ],
+   "max_summary": [
+      "This bar chart has 4 columns on the x axis representing Ethnicity, and Population in thousands in each Ethnicity on the y axis. ",
+      "The Population in thousands is appeared to be the highest at Ethnicity Chinese and lowest at Ethnicity Others. ",
+      "Ethnicity  has the second highest value for Population in thousands. ",
+      "The difference of Population in thousands between the highest and lowest Ethnicity is 2840.63. ",
+      "The Ethnicity Chinese has the highest Population in thousands, followed by , and Indians. Down to the Ethnicity Others which is the lowest. ",
+      "The average Population in thousands in all 4 Ethnicitys is 998.57. ",
+      "The Population in thousands is 3994.28 if we add up values of all Ethnicitys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Ethnicity": "Chinese",
+         "Population in thousands": 2969.28
+      },
+      {
+         "Ethnicity": "Malays",
+         "Population in thousands": 535.82
+      },
+      {
+         "Ethnicity": "Indians",
+         "Population in thousands": 360.53
+      },
+      {
+         "Ethnicity": "Others",
+         "Population in thousands": 128.65
+      }
+   ]
+}

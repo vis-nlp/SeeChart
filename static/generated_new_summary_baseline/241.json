@@ -1,0 +1,167 @@
+{
+   "title": "Most popular gaming related apps in the U.S. 2019 , by audience",
+   "xAxis": "Month",
+   "yAxis": "Million unique visitors",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Million unique visitors in the y axis. ",
+      "The Million unique visitors is appeared to be the highest at Month Google Play Games and lowest at Month EA. ",
+      "The difference of Million unique visitors between the highest and lowest Month is 15.7. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Million unique visitors in the y axis. ",
+      "The Million unique visitors is appeared to be the highest at Month Google Play Games and lowest at Month EA. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Million unique visitors in the y axis. ",
+      "The Million unique visitors is appeared to be the highest at Month Google Play Games and lowest at Month EA. ",
+      "The difference of Million unique visitors between the highest and lowest Month is 15.7. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Million unique visitors in the y axis. ",
+      "The maximum Million unique visitors 18.74 is found at Month Google Play Games and the minimum is found at EA where Million unique visitors is 3.04. ",
+      "The second highest Million unique visitors is appeared to be the Month . ",
+      "The highest Month Google Play Games has 15.7 more Million unique visitors than the lowest Month EA. ",
+      "Million unique visitors at Month Google Play Games is 18.74 , second place is  at 18.74, and thirdly is Candy Crush Saga at 10.23.",
+      "The Million unique visitors has lowered over the past 30 Months. ",
+      "Similar Million unique visitors is found in Month Homescapes, and Xbox. ",
+      "Considered together, the average Million unique visitors in all 30 Months is roughly 5.94. ",
+      "Summing up the values of all Months, we get total 178.16. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 29,
+         "12": 29
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Google Play Games",
+         "Million unique visitors": 18.74
+      },
+      {
+         "Month": "Pok\u00e9mon GO",
+         "Million unique visitors": 10.66
+      },
+      {
+         "Month": "Candy Crush Saga",
+         "Million unique visitors": 10.23
+      },
+      {
+         "Month": "GameSpot (main)",
+         "Million unique visitors": 10.05
+      },
+      {
+         "Month": "IGN",
+         "Million unique visitors": 9.56
+      },
+      {
+         "Month": "Wordscapes",
+         "Million unique visitors": 8.91
+      },
+      {
+         "Month": "Lucky Money",
+         "Million unique visitors": 8.83
+      },
+      {
+         "Month": "Game Launcher (for Samsung)",
+         "Million unique visitors": 6.97
+      },
+      {
+         "Month": "Words With Friends",
+         "Million unique visitors": 6.95
+      },
+      {
+         "Month": "Solitaire by MobilityWare",
+         "Million unique visitors": 6.85
+      },
+      {
+         "Month": "Candy Crush Soda Saga",
+         "Million unique visitors": 5.95
+      },
+      {
+         "Month": "Steam Community Activity",
+         "Million unique visitors": 5.31
+      },
+      {
+         "Month": "Coin Master",
+         "Million unique visitors": 4.83
+      },
+      {
+         "Month": "Trivia Today",
+         "Million unique visitors": 4.37
+      },
+      {
+         "Month": "Nintendo",
+         "Million unique visitors": 4.36
+      },
+      {
+         "Month": "Homescapes",
+         "Million unique visitors": 4.35
+      },
+      {
+         "Month": "Xbox",
+         "Million unique visitors": 4.35
+      },
+      {
+         "Month": "Zynga (main)",
+         "Million unique visitors": 4.3
+      },
+      {
+         "Month": "Gardenscapes - New Acres",
+         "Million unique visitors": 4.26
+      },
+      {
+         "Month": "Mario Kart Tour",
+         "Million unique visitors": 4.21
+      },
+      {
+         "Month": "Kotaku",
+         "Million unique visitors": 3.92
+      },
+      {
+         "Month": "Gamepedia",
+         "Million unique visitors": 3.72
+      },
+      {
+         "Month": "Cookie Jam",
+         "Million unique visitors": 3.49
+      },
+      {
+         "Month": "POP! Slots",
+         "Million unique visitors": 3.46
+      },
+      {
+         "Month": "Toon Blast",
+         "Million unique visitors": 3.43
+      },
+      {
+         "Month": "Game Tools (for Samsung)",
+         "Million unique visitors": 3.43
+      },
+      {
+         "Month": "GamesRadar+",
+         "Million unique visitors": 3.3
+      },
+      {
+         "Month": "Lucky Time",
+         "Million unique visitors": 3.28
+      },
+      {
+         "Month": "Sudoku",
+         "Million unique visitors": 3.05
+      },
+      {
+         "Month": "EA",
+         "Million unique visitors": 3.04
+      }
+   ]
+}

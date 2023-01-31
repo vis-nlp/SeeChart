@@ -1,0 +1,61 @@
+{
+   "title": "Sexism in advertising in the U.S. 2016",
+   "xAxis": "Share of...",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Share of... in the x axis and Unnamed: 1 in the y axis. ",
+      "The maximum Unnamed: 1 85.0 is found at Share of... ...respondents who have seen ads that portay women as dumb helpless or incompetent and the minimum is found at ...respondents who have seen advertising they deem \"offensive\" to women where Unnamed: 1 is 76.0. ",
+      "There is a difference of 9.0 between the maximum Share of... ...respondents who have seen ads that portay women as dumb helpless or incompetent and minimum Share of... ...respondents who have seen advertising they deem \"offensive\" to women. "
+   ],
+   "min_summary": [
+      "This bar chart has 4 columns on the x axis representing Share of..., and Unnamed: 1 in each Share of... on the y axis. ",
+      "Share of... ...respondents who have seen ads that portay women as dumb helpless or incompetent has the highest Unnamed: 1 and ...respondents who have seen advertising they deem \"offensive\" to women has the lowest Unnamed: 1. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Share of... in the x axis and Unnamed: 1 in the y axis. ",
+      "The maximum Unnamed: 1 85.0 is found at Share of... ...respondents who have seen ads that portay women as dumb helpless or incompetent and the minimum is found at ...respondents who have seen advertising they deem \"offensive\" to women where Unnamed: 1 is 76.0. ",
+      "There is a difference of 9.0 between the maximum Share of... ...respondents who have seen ads that portay women as dumb helpless or incompetent and minimum Share of... ...respondents who have seen advertising they deem \"offensive\" to women. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Unnamed: 1 for 4 number of Share of...s. ",
+      "Share of... ...respondents who have seen ads that portay women as dumb helpless or incompetent has the highest Unnamed: 1 and ...respondents who have seen advertising they deem \"offensive\" to women has the lowest Unnamed: 1. ",
+      "Second maximum Unnamed: 1 is found at Share of... . ",
+      "The difference of Unnamed: 1 between the highest and lowest Share of... is 9.0. ",
+      "The Share of... ...respondents who have seen ads that portay women as dumb helpless or incompetent has the highest Unnamed: 1, followed by , and ...respondents who have seen ads they find ridiculous in how they portray women. Down to the Share of... ...respondents who have seen advertising they deem \"offensive\" to women which is the lowest. ",
+      "The Share of... ...respondents who have seen advertising they deem \"offensive\" to women tends to be 1.04 percent lower than average. ",
+      "The Unnamed: 1 is 327.0 if we add up values of all Share of...s. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Share of...": "...respondents who have seen ads that portay women as dumb helpless or incompetent",
+         "Unnamed: 1": 85.0
+      },
+      {
+         "Share of...": "...female respondents who have been offended by sexism in advertising",
+         "Unnamed: 1": 84.0
+      },
+      {
+         "Share of...": "...respondents who have seen ads they find ridiculous in how they portray women",
+         "Unnamed: 1": 82.0
+      },
+      {
+         "Share of...": "...respondents who have seen advertising they deem \"offensive\" to women",
+         "Unnamed: 1": 76.0
+      }
+   ]
+}

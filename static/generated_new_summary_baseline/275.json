@@ -1,0 +1,66 @@
+{
+   "title": "PUBG unit sales worldwide 2018",
+   "xAxis": "Month",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 columns on the x axis representing Month, and Unit sales in millions in each Month on the y axis. ",
+      "The Unit sales in millions is appeared to be the highest at Month June 2018 and lowest at Month May 2017. ",
+      "The difference of Unit sales in millions between the highest and lowest Month is 48.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Unit sales in millions for 5 number of Months. ",
+      "The Unit sales in millions is highest at Month June 2018 and lowest at Month May 2017. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Month, and Unit sales in millions in each Month on the y axis. ",
+      "The Unit sales in millions is appeared to be the highest at Month June 2018 and lowest at Month May 2017. ",
+      "The difference of Unit sales in millions between the highest and lowest Month is 48.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Month, and Unit sales in millions in each Month on the y axis. ",
+      "The Unit sales in millions is appeared to be the highest at Month June 2018 and lowest at Month May 2017. ",
+      "Month  has the second highest value for Unit sales in millions. ",
+      "The highest Month June 2018 has 48.0 more Unit sales in millions than the lowest Month May 2017. ",
+      "Unit sales in millions at Month June 2018 is 50.0 , second place is  at 50.0, and thirdly is August 2017 at 8.0.",
+      "The Unit sales in millions has lowered over the past 5 Months. ",
+      "The Month May 2017 tends to be 3.38 percent lower than average. ",
+      "The Unit sales in millions is 74.0 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "June 2018",
+         "Unit sales in millions": 50.0
+      },
+      {
+         "Month": "September 2017",
+         "Unit sales in millions": 10.0
+      },
+      {
+         "Month": "August 2017",
+         "Unit sales in millions": 8.0
+      },
+      {
+         "Month": "June 2017",
+         "Unit sales in millions": 4.0
+      },
+      {
+         "Month": "May 2017",
+         "Unit sales in millions": 2.0
+      }
+   ]
+}

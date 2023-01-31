@@ -1,0 +1,125 @@
+{
+   "title": "Average costs for a wedding in the United States in 2017 , by item",
+   "xAxis": "Category",
+   "yAxis": "Costs in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Category in the x axis and Costs in U.S. dollars in the y axis. ",
+      "The Costs in U.S. dollars is appeared to be the highest at Category Overall Wedding (with ring and lowest at Category Catering (price per person). ",
+      "The lowest value at Category Catering (price per person) is 477.01x times less than the highest value at Overall Wedding (with ring. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Category in the x axis and Costs in U.S. dollars in the y axis. ",
+      "The Costs in U.S. dollars is appeared to be the highest at Category Overall Wedding (with ring and lowest at Category Catering (price per person). "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Category in the x axis and Costs in U.S. dollars in the y axis. ",
+      "The Costs in U.S. dollars is appeared to be the highest at Category Overall Wedding (with ring and lowest at Category Catering (price per person). ",
+      "The lowest value at Category Catering (price per person) is 477.01x times less than the highest value at Overall Wedding (with ring. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Category, and Costs in U.S. dollars in each Category on the y axis. ",
+      "The Costs in U.S. dollars is appeared to be the highest at Category Overall Wedding (with ring and lowest at Category Catering (price per person). ",
+      "Second maximum Costs in U.S. dollars is found at Category . ",
+      "The difference of Costs in U.S. dollars between the highest and lowest Category is 33321.0. ",
+      "The Category Overall Wedding (with ring has the highest Costs in U.S. dollars, followed by , and Engagement ring. Down to the Category Catering (price per person) which is the lowest. ",
+      "The Category Overall Wedding (with ring tends to be 8.67 percent higher than average. ",
+      "The Costs in U.S. dollars is 77013.0 if we add up values of all Categorys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category": "Overall Wedding (with ring",
+         "Costs in U.S. dollars": 33391.0
+      },
+      {
+         "Category": "Venue (reception hall)",
+         "Costs in U.S. dollars": 15163.0
+      },
+      {
+         "Category": "Engagement ring",
+         "Costs in U.S. dollars": 5764.0
+      },
+      {
+         "Category": "Reception band",
+         "Costs in U.S. dollars": 4019.0
+      },
+      {
+         "Category": "Photographer",
+         "Costs in U.S. dollars": 2630.0
+      },
+      {
+         "Category": "Florist/d\u00e9cor",
+         "Costs in U.S. dollars": 2379.0
+      },
+      {
+         "Category": "Ceremony site",
+         "Costs in U.S. dollars": 2311.0
+      },
+      {
+         "Category": "Wedding/event planner",
+         "Costs in U.S. dollars": 1988.0
+      },
+      {
+         "Category": "Videographer",
+         "Costs in U.S. dollars": 1912.0
+      },
+      {
+         "Category": "Wedding Dress",
+         "Costs in U.S. dollars": 1509.0
+      },
+      {
+         "Category": "Rehearsal dinner",
+         "Costs in U.S. dollars": 1285.0
+      },
+      {
+         "Category": "Reception DJ",
+         "Costs in U.S. dollars": 1231.0
+      },
+      {
+         "Category": "Transportation",
+         "Costs in U.S. dollars": 830.0
+      },
+      {
+         "Category": "Ceremony musicians",
+         "Costs in U.S. dollars": 761.0
+      },
+      {
+         "Category": "Wedding cake",
+         "Costs in U.S. dollars": 540.0
+      },
+      {
+         "Category": "Invitations",
+         "Costs in U.S. dollars": 408.0
+      },
+      {
+         "Category": "Groom\u2019s attire and accessories",
+         "Costs in U.S. dollars": 286.0
+      },
+      {
+         "Category": "Officiant",
+         "Costs in U.S. dollars": 284.0
+      },
+      {
+         "Category": "Favors",
+         "Costs in U.S. dollars": 252.0
+      },
+      {
+         "Category": "Catering (price per person)",
+         "Costs in U.S. dollars": 70.0
+      }
+   ]
+}

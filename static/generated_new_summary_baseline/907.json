@@ -1,0 +1,85 @@
+{
+   "title": "Annual rainfall in Belgium 2006 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Rainfall in millimeters",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rainfall in millimeters, containing a total of 11 data points.",
+      " In general Rainfall in millimeters has rose over the Year.",
+      "Rainfall in millimeters is roughly constant from 2006 to 2008, slightly increasing from 2008 to 2012, slightly decreasing from 2012 to 2013, roughly constant from 2013 to 2015, and finally slightly increasing from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum Rainfall in millimeters, about 977.0 was reported at Year 2012",
+      "Minimum Rainfall in millimeters about 737.0 was reached at Year 2015"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Rainfall in millimeters. In total the number of data points it has is 11.",
+      " Overall Rainfall in millimeters has increased over the Year.",
+      "Rainfall in millimeters is roughly constant from 2006 to 2008, slightly increasing from 2008 to 2012, slightly decreasing from 2012 to 2013, roughly constant from 2013 to 2015, and finally slightly increasing from 2015 to 2016."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rainfall in millimeters, containing a total of 11 data points.",
+      " In general Rainfall in millimeters has rose over the Year.",
+      "Rainfall in millimeters is roughly constant from 2006 to 2008, slightly increasing from 2008 to 2012, slightly decreasing from 2012 to 2013, roughly constant from 2013 to 2015, and finally slightly increasing from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum Rainfall in millimeters, about 977.0 was reported at Year 2012",
+      "Minimum Rainfall in millimeters about 737.0 was reached at Year 2015"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rainfall in millimeters, containing a total of 11 data points.",
+      " Overall Rainfall in millimeters has increased over the Year.",
+      "Rainfall in millimeters is roughly constant from 2006 to 2008, slightly increasing from 2008 to 2012, slightly decreasing from 2012 to 2013, roughly constant from 2013 to 2015, and finally slightly increasing from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum Rainfall in millimeters, about 977.0 was reported at Year 2012",
+      "Minimum Rainfall in millimeters about 737.0 was reached at Year 2015",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2016",
+         "Rainfall in millimeters": 942.0
+      },
+      {
+         "Year": "2015",
+         "Rainfall in millimeters": 737.0
+      },
+      {
+         "Year": "2014",
+         "Rainfall in millimeters": 784.0
+      },
+      {
+         "Year": "2013",
+         "Rainfall in millimeters": 816.0
+      },
+      {
+         "Year": "2012",
+         "Rainfall in millimeters": 977.0
+      },
+      {
+         "Year": "2011",
+         "Rainfall in millimeters": 815.0
+      },
+      {
+         "Year": "2010",
+         "Rainfall in millimeters": 914.0
+      },
+      {
+         "Year": "2009",
+         "Rainfall in millimeters": 764.0
+      },
+      {
+         "Year": "2008",
+         "Rainfall in millimeters": 862.0
+      },
+      {
+         "Year": "2007",
+         "Rainfall in millimeters": 880.0
+      },
+      {
+         "Year": "2006",
+         "Rainfall in millimeters": 835.0
+      }
+   ]
+}

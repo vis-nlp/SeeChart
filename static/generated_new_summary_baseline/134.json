@@ -1,0 +1,89 @@
+{
+   "title": "Rolls-Royce - Worldwide sales volume of automobiles 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of sold automobiles",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold automobiles. In total the number of data points it has is 12.",
+      " Overall Number of sold automobiles has increased over the Year.",
+      "Number of sold automobiles is roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2010, roughly constant from 2010 to 2017, and finally roughly increasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Number of sold automobiles, of value 4107.0 was reached at Year 2018",
+      "The lowest Number of sold automobiles, of value 1002.0 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold automobiles. In total the number of data points it has is 12.",
+      " In general Number of sold automobiles has rose over the Year.",
+      "Number of sold automobiles is roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2010, roughly constant from 2010 to 2017, and finally roughly increasing from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold automobiles. In total the number of data points it has is 12.",
+      " Overall Number of sold automobiles has increased over the Year.",
+      "Number of sold automobiles is roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2010, roughly constant from 2010 to 2017, and finally roughly increasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Number of sold automobiles, of value 4107.0 was reached at Year 2018",
+      "The lowest Number of sold automobiles, of value 1002.0 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold automobiles. In total the number of data points it has is 12.",
+      " Overall Number of sold automobiles has increased over the Year.",
+      "Number of sold automobiles is roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2010, roughly constant from 2010 to 2017, and finally roughly increasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Number of sold automobiles, of value 4107.0 was reached at Year 2018",
+      "The lowest Number of sold automobiles, of value 1002.0 was reported at Year 2009",
+      "The line significantly increased by 1709.0 from Year 2009 to 2010."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of sold automobiles": 4107.0
+      },
+      {
+         "Year": "2017",
+         "Number of sold automobiles": 3362.0
+      },
+      {
+         "Year": "2016",
+         "Number of sold automobiles": 4011.0
+      },
+      {
+         "Year": "2015",
+         "Number of sold automobiles": 3785.0
+      },
+      {
+         "Year": "2014",
+         "Number of sold automobiles": 4063.0
+      },
+      {
+         "Year": "2013",
+         "Number of sold automobiles": 3630.0
+      },
+      {
+         "Year": "2012",
+         "Number of sold automobiles": 3575.0
+      },
+      {
+         "Year": "2011",
+         "Number of sold automobiles": 3538.0
+      },
+      {
+         "Year": "2010",
+         "Number of sold automobiles": 2711.0
+      },
+      {
+         "Year": "2009",
+         "Number of sold automobiles": 1002.0
+      },
+      {
+         "Year": "2008",
+         "Number of sold automobiles": 1212.0
+      },
+      {
+         "Year": "2007",
+         "Number of sold automobiles": 1010.0
+      }
+   ]
+}

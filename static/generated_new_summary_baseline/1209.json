@@ -1,0 +1,163 @@
+{
+   "title": "Penetration rate of bottled water brands in Turkey 2012 to 2013",
+   "labels": [
+      "Response",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Average penetration rate on the Y-axis for 20 different Responses for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2012 had the highest Average penetration rate for Response Hayat and 2012 had the lowest Average penetration rate for Response Volvic. ",
+      " The maximum Average penetration rate for 2012 that was found in Response Hayat was 48.0 times larger than the minimum Average penetration rate observed in Response Volvic. ",
+      "On average, the Response Hayat had the highest Average penetration rate for all 2 groups 2012, and 2013. Whereas Buxton had the lowest average Average penetration rate. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Average penetration rate",
+   "min_summary": [
+      "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding Average penetration rate. ",
+      " For Response Hayat, 2012 had the highest Average penetration rate 48.0 among the 2 groups and in Volvic, 2012 had the lowest Average penetration rate 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Average penetration rate on the Y-axis for 20 different Responses for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2012 had the highest Average penetration rate for Response Hayat and 2012 had the lowest Average penetration rate for Response Volvic. ",
+      " The maximum Average penetration rate for 2012 that was found in Response Hayat was 48.0 times larger than the minimum Average penetration rate observed in Response Volvic. ",
+      "On average, the Response Hayat had the highest Average penetration rate for all 2 groups 2012, and 2013. Whereas Buxton had the lowest average Average penetration rate. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding Average penetration rate. ",
+      " For Response Hayat, 2012 had the highest Average penetration rate 48.0 among the 2 groups and in Volvic, 2012 had the lowest Average penetration rate 0.0. ",
+      " For Response Hayat, 2012 had the highest Average penetration rate among all 20 Responses and it has the lowest Average penetration rate in Response Volvic. ",
+      " The maximum Average penetration rate for 2012 that was found in Response Hayat was 48.0 times larger than the minimum Average penetration rate observed in Response Volvic. ",
+      " Among the groups, 2012 had the biggest difference in Average penetration rate. Where the maximum Average penetration rate was 48.0 times larger than the minimum Average penetration rate. ",
+      "Averaging all 2 groups 2012, and 2013, the Response Hayat is the maximum Average penetration rate and Buxton is the minimum Average penetration rate. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Erikli",
+         "2012": "33",
+         "2013": "28"
+      },
+      {
+         "Response": "Hayat",
+         "2012": "48",
+         "2013": "27"
+      },
+      {
+         "Response": "Pinar",
+         "2012": "26",
+         "2013": "17"
+      },
+      {
+         "Response": "Damla",
+         "2012": "18",
+         "2013": "14"
+      },
+      {
+         "Response": "Ayta\u00e7",
+         "2012": "9",
+         "2013": "11"
+      },
+      {
+         "Response": "Saka",
+         "2012": "10",
+         "2013": "10"
+      },
+      {
+         "Response": "Sirma",
+         "2012": "20",
+         "2013": "9"
+      },
+      {
+         "Response": "G\u00fczelpinar",
+         "2012": "1",
+         "2013": "2"
+      },
+      {
+         "Response": "Pure Life",
+         "2012": "0",
+         "2013": "2"
+      },
+      {
+         "Response": "Abant",
+         "2012": "2",
+         "2013": "1"
+      },
+      {
+         "Response": "Aqua",
+         "2012": "1",
+         "2013": "1"
+      },
+      {
+         "Response": "NAYA",
+         "2012": "0",
+         "2013": "1"
+      },
+      {
+         "Response": "Aquafina",
+         "2012": "1",
+         "2013": "1"
+      },
+      {
+         "Response": "Buxton",
+         "2012": "0",
+         "2013": "0"
+      },
+      {
+         "Response": "Dasani",
+         "2012": "0",
+         "2013": "0"
+      },
+      {
+         "Response": "Evian",
+         "2012": "1",
+         "2013": "0"
+      },
+      {
+         "Response": "Perrier",
+         "2012": "1",
+         "2013": "0"
+      },
+      {
+         "Response": "SPA",
+         "2012": "2",
+         "2013": "0"
+      },
+      {
+         "Response": "Vittel",
+         "2012": "1",
+         "2013": "0"
+      },
+      {
+         "Response": "Volvic",
+         "2012": "0",
+         "2013": "0"
+      }
+   ]
+}

@@ -1,0 +1,181 @@
+{
+   "title": "Obesity prevalence in England 2000 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the Percentage of obesity and the x axis indicates Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Percentage of obesity in descending order is: 1. Women, and lastly, 2. Men. ",
+      "Throughout the period, Women generally had the highest Percentage of obesity relative to others with an average of 25.0, and it reached its maximum at 2017 with a value of 30.0.",
+      "Men mostly had the least Percentage of obesity with a mean value of 23.95, which peaked at 2015, and 2017 with a value of 27.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Percentage of obesity",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the Percentage of obesity and the x axis indicates Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "Throughout the period, Women generally had the highest Percentage of obesity relative to others with an average of 25.0, and it reached its maximum at 2017 with a value of 30.0.",
+      "Men mostly had the least Percentage of obesity with a mean value of 23.95, which peaked at 2015, and 2017 with a value of 27.0. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the Percentage of obesity and the x axis indicates Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Percentage of obesity in descending order is: 1. Women, and lastly, 2. Men. ",
+      "Throughout the period, Women generally had the highest Percentage of obesity relative to others with an average of 25.0, and it reached its maximum at 2017 with a value of 30.0.",
+      "Men mostly had the least Percentage of obesity with a mean value of 23.95, which peaked at 2015, and 2017 with a value of 27.0. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Percentage of obesity and the x axis represents Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Percentage of obesity in descending order is: 1. Women, and lastly, 2. Men. ",
+      "Throughout the period, Women generally had the highest Percentage of obesity relative to others with an average of 25.0, and it reached its maximum at 2017 with a value of 30.0.",
+      "The botommost line, Men,  has a mean of 23.95, and peaked at 2015, and 2017. ",
+      "The greatest difference of Percentage of obesity between Men and Women occurs at Year 2014 and the smallest difference occurs at 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "18",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "9": [
+            "1",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "18",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "10": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Men": "26",
+         "Women": "29"
+      },
+      {
+         "Year": "2017",
+         "Men": "27",
+         "Women": "30"
+      },
+      {
+         "Year": "2016",
+         "Men": "26",
+         "Women": "27"
+      },
+      {
+         "Year": "2015",
+         "Men": "27",
+         "Women": "27"
+      },
+      {
+         "Year": "2014",
+         "Men": "24",
+         "Women": "27"
+      },
+      {
+         "Year": "2013",
+         "Men": "26",
+         "Women": "24"
+      },
+      {
+         "Year": "2012",
+         "Men": "24",
+         "Women": "25"
+      },
+      {
+         "Year": "2011",
+         "Men": "24",
+         "Women": "26"
+      },
+      {
+         "Year": "2010",
+         "Men": "26",
+         "Women": "26"
+      },
+      {
+         "Year": "2009",
+         "Men": "22",
+         "Women": "24"
+      },
+      {
+         "Year": "2008",
+         "Men": "24",
+         "Women": "25"
+      },
+      {
+         "Year": "2007",
+         "Men": "24",
+         "Women": "24"
+      },
+      {
+         "Year": "2006",
+         "Men": "24",
+         "Women": "24"
+      },
+      {
+         "Year": "2005",
+         "Men": "22",
+         "Women": "24"
+      },
+      {
+         "Year": "2004",
+         "Men": "23",
+         "Women": "23"
+      },
+      {
+         "Year": "2003",
+         "Men": "22",
+         "Women": "23"
+      },
+      {
+         "Year": "2002",
+         "Men": "22",
+         "Women": "23"
+      },
+      {
+         "Year": "2001",
+         "Men": "21",
+         "Women": "23"
+      },
+      {
+         "Year": "2000",
+         "Men": "21",
+         "Women": "21"
+      }
+   ]
+}

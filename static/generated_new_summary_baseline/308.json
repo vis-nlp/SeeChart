@@ -1,0 +1,84 @@
+{
+   "title": "Global leading kiwi producing countries 2017",
+   "xAxis": "Country",
+   "yAxis": "Production volume in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
+      "The maximum Production volume in thousand metric tons 2024.6 is found at Country China mainland and the minimum is found at United States of America where Production volume in thousand metric tons is 30.48. ",
+      "The difference of Production volume in thousand metric tons between the highest and lowest Country is 1994.12. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
+      "The Production volume in thousand metric tons is appeared to be the highest at Country China mainland and lowest at Country United States of America. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
+      "The maximum Production volume in thousand metric tons 2024.6 is found at Country China mainland and the minimum is found at United States of America where Production volume in thousand metric tons is 30.48. ",
+      "The difference of Production volume in thousand metric tons between the highest and lowest Country is 1994.12. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
+      "The Production volume in thousand metric tons is highest at Country China mainland and lowest at Country United States of America. ",
+      "Country  has the second highest value for Production volume in thousand metric tons. ",
+      "The difference of Production volume in thousand metric tons between the highest and lowest Country is 1994.12. ",
+      "Country China mainland is higher than any other Countrys with value 2024.6, followed by , and New Zealand. Down to Country United States of America with the lowest value 30.48. ",
+      "The lowest value 30.48 at United States of America is almost 5.09 times smaller than the average value 397.6. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China mainland",
+         "Production volume in thousand metric tons": 2024.6
+      },
+      {
+         "Country": "Italy",
+         "Production volume in thousand metric tons": 541.15
+      },
+      {
+         "Country": "New Zealand",
+         "Production volume in thousand metric tons": 411.78
+      },
+      {
+         "Country": "Iran",
+         "Production volume in thousand metric tons": 311.31
+      },
+      {
+         "Country": "Greece",
+         "Production volume in thousand metric tons": 274.6
+      },
+      {
+         "Country": "Chile",
+         "Production volume in thousand metric tons": 224.92
+      },
+      {
+         "Country": "France",
+         "Production volume in thousand metric tons": 65.63
+      },
+      {
+         "Country": "Turkey",
+         "Production volume in thousand metric tons": 56.16
+      },
+      {
+         "Country": "Portugal",
+         "Production volume in thousand metric tons": 35.41
+      },
+      {
+         "Country": "United States of America",
+         "Production volume in thousand metric tons": 30.48
+      }
+   ]
+}

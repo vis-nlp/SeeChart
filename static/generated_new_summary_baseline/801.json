@@ -1,0 +1,124 @@
+{
+   "title": "Top media publishers in the U.S. 2017 , by online traffic",
+   "xAxis": "Media Publisher",
+   "yAxis": "Page views in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Media Publisher in the x axis and Page views in millions in the y axis. ",
+      "The Page views in millions is appeared to be the highest at Media Publisher msn.com and lowest at Media Publisher news.yahoo.com. ",
+      "The minimum Media Publisher news.yahoo.com has got 9.78 times less Page views in millions than the maximum Media Publisher msn.com. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Media Publisher, and Page views in millions in each Media Publisher on the y axis. ",
+      "The Page views in millions is highest at Media Publisher msn.com and lowest at Media Publisher news.yahoo.com. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Media Publisher in the x axis and Page views in millions in the y axis. ",
+      "The Page views in millions is appeared to be the highest at Media Publisher msn.com and lowest at Media Publisher news.yahoo.com. ",
+      "The minimum Media Publisher news.yahoo.com has got 9.78 times less Page views in millions than the maximum Media Publisher msn.com. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Page views in millions for 20 number of Media Publishers. ",
+      "The Page views in millions is highest at Media Publisher msn.com and lowest at Media Publisher news.yahoo.com. ",
+      "The highest Media Publisher msn.com has 1625.2 more Page views in millions than the lowest Media Publisher news.yahoo.com. ",
+      "The Media Publisher msn.com has the highest Page views in millions, followed by , and news.google.com. Down to the Media Publisher news.yahoo.com which is the lowest. ",
+      "The Media Publisher news.yahoo.com tends to be 2.94 percent lower than average. ",
+      "Summing up the values of all Media Publishers, we get total 12325.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Media Publisher": "msn.com",
+         "Page views in millions": 1810.3
+      },
+      {
+         "Media Publisher": "drudgereport.com",
+         "Page views in millions": 1256.2
+      },
+      {
+         "Media Publisher": "news.google.com",
+         "Page views in millions": 1236.8
+      },
+      {
+         "Media Publisher": "espn.com",
+         "Page views in millions": 1179.1
+      },
+      {
+         "Media Publisher": "cnn.com",
+         "Page views in millions": 853.9
+      },
+      {
+         "Media Publisher": "finance.yahoo.com",
+         "Page views in millions": 838.8
+      },
+      {
+         "Media Publisher": "foxnews.com",
+         "Page views in millions": 663.3
+      },
+      {
+         "Media Publisher": "sports.yahoo.com",
+         "Page views in millions": 618.3
+      },
+      {
+         "Media Publisher": "nytimes.com",
+         "Page views in millions": 603.6
+      },
+      {
+         "Media Publisher": "washingtonpost.com",
+         "Page views in millions": 497.6
+      },
+      {
+         "Media Publisher": "buzzfeed.com",
+         "Page views in millions": 472.7
+      },
+      {
+         "Media Publisher": "businessinsider.com",
+         "Page views in millions": 335.3
+      },
+      {
+         "Media Publisher": "huffingtonpost.com",
+         "Page views in millions": 328.5
+      },
+      {
+         "Media Publisher": "bbc.com",
+         "Page views in millions": 262.6
+      },
+      {
+         "Media Publisher": "usatoday.com",
+         "Page views in millions": 249.6
+      },
+      {
+         "Media Publisher": "cnet.com",
+         "Page views in millions": 249.2
+      },
+      {
+         "Media Publisher": "forbes.com",
+         "Page views in millions": 232.6
+      },
+      {
+         "Media Publisher": "nbcnews.com",
+         "Page views in millions": 226.7
+      },
+      {
+         "Media Publisher": "dailymail.co.uk",
+         "Page views in millions": 224.8
+      },
+      {
+         "Media Publisher": "news.yahoo.com",
+         "Page views in millions": 185.1
+      }
+   ]
+}

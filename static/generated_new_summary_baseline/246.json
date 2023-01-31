@@ -1,0 +1,81 @@
+{
+   "title": "Most preferred sources of entertainment in India in 2011",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Using the internet for social or personal interests has the highest Share of respondents and Listening to the radio (any format/device) has the lowest Share of respondents. ",
+      "Response Using the internet for social or personal interests has 4.25 times more Share of respondents than Response Listening to the radio (any format/device) which is has the lowest. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Using the internet for social or personal interests has the highest Share of respondents and Listening to the radio (any format/device) has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This bar chart has 9 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Using the internet for social or personal interests has the highest Share of respondents and Listening to the radio (any format/device) has the lowest Share of respondents. ",
+      "Response Using the internet for social or personal interests has 4.25 times more Share of respondents than Response Listening to the radio (any format/device) which is has the lowest. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response Using the internet for social or personal interests has the highest Share of respondents and Listening to the radio (any format/device) has the lowest Share of respondents. ",
+      "The highest Response Using the internet for social or personal interests has 39.0 more Share of respondents than the lowest Response Listening to the radio (any format/device). ",
+      "Share of respondents at Response Using the internet for social or personal interests is 51.0 , second place is  at 51.0, and thirdly is Reading newspapers (either printed or online) at 46.0.",
+      "Similar Share of respondents is found in Response Using the internet for social or personal interests, and Watching television (any device). ",
+      "The Response Listening to the radio (any format/device) tends to be 1.6 percent lower than average. ",
+      "The Share of respondents is 287.0 if we add up values of all Responses. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Using the internet for social or personal interests",
+         "Share of respondents": 51.0
+      },
+      {
+         "Response": "Watching television (any device)",
+         "Share of respondents": 51.0
+      },
+      {
+         "Response": "Reading newspapers (either printed or online)",
+         "Share of respondents": 46.0
+      },
+      {
+         "Response": "Listening to music (using any device)",
+         "Share of respondents": 37.0
+      },
+      {
+         "Response": "Reading books (either physical books or via an e-book reader/online)",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Reading magazines (either printed or online)",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Going to the movies",
+         "Share of respondents": 24.0
+      },
+      {
+         "Response": "Playing videogames (handhelds PC console mobile/cellular/smartphone online)",
+         "Share of respondents": 14.0
+      },
+      {
+         "Response": "Listening to the radio (any format/device)",
+         "Share of respondents": 12.0
+      }
+   ]
+}

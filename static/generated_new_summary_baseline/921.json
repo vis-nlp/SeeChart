@@ -1,0 +1,213 @@
+{
+   "title": "Favorite social networks of U.S. teens 2012 to 2019",
+   "labels": [
+      "Response",
+      "Snapchat",
+      "Instagram",
+      "Twitter",
+      "Facebook",
+      "Tumblr",
+      "Pinterest",
+      "Google+",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of respondents who use network most often on the Y-axis for 13 different Responses for 8 groups Snapchat, Instagram, Twitter, Facebook, Tumblr, Pinterest, Google+, and Other that are presented on the X-axis. ",
+      " Response Fall 2017 had the maximum Share of respondents who use network most often among all 8 groups, and it was for Snapchat. The minimum Share of respondents who use network most often was observed in Response Fall 2012 for Snapchat. ",
+      "Response Fall 2013 and Fall 2018 had the biggest gap of 25.0 between the highest and lowest Share of respondents who use network most often found for Twitter. ",
+      "On average, the Response Fall 2013 had the highest Share of respondents who use network most often for all 8 groups Snapchat, Instagram, Twitter, Facebook, Tumblr, Pinterest, Google+, and Other. Whereas Spring 2017 had the lowest average Share of respondents who use network most often. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Share of respondents who use network most often",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents who use network most often on the Y-axis for 13 different Responses for 8 groups Snapchat, Instagram, Twitter, Facebook, Tumblr, Pinterest, Google+, and Other that are presented on the X-axis. ",
+      " Out of all 8 groups, Snapchat had the highest Share of respondents who use network most often for Response Fall 2017 and Snapchat had the lowest Share of respondents who use network most often for Response Fall 2012. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of respondents who use network most often on the Y-axis for 13 different Responses for 8 groups Snapchat, Instagram, Twitter, Facebook, Tumblr, Pinterest, Google+, and Other that are presented on the X-axis. ",
+      " Response Fall 2017 had the maximum Share of respondents who use network most often among all 8 groups, and it was for Snapchat. The minimum Share of respondents who use network most often was observed in Response Fall 2012 for Snapchat. ",
+      "Response Fall 2013 and Fall 2018 had the biggest gap of 25.0 between the highest and lowest Share of respondents who use network most often found for Twitter. ",
+      "On average, the Response Fall 2013 had the highest Share of respondents who use network most often for all 8 groups Snapchat, Instagram, Twitter, Facebook, Tumblr, Pinterest, Google+, and Other. Whereas Spring 2017 had the lowest average Share of respondents who use network most often. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents who use network most often on the Y-axis for 13 different Responses for 8 groups Snapchat, Instagram, Twitter, Facebook, Tumblr, Pinterest, Google+, and Other that are presented on the X-axis. ",
+      " Out of all 8 groups, Snapchat had the highest Share of respondents who use network most often for Response Fall 2017 and Snapchat had the lowest Share of respondents who use network most often for Response Fall 2012. ",
+      " For Response Fall 2013, Twitter had the maximum Share of respondents who use network most often and it saw the lowest in Response Fall 2018 out of all 13 Responses. ",
+      " There is a gap of 25.0 between the highest and lowest Share of respondents who use network most often found for Twitter in Response Fall 2013 and Fall 2018. ",
+      " Among the groups, Snapchat had the biggest difference in Share of respondents who use network most often. Where the maximum Share of respondents who use network most often was 47.0 times larger than the minimum Share of respondents who use network most often. ",
+      " Snapchat had the maximum Share of respondents who use network most often out of all 8 groups in Response Fall 2017 followed by Snapchat in Fall 2017, and the minimum Share of respondents who use network most often is found for Snapchat in Fall 2012. ",
+      "On average, the Response Fall 2013 had the highest Share of respondents who use network most often for all 8 groups Snapchat, Instagram, Twitter, Facebook, Tumblr, Pinterest, Google+, and Other. Whereas Spring 2017 had the lowest average Share of respondents who use network most often. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "8",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "8",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Fall 2012",
+         "Snapchat": "1",
+         "Instagram": "12",
+         "Twitter": "27",
+         "Facebook": "42",
+         "Tumblr": "3",
+         "Pinterest": "2",
+         "Google+": "6",
+         "Other": "2"
+      },
+      {
+         "Response": "Spring 2013",
+         "Snapchat": "1",
+         "Instagram": "17",
+         "Twitter": "30",
+         "Facebook": "33",
+         "Tumblr": "4",
+         "Pinterest": "2",
+         "Google+": "5",
+         "Other": "4"
+      },
+      {
+         "Response": "Fall 2013",
+         "Snapchat": "1",
+         "Instagram": "27",
+         "Twitter": "31",
+         "Facebook": "27",
+         "Tumblr": "5",
+         "Pinterest": "2",
+         "Google+": "4",
+         "Other": "2"
+      },
+      {
+         "Response": "Spring 2014",
+         "Snapchat": "1",
+         "Instagram": "30",
+         "Twitter": "27",
+         "Facebook": "23",
+         "Tumblr": "5",
+         "Pinterest": "2",
+         "Google+": "4",
+         "Other": "4"
+      },
+      {
+         "Response": "Spring 2015",
+         "Snapchat": "11",
+         "Instagram": "29",
+         "Twitter": "21",
+         "Facebook": "12",
+         "Tumblr": "4",
+         "Pinterest": "2",
+         "Google+": "1",
+         "Other": "8"
+      },
+      {
+         "Response": "Fall 2015",
+         "Snapchat": "17",
+         "Instagram": "29",
+         "Twitter": "18",
+         "Facebook": "13",
+         "Tumblr": "3",
+         "Pinterest": "1",
+         "Google+": "1",
+         "Other": "8"
+      },
+      {
+         "Response": "Spring 2016",
+         "Snapchat": "24",
+         "Instagram": "23",
+         "Twitter": "16",
+         "Facebook": "15",
+         "Tumblr": "2",
+         "Pinterest": "1",
+         "Google+": "1",
+         "Other": "5"
+      },
+      {
+         "Response": "Fall 2016",
+         "Snapchat": "35",
+         "Instagram": "24",
+         "Twitter": "13",
+         "Facebook": "13",
+         "Tumblr": "1",
+         "Pinterest": "1",
+         "Google+": "1",
+         "Other": "1"
+      },
+      {
+         "Response": "Spring 2017",
+         "Snapchat": "39",
+         "Instagram": "23",
+         "Twitter": "11",
+         "Facebook": "11",
+         "Tumblr": "1",
+         "Pinterest": "1",
+         "Google+": "0",
+         "Other": "1"
+      },
+      {
+         "Response": "Fall 2017",
+         "Snapchat": "47",
+         "Instagram": "24",
+         "Twitter": "7",
+         "Facebook": "9",
+         "Tumblr": "1",
+         "Pinterest": "1",
+         "Google+": "1",
+         "Other": "1"
+      },
+      {
+         "Response": "Spring 2018",
+         "Snapchat": "45",
+         "Instagram": "26",
+         "Twitter": "9",
+         "Facebook": "8",
+         "Tumblr": "0",
+         "Pinterest": "1",
+         "Google+": "0",
+         "Other": "0"
+      },
+      {
+         "Response": "Fall 2018",
+         "Snapchat": "46",
+         "Instagram": "32",
+         "Twitter": "6",
+         "Facebook": "6",
+         "Tumblr": "0",
+         "Pinterest": "1",
+         "Google+": "0",
+         "Other": "0"
+      },
+      {
+         "Response": "Spring 2019",
+         "Snapchat": "41",
+         "Instagram": "35",
+         "Twitter": "6",
+         "Facebook": "6",
+         "Tumblr": "0",
+         "Pinterest": "1",
+         "Google+": "0",
+         "Other": "0"
+      }
+   ]
+}

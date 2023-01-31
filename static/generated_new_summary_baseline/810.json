@@ -1,0 +1,88 @@
+{
+   "title": "Most commonly reported types of cyber crime 2018",
+   "xAxis": "Cyber Incidents",
+   "yAxis": "Number of complaints",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Cyber Incidents in the x axis and Number of complaints in the y axis. ",
+      "The Number of complaints is appeared to be the highest at Cyber Incidents Non-payment/Non-delivery and lowest at Cyber Incidents Spoofing. ",
+      "There is a difference of 49547.0 between the maximum Cyber Incidents Non-payment/Non-delivery and minimum Cyber Incidents Spoofing. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of complaints for 11 number of Cyber Incidentss. ",
+      "The Number of complaints is highest at Cyber Incidents Non-payment/Non-delivery and lowest at Cyber Incidents Spoofing. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Cyber Incidents in the x axis and Number of complaints in the y axis. ",
+      "The Number of complaints is appeared to be the highest at Cyber Incidents Non-payment/Non-delivery and lowest at Cyber Incidents Spoofing. ",
+      "There is a difference of 49547.0 between the maximum Cyber Incidents Non-payment/Non-delivery and minimum Cyber Incidents Spoofing. "
+   ],
+   "max_summary": [
+      "This bar chart has 11 columns on the x axis representing Cyber Incidents, and Number of complaints in each Cyber Incidents on the y axis. ",
+      "The maximum Number of complaints 65116.0 is found at Cyber Incidents Non-payment/Non-delivery and the minimum is found at Spoofing where Number of complaints is 15569.0. ",
+      "Second maximum Number of complaints is found at Cyber Incidents . ",
+      "The difference of Number of complaints between the highest and lowest Cyber Incidents is 49547.0. ",
+      "Cyber Incidents Non-payment/Non-delivery is higher than any other Cyber Incidentss with value 65116.0, followed by , and Personal data breach. Down to Cyber Incidents Spoofing with the lowest value 15569.0. ",
+      "The lowest value 15569.0 at Spoofing is almost 2.13 times smaller than the average value 30505.36. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cyber Incidents": "Non-payment/Non-delivery",
+         "Number of complaints": 65116.0
+      },
+      {
+         "Cyber Incidents": "Extortion",
+         "Number of complaints": 51146.0
+      },
+      {
+         "Cyber Incidents": "Personal data breach",
+         "Number of complaints": 50642.0
+      },
+      {
+         "Cyber Incidents": "No lead value",
+         "Number of complaints": 36936.0
+      },
+      {
+         "Cyber Incidents": "Phishing/Vishing/Smishing/Pharming",
+         "Number of complaints": 26379.0
+      },
+      {
+         "Cyber Incidents": "BEC/EAC",
+         "Number of complaints": 20373.0
+      },
+      {
+         "Cyber Incidents": "Confidence fraud/romance",
+         "Number of complaints": 18493.0
+      },
+      {
+         "Cyber Incidents": "Harassment/threats of violence",
+         "Number of complaints": 18415.0
+      },
+      {
+         "Cyber Incidents": "Advance fee",
+         "Number of complaints": 16362.0
+      },
+      {
+         "Cyber Incidents": "Identity theft",
+         "Number of complaints": 16128.0
+      },
+      {
+         "Cyber Incidents": "Spoofing",
+         "Number of complaints": 15569.0
+      }
+   ]
+}

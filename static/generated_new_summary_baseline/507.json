@@ -1,0 +1,65 @@
+{
+   "title": "Forecast of nickel consumption worldwide 2015 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Consumption in thousand metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption in thousand metric tons. In total the number of data points it has is 6.",
+      " Overall Consumption in thousand metric tons has increased over the Year.",
+      "Consumption in thousand metric tons is slightly increasing from 2015 to 2020.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "The highest Consumption in thousand metric tons, of value 2376.0 was reached at Year 2020",
+      "The lowest Consumption in thousand metric tons, of value 1963.0 was reported at Year 2015"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption in thousand metric tons. In total the number of data points it has is 6.",
+      " In general Consumption in thousand metric tons has rose over the Year.",
+      "Consumption in thousand metric tons is slightly increasing from 2015 to 2020."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption in thousand metric tons. In total the number of data points it has is 6.",
+      " Overall Consumption in thousand metric tons has increased over the Year.",
+      "Consumption in thousand metric tons is slightly increasing from 2015 to 2020.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "The highest Consumption in thousand metric tons, of value 2376.0 was reached at Year 2020",
+      "The lowest Consumption in thousand metric tons, of value 1963.0 was reported at Year 2015"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption in thousand metric tons. In total the number of data points it has is 6.",
+      " In general Consumption in thousand metric tons has rose over the Year.",
+      "Consumption in thousand metric tons is slightly increasing from 2015 to 2020.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "The highest Consumption in thousand metric tons, of value 2376.0 was reached at Year 2020",
+      "The lowest Consumption in thousand metric tons, of value 1963.0 was reported at Year 2015",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2020",
+         "Consumption in thousand metric tons": 2376.0
+      },
+      {
+         "Year": "2019",
+         "Consumption in thousand metric tons": 2288.0
+      },
+      {
+         "Year": "2018",
+         "Consumption in thousand metric tons": 2199.0
+      },
+      {
+         "Year": "2017",
+         "Consumption in thousand metric tons": 2117.0
+      },
+      {
+         "Year": "2016",
+         "Consumption in thousand metric tons": 2050.0
+      },
+      {
+         "Year": "2015",
+         "Consumption in thousand metric tons": 1963.0
+      }
+   ]
+}

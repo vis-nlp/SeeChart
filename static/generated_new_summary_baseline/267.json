@@ -1,0 +1,113 @@
+{
+   "title": "U.S. sweet potato production 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand cwt",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand cwt, containing a total of 19 data points.",
+      " Overall Production in thousand cwt has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2017 and 2018.",
+      "The highest Production in thousand cwt, of value 35646.0 was reached at Year 2017",
+      "Minimum Production in thousand cwt about 12799.0 was reached at Year 2002"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand cwt, containing a total of 19 data points.",
+      " In general Production in thousand cwt has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand cwt, containing a total of 19 data points.",
+      " Overall Production in thousand cwt has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2017 and 2018.",
+      "The highest Production in thousand cwt, of value 35646.0 was reached at Year 2017",
+      "Minimum Production in thousand cwt about 12799.0 was reached at Year 2002"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in thousand cwt. In total the number of data points it has is 19.",
+      " Overall Production in thousand cwt has increased over the Year.",
+      "The most drastic decrease took place within the Year 2017 and 2018.",
+      "The highest Production in thousand cwt, of value 35646.0 was reached at Year 2017",
+      "Minimum Production in thousand cwt about 12799.0 was reached at Year 2002",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Production in thousand cwt": 27378.0
+      },
+      {
+         "Year": "2017",
+         "Production in thousand cwt": 35646.0
+      },
+      {
+         "Year": "2016",
+         "Production in thousand cwt": 31546.0
+      },
+      {
+         "Year": "2015",
+         "Production in thousand cwt": 31016.0
+      },
+      {
+         "Year": "2014",
+         "Production in thousand cwt": 29584.0
+      },
+      {
+         "Year": "2013",
+         "Production in thousand cwt": 24785.0
+      },
+      {
+         "Year": "2012",
+         "Production in thousand cwt": 26482.0
+      },
+      {
+         "Year": "2011",
+         "Production in thousand cwt": 26964.0
+      },
+      {
+         "Year": "2010",
+         "Production in thousand cwt": 23845.0
+      },
+      {
+         "Year": "2009",
+         "Production in thousand cwt": 19469.0
+      },
+      {
+         "Year": "2008",
+         "Production in thousand cwt": 18443.0
+      },
+      {
+         "Year": "2007",
+         "Production in thousand cwt": 18070.0
+      },
+      {
+         "Year": "2006",
+         "Production in thousand cwt": 16401.0
+      },
+      {
+         "Year": "2005",
+         "Production in thousand cwt": 15730.0
+      },
+      {
+         "Year": "2004",
+         "Production in thousand cwt": 16112.0
+      },
+      {
+         "Year": "2003",
+         "Production in thousand cwt": 15891.0
+      },
+      {
+         "Year": "2002",
+         "Production in thousand cwt": 12799.0
+      },
+      {
+         "Year": "2001",
+         "Production in thousand cwt": 14515.0
+      },
+      {
+         "Year": "2000",
+         "Production in thousand cwt": 13780.0
+      }
+   ]
+}

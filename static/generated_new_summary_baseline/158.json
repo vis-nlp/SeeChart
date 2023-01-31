@@ -1,0 +1,117 @@
+{
+   "title": "Number of married people in Canada , by age group 2018",
+   "xAxis": "Age group",
+   "yAxis": "Number of people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Age group in the x axis and Number of people in the y axis. ",
+      "Age group 55 to 59 years has the highest Number of people and 100 years and over has the lowest Number of people. ",
+      "The Number of people of Age group 55 to 59 years is 2552.9% larger than the minimum value at 100 years and over. "
+   ],
+   "min_summary": [
+      "This bar chart has 18 columns on the x axis representing Age group, and Number of people in each Age group on the y axis. ",
+      "The Number of people is highest at Age group 55 to 59 years and lowest at Age group 100 years and over. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Age group in the x axis and Number of people in the y axis. ",
+      "Age group 55 to 59 years has the highest Number of people and 100 years and over has the lowest Number of people. ",
+      "The Number of people of Age group 55 to 59 years is 2552.9% larger than the minimum value at 100 years and over. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Age group in the x axis and Number of people in the y axis. ",
+      "The Number of people is highest at Age group 55 to 59 years and lowest at Age group 100 years and over. ",
+      "The second highest Number of people is appeared to be the Age group . ",
+      "The Number of people of Age group 100 years and over is 2552.9% smaller than the maximum value at 55 to 59 years. ",
+      "Number of people at Age group 55 to 59 years is 1623642.0 , second place is  at 2793.0, and thirdly is 50 to 54 years at 1475369.0.",
+      "The Age group 55 to 59 years tends to be 2.1 percent higher than average. ",
+      "Summing up the values of all Age groups, we get total 13908618.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 8,
+         "12": 8
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age group": "15 to 19 years",
+         "Number of people": 2793.0
+      },
+      {
+         "Age group": "20 to 24 years",
+         "Number of people": 84864.0
+      },
+      {
+         "Age group": "25 to 29 years",
+         "Number of people": 510931.0
+      },
+      {
+         "Age group": "30 to 34 years",
+         "Number of people": 1076088.0
+      },
+      {
+         "Age group": "35 to 39 years",
+         "Number of people": 1319123.0
+      },
+      {
+         "Age group": "40 to 44 years",
+         "Number of people": 1347563.0
+      },
+      {
+         "Age group": "45 to 49 years",
+         "Number of people": 1379171.0
+      },
+      {
+         "Age group": "50 to 54 years",
+         "Number of people": 1475369.0
+      },
+      {
+         "Age group": "55 to 59 years",
+         "Number of people": 1623642.0
+      },
+      {
+         "Age group": "60 to 64 years",
+         "Number of people": 1526827.0
+      },
+      {
+         "Age group": "65 to 69 years",
+         "Number of people": 1292505.0
+      },
+      {
+         "Age group": "70 to 74 years",
+         "Number of people": 1011113.0
+      },
+      {
+         "Age group": "75 to 79 years",
+         "Number of people": 639487.0
+      },
+      {
+         "Age group": "80 to 84 years",
+         "Number of people": 373961.0
+      },
+      {
+         "Age group": "85 to 89 years",
+         "Number of people": 182464.0
+      },
+      {
+         "Age group": "90 to 94 years",
+         "Number of people": 53439.0
+      },
+      {
+         "Age group": "95 to 99 years",
+         "Number of people": 8642.0
+      },
+      {
+         "Age group": "100 years and over",
+         "Number of people": 636.0
+      }
+   ]
+}

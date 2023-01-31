@@ -1,0 +1,84 @@
+{
+   "title": "Syrian refugees - major hosting countries worldwide in 2018",
+   "xAxis": "Country",
+   "yAxis": "Number of admitted Syrian refugees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of admitted Syrian refugees in each Country on the y axis. ",
+      "The Number of admitted Syrian refugees is highest at Country Turkey and lowest at Country Netherlands. ",
+      "There is a difference of 3590274.0 between the maximum Country Turkey and minimum Country Netherlands. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Number of admitted Syrian refugees in the y axis. ",
+      "The maximum Number of admitted Syrian refugees 3622366.0 is found at Country Turkey and the minimum is found at Netherlands where Number of admitted Syrian refugees is 32092.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of admitted Syrian refugees in each Country on the y axis. ",
+      "The Number of admitted Syrian refugees is highest at Country Turkey and lowest at Country Netherlands. ",
+      "There is a difference of 3590274.0 between the maximum Country Turkey and minimum Country Netherlands. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Number of admitted Syrian refugees in the y axis. ",
+      "The maximum Number of admitted Syrian refugees 3622366.0 is found at Country Turkey and the minimum is found at Netherlands where Number of admitted Syrian refugees is 32092.0. ",
+      "Country  has the second highest value for Number of admitted Syrian refugees. ",
+      "The Number of admitted Syrian refugees of Country Turkey is 112.87% larger than the minimum value at Netherlands. ",
+      "The Country Turkey has the highest Number of admitted Syrian refugees, followed by , and Jordan. Down to the Country Netherlands which is the lowest. ",
+      "Considered together, the average Number of admitted Syrian refugees in all 10 Countrys is roughly 644440.8. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Turkey",
+         "Number of admitted Syrian refugees": 3622366.0
+      },
+      {
+         "Country": "Lebanon",
+         "Number of admitted Syrian refugees": 944181.0
+      },
+      {
+         "Country": "Jordan",
+         "Number of admitted Syrian refugees": 676283.0
+      },
+      {
+         "Country": "Germany",
+         "Number of admitted Syrian refugees": 532065.0
+      },
+      {
+         "Country": "Iraq",
+         "Number of admitted Syrian refugees": 252526.0
+      },
+      {
+         "Country": "Egypt",
+         "Number of admitted Syrian refugees": 132871.0
+      },
+      {
+         "Country": "Sweden",
+         "Number of admitted Syrian refugees": 109343.0
+      },
+      {
+         "Country": "Sudan",
+         "Number of admitted Syrian refugees": 93502.0
+      },
+      {
+         "Country": "Austria",
+         "Number of admitted Syrian refugees": 49179.0
+      },
+      {
+         "Country": "Netherlands",
+         "Number of admitted Syrian refugees": 32092.0
+      }
+   ]
+}

@@ -1,0 +1,97 @@
+{
+   "title": "Industrial robots - worldwide sales 2004 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales in thousand units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in thousand units, containing a total of 15 data points.",
+      " In general Sales in thousand units has rose over the Year.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Maximum Sales in thousand units, about 384.0 was reported at Year 2018",
+      "Minimum Sales in thousand units about 60.0 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in thousand units. In total the number of data points it has is 15.",
+      " In general Sales in thousand units has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in thousand units, containing a total of 15 data points.",
+      " In general Sales in thousand units has rose over the Year.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Maximum Sales in thousand units, about 384.0 was reported at Year 2018",
+      "Minimum Sales in thousand units about 60.0 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in thousand units. In total the number of data points it has is 15.",
+      " In general Sales in thousand units has rose over the Year.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum Sales in thousand units, about 384.0 was reported at Year 2018",
+      "Minimum Sales in thousand units about 60.0 was reached at Year 2009",
+      "The line significantly increased by 61.0 from Year 2009 to 2010."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in thousand units": 384.0
+      },
+      {
+         "Year": "2017",
+         "Sales in thousand units": 382.0
+      },
+      {
+         "Year": "2016",
+         "Sales in thousand units": 294.0
+      },
+      {
+         "Year": "2015",
+         "Sales in thousand units": 254.0
+      },
+      {
+         "Year": "2014",
+         "Sales in thousand units": 221.0
+      },
+      {
+         "Year": "2013",
+         "Sales in thousand units": 178.0
+      },
+      {
+         "Year": "2012",
+         "Sales in thousand units": 159.0
+      },
+      {
+         "Year": "2011",
+         "Sales in thousand units": 166.0
+      },
+      {
+         "Year": "2010",
+         "Sales in thousand units": 121.0
+      },
+      {
+         "Year": "2009",
+         "Sales in thousand units": 60.0
+      },
+      {
+         "Year": "2008",
+         "Sales in thousand units": 113.0
+      },
+      {
+         "Year": "2007",
+         "Sales in thousand units": 114.0
+      },
+      {
+         "Year": "2006",
+         "Sales in thousand units": 112.0
+      },
+      {
+         "Year": "2005",
+         "Sales in thousand units": 120.0
+      },
+      {
+         "Year": "2004",
+         "Sales in thousand units": 97.0
+      }
+   ]
+}

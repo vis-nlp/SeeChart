@@ -1,0 +1,86 @@
+{
+   "title": "Solar PV capacity - new installations worldwide by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Percentage of newly installed capacity",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Percentage of newly installed capacity in each Country on the y axis. ",
+      "The Percentage of newly installed capacity is highest at Country China and lowest at Country Netherlands. ",
+      "There is a difference of 44.0 between the maximum Country China and minimum Country Netherlands. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Percentage of newly installed capacity in each Country on the y axis. ",
+      "The maximum Percentage of newly installed capacity 45.0 is found at Country China and the minimum is found at Netherlands where Percentage of newly installed capacity is 1.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Percentage of newly installed capacity in each Country on the y axis. ",
+      "The Percentage of newly installed capacity is highest at Country China and lowest at Country Netherlands. ",
+      "There is a difference of 44.0 between the maximum Country China and minimum Country Netherlands. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Percentage of newly installed capacity in each Country on the y axis. ",
+      "Country China has the highest Percentage of newly installed capacity and Netherlands has the lowest Percentage of newly installed capacity. ",
+      "Country  has the second highest value for Percentage of newly installed capacity. ",
+      "The highest Country China has 44.0 more Percentage of newly installed capacity than the lowest Country Netherlands. ",
+      "Percentage of newly installed capacity at Country China is 45.0 , second place is  at 45.0, and thirdly is US at 11.0.",
+      "Similar Percentage of newly installed capacity is found in Country India, and US. ",
+      "Considered together, the average Percentage of newly installed capacity in all 10 Countrys is roughly 8.9. ",
+      "Summing up the values of all Countrys, we get total 89.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Percentage of newly installed capacity": 45.0
+      },
+      {
+         "Country": "India",
+         "Percentage of newly installed capacity": 11.0
+      },
+      {
+         "Country": "US",
+         "Percentage of newly installed capacity": 11.0
+      },
+      {
+         "Country": "Japan",
+         "Percentage of newly installed capacity": 7.0
+      },
+      {
+         "Country": "Australia",
+         "Percentage of newly installed capacity": 4.0
+      },
+      {
+         "Country": "Germany",
+         "Percentage of newly installed capacity": 3.0
+      },
+      {
+         "Country": "Mexico",
+         "Percentage of newly installed capacity": 3.0
+      },
+      {
+         "Country": "Republic of Korea",
+         "Percentage of newly installed capacity": 2.0
+      },
+      {
+         "Country": "Turkey",
+         "Percentage of newly installed capacity": 2.0
+      },
+      {
+         "Country": "Netherlands",
+         "Percentage of newly installed capacity": 1.0
+      }
+   ]
+}

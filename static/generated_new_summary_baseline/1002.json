@@ -1,0 +1,100 @@
+{
+   "title": "Number of members of FC Bayern Munich 2005 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of members in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 14 columns on the x axis representing Month, and Number of members in thousands in each Month on the y axis. ",
+      "The maximum Number of members in thousands 291.0 is found at Month Nov 2018 and the minimum is found at 2005/06 where Number of members in thousands is 121.12. ",
+      "There is a difference of 169.88 between the maximum Month Nov 2018 and minimum Month 2005/06. "
+   ],
+   "min_summary": [
+      "This bar chart has 14 columns on the x axis representing Month, and Number of members in thousands in each Month on the y axis. ",
+      "The maximum Number of members in thousands 291.0 is found at Month Nov 2018 and the minimum is found at 2005/06 where Number of members in thousands is 121.12. "
+   ],
+   "mid_summary": [
+      "This bar chart has 14 columns on the x axis representing Month, and Number of members in thousands in each Month on the y axis. ",
+      "The maximum Number of members in thousands 291.0 is found at Month Nov 2018 and the minimum is found at 2005/06 where Number of members in thousands is 121.12. ",
+      "There is a difference of 169.88 between the maximum Month Nov 2018 and minimum Month 2005/06. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of members in thousands for 14 number of Months. ",
+      "Month Nov 2018 has the highest Number of members in thousands and 2005/06 has the lowest Number of members in thousands. ",
+      "The highest Month Nov 2018 has 169.88 more Number of members in thousands than the lowest Month 2005/06. ",
+      "Number of members in thousands at Month Nov 2018 is 291.0 , second place is  at 291.0, and thirdly is 2016/17 at 284.04.",
+      "Overall Number of members in thousands has reduced over the Months. ",
+      "The Month Nov 2018 has 1.41 times more Number of members in thousands than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Nov 2018",
+         "Number of members in thousands": 291.0
+      },
+      {
+         "Month": "2017/18",
+         "Number of members in thousands": 290.0
+      },
+      {
+         "Month": "2016/17",
+         "Number of members in thousands": 284.04
+      },
+      {
+         "Month": "2015/16",
+         "Number of members in thousands": 270.33
+      },
+      {
+         "Month": "2014/15",
+         "Number of members in thousands": 251.32
+      },
+      {
+         "Month": "2013/14",
+         "Number of members in thousands": 233.43
+      },
+      {
+         "Month": "2012/13",
+         "Number of members in thousands": 195.69
+      },
+      {
+         "Month": "2011/12",
+         "Number of members in thousands": 187.87
+      },
+      {
+         "Month": "2010/11",
+         "Number of members in thousands": 171.35
+      },
+      {
+         "Month": "2009/10",
+         "Number of members in thousands": 162.18
+      },
+      {
+         "Month": "2008/09",
+         "Number of members in thousands": 151.23
+      },
+      {
+         "Month": "2007/08",
+         "Number of members in thousands": 147.07
+      },
+      {
+         "Month": "2006/07",
+         "Number of members in thousands": 135.75
+      },
+      {
+         "Month": "2005/06",
+         "Number of members in thousands": 121.12
+      }
+   ]
+}

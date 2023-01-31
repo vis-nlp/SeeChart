@@ -1,0 +1,138 @@
+{
+   "title": "Global sulfur production by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Price in U.S. dollars per ton",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Price in U.S. dollars per ton in the y axis. ",
+      "The Price in U.S. dollars per ton is highest at Country China and lowest at Country Brazil. ",
+      "There is a difference of 16900.0 between the maximum Country China and minimum Country Brazil. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Price in U.S. dollars per ton for 23 number of Countrys. ",
+      "The Price in U.S. dollars per ton is appeared to be the highest at Country China and lowest at Country Brazil. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Price in U.S. dollars per ton in the y axis. ",
+      "The Price in U.S. dollars per ton is highest at Country China and lowest at Country Brazil. ",
+      "There is a difference of 16900.0 between the maximum Country China and minimum Country Brazil. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Price in U.S. dollars per ton in the y axis. ",
+      "The Price in U.S. dollars per ton is highest at Country China and lowest at Country Brazil. ",
+      "Country  has the second highest value for Price in U.S. dollars per ton. ",
+      "There is a difference of 16900.0 between the maximum Country China and minimum Country Brazil. ",
+      "Country China is higher than any other Countrys with value 17400.0, followed by , and Russia. Down to Country Brazil with the lowest value 500.0. ",
+      "Similar Price in U.S. dollars per ton is found in Country United Arab Emirates, India, and Japan. ",
+      "The Country Brazil has 5.07 times less Price in U.S. dollars per ton than average. ",
+      "The Price in U.S. dollars per ton is 78910.0 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 22,
+         "12": 22
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Price in U.S. dollars per ton": 17400.0
+      },
+      {
+         "Country": "United States",
+         "Price in U.S. dollars per ton": 8800.0
+      },
+      {
+         "Country": "Russia",
+         "Price in U.S. dollars per ton": 7100.0
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Price in U.S. dollars per ton": 6600.0
+      },
+      {
+         "Country": "Canada",
+         "Price in U.S. dollars per ton": 5300.0
+      },
+      {
+         "Country": "Other",
+         "Price in U.S. dollars per ton": 3900.0
+      },
+      {
+         "Country": "Kazakhstan",
+         "Price in U.S. dollars per ton": 3600.0
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Price in U.S. dollars per ton": 3400.0
+      },
+      {
+         "Country": "India",
+         "Price in U.S. dollars per ton": 3400.0
+      },
+      {
+         "Country": "Japan",
+         "Price in U.S. dollars per ton": 3400.0
+      },
+      {
+         "Country": "South Korea",
+         "Price in U.S. dollars per ton": 3100.0
+      },
+      {
+         "Country": "Iran",
+         "Price in U.S. dollars per ton": 2200.0
+      },
+      {
+         "Country": "Qatar",
+         "Price in U.S. dollars per ton": 2100.0
+      },
+      {
+         "Country": "Chile",
+         "Price in U.S. dollars per ton": 1500.0
+      },
+      {
+         "Country": "Poland",
+         "Price in U.S. dollars per ton": 1230.0
+      },
+      {
+         "Country": "Finland",
+         "Price in U.S. dollars per ton": 940.0
+      },
+      {
+         "Country": "Kuwait",
+         "Price in U.S. dollars per ton": 900.0
+      },
+      {
+         "Country": "Australia",
+         "Price in U.S. dollars per ton": 900.0
+      },
+      {
+         "Country": "Germany",
+         "Price in U.S. dollars per ton": 870.0
+      },
+      {
+         "Country": "Venezuela",
+         "Price in U.S. dollars per ton": 700.0
+      },
+      {
+         "Country": "Italy",
+         "Price in U.S. dollars per ton": 550.0
+      },
+      {
+         "Country": "Netherlands",
+         "Price in U.S. dollars per ton": 520.0
+      },
+      {
+         "Country": "Brazil",
+         "Price in U.S. dollars per ton": 500.0
+      }
+   ]
+}

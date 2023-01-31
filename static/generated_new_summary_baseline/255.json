@@ -1,0 +1,142 @@
+{
+   "title": "Population in China 2008 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Population in million inhabitants and the x axis indicates Year.",
+      "Overall Female is gradually increasing, Male is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
+      "Throughout the period, Male generally had the highest Population in million inhabitants relative to others with an average of 697.94, and it reached its maximum at 2018 with a value of 713.51.",
+      "Female mostly had the least Population in million inhabitants with a mean value of 663.52, which peaked at 2018 with a value of 681.87. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Population in million inhabitants",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing Male, and Female. The y axis denotes Population in million inhabitants and the x axis denotes Year.",
+      "Overall Female is gradually increasing, Male is roughly constant,  throughout the Year",
+      "Overall across the Year, Male mostly maintained the highest Population in million inhabitants when compared to others with a mean value of 697.94, and it peaked at 2018.",
+      "Female mostly had the least Population in million inhabitants with a mean value of 663.52, which peaked at 2018 with a value of 681.87. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Population in million inhabitants and the x axis indicates Year.",
+      "Overall Female is gradually increasing, Male is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
+      "Throughout the period, Male generally had the highest Population in million inhabitants relative to others with an average of 697.94, and it reached its maximum at 2018 with a value of 713.51.",
+      "Female mostly had the least Population in million inhabitants with a mean value of 663.52, which peaked at 2018 with a value of 681.87. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Population in million inhabitants and the x axis indicates Year.",
+      "Overall Female is gradually increasing, Male is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Population in million inhabitants in descending order is: 1. Male, and lastly, 2. Female. ",
+      "Overall across the Year, Male mostly maintained the highest Population in million inhabitants when compared to others with a mean value of 697.94, and it peaked at 2018.",
+      "Female mostly had the least Population in million inhabitants with a mean value of 663.52, which peaked at 2018 with a value of 681.87. ",
+      "Female reported the lowest Population in million inhabitants about 644.45 in Year 2008",
+      "The greatest difference of Population in million inhabitants between Male and Female occurs at Year 2008 and the smallest difference occurs at 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Male": "713.51",
+         "Female": "681.87"
+      },
+      {
+         "Year": "2017",
+         "Male": "711.37",
+         "Female": "678.71"
+      },
+      {
+         "Year": "2016",
+         "Male": "708.15",
+         "Female": "674.56"
+      },
+      {
+         "Year": "2015",
+         "Male": "704.14",
+         "Female": "670.48"
+      },
+      {
+         "Year": "2014",
+         "Male": "700.79",
+         "Female": "667.03"
+      },
+      {
+         "Year": "2013",
+         "Male": "697.28",
+         "Female": "663.44"
+      },
+      {
+         "Year": "2012",
+         "Male": "693.95",
+         "Female": "660.09"
+      },
+      {
+         "Year": "2011",
+         "Male": "690.68",
+         "Female": "656.67"
+      },
+      {
+         "Year": "2010",
+         "Male": "687.48",
+         "Female": "653.43"
+      },
+      {
+         "Year": "2009",
+         "Male": "686.47",
+         "Female": "648.03"
+      },
+      {
+         "Year": "2008",
+         "Male": "683.57",
+         "Female": "644.45"
+      }
+   ]
+}

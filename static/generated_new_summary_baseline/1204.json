@@ -1,0 +1,77 @@
+{
+   "title": "Textbook publishing revenue in the U.S. 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, containing a total of 9 data points.",
+      " In general Revenue in billion U.S. dollars has stayed the same over the Year.",
+      "Revenue in billion U.S. dollars is roughly constant from 2010 to 2014, gradually increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly slightly decreasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Revenue in billion U.S. dollars, about 11.7 was reported at Year 2015",
+      "Minimum Revenue in billion U.S. dollars about 8.16 was reached at Year 2012"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion U.S. dollars. In total the number of data points it has is 9.",
+      " Overall Revenue in billion U.S. dollars has increased over the Year.",
+      "Revenue in billion U.S. dollars is roughly constant from 2010 to 2014, gradually increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly slightly decreasing from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, containing a total of 9 data points.",
+      " In general Revenue in billion U.S. dollars has stayed the same over the Year.",
+      "Revenue in billion U.S. dollars is roughly constant from 2010 to 2014, gradually increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly slightly decreasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Revenue in billion U.S. dollars, about 11.7 was reported at Year 2015",
+      "Minimum Revenue in billion U.S. dollars about 8.16 was reached at Year 2012"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion U.S. dollars. In total the number of data points it has is 9.",
+      " Overall Revenue in billion U.S. dollars has increased over the Year.",
+      "Revenue in billion U.S. dollars is roughly constant from 2010 to 2014, gradually increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly slightly decreasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Revenue in billion U.S. dollars, about 11.7 was reported at Year 2015",
+      "Minimum Revenue in billion U.S. dollars about 8.16 was reached at Year 2012",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in billion U.S. dollars": 8.79
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion U.S. dollars": 9.87
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion U.S. dollars": 10.17
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion U.S. dollars": 11.7
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion U.S. dollars": 8.62
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion U.S. dollars": 8.58
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion U.S. dollars": 8.16
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion U.S. dollars": 8.46
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion U.S. dollars": 8.6
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Share of mobile banking users among mobile phone owners in the U.S. 2009 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Share of mobile banking users",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of mobile banking users. In total the number of data points it has is 8.",
+      " In general Share of mobile banking users has rose over the Year.",
+      "Share of mobile banking users is roughly constant from 2009 to 2010, gradually increasing from 2010 to 2013, roughly constant from 2013 to 2015, and lastly roughly increasing from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Share of mobile banking users, about 51.0 was reported at Year 2016",
+      "The lowest Share of mobile banking users, of value 18.0 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of mobile banking users. In total the number of data points it has is 8.",
+      " In general Share of mobile banking users has rose over the Year.",
+      "Share of mobile banking users is roughly constant from 2009 to 2010, gradually increasing from 2010 to 2013, roughly constant from 2013 to 2015, and lastly roughly increasing from 2015 to 2016."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of mobile banking users. In total the number of data points it has is 8.",
+      " In general Share of mobile banking users has rose over the Year.",
+      "Share of mobile banking users is roughly constant from 2009 to 2010, gradually increasing from 2010 to 2013, roughly constant from 2013 to 2015, and lastly roughly increasing from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Share of mobile banking users, about 51.0 was reported at Year 2016",
+      "The lowest Share of mobile banking users, of value 18.0 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of mobile banking users. In total the number of data points it has is 8.",
+      " In general Share of mobile banking users has rose over the Year.",
+      "Share of mobile banking users is roughly constant from 2009 to 2010, gradually increasing from 2010 to 2013, roughly constant from 2013 to 2015, and lastly roughly increasing from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Share of mobile banking users, about 51.0 was reported at Year 2016",
+      "The lowest Share of mobile banking users, of value 18.0 was reported at Year 2009",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2016",
+         "Share of mobile banking users": 51.0
+      },
+      {
+         "Year": "2015",
+         "Share of mobile banking users": 46.0
+      },
+      {
+         "Year": "2014",
+         "Share of mobile banking users": 42.0
+      },
+      {
+         "Year": "2013",
+         "Share of mobile banking users": 38.0
+      },
+      {
+         "Year": "2012",
+         "Share of mobile banking users": 33.0
+      },
+      {
+         "Year": "2011",
+         "Share of mobile banking users": 29.0
+      },
+      {
+         "Year": "2010",
+         "Share of mobile banking users": 19.0
+      },
+      {
+         "Year": "2009",
+         "Share of mobile banking users": 18.0
+      }
+   ]
+}

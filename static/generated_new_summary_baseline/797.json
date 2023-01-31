@@ -1,0 +1,68 @@
+{
+   "title": "Sales of streaming devices in the United States 2014",
+   "xAxis": "Streaming Brand",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 columns on the x axis representing Streaming Brand, and Unit sales in millions in each Streaming Brand on the y axis. ",
+      "The maximum Unit sales in millions 8.8 is found at Streaming Brand Apple TV and the minimum is found at Tivo where Unit sales in millions is 1.2. ",
+      "Streaming Brand Tivo has 7.33 times less Unit sales in millions than Streaming Brand Apple TV which is the highest. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Unit sales in millions for 6 number of Streaming Brands. ",
+      "The Unit sales in millions is appeared to be the highest at Streaming Brand Apple TV and lowest at Streaming Brand Tivo. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Streaming Brand, and Unit sales in millions in each Streaming Brand on the y axis. ",
+      "The maximum Unit sales in millions 8.8 is found at Streaming Brand Apple TV and the minimum is found at Tivo where Unit sales in millions is 1.2. ",
+      "Streaming Brand Tivo has 7.33 times less Unit sales in millions than Streaming Brand Apple TV which is the highest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Unit sales in millions for 6 number of Streaming Brands. ",
+      "The maximum Unit sales in millions 8.8 is found at Streaming Brand Apple TV and the minimum is found at Tivo where Unit sales in millions is 1.2. ",
+      "The difference of Unit sales in millions between the highest and lowest Streaming Brand is 7.6. ",
+      "The Streaming Brand Apple TV has the highest Unit sales in millions, followed by , and Roku. Down to the Streaming Brand Tivo which is the lowest. ",
+      "The Streaming Brand Apple TV tends to be 1.91 percent higher than average. ",
+      "The Unit sales in millions is 27.6 if we add up values of all Streaming Brands. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Streaming Brand": "Apple TV",
+         "Unit sales in millions": 8.8
+      },
+      {
+         "Streaming Brand": "Fire TV",
+         "Unit sales in millions": 5.8
+      },
+      {
+         "Streaming Brand": "Roku",
+         "Unit sales in millions": 5.0
+      },
+      {
+         "Streaming Brand": "Chromecast",
+         "Unit sales in millions": 4.0
+      },
+      {
+         "Streaming Brand": "Tivo",
+         "Unit sales in millions": 1.2
+      },
+      {
+         "Streaming Brand": "Other",
+         "Unit sales in millions": 2.8
+      }
+   ]
+}

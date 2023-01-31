@@ -1,0 +1,73 @@
+{
+   "title": "American Airlines and US Airways - key figures 2015",
+   "xAxis": "Key area",
+   "yAxis": "Unnamed: 1",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Key area in the x axis and Unnamed: 1 in the y axis. ",
+      "The maximum Unnamed: 1 427533.0 is found at Key area Available seat kilometres (in millions) and the minimum is found at Number of countries served where Unnamed: 1 is 55.0. ",
+      "The highest Key area Available seat kilometres (in millions) has 427478.0 more Unnamed: 1 than the lowest Key area Number of countries served. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Unnamed: 1 for 7 number of Key areas. ",
+      "The Unnamed: 1 is highest at Key area Available seat kilometres (in millions) and lowest at Key area Number of countries served. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Key area in the x axis and Unnamed: 1 in the y axis. ",
+      "The maximum Unnamed: 1 427533.0 is found at Key area Available seat kilometres (in millions) and the minimum is found at Number of countries served where Unnamed: 1 is 55.0. ",
+      "The highest Key area Available seat kilometres (in millions) has 427478.0 more Unnamed: 1 than the lowest Key area Number of countries served. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Key area in the x axis and Unnamed: 1 in the y axis. ",
+      "The Unnamed: 1 is highest at Key area Available seat kilometres (in millions) and lowest at Key area Number of countries served. ",
+      "The second highest Unnamed: 1 is appeared to be the Key area . ",
+      "The Unnamed: 1 of Key area Number of countries served is 7773.33% smaller than the maximum value at Available seat kilometres (in millions). ",
+      "Unnamed: 1 at Key area Available seat kilometres (in millions) is 427533.0 , second place is  at 55.0, and thirdly is Number of daily departures at 6985.0.",
+      "The highest value 427533.0 at Available seat kilometres (in millions) is almost 3.8 times larger than the average value 112432.61. ",
+      "The Unnamed: 1 is 787028.3 if we add up values of all Key areas. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 5,
+         "12": 5
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Key area": "Number of countries served",
+         "Unnamed: 1": 55.0
+      },
+      {
+         "Key area": "Number of daily departures",
+         "Unnamed: 1": 6985.0
+      },
+      {
+         "Key area": "Number of aircraft in fleet",
+         "Unnamed: 1": 1549.0
+      },
+      {
+         "Key area": "Number of passengers (in millions)",
+         "Unnamed: 1": 197.3
+      },
+      {
+         "Key area": "Revenue passenger kilometers (in millions)",
+         "Unnamed: 1": 350627.0
+      },
+      {
+         "Key area": "Available seat kilometres (in millions)",
+         "Unnamed: 1": 427533.0
+      },
+      {
+         "Key area": "Passenger load factor (in percent)",
+         "Unnamed: 1": 82.0
+      }
+   ]
+}

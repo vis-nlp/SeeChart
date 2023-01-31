@@ -1,0 +1,49 @@
+{
+   "title": "Share of households with Netflix in the U.S. 2017",
+   "xAxis": "Year",
+   "yAxis": "Share of TV households",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of TV households. In total the number of data points it has is 2.",
+      " Overall Share of TV households has increased over the Year.",
+      "Share of TV households is slightly increasing from 2011 to 2017.",
+      "The steepest increase occurs in between the Year 2011 and 2017.",
+      "Maximum Share of TV households, about 54.0 was reported at Year 2017",
+      "Minimum Share of TV households about 28.0 was reached at Year 2011"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of TV households, containing a total of 2 data points.",
+      " Overall Share of TV households has increased over the Year.",
+      "Share of TV households is slightly increasing from 2011 to 2017."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of TV households. In total the number of data points it has is 2.",
+      " Overall Share of TV households has increased over the Year.",
+      "Share of TV households is slightly increasing from 2011 to 2017.",
+      "The steepest increase occurs in between the Year 2011 and 2017.",
+      "Maximum Share of TV households, about 54.0 was reported at Year 2017",
+      "Minimum Share of TV households about 28.0 was reached at Year 2011"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of TV households, containing a total of 2 data points.",
+      " Overall Share of TV households has increased over the Year.",
+      "Share of TV households is slightly increasing from 2011 to 2017.",
+      "The most drastic increase took place within the Year 2011 and 2017.",
+      "Maximum Share of TV households, about 54.0 was reported at Year 2017",
+      "Minimum Share of TV households about 28.0 was reached at Year 2011",
+      "The line rapidly increased by 92.86% from Year 2011 to 2017."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Share of TV households": 54.0
+      },
+      {
+         "Year": "2011",
+         "Share of TV households": 28.0
+      }
+   ]
+}

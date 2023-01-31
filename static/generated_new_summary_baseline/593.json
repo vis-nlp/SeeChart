@@ -1,0 +1,154 @@
+{
+   "title": "Sales figures for Volkswagen by brand 2014 to 2018",
+   "labels": [
+      "Year",
+      "Volkswagen Passenger Cars",
+      "Audi",
+      "Skoda",
+      "Seat",
+      "VW Commercial Vehicles",
+      "Porsche",
+      "MAN Commercial Vehicles",
+      "Scania",
+      "Bentley"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 9 lines representing Volkswagen Passenger Cars, Audi, Skoda, Seat, VW Commercial Vehicles, Porsche, MAN Commercial Vehicles, Scania, and Bentley. The y axis denotes Sales in thousand vehicles and the x axis denotes Year.",
+      "Overall Volkswagen Passenger Cars is gradually decreasing, Audi, Skoda, Seat, VW Commercial Vehicles, Porsche, MAN Commercial Vehicles, Scania, and Bentley are roughly constant,  throughout the Year",
+      "Overall across the Year, Volkswagen Passenger Cars mostly maintained the highest Sales in thousand vehicles when compared to others with a mean value of 4128.4, and it peaked at 2014.",
+      "Followed by Audi which ranks as the second topmpost line , with an average of 1500.8 Sales in thousand vehicles,reaching its highest point  at 2016 with a value of 1534.0. ",
+      "The botommost line, Bentley,  has a mean of 10.8, and peaked at 2014, 2015, 2016, and 2017. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Sales in thousand vehicles",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 9 lines denoting Volkswagen Passenger Cars, Audi, Skoda, Seat, VW Commercial Vehicles, Porsche, MAN Commercial Vehicles, Scania, and Bentley. The y axis indicates the Sales in thousand vehicles and the x axis indicates Year.",
+      "Overall Volkswagen Passenger Cars is gradually decreasing, Audi, Skoda, Seat, VW Commercial Vehicles, Porsche, MAN Commercial Vehicles, Scania, and Bentley are roughly constant,  throughout the Year",
+      "Throughout the period, Volkswagen Passenger Cars generally had the highest Sales in thousand vehicles relative to others with an average of 4128.4, and it reached its maximum at 2014 with a value of 4583.0.",
+      "Followed by Audi which ranks as the second topmpost line , with an average of 1500.8 Sales in thousand vehicles,reaching its highest point  at 2016 with a value of 1534.0. ",
+      "The botommost line, Bentley,  has a mean of 10.8, and peaked at 2014, 2015, 2016, and 2017. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 9 lines representing Volkswagen Passenger Cars, Audi, Skoda, Seat, VW Commercial Vehicles, Porsche, MAN Commercial Vehicles, Scania, and Bentley. The y axis denotes Sales in thousand vehicles and the x axis denotes Year.",
+      "Overall Volkswagen Passenger Cars is gradually decreasing, Audi, Skoda, Seat, VW Commercial Vehicles, Porsche, MAN Commercial Vehicles, Scania, and Bentley are roughly constant,  throughout the Year",
+      "Overall across the Year, Volkswagen Passenger Cars mostly maintained the highest Sales in thousand vehicles when compared to others with a mean value of 4128.4, and it peaked at 2014.",
+      "Followed by Audi which ranks as the second topmpost line , with an average of 1500.8 Sales in thousand vehicles,reaching its highest point  at 2016 with a value of 1534.0. ",
+      "The botommost line, Bentley,  has a mean of 10.8, and peaked at 2014, 2015, 2016, and 2017. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 9 lines denoting Volkswagen Passenger Cars, Audi, Skoda, Seat, VW Commercial Vehicles, Porsche, MAN Commercial Vehicles, Scania, and Bentley. The y axis indicates the Sales in thousand vehicles and the x axis indicates Year.",
+      "Overall Volkswagen Passenger Cars is gradually decreasing, Audi, Skoda, Seat, VW Commercial Vehicles, Porsche, MAN Commercial Vehicles, Scania, and Bentley are roughly constant,  throughout the Year",
+      "Overall across the Year, Volkswagen Passenger Cars mostly maintained the highest Sales in thousand vehicles when compared to others with a mean value of 4128.4, and it peaked at 2014.",
+      "Followed by Audi which ranks as the second topmpost line , with an average of 1500.8 Sales in thousand vehicles,reaching its highest point  at 2016 with a value of 1534.0. ",
+      "The botommost line, Bentley,  has a mean of 10.8, and peaked at 2014, 2015, 2016, and 2017. ",
+      "The minimum Sales in thousand vehicles about 10.0, occured at 2018 by Bentley."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "1"
+         ],
+         "10": [
+            "2",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Volkswagen Passenger Cars": "4583",
+         "Audi": "1444",
+         "Skoda": "796",
+         "Seat": "501",
+         "VW Commercial Vehicles": "442",
+         "Porsche": "187",
+         "MAN Commercial Vehicles": "120",
+         "Scania": "80",
+         "Bentley": "11"
+      },
+      {
+         "Year": "2015",
+         "Volkswagen Passenger Cars": "4424",
+         "Audi": "1529",
+         "Skoda": "800",
+         "Seat": "544",
+         "VW Commercial Vehicles": "456",
+         "Porsche": "219",
+         "MAN Commercial Vehicles": "102",
+         "Scania": "78",
+         "Bentley": "11"
+      },
+      {
+         "Year": "2016",
+         "Volkswagen Passenger Cars": "4347",
+         "Audi": "1534",
+         "Skoda": "814",
+         "Seat": "548",
+         "VW Commercial Vehicles": "478",
+         "Porsche": "239",
+         "MAN Commercial Vehicles": "102",
+         "Scania": "83",
+         "Bentley": "11"
+      },
+      {
+         "Year": "2017",
+         "Volkswagen Passenger Cars": "3573",
+         "Audi": "1530",
+         "Skoda": "937",
+         "Seat": "595",
+         "VW Commercial Vehicles": "498",
+         "Porsche": "248",
+         "MAN Commercial Vehicles": "114",
+         "Scania": "92",
+         "Bentley": "11"
+      },
+      {
+         "Year": "2018",
+         "Volkswagen Passenger Cars": "3715",
+         "Audi": "1467",
+         "Skoda": "957",
+         "Seat": "608",
+         "VW Commercial Vehicles": "469",
+         "Porsche": "253",
+         "MAN Commercial Vehicles": "137",
+         "Scania": "97",
+         "Bentley": "10"
+      }
+   ]
+}

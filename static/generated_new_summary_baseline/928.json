@@ -1,0 +1,65 @@
+{
+   "title": "Residential solar PV : U.S. market value 2016",
+   "xAxis": "Year",
+   "yAxis": "Market value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market value in billion U.S. dollars, containing a total of 6 data points.",
+      " Overall Market value in billion U.S. dollars has increased over the Year.",
+      "Market value in billion U.S. dollars is slightly increasing from 2011 to 2016.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "The highest Market value in billion U.S. dollars, of value 4.7 was reached at Year 2016",
+      "The lowest Market value in billion U.S. dollars, of value 1.2 was reported at Year 2011"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market value in billion U.S. dollars, containing a total of 6 data points.",
+      " Overall Market value in billion U.S. dollars has increased over the Year.",
+      "Market value in billion U.S. dollars is slightly increasing from 2011 to 2016."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market value in billion U.S. dollars, containing a total of 6 data points.",
+      " Overall Market value in billion U.S. dollars has increased over the Year.",
+      "Market value in billion U.S. dollars is slightly increasing from 2011 to 2016.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "The highest Market value in billion U.S. dollars, of value 4.7 was reached at Year 2016",
+      "The lowest Market value in billion U.S. dollars, of value 1.2 was reported at Year 2011"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market value in billion U.S. dollars, containing a total of 6 data points.",
+      " In general Market value in billion U.S. dollars has rose over the Year.",
+      "Market value in billion U.S. dollars is slightly increasing from 2011 to 2016.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "The highest Market value in billion U.S. dollars, of value 4.7 was reached at Year 2016",
+      "The lowest Market value in billion U.S. dollars, of value 1.2 was reported at Year 2011",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2016",
+         "Market value in billion U.S. dollars": 4.7
+      },
+      {
+         "Year": "2015",
+         "Market value in billion U.S. dollars": 3.7
+      },
+      {
+         "Year": "2014",
+         "Market value in billion U.S. dollars": 2.9
+      },
+      {
+         "Year": "2013",
+         "Market value in billion U.S. dollars": 2.3
+      },
+      {
+         "Year": "2012",
+         "Market value in billion U.S. dollars": 1.7
+      },
+      {
+         "Year": "2011",
+         "Market value in billion U.S. dollars": 1.2
+      }
+   ]
+}

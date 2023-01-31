@@ -1,0 +1,89 @@
+{
+   "title": "Mobile devices used by U.S. students 2015 , by type and frequency",
+   "labels": [
+      "Response",
+      "Never",
+      "A few times a month or less",
+      "2-3 times per week or more"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 4 different Responses on X-axis for 3 groups Never, A few times a month or less, and 2-3 times per week or more. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, Never had the highest Share of respondents for Response Hybrid or 2 in 1 computer and A few times a month or less had the lowest Share of respondents for Response Hybrid or 2 in 1 computer. ",
+      " There is a gap of 17.0 between the highest and lowest Share of respondents found for A few times a month or less in Response Laptop notebook or Chromebook and Hybrid or 2 in 1 computer. ",
+      "On average, the Response Tablet had the highest Share of respondents for all 3 groups Never, A few times a month or less, and 2-3 times per week or more. Whereas Smartphone had the lowest average Share of respondents. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 4 different Responses on X-axis for 3 groups Never, A few times a month or less, and 2-3 times per week or more. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, Never had the highest Share of respondents for Response Hybrid or 2 in 1 computer and A few times a month or less had the lowest Share of respondents for Response Hybrid or 2 in 1 computer. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 4 different Responses on X-axis for 3 groups Never, A few times a month or less, and 2-3 times per week or more. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, Never had the highest Share of respondents for Response Hybrid or 2 in 1 computer and A few times a month or less had the lowest Share of respondents for Response Hybrid or 2 in 1 computer. ",
+      " There is a gap of 17.0 between the highest and lowest Share of respondents found for A few times a month or less in Response Laptop notebook or Chromebook and Hybrid or 2 in 1 computer. ",
+      "On average, the Response Tablet had the highest Share of respondents for all 3 groups Never, A few times a month or less, and 2-3 times per week or more. Whereas Smartphone had the lowest average Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Responses on X-axis for 3 groups Never, A few times a month or less, and 2-3 times per week or more. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, Never had the highest Share of respondents for Response Hybrid or 2 in 1 computer and A few times a month or less had the lowest Share of respondents for Response Hybrid or 2 in 1 computer. ",
+      " For Response Laptop notebook or Chromebook, A few times a month or less had the highest Share of respondents among all 4 Responses and it has the lowest Share of respondents in Response Hybrid or 2 in 1 computer. ",
+      " There is a gap of 17.0 between the highest and lowest Share of respondents found for A few times a month or less in Response Laptop notebook or Chromebook and Hybrid or 2 in 1 computer. ",
+      " Among all 3 groups, Never had the gap of 67.0 between the maximum and minimum Share of respondents observed in Response Hybrid or 2 in 1 computer and Laptop notebook or Chromebook respectively. ",
+      " Never had the maximum Share of respondents out of all 3 groups in Response Hybrid or 2 in 1 computer followed by Never in Hybrid or 2 in 1 computer, and the minimum Share of respondents is found for A few times a month or less in Hybrid or 2 in 1 computer. ",
+      "Averaging all 3 groups Never, A few times a month or less, and 2-3 times per week or more, the Response Tablet is the maximum Share of respondents and Smartphone is the minimum Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "3",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "3",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Laptop notebook or Chromebook",
+         "Never": "17",
+         "A few times a month or less": "22",
+         "2-3 times per week or more": "61"
+      },
+      {
+         "Response": "Smartphone",
+         "Never": "42",
+         "A few times a month or less": "16",
+         "2-3 times per week or more": "41"
+      },
+      {
+         "Response": "Tablet",
+         "Never": "42",
+         "A few times a month or less": "21",
+         "2-3 times per week or more": "37"
+      },
+      {
+         "Response": "Hybrid or 2 in 1 computer",
+         "Never": "84",
+         "A few times a month or less": "5",
+         "2-3 times per week or more": "10"
+      }
+   ]
+}

@@ -1,0 +1,81 @@
+{
+   "title": "Inbound tourism in Qatar from 2013 to 2022 ",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of arrivals in millions. In total the number of data points it has is 10.",
+      " Overall Number of arrivals in millions has increased over the Year.",
+      "Number of arrivals in millions is slightly increasing from 2013 to 2022.",
+      "The most drastic increase took place within the Year 2021 and 2022.",
+      "Maximum Number of arrivals in millions, about 3.7 was reported at Year 2022",
+      "The lowest Number of arrivals in millions, of value 1.0 was reported at Year 2013"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of arrivals in millions, containing a total of 10 data points.",
+      " In general Number of arrivals in millions has rose over the Year.",
+      "Number of arrivals in millions is slightly increasing from 2013 to 2022."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of arrivals in millions. In total the number of data points it has is 10.",
+      " Overall Number of arrivals in millions has increased over the Year.",
+      "Number of arrivals in millions is slightly increasing from 2013 to 2022.",
+      "The most drastic increase took place within the Year 2021 and 2022.",
+      "Maximum Number of arrivals in millions, about 3.7 was reported at Year 2022",
+      "The lowest Number of arrivals in millions, of value 1.0 was reported at Year 2013"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of arrivals in millions. In total the number of data points it has is 10.",
+      " Overall Number of arrivals in millions has increased over the Year.",
+      "Number of arrivals in millions is slightly increasing from 2013 to 2022.",
+      "The most drastic increase took place within the Year 2021 and 2022.",
+      "Maximum Number of arrivals in millions, about 3.7 was reported at Year 2022",
+      "The lowest Number of arrivals in millions, of value 1.0 was reported at Year 2013",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2013",
+         "Number of arrivals in millions": 1.0
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in millions": 1.2
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in millions": 1.4
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in millions": 1.6
+      },
+      {
+         "Year": "2017",
+         "Number of arrivals in millions": 1.8
+      },
+      {
+         "Year": "2018",
+         "Number of arrivals in millions": 2.1
+      },
+      {
+         "Year": "2019",
+         "Number of arrivals in millions": 2.4
+      },
+      {
+         "Year": "2020",
+         "Number of arrivals in millions": 2.8
+      },
+      {
+         "Year": "2021",
+         "Number of arrivals in millions": 3.2
+      },
+      {
+         "Year": "2022",
+         "Number of arrivals in millions": 3.7
+      }
+   ]
+}

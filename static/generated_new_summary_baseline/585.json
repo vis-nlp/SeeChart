@@ -1,0 +1,121 @@
+{
+   "title": "Average life expectancy at birth in Sweden 2008 - 2018 , by gender",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Life expectancy in years and the x axis represents Year.",
+      "Overall Men, and Women are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Women, and lastly, 2. Men. ",
+      "Throughout the period, Women generally had the highest Life expectancy in years relative to others with an average of 83.78, and it reached its maximum at 2014-2018 with a value of 84.1.",
+      "Men mostly had the least Life expectancy in years with a mean value of 80.06, which peaked at 2014-2018 with a value of 80.55. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Life expectancy in years",
+   "min_summary": [
+      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Life expectancy in years and the x axis represents Year.",
+      "Overall Men, and Women are roughly constant,  throughout the Year",
+      "Overall across the Year, Women mostly maintained the highest Life expectancy in years when compared to others with a mean value of 83.78, and it peaked at 2014-2018.",
+      "Men mostly had the least Life expectancy in years with a mean value of 80.06, which peaked at 2014-2018 with a value of 80.55. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Life expectancy in years and the x axis represents Year.",
+      "Overall Men, and Women are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Women, and lastly, 2. Men. ",
+      "Throughout the period, Women generally had the highest Life expectancy in years relative to others with an average of 83.78, and it reached its maximum at 2014-2018 with a value of 84.1.",
+      "Men mostly had the least Life expectancy in years with a mean value of 80.06, which peaked at 2014-2018 with a value of 80.55. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Life expectancy in years and the x axis denotes Year.",
+      "Overall Men, and Women are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Life expectancy in years in descending order is: 1. Women, and lastly, 2. Men. ",
+      "Overall across the Year, Women mostly maintained the highest Life expectancy in years when compared to others with a mean value of 83.78, and it peaked at 2014-2018.",
+      "Men mostly had the least Life expectancy in years with a mean value of 80.06, which peaked at 2014-2018 with a value of 80.55. ",
+      "The difference of Life expectancy in years between Men and Women is smaller at Year 2014-2018 compared to the Year 2008-2012."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014-2018",
+         "Men": "80.55",
+         "Women": "84.1"
+      },
+      {
+         "Year": "2013-2017",
+         "Men": "80.41",
+         "Women": "83.99"
+      },
+      {
+         "Year": "2012-2016",
+         "Men": "80.24",
+         "Women": "83.88"
+      },
+      {
+         "Year": "2011-2015",
+         "Men": "80.08",
+         "Women": "83.79"
+      },
+      {
+         "Year": "2010-2014",
+         "Men": "79.93",
+         "Women": "83.69"
+      },
+      {
+         "Year": "2009-2013",
+         "Men": "79.72",
+         "Women": "83.55"
+      },
+      {
+         "Year": "2008-2012",
+         "Men": "79.52",
+         "Women": "83.43"
+      }
+   ]
+}

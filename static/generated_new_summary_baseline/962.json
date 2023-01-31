@@ -1,0 +1,64 @@
+{
+   "title": "Consumer Price Index of all urban consumers , by region 2019",
+   "xAxis": "Country",
+   "yAxis": "Consumer Price Index (100=1982-1984)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Consumer Price Index (100=1982-1984) in the y axis. ",
+      "The Consumer Price Index (100=1982-1984) is appeared to be the highest at Country West and lowest at Country Midwest. ",
+      "There is a difference of 32.57 between the maximum Country West and minimum Country Midwest. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Consumer Price Index (100=1982-1984) for 5 number of Countrys. ",
+      "Country West has the highest Consumer Price Index (100=1982-1984) and Midwest has the lowest Consumer Price Index (100=1982-1984). "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Consumer Price Index (100=1982-1984) in the y axis. ",
+      "The Consumer Price Index (100=1982-1984) is appeared to be the highest at Country West and lowest at Country Midwest. ",
+      "There is a difference of 32.57 between the maximum Country West and minimum Country Midwest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Consumer Price Index (100=1982-1984) for 5 number of Countrys. ",
+      "Country West has the highest Consumer Price Index (100=1982-1984) and Midwest has the lowest Consumer Price Index (100=1982-1984). ",
+      "Second maximum Consumer Price Index (100=1982-1984) is found at Country . ",
+      "The difference of Consumer Price Index (100=1982-1984) between the highest and lowest Country is 32.57. ",
+      "Consumer Price Index (100=1982-1984) at Country West is 270.35 , second place is  at 255.66, and thirdly is U.S. city average at 255.66.",
+      "The lowest value 237.78 at Midwest is almost 1.06 times smaller than the average value 255.89. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "U.S. city average",
+         "Consumer Price Index (100=1982-1984)": 255.66
+      },
+      {
+         "Country": "Northeast",
+         "Consumer Price Index (100=1982-1984)": 269.39
+      },
+      {
+         "Country": "Midwest",
+         "Consumer Price Index (100=1982-1984)": 237.78
+      },
+      {
+         "Country": "South",
+         "Consumer Price Index (100=1982-1984)": 246.27
+      },
+      {
+         "Country": "West",
+         "Consumer Price Index (100=1982-1984)": 270.35
+      }
+   ]
+}

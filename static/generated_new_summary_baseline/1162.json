@@ -1,0 +1,61 @@
+{
+   "title": "FIFA World Cup winner 's prize money 2018",
+   "xAxis": "Year",
+   "yAxis": "Prize money in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Prize money in million U.S. dollars, containing a total of 5 data points.",
+      " In general Prize money in million U.S. dollars has rose over the Year.",
+      "Prize money in million U.S. dollars is slightly increasing from 2002_(Korea_&_Japan) to 2006_(Germany), and finally roughly constant from 2006_(Germany) to 2018_(Russia).",
+      "The most drastic increase took place within the Year 2002_(Korea_&_Japan) and 2006_(Germany).",
+      "Maximum Prize money in million U.S. dollars, about 38.0 was reported at Year 2018_(Russia)",
+      "Minimum Prize money in million U.S. dollars about 7.99 was reached at Year 2002_(Korea_&_Japan)"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Prize money in million U.S. dollars, containing a total of 5 data points.",
+      " Overall Prize money in million U.S. dollars has increased over the Year.",
+      "Prize money in million U.S. dollars is slightly increasing from 2002_(Korea_&_Japan) to 2006_(Germany), and finally roughly constant from 2006_(Germany) to 2018_(Russia)."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Prize money in million U.S. dollars, containing a total of 5 data points.",
+      " In general Prize money in million U.S. dollars has rose over the Year.",
+      "Prize money in million U.S. dollars is slightly increasing from 2002_(Korea_&_Japan) to 2006_(Germany), and finally roughly constant from 2006_(Germany) to 2018_(Russia).",
+      "The most drastic increase took place within the Year 2002_(Korea_&_Japan) and 2006_(Germany).",
+      "Maximum Prize money in million U.S. dollars, about 38.0 was reported at Year 2018_(Russia)",
+      "Minimum Prize money in million U.S. dollars about 7.99 was reached at Year 2002_(Korea_&_Japan)"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Prize money in million U.S. dollars, containing a total of 5 data points.",
+      " Overall Prize money in million U.S. dollars has increased over the Year.",
+      "Prize money in million U.S. dollars is slightly increasing from 2002_(Korea_&_Japan) to 2006_(Germany), and finally roughly constant from 2006_(Germany) to 2018_(Russia).",
+      "The most drastic increase took place within the Year 2002_(Korea_&_Japan) and 2006_(Germany).",
+      "Maximum Prize money in million U.S. dollars, about 38.0 was reported at Year 2018_(Russia)",
+      "Minimum Prize money in million U.S. dollars about 7.99 was reached at Year 2002_(Korea_&_Japan)",
+      "The line rapidly increased by 144.81% from Year 2002_(Korea_&_Japan) to 2006_(Germany)."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018 (Russia)",
+         "Prize money in million U.S. dollars": 38.0
+      },
+      {
+         "Year": "2014 (Brazil)",
+         "Prize money in million U.S. dollars": 35.0
+      },
+      {
+         "Year": "2010 (South Africa)",
+         "Prize money in million U.S. dollars": 30.0
+      },
+      {
+         "Year": "2006 (Germany)",
+         "Prize money in million U.S. dollars": 19.56
+      },
+      {
+         "Year": "2002 (Korea & Japan)",
+         "Prize money in million U.S. dollars": 7.99
+      }
+   ]
+}

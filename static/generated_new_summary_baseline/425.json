@@ -1,0 +1,84 @@
+{
+   "title": "Most valuable sport athlete brands worldwide 2017",
+   "xAxis": "Player",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Player, and Brand value in million U.S. dollars in each Player on the y axis. ",
+      "The Brand value in million U.S. dollars is highest at Player Roger Federer and lowest at Player Stephen Curry. ",
+      "Player Roger Federer has 2.78 times more Brand value in million U.S. dollars than Player Stephen Curry which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Player in the x axis and Brand value in million U.S. dollars in the y axis. ",
+      "Player Roger Federer has the highest Brand value in million U.S. dollars and Stephen Curry has the lowest Brand value in million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Player, and Brand value in million U.S. dollars in each Player on the y axis. ",
+      "The Brand value in million U.S. dollars is highest at Player Roger Federer and lowest at Player Stephen Curry. ",
+      "Player Roger Federer has 2.78 times more Brand value in million U.S. dollars than Player Stephen Curry which is has the lowest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Brand value in million U.S. dollars for 10 number of Players. ",
+      "The Brand value in million U.S. dollars is highest at Player Roger Federer and lowest at Player Stephen Curry. ",
+      "The second highest Brand value in million U.S. dollars is appeared to be the Player . ",
+      "There is a difference of 23.8 between the maximum Player Roger Federer and minimum Player Stephen Curry. ",
+      "The Player Roger Federer has the highest Brand value in million U.S. dollars, followed by , and Usain Bolt. Down to the Player Stephen Curry which is the lowest. ",
+      "The Player Roger Federer tends to be 1.77 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Player": "Roger Federer",
+         "Brand value in million U.S. dollars": 37.2
+      },
+      {
+         "Player": "LeBron James",
+         "Brand value in million U.S. dollars": 33.4
+      },
+      {
+         "Player": "Usain Bolt",
+         "Brand value in million U.S. dollars": 27.0
+      },
+      {
+         "Player": "Cristiano Ronaldo",
+         "Brand value in million U.S. dollars": 21.5
+      },
+      {
+         "Player": "Phil Mickelson",
+         "Brand value in million U.S. dollars": 19.6
+      },
+      {
+         "Player": "Tiger Woods",
+         "Brand value in million U.S. dollars": 16.6
+      },
+      {
+         "Player": "Virat Kohli",
+         "Brand value in million U.S. dollars": 14.5
+      },
+      {
+         "Player": "Rory Mcllroy",
+         "Brand value in million U.S. dollars": 13.6
+      },
+      {
+         "Player": "Lionel Messi",
+         "Brand value in million U.S. dollars": 13.5
+      },
+      {
+         "Player": "Stephen Curry",
+         "Brand value in million U.S. dollars": 13.4
+      }
+   ]
+}

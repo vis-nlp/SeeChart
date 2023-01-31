@@ -1,0 +1,98 @@
+{
+   "title": "Market share of leading smartphone brands in the Netherlands 2017 to 2018",
+   "labels": [
+      "Race",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Market Share on the Y-axis for 7 different Races for 2 groups 2017, and 2018 that are presented on the X-axis. ",
+      " For Race Samsung, 2017 had the highest Market Share 41.0 among the 2 groups and in Sony, 2018 had the lowest Market Share 0.0. ",
+      " There is a gap of 38.0 between the highest and lowest Market Share found for 2018 in Race Samsung and Sony. ",
+      "On average, the Race Samsung had the highest Market Share for all 2 groups 2017, and 2018. Whereas Microsoft had the lowest average Market Share. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "Market Share",
+   "min_summary": [
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups 2017, and 2018. On the Y-axis it shows their corresponding Market Share. ",
+      " Race Samsung had the maximum Market Share among all 2 groups, and it was for 2017. The minimum Market Share was observed in Race Sony for 2018. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Market Share on the Y-axis for 7 different Races for 2 groups 2017, and 2018 that are presented on the X-axis. ",
+      " For Race Samsung, 2017 had the highest Market Share 41.0 among the 2 groups and in Sony, 2018 had the lowest Market Share 0.0. ",
+      " There is a gap of 38.0 between the highest and lowest Market Share found for 2018 in Race Samsung and Sony. ",
+      "On average, the Race Samsung had the highest Market Share for all 2 groups 2017, and 2018. Whereas Microsoft had the lowest average Market Share. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups 2017, and 2018. On the Y-axis it shows their corresponding Market Share. ",
+      " For Race Samsung, 2017 had the highest Market Share 41.0 among the 2 groups and in Sony, 2018 had the lowest Market Share 0.0. ",
+      " For Race Samsung, 2018 had the highest Market Share among all 7 Races and it has the lowest Market Share in Race Sony. ",
+      " The maximum Market Share for 2018 that was found in Race Samsung was 0 times larger than the minimum Market Share observed in Race Sony. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Market Share was found in case of 2017. ",
+      "On average, the Race Samsung had the highest Market Share for all 2 groups 2017, and 2018. Whereas Microsoft had the lowest average Market Share. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "Samsung",
+         "2017": "41",
+         "2018": "38"
+      },
+      {
+         "Race": "Apple",
+         "2017": "32",
+         "2018": "34"
+      },
+      {
+         "Race": "Huawei",
+         "2017": "6",
+         "2018": "7"
+      },
+      {
+         "Race": "Sony",
+         "2017": "5",
+         "2018": "0"
+      },
+      {
+         "Race": "LG",
+         "2017": "4",
+         "2018": "0"
+      },
+      {
+         "Race": "Microsoft",
+         "2017": "3",
+         "2018": "0"
+      },
+      {
+         "Race": "Other",
+         "2017": "9",
+         "2018": "0"
+      }
+   ]
+}

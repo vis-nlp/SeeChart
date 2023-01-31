@@ -1,0 +1,77 @@
+{
+   "title": "Number of cigarettes smoked daily in the United Kingdom ( UK ) 2015",
+   "xAxis": "Number of cigarettes",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Number of cigarettes in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Number of cigarettes 6 to 10 and lowest at Number of cigarettes 31 to 50. ",
+      "The difference of Share of respondents between the highest and lowest Number of cigarettes is 22.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 8 number of Number of cigarettess. ",
+      "The maximum Share of respondents 24.0 is found at Number of cigarettes 6 to 10 and the minimum is found at 31 to 50 where Share of respondents is 2.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Number of cigarettes in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Number of cigarettes 6 to 10 and lowest at Number of cigarettes 31 to 50. ",
+      "The difference of Share of respondents between the highest and lowest Number of cigarettes is 22.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 8 columns on the x axis representing Number of cigarettes, and Share of respondents in each Number of cigarettes on the y axis. ",
+      "Number of cigarettes 6 to 10 has the highest Share of respondents and 31 to 50 has the lowest Share of respondents. ",
+      "The second highest Share of respondents is appeared to be the Number of cigarettes . ",
+      "There is a difference of 22.0 between the maximum Number of cigarettes 6 to 10 and minimum Number of cigarettes 31 to 50. ",
+      "The Number of cigarettes 6 to 10 has the highest Share of respondents, followed by , and 11 to 15. Down to the Number of cigarettes 31 to 50 which is the lowest. ",
+      "The Number of cigarettes 31 to 50 has 1.86 times less Share of respondents than average. ",
+      "The Share of respondents is 103.0 if we add up values of all Number of cigarettess. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Number of cigarettes": "1 to 5",
+         "Share of respondents": 23.0
+      },
+      {
+         "Number of cigarettes": "6 to 10",
+         "Share of respondents": 24.0
+      },
+      {
+         "Number of cigarettes": "11 to 15",
+         "Share of respondents": 22.0
+      },
+      {
+         "Number of cigarettes": "16 to 20",
+         "Share of respondents": 19.0
+      },
+      {
+         "Number of cigarettes": "21 to 25",
+         "Share of respondents": 6.0
+      },
+      {
+         "Number of cigarettes": "26 to 30",
+         "Share of respondents": 4.0
+      },
+      {
+         "Number of cigarettes": "31 to 50",
+         "Share of respondents": 2.0
+      },
+      {
+         "Number of cigarettes": "51 and over",
+         "Share of respondents": 3.0
+      }
+   ]
+}

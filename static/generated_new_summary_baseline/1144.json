@@ -1,0 +1,89 @@
+{
+   "title": "Most googled online dating keywords in the United Kingdom ( UK ) in February 2016",
+   "xAxis": "Online Dating Keyword",
+   "yAxis": "Searches in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Online Dating Keyword in the x axis and Searches in thousands in the y axis. ",
+      "The Searches in thousands is appeared to be the highest at Online Dating Keyword ohter keywords and lowest at Online Dating Keyword free online dating. ",
+      "The difference of Searches in thousands between the highest and lowest Online Dating Keyword is 370.93. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Online Dating Keyword in the x axis and Searches in thousands in the y axis. ",
+      "The Searches in thousands is highest at Online Dating Keyword ohter keywords and lowest at Online Dating Keyword free online dating. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Online Dating Keyword in the x axis and Searches in thousands in the y axis. ",
+      "The Searches in thousands is appeared to be the highest at Online Dating Keyword ohter keywords and lowest at Online Dating Keyword free online dating. ",
+      "The difference of Searches in thousands between the highest and lowest Online Dating Keyword is 370.93. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Online Dating Keyword in the x axis and Searches in thousands in the y axis. ",
+      "The Searches in thousands is appeared to be the highest at Online Dating Keyword ohter keywords and lowest at Online Dating Keyword free online dating. ",
+      "The highest Online Dating Keyword ohter keywords has 370.93 more Searches in thousands than the lowest Online Dating Keyword free online dating. ",
+      "The Online Dating Keyword ohter keywords has the highest Searches in thousands, followed by , and dating sites. Down to the Online Dating Keyword free online dating which is the lowest. ",
+      "Online Dating Keyword dating websites, and online dating have the same Searches in thousands. ",
+      "The Online Dating Keyword ohter keywords tends to be 5.63 percent higher than average. ",
+      "The Searches in thousands is 740.73 if we add up values of all Online Dating Keywords. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 10,
+         "12": 10
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Online Dating Keyword": "first dates",
+         "Searches in thousands": 110.0
+      },
+      {
+         "Online Dating Keyword": "dating sites",
+         "Searches in thousands": 74.0
+      },
+      {
+         "Online Dating Keyword": "free dating sites",
+         "Searches in thousands": 60.5
+      },
+      {
+         "Online Dating Keyword": "dating",
+         "Searches in thousands": 33.1
+      },
+      {
+         "Online Dating Keyword": "free dating",
+         "Searches in thousands": 27.1
+      },
+      {
+         "Online Dating Keyword": "polish dating",
+         "Searches in thousands": 14.8
+      },
+      {
+         "Online Dating Keyword": "dating websites",
+         "Searches in thousands": 12.1
+      },
+      {
+         "Online Dating Keyword": "online dating",
+         "Searches in thousands": 12.1
+      },
+      {
+         "Online Dating Keyword": "speed dating",
+         "Searches in thousands": 9.9
+      },
+      {
+         "Online Dating Keyword": "free online dating",
+         "Searches in thousands": 8.1
+      },
+      {
+         "Online Dating Keyword": "ohter keywords",
+         "Searches in thousands": 379.03
+      }
+   ]
+}

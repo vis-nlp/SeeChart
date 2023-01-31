@@ -1,0 +1,85 @@
+{
+   "title": "Fertility rate in Sub-Saharan Africa 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of children born per woman",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of children born per woman, containing a total of 11 data points.",
+      " In general Number of children born per woman has fallen over the Year.",
+      "Number of children born per woman is slightly decreasing from 2007 to 2017.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "Maximum Number of children born per woman, about 5.42 was reported at Year 2007",
+      "The lowest Number of children born per woman, of value 4.77 was reported at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of children born per woman. In total the number of data points it has is 11.",
+      " In general Number of children born per woman has fallen over the Year.",
+      "Number of children born per woman is slightly decreasing from 2007 to 2017."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of children born per woman, containing a total of 11 data points.",
+      " In general Number of children born per woman has fallen over the Year.",
+      "Number of children born per woman is slightly decreasing from 2007 to 2017.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "Maximum Number of children born per woman, about 5.42 was reported at Year 2007",
+      "The lowest Number of children born per woman, of value 4.77 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of children born per woman. In total the number of data points it has is 11.",
+      " In general Number of children born per woman has fallen over the Year.",
+      "Number of children born per woman is slightly decreasing from 2007 to 2017.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "Maximum Number of children born per woman, about 5.42 was reported at Year 2007",
+      "The lowest Number of children born per woman, of value 4.77 was reported at Year 2017",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of children born per woman": 4.77
+      },
+      {
+         "Year": "2016",
+         "Number of children born per woman": 4.84
+      },
+      {
+         "Year": "2015",
+         "Number of children born per woman": 4.91
+      },
+      {
+         "Year": "2014",
+         "Number of children born per woman": 4.99
+      },
+      {
+         "Year": "2013",
+         "Number of children born per woman": 5.06
+      },
+      {
+         "Year": "2012",
+         "Number of children born per woman": 5.13
+      },
+      {
+         "Year": "2011",
+         "Number of children born per woman": 5.2
+      },
+      {
+         "Year": "2010",
+         "Number of children born per woman": 5.26
+      },
+      {
+         "Year": "2009",
+         "Number of children born per woman": 5.32
+      },
+      {
+         "Year": "2008",
+         "Number of children born per woman": 5.37
+      },
+      {
+         "Year": "2007",
+         "Number of children born per woman": 5.42
+      }
+   ]
+}

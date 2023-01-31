@@ -1,0 +1,109 @@
+{
+   "title": "Global lemon and lime production 2000 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Production in million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in million metric tons. In total the number of data points it has is 18.",
+      " Overall Production in million metric tons has increased over the Year.",
+      "The most drastic increase took place within the Year 2006 and 2007.",
+      "The highest Production in million metric tons, of value 17.35 was reached at Year 2016",
+      "Minimum Production in million metric tons about 11.38 was reached at Year 2000"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in million metric tons. In total the number of data points it has is 18.",
+      " In general Production in million metric tons has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in million metric tons. In total the number of data points it has is 18.",
+      " Overall Production in million metric tons has increased over the Year.",
+      "The most drastic increase took place within the Year 2006 and 2007.",
+      "The highest Production in million metric tons, of value 17.35 was reached at Year 2016",
+      "Minimum Production in million metric tons about 11.38 was reached at Year 2000"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in million metric tons, containing a total of 18 data points.",
+      " Overall Production in million metric tons has increased over the Year.",
+      "The steepest increase occurs in between the Year 2006 and 2007.",
+      "The highest Production in million metric tons, of value 17.35 was reached at Year 2016",
+      "Minimum Production in million metric tons about 11.38 was reached at Year 2000",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Production in million metric tons": 17.22
+      },
+      {
+         "Year": "2016",
+         "Production in million metric tons": 17.35
+      },
+      {
+         "Year": "2015",
+         "Production in million metric tons": 16.99
+      },
+      {
+         "Year": "2014",
+         "Production in million metric tons": 16.25
+      },
+      {
+         "Year": "2013",
+         "Production in million metric tons": 15.23
+      },
+      {
+         "Year": "2012",
+         "Production in million metric tons": 15.01
+      },
+      {
+         "Year": "2011",
+         "Production in million metric tons": 15.07
+      },
+      {
+         "Year": "2010",
+         "Production in million metric tons": 14.85
+      },
+      {
+         "Year": "2009",
+         "Production in million metric tons": 17.23
+      },
+      {
+         "Year": "2008",
+         "Production in million metric tons": 17.18
+      },
+      {
+         "Year": "2007",
+         "Production in million metric tons": 16.25
+      },
+      {
+         "Year": "2006",
+         "Production in million metric tons": 13.66
+      },
+      {
+         "Year": "2005",
+         "Production in million metric tons": 12.33
+      },
+      {
+         "Year": "2004",
+         "Production in million metric tons": 12.3
+      },
+      {
+         "Year": "2003",
+         "Production in million metric tons": 12.62
+      },
+      {
+         "Year": "2002",
+         "Production in million metric tons": 12.3
+      },
+      {
+         "Year": "2001",
+         "Production in million metric tons": 12.16
+      },
+      {
+         "Year": "2000",
+         "Production in million metric tons": 11.38
+      }
+   ]
+}

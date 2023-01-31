@@ -1,0 +1,198 @@
+{
+   "title": "Gifts Americans are planning to purchase for Valentine 's Day by gender 2020",
+   "labels": [
+      "Race",
+      "Women",
+      "Men"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 27 different Races for 2 groups Women, and Men that are presented on the X-axis. ",
+      " Race Chocolates had the maximum Share of respondents among all 2 groups, and it was for Men. The minimum Share of respondents was observed in Race Mixtape for Women. ",
+      " There is a gap of 54.0 between the highest and lowest Share of respondents found for Men in Race Chocolates and Home decor. ",
+      "Averaging all 2 groups Women, and Men, the Race Dinner out is the maximum Share of respondents and Couple's gym membership is the minimum Share of respondents. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 27 different Races on X-axis for 2 groups Women, and Men. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 2 groups, Men had the highest Share of respondents for Race Chocolates and Women had the lowest Share of respondents for Race Mixtape. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 27 different Races for 2 groups Women, and Men that are presented on the X-axis. ",
+      " Race Chocolates had the maximum Share of respondents among all 2 groups, and it was for Men. The minimum Share of respondents was observed in Race Mixtape for Women. ",
+      " There is a gap of 54.0 between the highest and lowest Share of respondents found for Men in Race Chocolates and Home decor. ",
+      "Averaging all 2 groups Women, and Men, the Race Dinner out is the maximum Share of respondents and Couple's gym membership is the minimum Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 27 different Races on X-axis for 2 groups Women, and Men. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 2 groups, Men had the highest Share of respondents for Race Chocolates and Women had the lowest Share of respondents for Race Mixtape. ",
+      " For Race Chocolates, Men had the highest Share of respondents among all 27 Races and it has the lowest Share of respondents in Race Home decor. ",
+      " The maximum Share of respondents for Men that was found in Race Chocolates was 0 times larger than the minimum Share of respondents observed in Race Home decor. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share of respondents was found in case of Women. ",
+      "Averaging all 2 groups Women, and Men, the Race Dinner out is the maximum Share of respondents and Couple's gym membership is the minimum Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "Dinner out",
+         "Women": "53",
+         "Men": "52"
+      },
+      {
+         "Race": "Chocolates",
+         "Women": "48",
+         "Men": "54"
+      },
+      {
+         "Race": "Candy",
+         "Women": "27",
+         "Men": "32"
+      },
+      {
+         "Race": "Greeting cards",
+         "Women": "24",
+         "Men": "29"
+      },
+      {
+         "Race": "Gift cards",
+         "Women": "20",
+         "Men": "17"
+      },
+      {
+         "Race": "Alcohol/wine",
+         "Women": "19",
+         "Men": "18"
+      },
+      {
+         "Race": "Personalized gifts",
+         "Women": "18",
+         "Men": "27"
+      },
+      {
+         "Race": "Home-cooked meals",
+         "Women": "8",
+         "Men": "19"
+      },
+      {
+         "Race": "Flowers",
+         "Women": "17",
+         "Men": "44"
+      },
+      {
+         "Race": "Massages",
+         "Women": "15",
+         "Men": "28"
+      },
+      {
+         "Race": "Jewelry",
+         "Women": "15",
+         "Men": "25"
+      },
+      {
+         "Race": "Outings",
+         "Women": "12",
+         "Men": "6"
+      },
+      {
+         "Race": "Perfumes",
+         "Women": "10",
+         "Men": "18"
+      },
+      {
+         "Race": "Other",
+         "Women": "7",
+         "Men": "2"
+      },
+      {
+         "Race": "Stuffed toys",
+         "Women": "6",
+         "Men": "9"
+      },
+      {
+         "Race": "Accessories",
+         "Women": "6",
+         "Men": "6"
+      },
+      {
+         "Race": "Holidays",
+         "Women": "4",
+         "Men": "10"
+      },
+      {
+         "Race": "Books",
+         "Women": "4",
+         "Men": "7"
+      },
+      {
+         "Race": "Photo frame",
+         "Women": "4",
+         "Men": "8"
+      },
+      {
+         "Race": "Home decor",
+         "Women": "3",
+         "Men": "0"
+      },
+      {
+         "Race": "Electronic gadgets",
+         "Women": "3",
+         "Men": "5"
+      },
+      {
+         "Race": "Wearables",
+         "Women": "3",
+         "Men": "12"
+      },
+      {
+         "Race": "Toiletries",
+         "Women": "3",
+         "Men": "1"
+      },
+      {
+         "Race": "Cosmetics",
+         "Women": "3",
+         "Men": "9"
+      },
+      {
+         "Race": "Pets",
+         "Women": "2",
+         "Men": "8"
+      },
+      {
+         "Race": "Couple's gym membership",
+         "Women": "1",
+         "Men": "1"
+      },
+      {
+         "Race": "Mixtape",
+         "Women": "0",
+         "Men": "2"
+      }
+   ]
+}

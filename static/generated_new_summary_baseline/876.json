@@ -1,0 +1,157 @@
+{
+   "title": "Small domestic appliances : revenue in the United Kingdom ( UK ) 2012 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Revenue in million GBP for 28 number of Quarters. ",
+      "The Revenue in million GBP is appeared to be the highest at Quarter Q4 2015 and lowest at Quarter Q3 2013. ",
+      "There is a difference of 400.0 between the maximum Quarter Q4 2015 and minimum Quarter Q3 2013. "
+   ],
+   "min_summary": [
+      "This bar chart has 28 columns on the x axis representing Quarter, and Revenue in million GBP in each Quarter on the y axis. ",
+      "The Revenue in million GBP is appeared to be the highest at Quarter Q4 2015 and lowest at Quarter Q3 2013. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Revenue in million GBP for 28 number of Quarters. ",
+      "The Revenue in million GBP is appeared to be the highest at Quarter Q4 2015 and lowest at Quarter Q3 2013. ",
+      "There is a difference of 400.0 between the maximum Quarter Q4 2015 and minimum Quarter Q3 2013. "
+   ],
+   "max_summary": [
+      "This bar chart has 28 columns on the x axis representing Quarter, and Revenue in million GBP in each Quarter on the y axis. ",
+      "Quarter Q4 2015 has the highest Revenue in million GBP and Q3 2013 has the lowest Revenue in million GBP. ",
+      "There is a difference of 400.0 between the maximum Quarter Q4 2015 and minimum Quarter Q3 2013. ",
+      "Revenue in million GBP at Quarter Q4 2015 is 844.0 , second place is  at 531.0, and thirdly is Q4 2016 at 821.0.",
+      "Over the past 28 Quarters, the Revenue in million GBP has reduced. ",
+      "Quarter Q2 2019, and Q2 2015 have a similar Revenue in million GBP that is 508.0. ",
+      "The Quarter Q3 2013 tends to be 1.45 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 15,
+         "12": 15
+      },
+      {
+         "7": 23,
+         "12": 23
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 2019",
+         "Revenue in million GBP": 531.0
+      },
+      {
+         "Quarter": "Q2 2019",
+         "Revenue in million GBP": 508.0
+      },
+      {
+         "Quarter": "Q1 2019",
+         "Revenue in million GBP": 565.0
+      },
+      {
+         "Quarter": "Q4 2018",
+         "Revenue in million GBP": 821.0
+      },
+      {
+         "Quarter": "Q3 2018",
+         "Revenue in million GBP": 537.0
+      },
+      {
+         "Quarter": "Q2 2018",
+         "Revenue in million GBP": 507.0
+      },
+      {
+         "Quarter": "Q1 2018",
+         "Revenue in million GBP": 566.0
+      },
+      {
+         "Quarter": "Q4 2017",
+         "Revenue in million GBP": 833.0
+      },
+      {
+         "Quarter": "Q3 2017",
+         "Revenue in million GBP": 547.0
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Revenue in million GBP": 498.0
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Revenue in million GBP": 537.0
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Revenue in million GBP": 821.0
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Revenue in million GBP": 528.0
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Revenue in million GBP": 494.0
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Revenue in million GBP": 561.0
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Revenue in million GBP": 844.0
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Revenue in million GBP": 521.0
+      },
+      {
+         "Quarter": "Q2 2015",
+         "Revenue in million GBP": 508.0
+      },
+      {
+         "Quarter": "Q1 2015",
+         "Revenue in million GBP": 581.0
+      },
+      {
+         "Quarter": "Q4 2014",
+         "Revenue in million GBP": 740.0
+      },
+      {
+         "Quarter": "Q2 2014",
+         "Revenue in million GBP": 473.0
+      },
+      {
+         "Quarter": "Q1 2014",
+         "Revenue in million GBP": 528.0
+      },
+      {
+         "Quarter": "Q4 2013",
+         "Revenue in million GBP": 707.0
+      },
+      {
+         "Quarter": "Q3 2013",
+         "Revenue in million GBP": 444.0
+      },
+      {
+         "Quarter": "Q2 2013",
+         "Revenue in million GBP": 457.0
+      },
+      {
+         "Quarter": "Q1 2013",
+         "Revenue in million GBP": 478.0
+      },
+      {
+         "Quarter": "Q4 2012",
+         "Revenue in million GBP": 660.0
+      },
+      {
+         "Quarter": "Q3 2012",
+         "Revenue in million GBP": 450.0
+      }
+   ]
+}

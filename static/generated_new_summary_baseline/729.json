@@ -1,0 +1,89 @@
+{
+   "title": "Coca-Cola Company 's net operating revenues worldwide 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenues in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, containing a total of 13 data points.",
+      " Overall Revenues in billion U.S. dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Maximum Revenues in billion U.S. dollars, about 48.02 was reported at Year 2012",
+      "The lowest Revenues in billion U.S. dollars, of value 28.86 was reported at Year 2007"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenues in billion U.S. dollars. In total the number of data points it has is 13.",
+      " In general Revenues in billion U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, containing a total of 13 data points.",
+      " Overall Revenues in billion U.S. dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Maximum Revenues in billion U.S. dollars, about 48.02 was reported at Year 2012",
+      "The lowest Revenues in billion U.S. dollars, of value 28.86 was reported at Year 2007"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, containing a total of 13 data points.",
+      " In general Revenues in billion U.S. dollars has rose over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Revenues in billion U.S. dollars, about 48.02 was reported at Year 2012",
+      "The lowest Revenues in billion U.S. dollars, of value 28.86 was reported at Year 2007",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenues in billion U.S. dollars": 37.27
+      },
+      {
+         "Year": "2018",
+         "Revenues in billion U.S. dollars": 34.3
+      },
+      {
+         "Year": "2017",
+         "Revenues in billion U.S. dollars": 36.21
+      },
+      {
+         "Year": "2016",
+         "Revenues in billion U.S. dollars": 41.86
+      },
+      {
+         "Year": "2015",
+         "Revenues in billion U.S. dollars": 44.29
+      },
+      {
+         "Year": "2014",
+         "Revenues in billion U.S. dollars": 46.0
+      },
+      {
+         "Year": "2013",
+         "Revenues in billion U.S. dollars": 46.85
+      },
+      {
+         "Year": "2012",
+         "Revenues in billion U.S. dollars": 48.02
+      },
+      {
+         "Year": "2011",
+         "Revenues in billion U.S. dollars": 46.54
+      },
+      {
+         "Year": "2010",
+         "Revenues in billion U.S. dollars": 35.12
+      },
+      {
+         "Year": "2009",
+         "Revenues in billion U.S. dollars": 30.99
+      },
+      {
+         "Year": "2008",
+         "Revenues in billion U.S. dollars": 31.94
+      },
+      {
+         "Year": "2007",
+         "Revenues in billion U.S. dollars": 28.86
+      }
+   ]
+}

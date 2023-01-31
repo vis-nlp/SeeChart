@@ -1,0 +1,60 @@
+{
+   "title": "Total brand value major sports leagues ( NFL , MLB , NBA & NHL ) 2013",
+   "xAxis": "Sports League",
+   "yAxis": "Brand value (in million U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Brand value (in million U.S. dollars) for 4 number of Sports Leagues. ",
+      "The Brand value (in million U.S. dollars) is highest at Sports League National Football League and lowest at Sports League National Hockey League. ",
+      "There is a difference of 7571.4 between the maximum Sports League National Football League and minimum Sports League National Hockey League. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Brand value (in million U.S. dollars) for 4 number of Sports Leagues. ",
+      "Sports League National Football League has the highest Brand value (in million U.S. dollars) and National Hockey League has the lowest Brand value (in million U.S. dollars). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Brand value (in million U.S. dollars) for 4 number of Sports Leagues. ",
+      "The Brand value (in million U.S. dollars) is highest at Sports League National Football League and lowest at Sports League National Hockey League. ",
+      "There is a difference of 7571.4 between the maximum Sports League National Football League and minimum Sports League National Hockey League. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Brand value (in million U.S. dollars) for 4 number of Sports Leagues. ",
+      "The maximum Brand value (in million U.S. dollars) 9131.8 is found at Sports League National Football League and the minimum is found at National Hockey League where Brand value (in million U.S. dollars) is 1560.4. ",
+      "Sports League  has the second highest value for Brand value (in million U.S. dollars). ",
+      "There is a difference of 7571.4 between the maximum Sports League National Football League and minimum Sports League National Hockey League. ",
+      "The Sports League National Football League has the highest Brand value (in million U.S. dollars), followed by , and National Basketball Association. Down to the Sports League National Hockey League which is the lowest. ",
+      "The Sports League National Hockey League tends to be 2.05 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sports League": "National Football League",
+         "Brand value (in million U.S. dollars)": 9131.8
+      },
+      {
+         "Sports League": "Major League Baseball",
+         "Brand value (in million U.S. dollars)": 4408.8
+      },
+      {
+         "Sports League": "National Basketball Association",
+         "Brand value (in million U.S. dollars)": 2734.6
+      },
+      {
+         "Sports League": "National Hockey League",
+         "Brand value (in million U.S. dollars)": 1560.4
+      }
+   ]
+}

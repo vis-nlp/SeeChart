@@ -1,0 +1,94 @@
+{
+   "title": "Number of earthquakes , by country 1900 to 2016",
+   "xAxis": "Country",
+   "yAxis": "Number of earthquakes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of earthquakes for 12 number of Countrys. ",
+      "The maximum Number of earthquakes 157.0 is found at Country China and the minimum is found at Afghanistan where Number of earthquakes is 32.0. ",
+      "The highest value at Country China is 4.91x times more than the lowest value at Afghanistan. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of earthquakes for 12 number of Countrys. ",
+      "The Number of earthquakes is appeared to be the highest at Country China and lowest at Country Afghanistan. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of earthquakes for 12 number of Countrys. ",
+      "The maximum Number of earthquakes 157.0 is found at Country China and the minimum is found at Afghanistan where Number of earthquakes is 32.0. ",
+      "The highest value at Country China is 4.91x times more than the lowest value at Afghanistan. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of earthquakes for 12 number of Countrys. ",
+      "Country China has the highest Number of earthquakes and Afghanistan has the lowest Number of earthquakes. ",
+      "Country  has the second highest value for Number of earthquakes. ",
+      "The difference of Number of earthquakes between the highest and lowest Country is 125.0. ",
+      "Number of earthquakes at Country China is 157.0 , second place is  at 157.0, and thirdly is Iran (Islamic Republic of) at 106.0.",
+      "Country Afghanistan, India, Greece, and Mexico have the same Number of earthquakes. ",
+      "The highest value 157.0 at China is almost 2.48 times larger than the average value 63.33. ",
+      "Summing up the values of all Countrys, we get total 760.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of earthquakes": 157.0
+      },
+      {
+         "Country": "Indonesia",
+         "Number of earthquakes": 113.0
+      },
+      {
+         "Country": "Iran (Islamic Republic of)",
+         "Number of earthquakes": 106.0
+      },
+      {
+         "Country": "Turkey",
+         "Number of earthquakes": 77.0
+      },
+      {
+         "Country": "Japan",
+         "Number of earthquakes": 61.0
+      },
+      {
+         "Country": "Peru",
+         "Number of earthquakes": 44.0
+      },
+      {
+         "Country": "United States of America",
+         "Number of earthquakes": 41.0
+      },
+      {
+         "Country": "Italy",
+         "Number of earthquakes": 33.0
+      },
+      {
+         "Country": "Afghanistan",
+         "Number of earthquakes": 32.0
+      },
+      {
+         "Country": "India",
+         "Number of earthquakes": 32.0
+      },
+      {
+         "Country": "Greece",
+         "Number of earthquakes": 32.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of earthquakes": 32.0
+      }
+   ]
+}

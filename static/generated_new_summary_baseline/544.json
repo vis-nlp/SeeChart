@@ -1,0 +1,81 @@
+{
+   "title": "Life expectancy at birth in Germany 2017",
+   "xAxis": "Year",
+   "yAxis": "Life expectancy at birth in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Life expectancy at birth in years. In total the number of data points it has is 11.",
+      " Overall Life expectancy at birth in years has increased over the Year.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "The highest Life expectancy at birth in years, of value 81.09 was reached at Year 2014",
+      "The lowest Life expectancy at birth in years, of value 79.53 was reported at Year 2007"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Life expectancy at birth in years. In total the number of data points it has is 11.",
+      " Overall Life expectancy at birth in years has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Life expectancy at birth in years. In total the number of data points it has is 11.",
+      " Overall Life expectancy at birth in years has increased over the Year.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "The highest Life expectancy at birth in years, of value 81.09 was reached at Year 2014",
+      "The lowest Life expectancy at birth in years, of value 79.53 was reported at Year 2007"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Life expectancy at birth in years, containing a total of 11 data points.",
+      " Overall Life expectancy at birth in years has increased over the Year.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest Life expectancy at birth in years, of value 81.09 was reached at Year 2014",
+      "The lowest Life expectancy at birth in years, of value 79.53 was reported at Year 2007",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Life expectancy at birth in years": 80.99
+      },
+      {
+         "Year": "2016",
+         "Life expectancy at birth in years": 80.99
+      },
+      {
+         "Year": "2015",
+         "Life expectancy at birth in years": 80.64
+      },
+      {
+         "Year": "2014",
+         "Life expectancy at birth in years": 81.09
+      },
+      {
+         "Year": "2013",
+         "Life expectancy at birth in years": 80.49
+      },
+      {
+         "Year": "2012",
+         "Life expectancy at birth in years": 80.54
+      },
+      {
+         "Year": "2011",
+         "Life expectancy at birth in years": 80.44
+      },
+      {
+         "Year": "2010",
+         "Life expectancy at birth in years": 79.99
+      },
+      {
+         "Year": "2009",
+         "Life expectancy at birth in years": 79.84
+      },
+      {
+         "Year": "2008",
+         "Life expectancy at birth in years": 79.74
+      },
+      {
+         "Year": "2007",
+         "Life expectancy at birth in years": 79.53
+      }
+   ]
+}

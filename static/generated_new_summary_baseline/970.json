@@ -1,0 +1,114 @@
+{
+   "title": "Volkswagen 's EU share : new-car registrations in 2019",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 17 columns on the x axis representing Month, and Market share in each Month on the y axis. ",
+      "The Market share is highest at Month Aug 18 and lowest at Month Sep 18. ",
+      "There is a difference of 6.1 between the maximum Month Aug 18 and minimum Month Sep 18. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Market share for 17 number of Months. ",
+      "The Market share is appeared to be the highest at Month Aug 18 and lowest at Month Sep 18. "
+   ],
+   "mid_summary": [
+      "This bar chart has 17 columns on the x axis representing Month, and Market share in each Month on the y axis. ",
+      "The Market share is highest at Month Aug 18 and lowest at Month Sep 18. ",
+      "There is a difference of 6.1 between the maximum Month Aug 18 and minimum Month Sep 18. "
+   ],
+   "max_summary": [
+      "This bar chart has 17 columns on the x axis representing Month, and Market share in each Month on the y axis. ",
+      "The Market share is highest at Month Aug 18 and lowest at Month Sep 18. ",
+      "There is a difference of 6.1 between the maximum Month Aug 18 and minimum Month Sep 18. ",
+      "Month Aug 18 is higher than any other Months with value 12.7, followed by , and Oct 19. Down to Month Sep 18 with the lowest value 6.6. ",
+      "The Market share has climbed over the past 17 Months. ",
+      "Month Jul 19, and Nov 18 have the same Market share. ",
+      "The average Market share in all 17 Months is 11.05. ",
+      "Summing up the values of all Months, we get total 187.8. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 16,
+         "12": 16
+      },
+      {
+         "7": 15,
+         "12": 15
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Market share": 10.7
+      },
+      {
+         "Month": "Nov 19",
+         "Market share": 12.3
+      },
+      {
+         "Month": "Oct 19",
+         "Market share": 12.1
+      },
+      {
+         "Month": "Sep 19",
+         "Market share": 9.2
+      },
+      {
+         "Month": "Aug 19",
+         "Market share": 11.9
+      },
+      {
+         "Month": "Jul 19",
+         "Market share": 11.8
+      },
+      {
+         "Month": "Jun 19",
+         "Market share": 11.3
+      },
+      {
+         "Month": "May 19",
+         "Market share": 11.0
+      },
+      {
+         "Month": "Apr 19",
+         "Market share": 11.3
+      },
+      {
+         "Month": "Mar 19",
+         "Market share": 10.5
+      },
+      {
+         "Month": "Feb 19",
+         "Market share": 11.4
+      },
+      {
+         "Month": "Jan 19",
+         "Market share": 11.5
+      },
+      {
+         "Month": "Dec 18",
+         "Market share": 11.5
+      },
+      {
+         "Month": "Nov 18",
+         "Market share": 11.8
+      },
+      {
+         "Month": "Oct 18",
+         "Market share": 10.2
+      },
+      {
+         "Month": "Sep 18",
+         "Market share": 6.6
+      },
+      {
+         "Month": "Aug 18",
+         "Market share": 12.7
+      }
+   ]
+}

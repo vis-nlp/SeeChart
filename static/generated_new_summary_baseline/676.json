@@ -1,0 +1,148 @@
+{
+   "title": "Leading smartphone and tablet activities 2017 , by device",
+   "labels": [
+      "Response",
+      "Tablet",
+      "Smartphone"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 17 different Responses on X-axis for 2 groups Tablet, and Smartphone. On the Y-axis it shows their corresponding Percentage of respondents. ",
+      " For Response E-mail, Smartphone had the highest Percentage of respondents 59.0 among the 2 groups and in Trading securities/shares online, Tablet had the lowest Percentage of respondents 4.0. ",
+      "Response Watching movies/videos online and Trading securities/shares online had the biggest gap of 19.0 between the highest and lowest Percentage of respondents found for Tablet. ",
+      "On average, the Response E-mail had the highest Percentage of respondents for all 2 groups Tablet, and Smartphone. Whereas Trading securities/shares online had the lowest average Percentage of respondents. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Percentage of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 17 different Responses on X-axis for 2 groups Tablet, and Smartphone. On the Y-axis it shows their corresponding Percentage of respondents. ",
+      " Response E-mail had the maximum Percentage of respondents among all 2 groups, and it was for Smartphone. The minimum Percentage of respondents was observed in Response Trading securities/shares online for Tablet. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 17 different Responses on X-axis for 2 groups Tablet, and Smartphone. On the Y-axis it shows their corresponding Percentage of respondents. ",
+      " For Response E-mail, Smartphone had the highest Percentage of respondents 59.0 among the 2 groups and in Trading securities/shares online, Tablet had the lowest Percentage of respondents 4.0. ",
+      "Response Watching movies/videos online and Trading securities/shares online had the biggest gap of 19.0 between the highest and lowest Percentage of respondents found for Tablet. ",
+      "On average, the Response E-mail had the highest Percentage of respondents for all 2 groups Tablet, and Smartphone. Whereas Trading securities/shares online had the lowest average Percentage of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 17 different Responses on X-axis for 2 groups Tablet, and Smartphone. On the Y-axis it shows their corresponding Percentage of respondents. ",
+      " For Response E-mail, Smartphone had the highest Percentage of respondents 59.0 among the 2 groups and in Trading securities/shares online, Tablet had the lowest Percentage of respondents 4.0. ",
+      " For Response Watching movies/videos online, Tablet had the highest Percentage of respondents among all 17 Responses and it has the lowest Percentage of respondents in Response Trading securities/shares online. ",
+      " There is a gap of 19.0 between the highest and lowest Percentage of respondents found for Tablet in Response Watching movies/videos online and Trading securities/shares online. ",
+      " Among the groups, Tablet had the biggest difference in Percentage of respondents. Where the maximum Percentage of respondents was 5.75 times larger than the minimum Percentage of respondents. ",
+      "On average, the Response E-mail had the highest Percentage of respondents for all 2 groups Tablet, and Smartphone. Whereas Trading securities/shares online had the lowest average Percentage of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Watching movies/videos online",
+         "Tablet": "23",
+         "Smartphone": "52"
+      },
+      {
+         "Response": "E-mail",
+         "Tablet": "22",
+         "Smartphone": "59"
+      },
+      {
+         "Response": "Using social media sites",
+         "Tablet": "19",
+         "Smartphone": "54"
+      },
+      {
+         "Response": "Reading news",
+         "Tablet": "19",
+         "Smartphone": "48"
+      },
+      {
+         "Response": "Online shopping",
+         "Tablet": "18",
+         "Smartphone": "43"
+      },
+      {
+         "Response": "Downloading software/applications",
+         "Tablet": "16",
+         "Smartphone": "42"
+      },
+      {
+         "Response": "Listening to streaming music/radio",
+         "Tablet": "12",
+         "Smartphone": "38"
+      },
+      {
+         "Response": "Instant messaging/video calling",
+         "Tablet": "12",
+         "Smartphone": "43"
+      },
+      {
+         "Response": "Uploading/sharing content",
+         "Tablet": "11",
+         "Smartphone": "39"
+      },
+      {
+         "Response": "Online banking",
+         "Tablet": "11",
+         "Smartphone": "36"
+      },
+      {
+         "Response": "Online gaming",
+         "Tablet": "11",
+         "Smartphone": "28"
+      },
+      {
+         "Response": "Using online payment systems/wallets",
+         "Tablet": "10",
+         "Smartphone": "30"
+      },
+      {
+         "Response": "Online data storage",
+         "Tablet": "10",
+         "Smartphone": "29"
+      },
+      {
+         "Response": "Visiting adult websites",
+         "Tablet": "6",
+         "Smartphone": "17"
+      },
+      {
+         "Response": "Visiting online dating websites/services or apps",
+         "Tablet": "6",
+         "Smartphone": "18"
+      },
+      {
+         "Response": "Online gambling/betting",
+         "Tablet": "5",
+         "Smartphone": "10"
+      },
+      {
+         "Response": "Trading securities/shares online",
+         "Tablet": "4",
+         "Smartphone": "9"
+      }
+   ]
+}

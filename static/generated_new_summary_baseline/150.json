@@ -1,0 +1,65 @@
+{
+   "title": "Global mobile video traffic 2017 to 2022",
+   "xAxis": "Year",
+   "yAxis": "Traffic in PB per month",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Traffic in PB per month. In total the number of data points it has is 6.",
+      " In general Traffic in PB per month has rose over the Year.",
+      "Traffic in PB per month is slightly increasing from 2017 to 2022.",
+      "The steepest increase occurs in between the Year 2021 and 2022.",
+      "The highest Traffic in PB per month, of value 60889.0 was reached at Year 2022",
+      "The lowest Traffic in PB per month, of value 6821.0 was reported at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Traffic in PB per month. In total the number of data points it has is 6.",
+      " Overall Traffic in PB per month has increased over the Year.",
+      "Traffic in PB per month is slightly increasing from 2017 to 2022."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Traffic in PB per month. In total the number of data points it has is 6.",
+      " In general Traffic in PB per month has rose over the Year.",
+      "Traffic in PB per month is slightly increasing from 2017 to 2022.",
+      "The steepest increase occurs in between the Year 2021 and 2022.",
+      "The highest Traffic in PB per month, of value 60889.0 was reached at Year 2022",
+      "The lowest Traffic in PB per month, of value 6821.0 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Traffic in PB per month. In total the number of data points it has is 6.",
+      " Overall Traffic in PB per month has increased over the Year.",
+      "Traffic in PB per month is slightly increasing from 2017 to 2022.",
+      "The most drastic increase took place within the Year 2021 and 2022.",
+      "The highest Traffic in PB per month, of value 60889.0 was reached at Year 2022",
+      "The lowest Traffic in PB per month, of value 6821.0 was reported at Year 2017",
+      "The line rapidly increased by 76.67% from Year 2017 to 2018."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2022",
+         "Traffic in PB per month": 60889.0
+      },
+      {
+         "Year": "2021",
+         "Traffic in PB per month": 42734.0
+      },
+      {
+         "Year": "2020",
+         "Traffic in PB per month": 29149.0
+      },
+      {
+         "Year": "2019",
+         "Traffic in PB per month": 19279.0
+      },
+      {
+         "Year": "2018",
+         "Traffic in PB per month": 12051.0
+      },
+      {
+         "Year": "2017",
+         "Traffic in PB per month": 6821.0
+      }
+   ]
+}

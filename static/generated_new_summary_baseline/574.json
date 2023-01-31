@@ -1,0 +1,142 @@
+{
+   "title": "Video game consumer market value worldwide 2011 - 2021 , by distribution",
+   "labels": [
+      "Year",
+      "DLC market",
+      "Package market"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting DLC market, and Package market. The y axis indicates the Value in billion USD and the x axis indicates Year.",
+      "Overall DLC market is gradually increasing, Package market is gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Value in billion USD in descending order is: 1. Package market, and lastly, 2. DLC market. ",
+      "Throughout the period, Package market generally had the highest Value in billion USD relative to others with an average of 20.05, and it reached its maximum at 2020 with a value of 87.0.",
+      "The botommost line, DLC market,  has a mean of 14.17, and peaked at 2021. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Value in billion USD",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing DLC market, and Package market. The y axis denotes Value in billion USD and the x axis denotes Year.",
+      "Overall DLC market is gradually increasing, Package market is gradually decreasing,  throughout the Year",
+      "Overall across the Year, Package market mostly maintained the highest Value in billion USD when compared to others with a mean value of 20.05, and it peaked at 2020.",
+      "DLC market mostly had the least Value in billion USD with a mean value of 14.17, which peaked at 2021 with a value of 28.9. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting DLC market, and Package market. The y axis indicates the Value in billion USD and the x axis indicates Year.",
+      "Overall DLC market is gradually increasing, Package market is gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Value in billion USD in descending order is: 1. Package market, and lastly, 2. DLC market. ",
+      "Throughout the period, Package market generally had the highest Value in billion USD relative to others with an average of 20.05, and it reached its maximum at 2020 with a value of 87.0.",
+      "The botommost line, DLC market,  has a mean of 14.17, and peaked at 2021. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing DLC market, and Package market. The y axis denotes Value in billion USD and the x axis denotes Year.",
+      "Overall DLC market is gradually increasing, Package market is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Package market, and lastly, 2. DLC market. ",
+      "Throughout the period, Package market generally had the highest Value in billion USD relative to others with an average of 20.05, and it reached its maximum at 2020 with a value of 87.0.",
+      "DLC market mostly had the least Value in billion USD with a mean value of 14.17, which peaked at 2021 with a value of 28.9. ",
+      "DLC market reported the lowest Value in billion USD about 5.3 in Year 2011",
+      "The greatest difference of Value in billion USD between DLC market and Package market occurs at Year 2020 and the smallest difference occurs at 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "9": [
+            "1",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2021",
+         "DLC market": "28.9",
+         "Package market": "8.4"
+      },
+      {
+         "Year": "2020",
+         "DLC market": "24.6",
+         "Package market": "87.0"
+      },
+      {
+         "Year": "2019",
+         "DLC market": "22.1",
+         "Package market": "9.8"
+      },
+      {
+         "Year": "2018",
+         "DLC market": "19.0",
+         "Package market": "10.9"
+      },
+      {
+         "Year": "2017",
+         "DLC market": "13.2",
+         "Package market": "11.2"
+      },
+      {
+         "Year": "2016",
+         "DLC market": "10.3",
+         "Package market": "10.9"
+      },
+      {
+         "Year": "2015",
+         "DLC market": "9.3",
+         "Package market": "12.4"
+      },
+      {
+         "Year": "2014",
+         "DLC market": "8.7",
+         "Package market": "12.9"
+      },
+      {
+         "Year": "2013",
+         "DLC market": "7.4",
+         "Package market": "16.3"
+      },
+      {
+         "Year": "2012",
+         "DLC market": "7.1",
+         "Package market": "18.4"
+      },
+      {
+         "Year": "2011",
+         "DLC market": "5.3",
+         "Package market": "22.4"
+      }
+   ]
+}

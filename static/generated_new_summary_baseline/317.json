@@ -1,0 +1,122 @@
+{
+   "title": "Inflation rate forecast ( CPI ) in the United Kingdom ( UK ) Q3 2019 to Q1 2024",
+   "xAxis": "Quarter",
+   "yAxis": "Inflation rate forecast",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Inflation rate forecast for 19 number of Quarters. ",
+      "The Inflation rate forecast is appeared to be the highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. ",
+      "The difference of Inflation rate forecast between the highest and lowest Quarter is 0.28. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Quarter in the x axis and Inflation rate forecast in the y axis. ",
+      "The Inflation rate forecast is highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Inflation rate forecast for 19 number of Quarters. ",
+      "The Inflation rate forecast is appeared to be the highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. ",
+      "The difference of Inflation rate forecast between the highest and lowest Quarter is 0.28. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Quarter in the x axis and Inflation rate forecast in the y axis. ",
+      "The Inflation rate forecast is appeared to be the highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. ",
+      "Quarter  has the second highest value for Inflation rate forecast. ",
+      "The highest Quarter Q3 2019 has 0.28 more Inflation rate forecast than the lowest Quarter Q2 2020. ",
+      "Quarter Q3 2019 is higher than any other Quarters with value 2.1, followed by , and Q2 2022. Down to Quarter Q2 2020 with the lowest value 1.82. ",
+      "The Inflation rate forecast has grew over the past 19 Quarters. ",
+      "Quarter Q1 2024, Q4 2023, Q3 2023, Q2 2023, Q1 2023, Q4 2022, Q3 2022, and Q2 2022 share the same value 2.0. ",
+      "The highest value 2.1 at Q3 2019 is almost 1.07 times larger than the average value 1.97. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 18,
+         "12": 18
+      },
+      {
+         "7": 15,
+         "12": 15
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 2024",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q4 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q3 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q2 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q1 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q4 2022",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q3 2022",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q2 2022",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q1 2022",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q4 2021",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q3 2021",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q2 2021",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q1 2021",
+         "Inflation rate forecast": 1.95
+      },
+      {
+         "Quarter": "Q4 2020",
+         "Inflation rate forecast": 1.9
+      },
+      {
+         "Quarter": "Q3 2020",
+         "Inflation rate forecast": 1.88
+      },
+      {
+         "Quarter": "Q2 2020",
+         "Inflation rate forecast": 1.82
+      },
+      {
+         "Quarter": "Q1 2020",
+         "Inflation rate forecast": 1.82
+      },
+      {
+         "Quarter": "Q4 2019",
+         "Inflation rate forecast": 2.01
+      },
+      {
+         "Quarter": "Q3 2019",
+         "Inflation rate forecast": 2.1
+      }
+   ]
+}

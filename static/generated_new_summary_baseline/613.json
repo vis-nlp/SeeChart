@@ -1,0 +1,198 @@
+{
+   "title": "Refugees worldwide 2001 to 2018",
+   "labels": [
+      "Year",
+      "Refugees",
+      "Internally displaced persons",
+      "Asylum-seekers"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 3 lines representing Refugees, Internally displaced persons, and Asylum-seekers. The y axis denotes Number of refugees (in millions) and the x axis denotes Year.",
+      "Overall Refugees, Internally displaced persons, and Asylum-seekers are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Internally displaced persons, 2. Refugees, and lastly, 3. Asylum-seekers. ",
+      "Throughout the period, Internally displaced persons generally had the highest Number of refugees (in millions) relative to others with an average of 28.31, and it reached its maximum at 2018 with a value of 41.43.",
+      "Followed by Refugees which ranks as the second topmpost line , with an average of 14.9 Number of refugees (in millions),reaching its highest point  at 2018 with a value of 20.3. ",
+      "Asylum-seekers mostly had the least Number of refugees (in millions) with a mean value of 1.62, which peaked at 2016 with a value of 6.51. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of refugees (in millions)",
+   "min_summary": [
+      "This is a multi-line chart with 3 lines representing Refugees, Internally displaced persons, and Asylum-seekers. The y axis denotes Number of refugees (in millions) and the x axis denotes Year.",
+      "Overall Refugees, Internally displaced persons, and Asylum-seekers are gradually increasing,  throughout the Year",
+      "Overall across the Year, Internally displaced persons mostly maintained the highest Number of refugees (in millions) when compared to others with a mean value of 28.31, and it peaked at 2018.",
+      "After Internally displaced persons, Refugees overall has the second highest values , with a mean value of 14.9, peaking at 2018. ",
+      "Asylum-seekers mostly had the least Number of refugees (in millions) with a mean value of 1.62, which peaked at 2016 with a value of 6.51. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 3 lines representing Refugees, Internally displaced persons, and Asylum-seekers. The y axis denotes Number of refugees (in millions) and the x axis denotes Year.",
+      "Overall Refugees, Internally displaced persons, and Asylum-seekers are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Internally displaced persons, 2. Refugees, and lastly, 3. Asylum-seekers. ",
+      "Throughout the period, Internally displaced persons generally had the highest Number of refugees (in millions) relative to others with an average of 28.31, and it reached its maximum at 2018 with a value of 41.43.",
+      "Followed by Refugees which ranks as the second topmpost line , with an average of 14.9 Number of refugees (in millions),reaching its highest point  at 2018 with a value of 20.3. ",
+      "Asylum-seekers mostly had the least Number of refugees (in millions) with a mean value of 1.62, which peaked at 2016 with a value of 6.51. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Refugees, Internally displaced persons, and Asylum-seekers. The y axis indicates the Number of refugees (in millions) and the x axis indicates Year.",
+      "Overall Refugees, Internally displaced persons, and Asylum-seekers are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Number of refugees (in millions) in descending order is: 1. Internally displaced persons, 2. Refugees, and lastly, 3. Asylum-seekers. ",
+      "Throughout the period, Internally displaced persons generally had the highest Number of refugees (in millions) relative to others with an average of 28.31, and it reached its maximum at 2018 with a value of 41.43.",
+      "Followed by Refugees which ranks as the second topmpost line , with an average of 14.9 Number of refugees (in millions),reaching its highest point  at 2018 with a value of 20.3. ",
+      "The botommost line, Asylum-seekers,  has a mean of 1.62, and peaked at 2016. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "17",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "17",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Refugees": "20.36",
+         "Internally displaced persons": "41.43",
+         "Asylum-seekers": "3.5"
+      },
+      {
+         "Year": "2017",
+         "Refugees": "19.94",
+         "Internally displaced persons": "39.12",
+         "Asylum-seekers": "3.09"
+      },
+      {
+         "Year": "2016",
+         "Refugees": "16.53",
+         "Internally displaced persons": "36.63",
+         "Asylum-seekers": "6.51"
+      },
+      {
+         "Year": "2015",
+         "Refugees": "15.48",
+         "Internally displaced persons": "37.49",
+         "Asylum-seekers": "2.32"
+      },
+      {
+         "Year": "2014",
+         "Refugees": "13.69",
+         "Internally displaced persons": "32.27",
+         "Asylum-seekers": "1.8"
+      },
+      {
+         "Year": "2013",
+         "Refugees": "11.0",
+         "Internally displaced persons": "23.93",
+         "Asylum-seekers": "1.17"
+      },
+      {
+         "Year": "2012",
+         "Refugees": "9.88",
+         "Internally displaced persons": "17.67",
+         "Asylum-seekers": "0.94"
+      },
+      {
+         "Year": "2011",
+         "Refugees": "15.2",
+         "Internally displaced persons": "26.4",
+         "Asylum-seekers": "0.9"
+      },
+      {
+         "Year": "2010",
+         "Refugees": "15.4",
+         "Internally displaced persons": "27.5",
+         "Asylum-seekers": "0.8"
+      },
+      {
+         "Year": "2009",
+         "Refugees": "15.2",
+         "Internally displaced persons": "27.1",
+         "Asylum-seekers": "1.0"
+      },
+      {
+         "Year": "2008",
+         "Refugees": "15.2",
+         "Internally displaced persons": "26.0",
+         "Asylum-seekers": "0.8"
+      },
+      {
+         "Year": "2007",
+         "Refugees": "16.0",
+         "Internally displaced persons": "26.0",
+         "Asylum-seekers": "0.7"
+      },
+      {
+         "Year": "2006",
+         "Refugees": "14.3",
+         "Internally displaced persons": "24.4",
+         "Asylum-seekers": "0.7"
+      },
+      {
+         "Year": "2005",
+         "Refugees": "13.0",
+         "Internally displaced persons": "23.7",
+         "Asylum-seekers": "0.8"
+      },
+      {
+         "Year": "2004",
+         "Refugees": "13.8",
+         "Internally displaced persons": "25.3",
+         "Asylum-seekers": "0.9"
+      },
+      {
+         "Year": "2003",
+         "Refugees": "13.7",
+         "Internally displaced persons": "24.6",
+         "Asylum-seekers": "1.0"
+      },
+      {
+         "Year": "2002",
+         "Refugees": "14.6",
+         "Internally displaced persons": "25.0",
+         "Asylum-seekers": "1.1"
+      },
+      {
+         "Year": "2001",
+         "Refugees": "16.0",
+         "Internally displaced persons": "25.0",
+         "Asylum-seekers": "1.1"
+      }
+   ]
+}

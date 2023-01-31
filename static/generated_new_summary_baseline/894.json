@@ -1,0 +1,153 @@
+{
+   "title": "U.S. : reported motor vehicle theft rate 1990 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Rate per 100,000 population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 100,000 population, containing a total of 29 data points.",
+      " Overall Rate per 100,000 population has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Maximum Rate per 100,000 population, about 658.9 was reported at Year 1991",
+      "The lowest Rate per 100,000 population, of value 215.4 was reported at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Rate per 100,000 population. In total the number of data points it has is 29.",
+      " In general Rate per 100,000 population has fallen over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 100,000 population, containing a total of 29 data points.",
+      " Overall Rate per 100,000 population has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Maximum Rate per 100,000 population, about 658.9 was reported at Year 1991",
+      "The lowest Rate per 100,000 population, of value 215.4 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 100,000 population, containing a total of 29 data points.",
+      " Overall Rate per 100,000 population has decreased over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Rate per 100,000 population, about 658.9 was reported at Year 1991",
+      "The lowest Rate per 100,000 population, of value 215.4 was reported at Year 2014",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Rate per 100,000 population": 228.9
+      },
+      {
+         "Year": "2017",
+         "Rate per 100,000 population": 237.7
+      },
+      {
+         "Year": "2016",
+         "Rate per 100,000 population": 237.3
+      },
+      {
+         "Year": "2015",
+         "Rate per 100,000 population": 222.2
+      },
+      {
+         "Year": "2014",
+         "Rate per 100,000 population": 215.4
+      },
+      {
+         "Year": "2013",
+         "Rate per 100,000 population": 221.3
+      },
+      {
+         "Year": "2012",
+         "Rate per 100,000 population": 230.4
+      },
+      {
+         "Year": "2011",
+         "Rate per 100,000 population": 230.0
+      },
+      {
+         "Year": "2010",
+         "Rate per 100,000 population": 239.1
+      },
+      {
+         "Year": "2009",
+         "Rate per 100,000 population": 259.2
+      },
+      {
+         "Year": "2008",
+         "Rate per 100,000 population": 315.4
+      },
+      {
+         "Year": "2007",
+         "Rate per 100,000 population": 364.9
+      },
+      {
+         "Year": "2006",
+         "Rate per 100,000 population": 400.2
+      },
+      {
+         "Year": "2005",
+         "Rate per 100,000 population": 416.8
+      },
+      {
+         "Year": "2004",
+         "Rate per 100,000 population": 421.5
+      },
+      {
+         "Year": "2003",
+         "Rate per 100,000 population": 433.7
+      },
+      {
+         "Year": "2002",
+         "Rate per 100,000 population": 432.9
+      },
+      {
+         "Year": "2001",
+         "Rate per 100,000 population": 430.6
+      },
+      {
+         "Year": "2000",
+         "Rate per 100,000 population": 412.2
+      },
+      {
+         "Year": "1999",
+         "Rate per 100,000 population": 422.5
+      },
+      {
+         "Year": "1998",
+         "Rate per 100,000 population": 459.8
+      },
+      {
+         "Year": "1997",
+         "Rate per 100,000 population": 505.8
+      },
+      {
+         "Year": "1996",
+         "Rate per 100,000 population": 525.5
+      },
+      {
+         "Year": "1995",
+         "Rate per 100,000 population": 560.4
+      },
+      {
+         "Year": "1994",
+         "Rate per 100,000 population": 591.3
+      },
+      {
+         "Year": "1993",
+         "Rate per 100,000 population": 606.1
+      },
+      {
+         "Year": "1992",
+         "Rate per 100,000 population": 631.5
+      },
+      {
+         "Year": "1991",
+         "Rate per 100,000 population": 658.9
+      },
+      {
+         "Year": "1990",
+         "Rate per 100,000 population": 657.8
+      }
+   ]
+}

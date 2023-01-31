@@ -1,0 +1,73 @@
+{
+   "title": "Cattle population worldwide 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Cattle population in million head",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Cattle population in million head. In total the number of data points it has is 8.",
+      " Overall Cattle population in million head has increased over the Year.",
+      "Cattle population in million head is roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "The highest Cattle population in million head, of value 1008.57 was reached at Year 2014",
+      "The lowest Cattle population in million head, of value 969.26 was reported at Year 2015"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Cattle population in million head. In total the number of data points it has is 8.",
+      " In general Cattle population in million head has stayed the same over the Year.",
+      "Cattle population in million head is roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Cattle population in million head. In total the number of data points it has is 8.",
+      " Overall Cattle population in million head has increased over the Year.",
+      "Cattle population in million head is roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "The highest Cattle population in million head, of value 1008.57 was reached at Year 2014",
+      "The lowest Cattle population in million head, of value 969.26 was reported at Year 2015"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Cattle population in million head, containing a total of 8 data points.",
+      " In general Cattle population in million head has stayed the same over the Year.",
+      "Cattle population in million head is roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2019.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "The highest Cattle population in million head, of value 1008.57 was reached at Year 2014",
+      "The lowest Cattle population in million head, of value 969.26 was reported at Year 2015",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Cattle population in million head": 1007.26
+      },
+      {
+         "Year": "2018",
+         "Cattle population in million head": 996.36
+      },
+      {
+         "Year": "2017",
+         "Cattle population in million head": 984.53
+      },
+      {
+         "Year": "2016",
+         "Cattle population in million head": 978.77
+      },
+      {
+         "Year": "2015",
+         "Cattle population in million head": 969.26
+      },
+      {
+         "Year": "2014",
+         "Cattle population in million head": 1008.57
+      },
+      {
+         "Year": "2013",
+         "Cattle population in million head": 1005.29
+      },
+      {
+         "Year": "2012",
+         "Cattle population in million head": 1001.72
+      }
+   ]
+}

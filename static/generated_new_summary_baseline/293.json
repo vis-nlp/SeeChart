@@ -1,0 +1,89 @@
+{
+   "title": "Total number of retail prescriptions filled annually in the U.S. 2013 to 2025",
+   "xAxis": "Year",
+   "yAxis": "Number of prescriptions filled in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of prescriptions filled in billions, containing a total of 13 data points.",
+      " In general Number of prescriptions filled in billions has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Maximum Number of prescriptions filled in billions, about 4.98 was reported at Year 2025",
+      "The lowest Number of prescriptions filled in billions, of value 4.07 was reported at Year 2016"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of prescriptions filled in billions, containing a total of 13 data points.",
+      " In general Number of prescriptions filled in billions has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of prescriptions filled in billions, containing a total of 13 data points.",
+      " In general Number of prescriptions filled in billions has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Maximum Number of prescriptions filled in billions, about 4.98 was reported at Year 2025",
+      "The lowest Number of prescriptions filled in billions, of value 4.07 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of prescriptions filled in billions, containing a total of 13 data points.",
+      " In general Number of prescriptions filled in billions has rose over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "Maximum Number of prescriptions filled in billions, about 4.98 was reported at Year 2025",
+      "The lowest Number of prescriptions filled in billions, of value 4.07 was reported at Year 2016",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2025",
+         "Number of prescriptions filled in billions": 4.98
+      },
+      {
+         "Year": "2024",
+         "Number of prescriptions filled in billions": 4.9
+      },
+      {
+         "Year": "2023",
+         "Number of prescriptions filled in billions": 4.83
+      },
+      {
+         "Year": "2022",
+         "Number of prescriptions filled in billions": 4.76
+      },
+      {
+         "Year": "2021",
+         "Number of prescriptions filled in billions": 4.69
+      },
+      {
+         "Year": "2020",
+         "Number of prescriptions filled in billions": 4.55
+      },
+      {
+         "Year": "2019",
+         "Number of prescriptions filled in billions": 4.38
+      },
+      {
+         "Year": "2018",
+         "Number of prescriptions filled in billions": 4.21
+      },
+      {
+         "Year": "2017",
+         "Number of prescriptions filled in billions": 4.1
+      },
+      {
+         "Year": "2016",
+         "Number of prescriptions filled in billions": 4.07
+      },
+      {
+         "Year": "2015",
+         "Number of prescriptions filled in billions": 4.4
+      },
+      {
+         "Year": "2014",
+         "Number of prescriptions filled in billions": 4.33
+      },
+      {
+         "Year": "2013",
+         "Number of prescriptions filled in billions": 4.24
+      }
+   ]
+}

@@ -1,0 +1,84 @@
+{
+   "title": "Most popular product brands on Facebook 2020",
+   "xAxis": "Platform",
+   "yAxis": "Facebook fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Facebook fans in millions for 10 number of Platforms. ",
+      "The Facebook fans in millions is highest at Platform Facebook and lowest at Platform KFC. ",
+      "The difference of Facebook fans in millions between the highest and lowest Platform is 159.62. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Platform in the x axis and Facebook fans in millions in the y axis. ",
+      "The Facebook fans in millions is highest at Platform Facebook and lowest at Platform KFC. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Facebook fans in millions for 10 number of Platforms. ",
+      "The Facebook fans in millions is highest at Platform Facebook and lowest at Platform KFC. ",
+      "The difference of Facebook fans in millions between the highest and lowest Platform is 159.62. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Platform, and Facebook fans in millions in each Platform on the y axis. ",
+      "Platform Facebook has the highest Facebook fans in millions and KFC has the lowest Facebook fans in millions. ",
+      "The second highest Facebook fans in millions is appeared to be the Platform . ",
+      "The difference of Facebook fans in millions between the highest and lowest Platform is 159.62. ",
+      "The Platform Facebook has the highest Facebook fans in millions, followed by , and Coca-Cola. Down to the Platform KFC which is the lowest. ",
+      "The Platform Facebook has 2.23 times more Facebook fans in millions than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Facebook fans in millions": 214.62
+      },
+      {
+         "Platform": "Samsung",
+         "Facebook fans in millions": 160.05
+      },
+      {
+         "Platform": "Coca-Cola",
+         "Facebook fans in millions": 107.11
+      },
+      {
+         "Platform": "YouTube",
+         "Facebook fans in millions": 84.35
+      },
+      {
+         "Platform": "McDonald's",
+         "Facebook fans in millions": 79.86
+      },
+      {
+         "Platform": "Candy Crush Saga",
+         "Facebook fans in millions": 71.54
+      },
+      {
+         "Platform": "Criminal Case",
+         "Facebook fans in millions": 65.88
+      },
+      {
+         "Platform": "Texas HoldEm Poker",
+         "Facebook fans in millions": 63.66
+      },
+      {
+         "Platform": "Instagram",
+         "Facebook fans in millions": 60.34
+      },
+      {
+         "Platform": "KFC",
+         "Facebook fans in millions": 55.0
+      }
+   ]
+}

@@ -1,0 +1,118 @@
+{
+   "title": "Forecast : PaaS market share in 2011 - 2016 , by service",
+   "labels": [
+      "Cloud Service",
+      "2011",
+      "2016"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 11 different Cloud Services for 2 groups 2011, and 2016 that are presented on the X-axis. ",
+      " Cloud Service Cloud Application platform services (aPaaS) had the maximum Market share among all 2 groups, and it was for 2011. The minimum Market share was observed in Cloud Service Cloud Horizontal Portal Services (Portal PaaS) for 2011. ",
+      "Cloud Service Cloud Application platform services (aPaaS) and Cloud MOM Services had the biggest gap of 33.0 between the highest and lowest Market share found for 2016. ",
+      "Averaging all 2 groups 2011, and 2016, the Cloud Service Cloud Application platform services (aPaaS) is the maximum Market share and Cloud Horizontal Portal Services (Portal PaaS) is the minimum Market share. "
+   ],
+   "xAxis": "Cloud Service",
+   "yAxis": "Market share",
+   "min_summary": [
+      "This grouped bar chart represents 11 different Cloud Services on X-axis for 2 groups 2011, and 2016. On the Y-axis it shows their corresponding Market share. ",
+      " Out of all 2 groups, 2011 had the highest Market share for Cloud Service Cloud Application platform services (aPaaS) and 2011 had the lowest Market share for Cloud Service Cloud Horizontal Portal Services (Portal PaaS). "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 11 different Cloud Services for 2 groups 2011, and 2016 that are presented on the X-axis. ",
+      " Cloud Service Cloud Application platform services (aPaaS) had the maximum Market share among all 2 groups, and it was for 2011. The minimum Market share was observed in Cloud Service Cloud Horizontal Portal Services (Portal PaaS) for 2011. ",
+      "Cloud Service Cloud Application platform services (aPaaS) and Cloud MOM Services had the biggest gap of 33.0 between the highest and lowest Market share found for 2016. ",
+      "Averaging all 2 groups 2011, and 2016, the Cloud Service Cloud Application platform services (aPaaS) is the maximum Market share and Cloud Horizontal Portal Services (Portal PaaS) is the minimum Market share. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 11 different Cloud Services for 2 groups 2011, and 2016 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2011 had the highest Market share for Cloud Service Cloud Application platform services (aPaaS) and 2011 had the lowest Market share for Cloud Service Cloud Horizontal Portal Services (Portal PaaS). ",
+      " Among all the Cloud Services, 2016 had the highest Market share in Cloud Service Cloud Application platform services (aPaaS) and lowest Market share in Cloud Service Cloud MOM Services. ",
+      " The maximum Market share for 2016 that was found in Cloud Service Cloud Application platform services (aPaaS) was 17.5 times larger than the minimum Market share observed in Cloud Service Cloud MOM Services. ",
+      " Among all 2 groups, 2011 had the gap of 34.0 between the maximum and minimum Market share observed in Cloud Service Cloud Application platform services (aPaaS) and Cloud Horizontal Portal Services (Portal PaaS) respectively. ",
+      "On average, the Cloud Service Cloud Application platform services (aPaaS) had the highest Market share for all 2 groups 2011, and 2016. Whereas Cloud Horizontal Portal Services (Portal PaaS) had the lowest average Market share. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "2",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cloud Service": "Cloud Application platform services (aPaaS)",
+         "2011": "35",
+         "2016": "35"
+      },
+      {
+         "Cloud Service": "Cloud ALM Services (almPaaS)",
+         "2011": "12",
+         "2016": "11"
+      },
+      {
+         "Cloud Service": "Cloud BPM platform services (bpmPaaS)",
+         "2011": "11",
+         "2016": "10"
+      },
+      {
+         "Cloud Service": "Cloud Integration services (iPaaS)",
+         "2011": "11",
+         "2016": "14"
+      },
+      {
+         "Cloud Service": "Cloud Application Security Services",
+         "2011": "11",
+         "2016": "9"
+      },
+      {
+         "Cloud Service": "Cloud MFT Services",
+         "2011": "8",
+         "2016": "6"
+      },
+      {
+         "Cloud Service": "Cloud Application Services Governance",
+         "2011": "4",
+         "2016": "3"
+      },
+      {
+         "Cloud Service": "Cloud Business Analytics Services (baPaaS)",
+         "2011": "3",
+         "2016": "4"
+      },
+      {
+         "Cloud Service": "Cloud MOM Services",
+         "2011": "2",
+         "2016": "2"
+      },
+      {
+         "Cloud Service": "Cloud Database services (dbPaas)",
+         "2011": "2",
+         "2016": "4"
+      },
+      {
+         "Cloud Service": "Cloud Horizontal Portal Services (Portal PaaS)",
+         "2011": "1",
+         "2016": "2"
+      }
+   ]
+}

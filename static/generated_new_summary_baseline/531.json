@@ -1,0 +1,61 @@
+{
+   "title": "Number of immigrants in Singapore 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of immigrants in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of immigrants in thousands, containing a total of 5 data points.",
+      " Overall Number of immigrants in thousands has increased over the Year.",
+      "Number of immigrants in thousands is slightly increasing from 2005 to 2010, roughly constant from 2010 to 2017, and finally slightly decreasing from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2017 and 2019.",
+      "The highest Number of immigrants in thousands, of value 2623.0 was reached at Year 2017",
+      "Minimum Number of immigrants in thousands about 1711.0 was reached at Year 2005"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of immigrants in thousands, containing a total of 5 data points.",
+      " Overall Number of immigrants in thousands has increased over the Year.",
+      "Number of immigrants in thousands is slightly increasing from 2005 to 2010, roughly constant from 2010 to 2017, and finally slightly decreasing from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of immigrants in thousands, containing a total of 5 data points.",
+      " Overall Number of immigrants in thousands has increased over the Year.",
+      "Number of immigrants in thousands is slightly increasing from 2005 to 2010, roughly constant from 2010 to 2017, and finally slightly decreasing from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2017 and 2019.",
+      "The highest Number of immigrants in thousands, of value 2623.0 was reached at Year 2017",
+      "Minimum Number of immigrants in thousands about 1711.0 was reached at Year 2005"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of immigrants in thousands. In total the number of data points it has is 5.",
+      " Overall Number of immigrants in thousands has increased over the Year.",
+      "Number of immigrants in thousands is slightly increasing from 2005 to 2010, roughly constant from 2010 to 2017, and finally slightly decreasing from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2017 and 2019.",
+      "The highest Number of immigrants in thousands, of value 2623.0 was reached at Year 2017",
+      "Minimum Number of immigrants in thousands about 1711.0 was reached at Year 2005",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of immigrants in thousands": 2155.65
+      },
+      {
+         "Year": "2017",
+         "Number of immigrants in thousands": 2623.0
+      },
+      {
+         "Year": "2015",
+         "Number of immigrants in thousands": 2544.0
+      },
+      {
+         "Year": "2010",
+         "Number of immigrants in thousands": 2165.0
+      },
+      {
+         "Year": "2005",
+         "Number of immigrants in thousands": 1711.0
+      }
+   ]
+}

@@ -1,0 +1,175 @@
+{
+   "title": "Deep and surface mining coal production in the United Kingdom ( UK ) 1970 to 2018",
+   "labels": [
+      "Year",
+      "Deep mined",
+      "Surface mining"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 2 lines namely Deep mined, and Surface mining. The y axis represents Production volume in thousand metric tons and the x axis represents Year.",
+      "Overall Deep mined is rapidly decreasing, Surface mining is roughly constant,  throughout the Year",
+      "Deep mined has decreased by 94.59344775617107 percent.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Deep mined, and lastly, 2. Surface mining. ",
+      "Overall across the Year, Deep mined mostly maintained the highest Production volume in thousand metric tons when compared to others with a mean value of 39920.82, and it peaked at 1970.",
+      "The botommost line, Surface mining,  has a mean of 12769.47, and peaked at 1990. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Production volume in thousand metric tons",
+   "min_summary": [
+      "The given chart is of multi-line type with 2 lines namely Deep mined, and Surface mining. The y axis represents Production volume in thousand metric tons and the x axis represents Year.",
+      "Overall Deep mined is rapidly decreasing, Surface mining is roughly constant,  throughout the Year",
+      "Overall across the Year, Deep mined mostly maintained the highest Production volume in thousand metric tons when compared to others with a mean value of 39920.82, and it peaked at 1970.",
+      "The botommost line, Surface mining,  has a mean of 12769.47, and peaked at 1990. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely Deep mined, and Surface mining. The y axis represents Production volume in thousand metric tons and the x axis represents Year.",
+      "Overall Deep mined is rapidly decreasing, Surface mining is roughly constant,  throughout the Year",
+      "Deep mined has decreased by 94.59344775617107 percent.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Deep mined, and lastly, 2. Surface mining. ",
+      "Overall across the Year, Deep mined mostly maintained the highest Production volume in thousand metric tons when compared to others with a mean value of 39920.82, and it peaked at 1970.",
+      "The botommost line, Surface mining,  has a mean of 12769.47, and peaked at 1990. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Deep mined, and Surface mining. The y axis represents Production volume in thousand metric tons and the x axis represents Year.",
+      "Overall Deep mined is rapidly decreasing, Surface mining is roughly constant,  throughout the Year",
+      "Deep mined has decreased by 94.59344775617107 percent.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Deep mined, and lastly, 2. Surface mining. ",
+      "Overall across the Year, Deep mined mostly maintained the highest Production volume in thousand metric tons when compared to others with a mean value of 39920.82, and it peaked at 1970.",
+      "The botommost line, Surface mining,  has a mean of 12769.47, and peaked at 1990. ",
+      "Deep mined reported the lowest Production volume in thousand metric tons about 7390.0 in Year 2018",
+      "The greatest difference of Production volume in thousand metric tons between Deep mined and Surface mining occurs at Year 1970 and the smallest difference occurs at 2012."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "16",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "16",
+            "0"
+         ],
+         "9": [
+            "16",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "16",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "12",
+            "1"
+         ],
+         "10": [
+            "12",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Deep mined": "7390",
+         "Surface mining": "10426"
+      },
+      {
+         "Year": "2017",
+         "Deep mined": "7520",
+         "Surface mining": "9854"
+      },
+      {
+         "Year": "2016",
+         "Deep mined": "8096",
+         "Surface mining": "9509"
+      },
+      {
+         "Year": "2015",
+         "Deep mined": "7674",
+         "Surface mining": "8866"
+      },
+      {
+         "Year": "2014",
+         "Deep mined": "9444",
+         "Surface mining": "8635"
+      },
+      {
+         "Year": "2013",
+         "Deep mined": "9563",
+         "Surface mining": "10445"
+      },
+      {
+         "Year": "2012",
+         "Deep mined": "12542",
+         "Surface mining": "11993"
+      },
+      {
+         "Year": "2011",
+         "Deep mined": "15633",
+         "Surface mining": "12126"
+      },
+      {
+         "Year": "2010",
+         "Deep mined": "16391",
+         "Surface mining": "13148"
+      },
+      {
+         "Year": "2005",
+         "Deep mined": "17347",
+         "Surface mining": "14166"
+      },
+      {
+         "Year": "2000",
+         "Deep mined": "17188",
+         "Surface mining": "13412"
+      },
+      {
+         "Year": "1995",
+         "Deep mined": "35150",
+         "Surface mining": "16369"
+      },
+      {
+         "Year": "1990",
+         "Deep mined": "72899",
+         "Surface mining": "19863"
+      },
+      {
+         "Year": "1985",
+         "Deep mined": "75289",
+         "Surface mining": "18822"
+      },
+      {
+         "Year": "1980",
+         "Deep mined": "112430",
+         "Surface mining": "17667"
+      },
+      {
+         "Year": "1975",
+         "Deep mined": "117412",
+         "Surface mining": "11271"
+      },
+      {
+         "Year": "1970",
+         "Deep mined": "136686",
+         "Surface mining": "10509"
+      }
+   ]
+}

@@ -1,0 +1,127 @@
+{
+   "title": "Number of Outback Steakhouse restaurants worldwide from 2011 to 2018 , by location",
+   "labels": [
+      "Year",
+      "United States",
+      "International"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing United States, and International. The y axis denotes Number of restaurants and the x axis denotes Year.",
+      "Overall International is gradually increasing, United States is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. United States, and lastly, 2. International. ",
+      "Overall across the Year, United States mostly maintained the highest Number of restaurants when compared to others with a mean value of 756.38, and it peaked at 2011.",
+      "The botommost line, International,  has a mean of 225.62, and peaked at 2018. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of restaurants",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting United States, and International. The y axis indicates the Number of restaurants and the x axis indicates Year.",
+      "Overall International is gradually increasing, United States is gradually decreasing,  throughout the Year",
+      "Overall across the Year, United States mostly maintained the highest Number of restaurants when compared to others with a mean value of 756.38, and it peaked at 2011.",
+      "The botommost line, International,  has a mean of 225.62, and peaked at 2018. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing United States, and International. The y axis denotes Number of restaurants and the x axis denotes Year.",
+      "Overall International is gradually increasing, United States is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. United States, and lastly, 2. International. ",
+      "Overall across the Year, United States mostly maintained the highest Number of restaurants when compared to others with a mean value of 756.38, and it peaked at 2011.",
+      "The botommost line, International,  has a mean of 225.62, and peaked at 2018. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting United States, and International. The y axis indicates the Number of restaurants and the x axis indicates Year.",
+      "Overall International is gradually increasing, United States is gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Number of restaurants in descending order is: 1. United States, and lastly, 2. International. ",
+      "Overall across the Year, United States mostly maintained the highest Number of restaurants when compared to others with a mean value of 756.38, and it peaked at 2011.",
+      "The botommost line, International,  has a mean of 225.62, and peaked at 2018. ",
+      "International reported the lowest Number of restaurants about 191.0 in Year 2011",
+      "The greatest difference of Number of restaurants between United States and International occurs at Year 2011 and the smallest difference occurs at 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "7",
+            "0"
+         ],
+         "9": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "United States": "733",
+         "International": "256"
+      },
+      {
+         "Year": "2017",
+         "United States": "740",
+         "International": "249"
+      },
+      {
+         "Year": "2016",
+         "United States": "755",
+         "International": "239"
+      },
+      {
+         "Year": "2015",
+         "United States": "755",
+         "International": "224"
+      },
+      {
+         "Year": "2014",
+         "United States": "753",
+         "International": "222"
+      },
+      {
+         "Year": "2013",
+         "United States": "768",
+         "International": "220"
+      },
+      {
+         "Year": "2012",
+         "United States": "771",
+         "International": "204"
+      },
+      {
+         "Year": "2011",
+         "United States": "776",
+         "International": "191"
+      }
+   ]
+}

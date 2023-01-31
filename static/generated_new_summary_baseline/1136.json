@@ -1,0 +1,86 @@
+{
+   "title": "Facebook : number of followers of popular beauty brands 2020",
+   "xAxis": "Month",
+   "yAxis": "Brand fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
+      "The Brand fans in millions is appeared to be the highest at Month Bath & Body Works and lowest at Month Embelleze. ",
+      "The difference of Brand fans in millions between the highest and lowest Month is 5.79. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Brand fans in millions in each Month on the y axis. ",
+      "The Brand fans in millions is appeared to be the highest at Month Bath & Body Works and lowest at Month Embelleze. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
+      "The Brand fans in millions is appeared to be the highest at Month Bath & Body Works and lowest at Month Embelleze. ",
+      "The difference of Brand fans in millions between the highest and lowest Month is 5.79. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Brand fans in millions in each Month on the y axis. ",
+      "The Brand fans in millions is appeared to be the highest at Month Bath & Body Works and lowest at Month Embelleze. ",
+      "The second highest Brand fans in millions is appeared to be the Month . ",
+      "There is a difference of 5.79 between the maximum Month Bath & Body Works and minimum Month Embelleze. ",
+      "Brand fans in millions at Month Bath & Body Works is 9.8 , second place is  at 9.8, and thirdly is Mary Kay Brasil at 6.26.",
+      "Overall Brand fans in millions has reduced over the Months. ",
+      "The highest value 9.8 at Bath & Body Works is almost 1.74 times larger than the average value 5.64. ",
+      "The Brand fans in millions is 56.38 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Bath & Body Works",
+         "Brand fans in millions": 9.8
+      },
+      {
+         "Month": "Risqu\u00e9",
+         "Brand fans in millions": 7.23
+      },
+      {
+         "Month": "Mary Kay Brasil",
+         "Brand fans in millions": 6.26
+      },
+      {
+         "Month": "Eudora",
+         "Brand fans in millions": 5.56
+      },
+      {
+         "Month": "Pantene Brasil",
+         "Brand fans in millions": 4.92
+      },
+      {
+         "Month": "Doce Pel\u00edcula",
+         "Brand fans in millions": 4.88
+      },
+      {
+         "Month": "Nature Republic Myanmar",
+         "Brand fans in millions": 4.87
+      },
+      {
+         "Month": "COVERGIRL",
+         "Brand fans in millions": 4.64
+      },
+      {
+         "Month": "Dailus",
+         "Brand fans in millions": 4.21
+      },
+      {
+         "Month": "Embelleze",
+         "Brand fans in millions": 4.01
+      }
+   ]
+}

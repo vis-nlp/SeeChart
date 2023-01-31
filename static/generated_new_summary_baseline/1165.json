@@ -1,0 +1,83 @@
+{
+   "title": "Brexit votes in the United Kingdom by social class 2016",
+   "labels": [
+      "Response",
+      "Remain",
+      "Leave"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 4 different Responses on X-axis for 2 groups Remain, and Leave. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Response Upper Working-Class (C2) had the maximum Share of respondents among all 2 groups, and it was for Leave. The minimum Share of respondents was observed in Response Lower Working-Class (DE) for Remain. ",
+      " The maximum Share of respondents for Remain that was found in Response Upper Middle-Class (AB) was 1.58 times larger than the minimum Share of respondents observed in Response Lower Working-Class (DE). ",
+      "On average, the Response Upper Middle-Class (AB) had the highest Share of respondents for all 2 groups Remain, and Leave. Whereas Lower Working-Class (DE) had the lowest average Share of respondents. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 4 different Responses for 2 groups Remain, and Leave that are presented on the X-axis. ",
+      " Out of all 2 groups, Leave had the highest Share of respondents for Response Upper Working-Class (C2) and Remain had the lowest Share of respondents for Response Lower Working-Class (DE). "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 4 different Responses on X-axis for 2 groups Remain, and Leave. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Response Upper Working-Class (C2) had the maximum Share of respondents among all 2 groups, and it was for Leave. The minimum Share of respondents was observed in Response Lower Working-Class (DE) for Remain. ",
+      " The maximum Share of respondents for Remain that was found in Response Upper Middle-Class (AB) was 1.58 times larger than the minimum Share of respondents observed in Response Lower Working-Class (DE). ",
+      "On average, the Response Upper Middle-Class (AB) had the highest Share of respondents for all 2 groups Remain, and Leave. Whereas Lower Working-Class (DE) had the lowest average Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 4 different Responses for 2 groups Remain, and Leave that are presented on the X-axis. ",
+      " Out of all 2 groups, Leave had the highest Share of respondents for Response Upper Working-Class (C2) and Remain had the lowest Share of respondents for Response Lower Working-Class (DE). ",
+      " Among all the Responses, Remain had the highest Share of respondents 57.0 in Response Upper Middle-Class (AB) and lowest value 36.0 in Response Lower Working-Class (DE). ",
+      " The maximum Share of respondents for Remain that was found in Response Upper Middle-Class (AB) was 1.58 times larger than the minimum Share of respondents observed in Response Lower Working-Class (DE). ",
+      " Among the groups, Remain had the biggest difference in Share of respondents. Where the maximum Share of respondents was 1.58 times larger than the minimum Share of respondents. ",
+      "Averaging all 2 groups Remain, and Leave, the Response Upper Middle-Class (AB) is the maximum Share of respondents and Lower Working-Class (DE) is the minimum Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "2",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Lower Working-Class (DE)",
+         "Remain": "36",
+         "Leave": "64"
+      },
+      {
+         "Response": "Upper Working-Class (C2)",
+         "Remain": "36",
+         "Leave": "64"
+      },
+      {
+         "Response": "Lower Middle-Class (C1)",
+         "Remain": "51",
+         "Leave": "49"
+      },
+      {
+         "Response": "Upper Middle-Class (AB)",
+         "Remain": "57",
+         "Leave": "43"
+      }
+   ]
+}

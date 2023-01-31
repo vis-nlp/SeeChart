@@ -1,0 +1,85 @@
+{
+   "title": "Average attendance in the National Football League 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average attendance. In total the number of data points it has is 12.",
+      " Overall Average attendance has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest Average attendance, of value 69487.0 was reached at Year 2016",
+      "Minimum Average attendance about 66151.0 was reached at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average attendance. In total the number of data points it has is 12.",
+      " Overall Average attendance has decreased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average attendance. In total the number of data points it has is 12.",
+      " Overall Average attendance has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest Average attendance, of value 69487.0 was reached at Year 2016",
+      "Minimum Average attendance about 66151.0 was reached at Year 2019"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
+      " Overall Average attendance has decreased over the Year.",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "The highest Average attendance, of value 69487.0 was reached at Year 2016",
+      "Minimum Average attendance about 66151.0 was reached at Year 2019",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": 66151.0
+      },
+      {
+         "Year": "2018",
+         "Average attendance": 67040.0
+      },
+      {
+         "Year": "2017",
+         "Average attendance": 67405.0
+      },
+      {
+         "Year": "2016",
+         "Average attendance": 69487.0
+      },
+      {
+         "Year": "2015",
+         "Average attendance": 68216.0
+      },
+      {
+         "Year": "2014",
+         "Average attendance": 68331.0
+      },
+      {
+         "Year": "2013",
+         "Average attendance": 68397.0
+      },
+      {
+         "Year": "2012",
+         "Average attendance": 67632.0
+      },
+      {
+         "Year": "2011",
+         "Average attendance": 67419.0
+      },
+      {
+         "Year": "2010",
+         "Average attendance": 66957.0
+      },
+      {
+         "Year": "2009",
+         "Average attendance": 67506.0
+      },
+      {
+         "Year": "2008",
+         "Average attendance": 68245.0
+      }
+   ]
+}

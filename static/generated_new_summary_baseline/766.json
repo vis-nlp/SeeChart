@@ -1,0 +1,89 @@
+{
+   "title": "Participants in paintball in the U.S. from 2006 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of participants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of participants in millions. In total the number of data points it has is 12.",
+      " Overall Number of participants in millions has decreased over the Year.",
+      "Number of participants in millions is slightly increasing from 2006 to 2007, gradually decreasing from 2007 to 2010, roughly constant from 2010 to 2015, and finally roughly decreasing from 2015 to 2017.",
+      "The most drastic increase took place within the Year 2006 and 2007.",
+      "Maximum Number of participants in millions, about 5.48 was reported at Year 2007",
+      "The lowest Number of participants in millions, of value 3.39 was reported at Year 2015"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of participants in millions. In total the number of data points it has is 12.",
+      " Overall Number of participants in millions has decreased over the Year.",
+      "Number of participants in millions is slightly increasing from 2006 to 2007, gradually decreasing from 2007 to 2010, roughly constant from 2010 to 2015, and finally roughly decreasing from 2015 to 2017."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of participants in millions. In total the number of data points it has is 12.",
+      " Overall Number of participants in millions has decreased over the Year.",
+      "Number of participants in millions is slightly increasing from 2006 to 2007, gradually decreasing from 2007 to 2010, roughly constant from 2010 to 2015, and finally roughly decreasing from 2015 to 2017.",
+      "The most drastic increase took place within the Year 2006 and 2007.",
+      "Maximum Number of participants in millions, about 5.48 was reported at Year 2007",
+      "The lowest Number of participants in millions, of value 3.39 was reported at Year 2015"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of participants in millions, containing a total of 12 data points.",
+      " In general Number of participants in millions has fallen over the Year.",
+      "Number of participants in millions is slightly increasing from 2006 to 2007, gradually decreasing from 2007 to 2010, roughly constant from 2010 to 2015, and finally roughly decreasing from 2015 to 2017.",
+      "The steepest increase occurs in between the Year 2006 and 2007.",
+      "Maximum Number of participants in millions, about 5.48 was reported at Year 2007",
+      "The lowest Number of participants in millions, of value 3.39 was reported at Year 2015",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of participants in millions": 3.41
+      },
+      {
+         "Year": "2016",
+         "Number of participants in millions": 3.71
+      },
+      {
+         "Year": "2015",
+         "Number of participants in millions": 3.39
+      },
+      {
+         "Year": "2014",
+         "Number of participants in millions": 3.44
+      },
+      {
+         "Year": "2013",
+         "Number of participants in millions": 3.6
+      },
+      {
+         "Year": "2012",
+         "Number of participants in millions": 3.5
+      },
+      {
+         "Year": "2011",
+         "Number of participants in millions": 3.56
+      },
+      {
+         "Year": "2010",
+         "Number of participants in millions": 3.66
+      },
+      {
+         "Year": "2009",
+         "Number of participants in millions": 4.55
+      },
+      {
+         "Year": "2008",
+         "Number of participants in millions": 4.86
+      },
+      {
+         "Year": "2007",
+         "Number of participants in millions": 5.48
+      },
+      {
+         "Year": "2006",
+         "Number of participants in millions": 4.55
+      }
+   ]
+}

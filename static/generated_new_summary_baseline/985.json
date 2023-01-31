@@ -1,0 +1,109 @@
+{
+   "title": "Steel concrete reinforcing bars - production in the U.S. 2000 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Production in million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in million metric tons. In total the number of data points it has is 18.",
+      " In general Production in million metric tons has stayed the same over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Production in million metric tons, of value 7.38 was reached at Year 2003",
+      "The lowest Production in million metric tons, of value 4.62 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in million metric tons, containing a total of 18 data points.",
+      " In general Production in million metric tons has stayed the same over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in million metric tons. In total the number of data points it has is 18.",
+      " In general Production in million metric tons has stayed the same over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Production in million metric tons, of value 7.38 was reached at Year 2003",
+      "The lowest Production in million metric tons, of value 4.62 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in million metric tons. In total the number of data points it has is 18.",
+      " Overall Production in million metric tons has increased over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest Production in million metric tons, of value 7.38 was reached at Year 2003",
+      "The lowest Production in million metric tons, of value 4.62 was reported at Year 2009",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Production in million metric tons": 6.39
+      },
+      {
+         "Year": "2016",
+         "Production in million metric tons": 6.02
+      },
+      {
+         "Year": "2015",
+         "Production in million metric tons": 5.84
+      },
+      {
+         "Year": "2014",
+         "Production in million metric tons": 7.0
+      },
+      {
+         "Year": "2013",
+         "Production in million metric tons": 6.56
+      },
+      {
+         "Year": "2012",
+         "Production in million metric tons": 5.65
+      },
+      {
+         "Year": "2011",
+         "Production in million metric tons": 5.06
+      },
+      {
+         "Year": "2010",
+         "Production in million metric tons": 5.74
+      },
+      {
+         "Year": "2009",
+         "Production in million metric tons": 4.62
+      },
+      {
+         "Year": "2008",
+         "Production in million metric tons": 7.01
+      },
+      {
+         "Year": "2007",
+         "Production in million metric tons": 7.28
+      },
+      {
+         "Year": "2006",
+         "Production in million metric tons": 6.83
+      },
+      {
+         "Year": "2005",
+         "Production in million metric tons": 6.35
+      },
+      {
+         "Year": "2004",
+         "Production in million metric tons": 7.35
+      },
+      {
+         "Year": "2003",
+         "Production in million metric tons": 7.38
+      },
+      {
+         "Year": "2002",
+         "Production in million metric tons": 6.06
+      },
+      {
+         "Year": "2001",
+         "Production in million metric tons": 6.29
+      },
+      {
+         "Year": "2000",
+         "Production in million metric tons": 6.27
+      }
+   ]
+}

@@ -1,0 +1,105 @@
+{
+   "title": "Best car manufacturers based on build quality in Great Britain ( UK ) 2014",
+   "xAxis": "Automobile Manufacturers",
+   "yAxis": "Percentage score",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Percentage score for 15 number of Automobile Manufacturerss. ",
+      "The Percentage score is highest at Automobile Manufacturers Lexus and lowest at Automobile Manufacturers Toyota. ",
+      "The highest Automobile Manufacturers Lexus has 5.42 more Percentage score than the lowest Automobile Manufacturers Toyota. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Automobile Manufacturers in the x axis and Percentage score in the y axis. ",
+      "The maximum Percentage score 94.27 is found at Automobile Manufacturers Lexus and the minimum is found at Toyota where Percentage score is 88.85. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Percentage score for 15 number of Automobile Manufacturerss. ",
+      "The Percentage score is highest at Automobile Manufacturers Lexus and lowest at Automobile Manufacturers Toyota. ",
+      "The highest Automobile Manufacturers Lexus has 5.42 more Percentage score than the lowest Automobile Manufacturers Toyota. "
+   ],
+   "max_summary": [
+      "This bar chart has 15 columns on the x axis representing Automobile Manufacturers, and Percentage score in each Automobile Manufacturers on the y axis. ",
+      "The Percentage score is appeared to be the highest at Automobile Manufacturers Lexus and lowest at Automobile Manufacturers Toyota. ",
+      "Second maximum Percentage score is found at Automobile Manufacturers . ",
+      "There is a difference of 5.42 between the maximum Automobile Manufacturers Lexus and minimum Automobile Manufacturers Toyota. ",
+      "Percentage score at Automobile Manufacturers Lexus is 94.27 , second place is  at 94.27, and thirdly is Audi at 93.42.",
+      "The Automobile Manufacturers Lexus has 1.03 times more Percentage score than average. ",
+      "Summing up the values of all Automobile Manufacturerss, we get total 1375.61. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Automobile Manufacturers": "Lexus",
+         "Percentage score": 94.27
+      },
+      {
+         "Automobile Manufacturers": "Porsche",
+         "Percentage score": 94.02
+      },
+      {
+         "Automobile Manufacturers": "Audi",
+         "Percentage score": 93.42
+      },
+      {
+         "Automobile Manufacturers": "Skoda",
+         "Percentage score": 93.32
+      },
+      {
+         "Automobile Manufacturers": "Volvo",
+         "Percentage score": 92.47
+      },
+      {
+         "Automobile Manufacturers": "Jaguar",
+         "Percentage score": 92.45
+      },
+      {
+         "Automobile Manufacturers": "Mercedes",
+         "Percentage score": 92.4
+      },
+      {
+         "Automobile Manufacturers": "BMW",
+         "Percentage score": 91.92
+      },
+      {
+         "Automobile Manufacturers": "Honda",
+         "Percentage score": 91.33
+      },
+      {
+         "Automobile Manufacturers": "Mazda",
+         "Percentage score": 91.13
+      },
+      {
+         "Automobile Manufacturers": "Subaru",
+         "Percentage score": 90.73
+      },
+      {
+         "Automobile Manufacturers": "Kia",
+         "Percentage score": 90.37
+      },
+      {
+         "Automobile Manufacturers": "VW",
+         "Percentage score": 89.7
+      },
+      {
+         "Automobile Manufacturers": "Land Rover",
+         "Percentage score": 89.23
+      },
+      {
+         "Automobile Manufacturers": "Toyota",
+         "Percentage score": 88.85
+      }
+   ]
+}

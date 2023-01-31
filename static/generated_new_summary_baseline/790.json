@@ -1,0 +1,157 @@
+{
+   "title": "Share of economic sectors in the GDP in Croatia 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share in GDP and the x axis indicates Year.",
+      "Overall Industry is gradually decreasing, Agriculture, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Share in GDP when compared to others with a mean value of 58.59, and it peaked at 2011.",
+      "After Services, Industry overall has the second highest values , with a mean value of 21.8, peaking at 2008. ",
+      "The botommost line, Agriculture,  has a mean of 3.38, and peaked at 2009. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share in GDP",
+   "min_summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Share in GDP and the x axis denotes Year.",
+      "Overall Industry is gradually decreasing, Agriculture, and Services are roughly constant,  throughout the Year",
+      "Overall across the Year, Services mostly maintained the highest Share in GDP when compared to others with a mean value of 58.59, and it peaked at 2011.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 21.8 Share in GDP,reaching its highest point  at 2008 with a value of 23.6. ",
+      "Agriculture mostly had the least Share in GDP with a mean value of 3.38, which peaked at 2009 with a value of 4.04. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share in GDP and the x axis indicates Year.",
+      "Overall Industry is gradually decreasing, Agriculture, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Share in GDP when compared to others with a mean value of 58.59, and it peaked at 2011.",
+      "After Services, Industry overall has the second highest values , with a mean value of 21.8, peaking at 2008. ",
+      "The botommost line, Agriculture,  has a mean of 3.38, and peaked at 2009. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share in GDP and the x axis indicates Year.",
+      "Overall Industry is gradually decreasing, Agriculture, and Services are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share in GDP in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Share in GDP when compared to others with a mean value of 58.59, and it peaked at 2011.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 21.8 Share in GDP,reaching its highest point  at 2008 with a value of 23.6. ",
+      "Agriculture mostly had the least Share in GDP with a mean value of 3.38, which peaked at 2009 with a value of 4.04. ",
+      "Agriculture reported the lowest Share in GDP about 2.85 in Year 2018"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "7",
+            "2"
+         ],
+         "9": [
+            "7",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "10": [
+            "10",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "2.85",
+         "Industry": "20.35",
+         "Services": "59.01"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "2.94",
+         "Industry": "20.84",
+         "Services": "58.82"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "3.11",
+         "Industry": "21.26",
+         "Services": "58.51"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "3.01",
+         "Industry": "21.36",
+         "Services": "58.48"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "2.99",
+         "Industry": "21.6",
+         "Services": "58.82"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "3.5",
+         "Industry": "21.38",
+         "Services": "58.51"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "3.34",
+         "Industry": "21.99",
+         "Services": "58.9"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "3.68",
+         "Industry": "22.32",
+         "Services": "59.37"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "3.7",
+         "Industry": "22.17",
+         "Services": "59.02"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "4.04",
+         "Industry": "23.59",
+         "Services": "57.94"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "3.98",
+         "Industry": "23.6",
+         "Services": "57.1"
+      }
+   ]
+}

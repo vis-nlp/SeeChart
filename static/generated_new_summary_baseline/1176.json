@@ -1,0 +1,69 @@
+{
+   "title": "Percentage of childless women , by age U.S. 2018",
+   "xAxis": "Year",
+   "yAxis": "Percentage of childless women",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of childless women. In total the number of data points it has is 7.",
+      " Overall Percentage of childless women has decreased over the Year.",
+      "Percentage of childless women is slightly decreasing from 15_to_19_years_old to 35_to_39_years_old, and finally roughly constant from 35_to_39_years_old to 45_to_50_years_old.",
+      "The steepest decrease occurs in between the Year 20_to_24_years_old and 25_to_29_years_old.",
+      "Maximum Percentage of childless women, about 96.9 was reported at Year 15_to_19_years_old",
+      "Minimum Percentage of childless women about 15.0 was reached at Year 40_to_44_years_old"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of childless women, containing a total of 7 data points.",
+      " Overall Percentage of childless women has decreased over the Year.",
+      "Percentage of childless women is slightly decreasing from 15_to_19_years_old to 35_to_39_years_old, and finally roughly constant from 35_to_39_years_old to 45_to_50_years_old."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of childless women. In total the number of data points it has is 7.",
+      " Overall Percentage of childless women has decreased over the Year.",
+      "Percentage of childless women is slightly decreasing from 15_to_19_years_old to 35_to_39_years_old, and finally roughly constant from 35_to_39_years_old to 45_to_50_years_old.",
+      "The steepest decrease occurs in between the Year 20_to_24_years_old and 25_to_29_years_old.",
+      "Maximum Percentage of childless women, about 96.9 was reported at Year 15_to_19_years_old",
+      "Minimum Percentage of childless women about 15.0 was reached at Year 40_to_44_years_old"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of childless women. In total the number of data points it has is 7.",
+      " In general Percentage of childless women has fallen over the Year.",
+      "Percentage of childless women is slightly decreasing from 15_to_19_years_old to 35_to_39_years_old, and finally roughly constant from 35_to_39_years_old to 45_to_50_years_old.",
+      "The most drastic decrease took place within the Year 20_to_24_years_old and 25_to_29_years_old.",
+      "Maximum Percentage of childless women, about 96.9 was reported at Year 15_to_19_years_old",
+      "Minimum Percentage of childless women about 15.0 was reached at Year 40_to_44_years_old",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "15 to 19 years old",
+         "Percentage of childless women": 96.9
+      },
+      {
+         "Year": "20 to 24 years old",
+         "Percentage of childless women": 78.6
+      },
+      {
+         "Year": "25 to 29 years old",
+         "Percentage of childless women": 54.2
+      },
+      {
+         "Year": "30 to 34 years old",
+         "Percentage of childless women": 33.6
+      },
+      {
+         "Year": "35 to 39 years old",
+         "Percentage of childless women": 20.0
+      },
+      {
+         "Year": "40 to 44 years old",
+         "Percentage of childless women": 15.0
+      },
+      {
+         "Year": "45 to 50 years old",
+         "Percentage of childless women": 15.4
+      }
+   ]
+}

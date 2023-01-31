@@ -1,0 +1,105 @@
+{
+   "title": "Top-selling DVDs in the U.S. in 2019",
+   "xAxis": "Movies",
+   "yAxis": "Number of units sold in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Movies in the x axis and Number of units sold in thousands in the y axis. ",
+      "The Number of units sold in thousands is appeared to be the highest at Movies The Goonies and lowest at Movies Aladdin. ",
+      "The highest Movies The Goonies has 396.95 more Number of units sold in thousands than the lowest Movies Aladdin. "
+   ],
+   "min_summary": [
+      "This bar chart has 15 columns on the x axis representing Movies, and Number of units sold in thousands in each Movies on the y axis. ",
+      "The Number of units sold in thousands is highest at Movies The Goonies and lowest at Movies Aladdin. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Movies in the x axis and Number of units sold in thousands in the y axis. ",
+      "The Number of units sold in thousands is appeared to be the highest at Movies The Goonies and lowest at Movies Aladdin. ",
+      "The highest Movies The Goonies has 396.95 more Number of units sold in thousands than the lowest Movies Aladdin. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of units sold in thousands for 15 number of Moviess. ",
+      "The Number of units sold in thousands is highest at Movies The Goonies and lowest at Movies Aladdin. ",
+      "Second maximum Number of units sold in thousands is found at Movies . ",
+      "The highest Movies The Goonies has 396.95 more Number of units sold in thousands than the lowest Movies Aladdin. ",
+      "The Movies The Goonies has the highest Number of units sold in thousands, followed by , and Bohemian Rhapsody. Down to the Movies Aladdin which is the lowest. ",
+      "Considered together, the average Number of units sold in thousands in all 15 Moviess is roughly 683.27. ",
+      "The Number of units sold in thousands is 10249.0 if we add up values of all Moviess. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Movies": "The Goonies",
+         "Number of units sold in thousands": 903.47
+      },
+      {
+         "Movies": "Aquaman",
+         "Number of units sold in thousands": 868.93
+      },
+      {
+         "Movies": "Bohemian Rhapsody",
+         "Number of units sold in thousands": 855.06
+      },
+      {
+         "Movies": "Avengers: Endgame",
+         "Number of units sold in thousands": 848.49
+      },
+      {
+         "Movies": "Captain Marvel",
+         "Number of units sold in thousands": 840.92
+      },
+      {
+         "Movies": "A Star is Born",
+         "Number of units sold in thousands": 832.1
+      },
+      {
+         "Movies": "How to Train Your Dragon: The Hidden World",
+         "Number of units sold in thousands": 686.49
+      },
+      {
+         "Movies": "Hocus Pocus",
+         "Number of units sold in thousands": 656.63
+      },
+      {
+         "Movies": "Matilda",
+         "Number of units sold in thousands": 569.92
+      },
+      {
+         "Movies": "John Wick: Chapter 3 - Parabellum",
+         "Number of units sold in thousands": 567.68
+      },
+      {
+         "Movies": "Fantastic Beasts: The Crimes of Grindelwald",
+         "Number of units sold in thousands": 542.02
+      },
+      {
+         "Movies": "Bumblebee",
+         "Number of units sold in thousands": 531.96
+      },
+      {
+         "Movies": "Dr. Seuss' The Grinch",
+         "Number of units sold in thousands": 529.48
+      },
+      {
+         "Movies": "Pokemon: Detective Pikachu",
+         "Number of units sold in thousands": 509.33
+      },
+      {
+         "Movies": "Aladdin",
+         "Number of units sold in thousands": 506.52
+      }
+   ]
+}

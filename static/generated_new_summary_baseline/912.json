@@ -1,0 +1,129 @@
+{
+   "title": "Median age of first alcohol use among U.S. youth 1991 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Average age in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average age in years. In total the number of data points it has is 23.",
+      " Overall Average age in years has increased over the Year.",
+      "The steepest increase occurs in between the Year 1991\u20131993 and 1992\u20131994.",
+      "The highest Average age in years, of value 14.64 was reached at Year 2013\u20132015",
+      "The lowest Average age in years, of value 13.65 was reported at Year 1991\u20131993"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average age in years. In total the number of data points it has is 23.",
+      " In general Average age in years has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average age in years. In total the number of data points it has is 23.",
+      " Overall Average age in years has increased over the Year.",
+      "The steepest increase occurs in between the Year 1991\u20131993 and 1992\u20131994.",
+      "The highest Average age in years, of value 14.64 was reached at Year 2013\u20132015",
+      "The lowest Average age in years, of value 13.65 was reported at Year 1991\u20131993"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average age in years, containing a total of 23 data points.",
+      " In general Average age in years has rose over the Year.",
+      "The steepest increase occurs in between the Year 1991\u20131993 and 1992\u20131994.",
+      "The highest Average age in years, of value 14.64 was reached at Year 2013\u20132015",
+      "The lowest Average age in years, of value 13.65 was reported at Year 1991\u20131993",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2013\u20132015",
+         "Average age in years": 14.64
+      },
+      {
+         "Year": "2012\u20132014",
+         "Average age in years": 14.56
+      },
+      {
+         "Year": "2011\u20132013",
+         "Average age in years": 14.47
+      },
+      {
+         "Year": "2010\u20132012",
+         "Average age in years": 14.4
+      },
+      {
+         "Year": "2009\u20132011",
+         "Average age in years": 14.35
+      },
+      {
+         "Year": "2008\u20132010",
+         "Average age in years": 14.29
+      },
+      {
+         "Year": "2007\u20132009",
+         "Average age in years": 14.22
+      },
+      {
+         "Year": "2006\u20132008",
+         "Average age in years": 14.14
+      },
+      {
+         "Year": "2005\u20132007",
+         "Average age in years": 14.06
+      },
+      {
+         "Year": "2004\u20132006",
+         "Average age in years": 13.97
+      },
+      {
+         "Year": "2003\u20132005",
+         "Average age in years": 13.9
+      },
+      {
+         "Year": "2002\u20132004",
+         "Average age in years": 13.85
+      },
+      {
+         "Year": "2001\u20132003",
+         "Average age in years": 13.82
+      },
+      {
+         "Year": "2000\u20132002",
+         "Average age in years": 13.81
+      },
+      {
+         "Year": "1999\u20132001",
+         "Average age in years": 13.81
+      },
+      {
+         "Year": "1998\u20132000",
+         "Average age in years": 13.88
+      },
+      {
+         "Year": "1997\u20131999",
+         "Average age in years": 13.91
+      },
+      {
+         "Year": "1996\u20131998",
+         "Average age in years": 13.94
+      },
+      {
+         "Year": "1995\u20131997",
+         "Average age in years": 13.85
+      },
+      {
+         "Year": "1994\u20131996",
+         "Average age in years": 13.8
+      },
+      {
+         "Year": "1993\u20131995",
+         "Average age in years": 13.76
+      },
+      {
+         "Year": "1992\u20131994",
+         "Average age in years": 13.76
+      },
+      {
+         "Year": "1991\u20131993",
+         "Average age in years": 13.65
+      }
+   ]
+}

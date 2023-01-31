@@ -1,0 +1,85 @@
+{
+   "title": "Total population of Nepal 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inhabitants in millions, containing a total of 11 data points.",
+      " In general Inhabitants in millions has rose over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and finally slightly increasing from 2015 to 2024.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Inhabitants in millions, about 30.36 was reported at Year 2024",
+      "The lowest Inhabitants in millions, of value 26.91 was reported at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inhabitants in millions. In total the number of data points it has is 11.",
+      " In general Inhabitants in millions has rose over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and finally slightly increasing from 2015 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inhabitants in millions, containing a total of 11 data points.",
+      " In general Inhabitants in millions has rose over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and finally slightly increasing from 2015 to 2024.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Inhabitants in millions, about 30.36 was reported at Year 2024",
+      "The lowest Inhabitants in millions, of value 26.91 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inhabitants in millions. In total the number of data points it has is 11.",
+      " Overall Inhabitants in millions has increased over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and finally slightly increasing from 2015 to 2024.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Inhabitants in millions, about 30.36 was reported at Year 2024",
+      "The lowest Inhabitants in millions, of value 26.91 was reported at Year 2014",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": 30.36
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": 29.97
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": 29.59
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": 29.2
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": 28.83
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": 28.46
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": 28.09
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": 27.63
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": 27.26
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": 27.02
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": 26.91
+      }
+   ]
+}

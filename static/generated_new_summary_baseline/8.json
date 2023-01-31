@@ -1,0 +1,127 @@
+{
+   "title": "Women 's average age at first marriage in Italy 2018 , by region",
+   "xAxis": "Month",
+   "yAxis": "Average age",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Average age in the y axis. ",
+      "The maximum Average age 34.7 is found at Month Aosta Valley and the minimum is found at Calabria where Average age is 30.6. ",
+      "There is a difference of 4.1 between the maximum Month Aosta Valley and minimum Month Calabria. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Average age for 20 number of Months. ",
+      "The Average age is highest at Month Aosta Valley and lowest at Month Calabria. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Average age in the y axis. ",
+      "The maximum Average age 34.7 is found at Month Aosta Valley and the minimum is found at Calabria where Average age is 30.6. ",
+      "There is a difference of 4.1 between the maximum Month Aosta Valley and minimum Month Calabria. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Average age in each Month on the y axis. ",
+      "Month Aosta Valley has the highest Average age and Calabria has the lowest Average age. ",
+      "Month  has the second highest value for Average age. ",
+      "The Average age of Month Aosta Valley is 1.13% larger than the minimum value at Calabria. ",
+      "The Month Aosta Valley has the highest Average age, followed by , and Sardinia. Down to the Month Calabria which is the lowest. ",
+      "Overall Average age has lowered over the Months. ",
+      "Month Emilia-Romagna, Tuscany, and Sardinia have a similar Average age that is 33.9. ",
+      "The Month Calabria tends to be 1.06 percent lower than average. ",
+      "The Average age is 657.1 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Aosta Valley",
+         "Average age": 34.7
+      },
+      {
+         "Month": "Liguria",
+         "Average age": 34.1
+      },
+      {
+         "Month": "Emilia-Romagna",
+         "Average age": 33.9
+      },
+      {
+         "Month": "Tuscany",
+         "Average age": 33.9
+      },
+      {
+         "Month": "Sardinia",
+         "Average age": 33.9
+      },
+      {
+         "Month": "Friuli-Venezia Giulia",
+         "Average age": 33.6
+      },
+      {
+         "Month": "Lazio",
+         "Average age": 33.5
+      },
+      {
+         "Month": "Trentino-South Tyrol",
+         "Average age": 33.4
+      },
+      {
+         "Month": "Piedmont",
+         "Average age": 33.3
+      },
+      {
+         "Month": "Lombardy",
+         "Average age": 33.1
+      },
+      {
+         "Month": "Umbria",
+         "Average age": 33.0
+      },
+      {
+         "Month": "Marche",
+         "Average age": 32.8
+      },
+      {
+         "Month": "Veneto",
+         "Average age": 32.8
+      },
+      {
+         "Month": "Abruzzo",
+         "Average age": 32.8
+      },
+      {
+         "Month": "Molise",
+         "Average age": 32.2
+      },
+      {
+         "Month": "Basilicata",
+         "Average age": 32.1
+      },
+      {
+         "Month": "Apulia",
+         "Average age": 31.6
+      },
+      {
+         "Month": "Campania",
+         "Average age": 31.0
+      },
+      {
+         "Month": "Sicily",
+         "Average age": 30.8
+      },
+      {
+         "Month": "Calabria",
+         "Average age": 30.6
+      }
+   ]
+}

@@ -1,0 +1,161 @@
+{
+   "title": "U.S. Consumer Price Index excluding food and energy 1990 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Consumer Price Index (100=1982-1984)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumer Price Index (100=1982-1984). In total the number of data points it has is 30.",
+      " In general Consumer Price Index (100=1982-1984) has rose over the Year.",
+      "Consumer Price Index (100=1982-1984) is gradually increasing from 1990 to 2008, roughly constant from 2008 to 2010, and finally slightly increasing from 2010 to 2019.",
+      "The most drastic increase took place within the Year 1990 and 1991.",
+      "The highest Consumer Price Index (100=1982-1984), of value 263.21 was reached at Year 2019",
+      "The lowest Consumer Price Index (100=1982-1984), of value 135.5 was reported at Year 1990"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumer Price Index (100=1982-1984). In total the number of data points it has is 30.",
+      " In general Consumer Price Index (100=1982-1984) has rose over the Year.",
+      "Consumer Price Index (100=1982-1984) is gradually increasing from 1990 to 2008, roughly constant from 2008 to 2010, and finally slightly increasing from 2010 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumer Price Index (100=1982-1984). In total the number of data points it has is 30.",
+      " In general Consumer Price Index (100=1982-1984) has rose over the Year.",
+      "Consumer Price Index (100=1982-1984) is gradually increasing from 1990 to 2008, roughly constant from 2008 to 2010, and finally slightly increasing from 2010 to 2019.",
+      "The most drastic increase took place within the Year 1990 and 1991.",
+      "The highest Consumer Price Index (100=1982-1984), of value 263.21 was reached at Year 2019",
+      "The lowest Consumer Price Index (100=1982-1984), of value 135.5 was reported at Year 1990"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Consumer Price Index (100=1982-1984), containing a total of 30 data points.",
+      " Overall Consumer Price Index (100=1982-1984) has increased over the Year.",
+      "Consumer Price Index (100=1982-1984) is gradually increasing from 1990 to 2008, roughly constant from 2008 to 2010, and finally slightly increasing from 2010 to 2019.",
+      "The most drastic increase took place within the Year 1990 and 1991.",
+      "The highest Consumer Price Index (100=1982-1984), of value 263.21 was reached at Year 2019",
+      "The lowest Consumer Price Index (100=1982-1984), of value 135.5 was reported at Year 1990",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "1990",
+         "Consumer Price Index (100=1982-1984)": 135.5
+      },
+      {
+         "Year": "1991",
+         "Consumer Price Index (100=1982-1984)": 142.1
+      },
+      {
+         "Year": "1992",
+         "Consumer Price Index (100=1982-1984)": 147.3
+      },
+      {
+         "Year": "1993",
+         "Consumer Price Index (100=1982-1984)": 152.2
+      },
+      {
+         "Year": "1994",
+         "Consumer Price Index (100=1982-1984)": 156.5
+      },
+      {
+         "Year": "1995",
+         "Consumer Price Index (100=1982-1984)": 161.2
+      },
+      {
+         "Year": "1996",
+         "Consumer Price Index (100=1982-1984)": 165.6
+      },
+      {
+         "Year": "1997",
+         "Consumer Price Index (100=1982-1984)": 169.5
+      },
+      {
+         "Year": "1998",
+         "Consumer Price Index (100=1982-1984)": 173.4
+      },
+      {
+         "Year": "1999",
+         "Consumer Price Index (100=1982-1984)": 177.0
+      },
+      {
+         "Year": "2000",
+         "Consumer Price Index (100=1982-1984)": 181.3
+      },
+      {
+         "Year": "2001",
+         "Consumer Price Index (100=1982-1984)": 186.1
+      },
+      {
+         "Year": "2002",
+         "Consumer Price Index (100=1982-1984)": 190.5
+      },
+      {
+         "Year": "2003",
+         "Consumer Price Index (100=1982-1984)": 193.2
+      },
+      {
+         "Year": "2004",
+         "Consumer Price Index (100=1982-1984)": 196.6
+      },
+      {
+         "Year": "2005",
+         "Consumer Price Index (100=1982-1984)": 200.9
+      },
+      {
+         "Year": "2006",
+         "Consumer Price Index (100=1982-1984)": 205.9
+      },
+      {
+         "Year": "2007",
+         "Consumer Price Index (100=1982-1984)": 210.73
+      },
+      {
+         "Year": "2008",
+         "Consumer Price Index (100=1982-1984)": 215.57
+      },
+      {
+         "Year": "2009",
+         "Consumer Price Index (100=1982-1984)": 219.24
+      },
+      {
+         "Year": "2010",
+         "Consumer Price Index (100=1982-1984)": 221.34
+      },
+      {
+         "Year": "2011",
+         "Consumer Price Index (100=1982-1984)": 225.01
+      },
+      {
+         "Year": "2012",
+         "Consumer Price Index (100=1982-1984)": 229.76
+      },
+      {
+         "Year": "2013",
+         "Consumer Price Index (100=1982-1984)": 233.81
+      },
+      {
+         "Year": "2014",
+         "Consumer Price Index (100=1982-1984)": 237.9
+      },
+      {
+         "Year": "2015",
+         "Consumer Price Index (100=1982-1984)": 242.25
+      },
+      {
+         "Year": "2016",
+         "Consumer Price Index (100=1982-1984)": 247.6
+      },
+      {
+         "Year": "2017",
+         "Consumer Price Index (100=1982-1984)": 252.17
+      },
+      {
+         "Year": "2018",
+         "Consumer Price Index (100=1982-1984)": 257.57
+      },
+      {
+         "Year": "2019",
+         "Consumer Price Index (100=1982-1984)": 263.21
+      }
+   ]
+}

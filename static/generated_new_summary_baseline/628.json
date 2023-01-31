@@ -1,0 +1,69 @@
+{
+   "title": "Skype usage reach in the United States 2018 , by age group",
+   "xAxis": "Year",
+   "yAxis": "Reach",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Reach. In total the number of data points it has is 7.",
+      " Overall Reach has decreased over the Year.",
+      "Reach is roughly constant from 18-24 to 25-34, gradually decreasing from 25-34 to 55-64, roughly constant from 55-64 to 65-75, and finally slightly decreasing from 65-75 to 75+.",
+      "The steepest decrease occurs in between the Year 25-34 and 35-44.",
+      "Maximum Reach, about 52.0 was reported at Year 25-34",
+      "Minimum Reach about 16.0 was reached at Year 75+"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Reach, containing a total of 7 data points.",
+      " In general Reach has fallen over the Year.",
+      "Reach is roughly constant from 18-24 to 25-34, gradually decreasing from 25-34 to 55-64, roughly constant from 55-64 to 65-75, and finally slightly decreasing from 65-75 to 75+."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Reach. In total the number of data points it has is 7.",
+      " Overall Reach has decreased over the Year.",
+      "Reach is roughly constant from 18-24 to 25-34, gradually decreasing from 25-34 to 55-64, roughly constant from 55-64 to 65-75, and finally slightly decreasing from 65-75 to 75+.",
+      "The steepest decrease occurs in between the Year 25-34 and 35-44.",
+      "Maximum Reach, about 52.0 was reported at Year 25-34",
+      "Minimum Reach about 16.0 was reached at Year 75+"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Reach, containing a total of 7 data points.",
+      " In general Reach has fallen over the Year.",
+      "Reach is roughly constant from 18-24 to 25-34, gradually decreasing from 25-34 to 55-64, roughly constant from 55-64 to 65-75, and finally slightly decreasing from 65-75 to 75+.",
+      "The steepest decrease occurs in between the Year 25-34 and 35-44.",
+      "Maximum Reach, about 52.0 was reported at Year 25-34",
+      "Minimum Reach about 16.0 was reached at Year 75+",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "18-24",
+         "Reach": 51.0
+      },
+      {
+         "Year": "25-34",
+         "Reach": 52.0
+      },
+      {
+         "Year": "35-44",
+         "Reach": 42.0
+      },
+      {
+         "Year": "45-54",
+         "Reach": 33.0
+      },
+      {
+         "Year": "55-64",
+         "Reach": 25.0
+      },
+      {
+         "Year": "65-75",
+         "Reach": 26.0
+      },
+      {
+         "Year": "75+",
+         "Reach": 16.0
+      }
+   ]
+}

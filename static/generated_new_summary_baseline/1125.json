@@ -1,0 +1,81 @@
+{
+   "title": "Crude oil imports to Canada by region of origin 2018",
+   "xAxis": "Country",
+   "yAxis": "Imports in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Imports in million metric tons for 9 number of Countrys. ",
+      "The maximum Imports in million metric tons 29.1 is found at Country Total and the minimum is found at Russia where Imports in million metric tons is 0.2. ",
+      "There is a difference of 28.9 between the maximum Country Total and minimum Country Russia. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Imports in million metric tons for 9 number of Countrys. ",
+      "The maximum Imports in million metric tons 29.1 is found at Country Total and the minimum is found at Russia where Imports in million metric tons is 0.2. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Imports in million metric tons for 9 number of Countrys. ",
+      "The maximum Imports in million metric tons 29.1 is found at Country Total and the minimum is found at Russia where Imports in million metric tons is 0.2. ",
+      "There is a difference of 28.9 between the maximum Country Total and minimum Country Russia. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Imports in million metric tons in the y axis. ",
+      "The Imports in million metric tons is highest at Country Total and lowest at Country Russia. ",
+      "The highest Country Total has 28.9 more Imports in million metric tons than the lowest Country Russia. ",
+      "Imports in million metric tons at Country Total is 29.1 , second place is  at 18.8, and thirdly is Saudi Arabia at 5.6.",
+      "Country West Africa, and CIS (excluding Russia) share the same value 1.1. ",
+      "The Country Russia tends to be 4.51 percent lower than average. ",
+      "Summing up the values of all Countrys, we get total 58.1. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 8,
+         "12": 8
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Imports in million metric tons": 18.8
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Imports in million metric tons": 5.6
+      },
+      {
+         "Country": "West Africa",
+         "Imports in million metric tons": 1.1
+      },
+      {
+         "Country": "Europe",
+         "Imports in million metric tons": 1.4
+      },
+      {
+         "Country": "CIS (excluding Russia)",
+         "Imports in million metric tons": 1.1
+      },
+      {
+         "Country": "North Africa",
+         "Imports in million metric tons": 0.5
+      },
+      {
+         "Country": "South and Central America",
+         "Imports in million metric tons": 0.3
+      },
+      {
+         "Country": "Russia",
+         "Imports in million metric tons": 0.2
+      },
+      {
+         "Country": "Total",
+         "Imports in million metric tons": 29.1
+      }
+   ]
+}

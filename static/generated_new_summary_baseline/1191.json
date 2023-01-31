@@ -1,0 +1,81 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Pakistan 2024 ",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth compared to previous year has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2018 and 2019.",
+      "The highest GDP growth compared to previous year, of value 5.53 was reached at Year 2018",
+      "Minimum GDP growth compared to previous year about 2.35 was reached at Year 2020"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth compared to previous year has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth compared to previous year has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2018 and 2019.",
+      "The highest GDP growth compared to previous year, of value 5.53 was reached at Year 2018",
+      "Minimum GDP growth compared to previous year about 2.35 was reached at Year 2020"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth compared to previous year has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2018 and 2019.",
+      "The highest GDP growth compared to previous year, of value 5.53 was reached at Year 2018",
+      "Minimum GDP growth compared to previous year about 2.35 was reached at Year 2020",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 5.02
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 5.02
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 4.53
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 3.0
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 2.35
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 3.29
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 5.53
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 5.22
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 4.56
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 4.06
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 4.05
+      }
+   ]
+}

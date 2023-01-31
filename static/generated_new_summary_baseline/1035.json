@@ -1,0 +1,118 @@
+{
+   "title": "Share of projected base oil demand worldwide by type 2015 to 2030",
+   "labels": [
+      "Year",
+      "Paraffinic Group I",
+      "Paraffinic Group II",
+      "Paraffinic Group III",
+      "Naphthenic",
+      "Synthetic",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 6 lines namely Paraffinic Group I, Paraffinic Group II, Paraffinic Group III, Naphthenic, Synthetic, and Other. The y axis represents Share of projected demand and the x axis represents Year.",
+      "Overall Paraffinic Group II, Paraffinic Group III, and Synthetic are gradually increasing, Paraffinic Group I, and Naphthenic are gradually decreasing, Other is roughly constant,  throughout the Year",
+      "Overall across the Year, Paraffinic Group I mostly maintained the highest Share of projected demand when compared to others with a mean value of 45.67, and it peaked at 2015.",
+      "Followed by Paraffinic Group II which ranks as the second topmpost line , with an average of 26.0 Share of projected demand,reaching its highest point  at 2030 with a value of 31.0. ",
+      "The botommost line, Other,  has a mean of 1.0, and peaked at 2020. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of projected demand",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 6 lines denoting Paraffinic Group I, Paraffinic Group II, Paraffinic Group III, Naphthenic, Synthetic, and Other. The y axis indicates the Share of projected demand and the x axis indicates Year.",
+      "Overall Paraffinic Group II, Paraffinic Group III, and Synthetic are gradually increasing, Paraffinic Group I, and Naphthenic are gradually decreasing, Other is roughly constant,  throughout the Year",
+      "Throughout the period, Paraffinic Group I generally had the highest Share of projected demand relative to others with an average of 45.67, and it reached its maximum at 2015 with a value of 54.0.",
+      "Followed by Paraffinic Group II which ranks as the second topmpost line , with an average of 26.0 Share of projected demand,reaching its highest point  at 2030 with a value of 31.0. ",
+      "Other mostly had the least Share of projected demand with a mean value of 1.0, which peaked at 2020 with a value of 2.0. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 6 lines namely Paraffinic Group I, Paraffinic Group II, Paraffinic Group III, Naphthenic, Synthetic, and Other. The y axis represents Share of projected demand and the x axis represents Year.",
+      "Overall Paraffinic Group II, Paraffinic Group III, and Synthetic are gradually increasing, Paraffinic Group I, and Naphthenic are gradually decreasing, Other is roughly constant,  throughout the Year",
+      "Overall across the Year, Paraffinic Group I mostly maintained the highest Share of projected demand when compared to others with a mean value of 45.67, and it peaked at 2015.",
+      "Followed by Paraffinic Group II which ranks as the second topmpost line , with an average of 26.0 Share of projected demand,reaching its highest point  at 2030 with a value of 31.0. ",
+      "The botommost line, Other,  has a mean of 1.0, and peaked at 2020. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 6 lines namely Paraffinic Group I, Paraffinic Group II, Paraffinic Group III, Naphthenic, Synthetic, and Other. The y axis represents Share of projected demand and the x axis represents Year.",
+      "Overall Paraffinic Group II, Paraffinic Group III, and Synthetic are gradually increasing, Paraffinic Group I, and Naphthenic are gradually decreasing, Other is roughly constant,  throughout the Year",
+      "Throughout the period, Paraffinic Group I generally had the highest Share of projected demand relative to others with an average of 45.67, and it reached its maximum at 2015 with a value of 54.0.",
+      "After Paraffinic Group I, Paraffinic Group II overall has the second highest values , with a mean value of 26.0, peaking at 2030. ",
+      "Other mostly had the least Share of projected demand with a mean value of 1.0, which peaked at 2020 with a value of 2.0. ",
+      "Other reported the lowest Share of projected demand about 0.0 in Year 2030"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "1"
+         ],
+         "10": [
+            "2",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Paraffinic Group I": "54",
+         "Paraffinic Group II": "22",
+         "Paraffinic Group III": "8",
+         "Naphthenic": "10",
+         "Synthetic": "5",
+         "Other": "1"
+      },
+      {
+         "Year": "2020",
+         "Paraffinic Group I": "44",
+         "Paraffinic Group II": "25",
+         "Paraffinic Group III": "12",
+         "Naphthenic": "10",
+         "Synthetic": "5",
+         "Other": "2"
+      },
+      {
+         "Year": "2030",
+         "Paraffinic Group I": "39",
+         "Paraffinic Group II": "31",
+         "Paraffinic Group III": "16",
+         "Naphthenic": "7",
+         "Synthetic": "8",
+         "Other": "0"
+      }
+   ]
+}

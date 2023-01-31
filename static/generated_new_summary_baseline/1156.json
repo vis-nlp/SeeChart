@@ -1,0 +1,61 @@
+{
+   "title": "Forecast Google Glass unit sales 2014 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unit sales in millions, containing a total of 5 data points.",
+      " In general Unit sales in millions has rose over the Year.",
+      "Unit sales in millions is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, and finally slightly increasing from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Unit sales in millions, of value 21.15 was reached at Year 2018",
+      "Minimum Unit sales in millions about 0.83 was reached at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unit sales in millions. In total the number of data points it has is 5.",
+      " In general Unit sales in millions has rose over the Year.",
+      "Unit sales in millions is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, and finally slightly increasing from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unit sales in millions, containing a total of 5 data points.",
+      " In general Unit sales in millions has rose over the Year.",
+      "Unit sales in millions is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, and finally slightly increasing from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Unit sales in millions, of value 21.15 was reached at Year 2018",
+      "Minimum Unit sales in millions about 0.83 was reached at Year 2014"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unit sales in millions. In total the number of data points it has is 5.",
+      " Overall Unit sales in millions has increased over the Year.",
+      "Unit sales in millions is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, and finally slightly increasing from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Unit sales in millions, of value 21.15 was reached at Year 2018",
+      "Minimum Unit sales in millions about 0.83 was reached at Year 2014",
+      "The line drastically increased by 3.0 times from Year 2014 to 2015,increased by 2.8 times from Year 2016 to 2017, and lastly, increased by 2.0 times from Year 2017 to 2018."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Unit sales in millions": 21.15
+      },
+      {
+         "Year": "2017",
+         "Unit sales in millions": 10.62
+      },
+      {
+         "Year": "2016",
+         "Unit sales in millions": 3.74
+      },
+      {
+         "Year": "2015",
+         "Unit sales in millions": 2.47
+      },
+      {
+         "Year": "2014",
+         "Unit sales in millions": 0.83
+      }
+   ]
+}

@@ -1,0 +1,117 @@
+{
+   "title": "Arizona - real GDP 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Real GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Real GDP in billion U.S. dollars. In total the number of data points it has is 19.",
+      " In general Real GDP in billion U.S. dollars has rose over the Year.",
+      "Real GDP in billion U.S. dollars is gradually increasing from 2000 to 2006, roughly decreasing from 2006 to 2009, roughly constant from 2009 to 2014, and lastly slightly increasing from 2014 to 2018.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Real GDP in billion U.S. dollars, of value 309.07 was reached at Year 2018",
+      "The lowest Real GDP in billion U.S. dollars, of value 207.79 was reported at Year 2000"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Real GDP in billion U.S. dollars, containing a total of 19 data points.",
+      " Overall Real GDP in billion U.S. dollars has increased over the Year.",
+      "Real GDP in billion U.S. dollars is gradually increasing from 2000 to 2006, roughly decreasing from 2006 to 2009, roughly constant from 2009 to 2014, and lastly slightly increasing from 2014 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Real GDP in billion U.S. dollars. In total the number of data points it has is 19.",
+      " In general Real GDP in billion U.S. dollars has rose over the Year.",
+      "Real GDP in billion U.S. dollars is gradually increasing from 2000 to 2006, roughly decreasing from 2006 to 2009, roughly constant from 2009 to 2014, and lastly slightly increasing from 2014 to 2018.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Real GDP in billion U.S. dollars, of value 309.07 was reached at Year 2018",
+      "The lowest Real GDP in billion U.S. dollars, of value 207.79 was reported at Year 2000"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Real GDP in billion U.S. dollars, containing a total of 19 data points.",
+      " Overall Real GDP in billion U.S. dollars has increased over the Year.",
+      "Real GDP in billion U.S. dollars is gradually increasing from 2000 to 2006, roughly decreasing from 2006 to 2009, roughly constant from 2009 to 2014, and lastly slightly increasing from 2014 to 2018.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Real GDP in billion U.S. dollars, of value 309.07 was reached at Year 2018",
+      "The lowest Real GDP in billion U.S. dollars, of value 207.79 was reported at Year 2000",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Real GDP in billion U.S. dollars": 309.07
+      },
+      {
+         "Year": "2017",
+         "Real GDP in billion U.S. dollars": 297.21
+      },
+      {
+         "Year": "2016",
+         "Real GDP in billion U.S. dollars": 288.68
+      },
+      {
+         "Year": "2015",
+         "Real GDP in billion U.S. dollars": 279.43
+      },
+      {
+         "Year": "2014",
+         "Real GDP in billion U.S. dollars": 273.41
+      },
+      {
+         "Year": "2013",
+         "Real GDP in billion U.S. dollars": 270.15
+      },
+      {
+         "Year": "2012",
+         "Real GDP in billion U.S. dollars": 268.29
+      },
+      {
+         "Year": "2011",
+         "Real GDP in billion U.S. dollars": 263.21
+      },
+      {
+         "Year": "2010",
+         "Real GDP in billion U.S. dollars": 257.48
+      },
+      {
+         "Year": "2009",
+         "Real GDP in billion U.S. dollars": 255.08
+      },
+      {
+         "Year": "2008",
+         "Real GDP in billion U.S. dollars": 277.48
+      },
+      {
+         "Year": "2007",
+         "Real GDP in billion U.S. dollars": 284.91
+      },
+      {
+         "Year": "2006",
+         "Real GDP in billion U.S. dollars": 277.29
+      },
+      {
+         "Year": "2005",
+         "Real GDP in billion U.S. dollars": 263.06
+      },
+      {
+         "Year": "2004",
+         "Real GDP in billion U.S. dollars": 243.25
+      },
+      {
+         "Year": "2003",
+         "Real GDP in billion U.S. dollars": 233.34
+      },
+      {
+         "Year": "2002",
+         "Real GDP in billion U.S. dollars": 219.31
+      },
+      {
+         "Year": "2001",
+         "Real GDP in billion U.S. dollars": 212.66
+      },
+      {
+         "Year": "2000",
+         "Real GDP in billion U.S. dollars": 207.79
+      }
+   ]
+}

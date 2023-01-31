@@ -1,0 +1,77 @@
+{
+   "title": "Live Nation Entertainment 's artist management revenue from 2008 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 9.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2008 to 2010, roughly constant from 2010 to 2012, roughly increasing from 2012 to 2014, and finally roughly constant from 2014 to 2016.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "Maximum Revenue in million U.S. dollars, about 434.2 was reported at Year 2015",
+      "Minimum Revenue in million U.S. dollars about 228.83 was reached at Year 2008"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 9.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2008 to 2010, roughly constant from 2010 to 2012, roughly increasing from 2012 to 2014, and finally roughly constant from 2014 to 2016."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 9.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2008 to 2010, roughly constant from 2010 to 2012, roughly increasing from 2012 to 2014, and finally roughly constant from 2014 to 2016.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "Maximum Revenue in million U.S. dollars, about 434.2 was reported at Year 2015",
+      "Minimum Revenue in million U.S. dollars about 228.83 was reached at Year 2008"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 9.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2008 to 2010, roughly constant from 2010 to 2012, roughly increasing from 2012 to 2014, and finally roughly constant from 2014 to 2016.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "Maximum Revenue in million U.S. dollars, about 434.2 was reported at Year 2015",
+      "Minimum Revenue in million U.S. dollars about 228.83 was reached at Year 2008",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 421.71
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 434.2
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 389.44
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 352.95
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 399.94
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 393.13
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 362.16
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 251.5
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 228.83
+      }
+   ]
+}

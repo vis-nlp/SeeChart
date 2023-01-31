@@ -1,0 +1,157 @@
+{
+   "title": "Distribution of the workforce across economic sectors in China from 2008 to 2018",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of the workforce and the x axis indicates Year.",
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of the workforce in descending order is: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
+      "Throughout the period, Services generally had the highest Share of the workforce relative to others with an average of 39.08, and it reached its maximum at 2018 with a value of 46.3.",
+      "Followed by Agriculture which ranks as the second topmpost line , with an average of 32.1 Share of the workforce,reaching its highest point  at 2008 with a value of 39.6. ",
+      "The botommost line, Industry,  has a mean of 28.85, and peaked at 2012. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of the workforce",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of the workforce and the x axis indicates Year.",
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
+      "Throughout the period, Services generally had the highest Share of the workforce relative to others with an average of 39.08, and it reached its maximum at 2018 with a value of 46.3.",
+      "After Services, Agriculture overall has the second highest values , with a mean value of 32.1, peaking at 2008. ",
+      "The botommost line, Industry,  has a mean of 28.85, and peaked at 2012. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of the workforce and the x axis indicates Year.",
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of the workforce in descending order is: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
+      "Throughout the period, Services generally had the highest Share of the workforce relative to others with an average of 39.08, and it reached its maximum at 2018 with a value of 46.3.",
+      "Followed by Agriculture which ranks as the second topmpost line , with an average of 32.1 Share of the workforce,reaching its highest point  at 2008 with a value of 39.6. ",
+      "The botommost line, Industry,  has a mean of 28.85, and peaked at 2012. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Share of the workforce and the x axis represents Year.",
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
+      "Throughout the period, Services generally had the highest Share of the workforce relative to others with an average of 39.08, and it reached its maximum at 2018 with a value of 46.3.",
+      "After Services, Agriculture overall has the second highest values , with a mean value of 32.1, peaking at 2008. ",
+      "Industry mostly had the least Share of the workforce with a mean value of 28.85, which peaked at 2012 with a value of 30.3. ",
+      "Agriculture reported the lowest Share of the workforce about 26.1 in Year 2018"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "0"
+         ],
+         "10": [
+            "10",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "26.1",
+         "Industry": "27.6",
+         "Services": "46.3"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "27",
+         "Industry": "28.1",
+         "Services": "44.9"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "27.7",
+         "Industry": "28.8",
+         "Services": "43.5"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "28.3",
+         "Industry": "29.3",
+         "Services": "42.4"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "29.5",
+         "Industry": "29.9",
+         "Services": "40.6"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "31.4",
+         "Industry": "30.1",
+         "Services": "38.5"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "33.6",
+         "Industry": "30.3",
+         "Services": "36.1"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "34.8",
+         "Industry": "29.5",
+         "Services": "35.7"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "36.7",
+         "Industry": "28.7",
+         "Services": "34.6"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "38.1",
+         "Industry": "27.8",
+         "Services": "34.1"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "39.6",
+         "Industry": "27.2",
+         "Services": "33.2"
+      }
+   ]
+}

@@ -1,0 +1,126 @@
+{
+   "title": "Boston Celtics concession stand prices ( beer , soft drink , hot dog ) 2010 to 2016",
+   "labels": [
+      "Year",
+      "Beer",
+      "Soft drink",
+      "Hot dog"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 3 lines representing Beer, Soft drink, and Hot dog. The y axis denotes Sales price in USD and the x axis denotes Year.",
+      "Overall Beer, Soft drink, and Hot dog are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Beer, 2. Hot dog, and lastly, 3. Soft drink. ",
+      "Overall across the Year, Beer mostly maintained the highest Sales price in USD when compared to others with a mean value of 7.96, and it peaked at 2014/15, and 2015/16.",
+      "After Beer, Hot dog overall has the second highest values , with a mean value of 5.0, peaking at 2015/16. ",
+      "The botommost line, Soft drink,  has a mean of 4.5, and peaked at 2013/14. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Sales price in USD",
+   "min_summary": [
+      "This is a multi-line chart with 3 lines representing Beer, Soft drink, and Hot dog. The y axis denotes Sales price in USD and the x axis denotes Year.",
+      "Overall Beer, Soft drink, and Hot dog are gradually increasing,  throughout the Year",
+      "Throughout the period, Beer generally had the highest Sales price in USD relative to others with an average of 7.96, and it reached its maximum at 2014/15, and 2015/16 with a value of 8.5.",
+      "After Beer, Hot dog overall has the second highest values , with a mean value of 5.0, peaking at 2015/16. ",
+      "Soft drink mostly had the least Sales price in USD with a mean value of 4.5, which peaked at 2013/14 with a value of 5.5. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 3 lines representing Beer, Soft drink, and Hot dog. The y axis denotes Sales price in USD and the x axis denotes Year.",
+      "Overall Beer, Soft drink, and Hot dog are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Beer, 2. Hot dog, and lastly, 3. Soft drink. ",
+      "Overall across the Year, Beer mostly maintained the highest Sales price in USD when compared to others with a mean value of 7.96, and it peaked at 2014/15, and 2015/16.",
+      "After Beer, Hot dog overall has the second highest values , with a mean value of 5.0, peaking at 2015/16. ",
+      "The botommost line, Soft drink,  has a mean of 4.5, and peaked at 2013/14. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 3 lines representing Beer, Soft drink, and Hot dog. The y axis denotes Sales price in USD and the x axis denotes Year.",
+      "Overall Beer, Soft drink, and Hot dog are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Sales price in USD in descending order is: 1. Beer, 2. Hot dog, and lastly, 3. Soft drink. ",
+      "Overall across the Year, Beer mostly maintained the highest Sales price in USD when compared to others with a mean value of 7.96, and it peaked at 2014/15, and 2015/16.",
+      "After Beer, Hot dog overall has the second highest values , with a mean value of 5.0, peaking at 2015/16. ",
+      "Soft drink mostly had the least Sales price in USD with a mean value of 4.5, which peaked at 2013/14 with a value of 5.5. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "5",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Beer": "8.5",
+         "Soft drink": "5.0",
+         "Hot dog": "5.5"
+      },
+      {
+         "Year": "2014/15",
+         "Beer": "8.5",
+         "Soft drink": "5.0",
+         "Hot dog": "5.5"
+      },
+      {
+         "Year": "2013/14",
+         "Beer": "8.25",
+         "Soft drink": "5.5",
+         "Hot dog": "5.5"
+      },
+      {
+         "Year": "2012/13",
+         "Beer": "8.0",
+         "Soft drink": "4.0",
+         "Hot dog": "4.75"
+      },
+      {
+         "Year": "2011/12",
+         "Beer": "7.25",
+         "Soft drink": "3.75",
+         "Hot dog": "4.5"
+      },
+      {
+         "Year": "2010/11",
+         "Beer": "7.25",
+         "Soft drink": "3.75",
+         "Hot dog": "4.5"
+      }
+   ]
+}

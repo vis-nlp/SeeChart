@@ -1,0 +1,93 @@
+{
+   "title": "Expenditure on beer in the United Kingdom 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Expenditure in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million GBP. In total the number of data points it has is 14.",
+      " In general Expenditure in million GBP has rose over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Expenditure in million GBP, about 5631.0 was reported at Year 2018",
+      "The lowest Expenditure in million GBP, of value 3677.0 was reported at Year 2008"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Expenditure in million GBP, containing a total of 14 data points.",
+      " Overall Expenditure in million GBP has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million GBP. In total the number of data points it has is 14.",
+      " In general Expenditure in million GBP has rose over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Expenditure in million GBP, about 5631.0 was reported at Year 2018",
+      "The lowest Expenditure in million GBP, of value 3677.0 was reported at Year 2008"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million GBP. In total the number of data points it has is 14.",
+      " Overall Expenditure in million GBP has increased over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum Expenditure in million GBP, about 5631.0 was reported at Year 2018",
+      "The lowest Expenditure in million GBP, of value 3677.0 was reported at Year 2008",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Expenditure in million GBP": 5631.0
+      },
+      {
+         "Year": "2017",
+         "Expenditure in million GBP": 5091.0
+      },
+      {
+         "Year": "2016",
+         "Expenditure in million GBP": 4640.0
+      },
+      {
+         "Year": "2015",
+         "Expenditure in million GBP": 4571.0
+      },
+      {
+         "Year": "2014",
+         "Expenditure in million GBP": 4573.0
+      },
+      {
+         "Year": "2013",
+         "Expenditure in million GBP": 4435.0
+      },
+      {
+         "Year": "2012",
+         "Expenditure in million GBP": 4188.0
+      },
+      {
+         "Year": "2011",
+         "Expenditure in million GBP": 4119.0
+      },
+      {
+         "Year": "2010",
+         "Expenditure in million GBP": 3994.0
+      },
+      {
+         "Year": "2009",
+         "Expenditure in million GBP": 4142.0
+      },
+      {
+         "Year": "2008",
+         "Expenditure in million GBP": 3677.0
+      },
+      {
+         "Year": "2007",
+         "Expenditure in million GBP": 3802.0
+      },
+      {
+         "Year": "2006",
+         "Expenditure in million GBP": 3976.0
+      },
+      {
+         "Year": "2005",
+         "Expenditure in million GBP": 3714.0
+      }
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "title": "Estimated decrease of GDP in Japan due to earthquake and tsunami 2011",
+   "xAxis": "Category Of Gdp",
+   "yAxis": "Decrease in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Category Of Gdp in the x axis and Decrease in billion euros in the y axis. ",
+      "The Decrease in billion euros is highest at Category Of Gdp Total and lowest at Category Of Gdp Exports. ",
+      "The highest Category Of Gdp Total has 68.6 more Decrease in billion euros than the lowest Category Of Gdp Exports. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Category Of Gdp in the x axis and Decrease in billion euros in the y axis. ",
+      "The maximum Decrease in billion euros 70.0 is found at Category Of Gdp Total and the minimum is found at Exports where Decrease in billion euros is 1.4. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Category Of Gdp in the x axis and Decrease in billion euros in the y axis. ",
+      "The Decrease in billion euros is highest at Category Of Gdp Total and lowest at Category Of Gdp Exports. ",
+      "The highest Category Of Gdp Total has 68.6 more Decrease in billion euros than the lowest Category Of Gdp Exports. "
+   ],
+   "max_summary": [
+      "This bar chart has 6 columns on the x axis representing Category Of Gdp, and Decrease in billion euros in each Category Of Gdp on the y axis. ",
+      "Category Of Gdp Total has the highest Decrease in billion euros and Exports has the lowest Decrease in billion euros. ",
+      "Second maximum Decrease in billion euros is found at Category Of Gdp . ",
+      "The difference of Decrease in billion euros between the highest and lowest Category Of Gdp is 68.6. ",
+      "The Category Of Gdp Total has the highest Decrease in billion euros, followed by , and Private consumption. Down to the Category Of Gdp Exports which is the lowest. ",
+      "Considered together, the average Decrease in billion euros in all 6 Category Of Gdps is roughly 23.28. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category Of Gdp": "Total",
+         "Decrease in billion euros": 70.0
+      },
+      {
+         "Category Of Gdp": "Production",
+         "Decrease in billion euros": 45.4
+      },
+      {
+         "Category Of Gdp": "Private consumption",
+         "Decrease in billion euros": 18.2
+      },
+      {
+         "Category Of Gdp": "Power generation",
+         "Decrease in billion euros": 2.7
+      },
+      {
+         "Category Of Gdp": "Imports",
+         "Decrease in billion euros": 2.0
+      },
+      {
+         "Category Of Gdp": "Exports",
+         "Decrease in billion euros": 1.4
+      }
+   ]
+}

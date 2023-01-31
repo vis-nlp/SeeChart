@@ -1,0 +1,144 @@
+{
+   "title": "Leading life insurance companies in the U.S. 2018 , by assets",
+   "xAxis": "Insurers",
+   "yAxis": "Total assets in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Total assets in billion U.S. dollars for 25 number of Insurerss. ",
+      "Insurers Prudential Financial has the highest Total assets in billion U.S. dollars and Guardian has the lowest Total assets in billion U.S. dollars. ",
+      "There is a difference of 502.32 between the maximum Insurers Prudential Financial and minimum Insurers Guardian. "
+   ],
+   "min_summary": [
+      "This bar chart has 25 columns on the x axis representing Insurers, and Total assets in billion U.S. dollars in each Insurers on the y axis. ",
+      "The Total assets in billion U.S. dollars is appeared to be the highest at Insurers Prudential Financial and lowest at Insurers Guardian. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Total assets in billion U.S. dollars for 25 number of Insurerss. ",
+      "Insurers Prudential Financial has the highest Total assets in billion U.S. dollars and Guardian has the lowest Total assets in billion U.S. dollars. ",
+      "There is a difference of 502.32 between the maximum Insurers Prudential Financial and minimum Insurers Guardian. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Insurers in the x axis and Total assets in billion U.S. dollars in the y axis. ",
+      "The Total assets in billion U.S. dollars is appeared to be the highest at Insurers Prudential Financial and lowest at Insurers Guardian. ",
+      "Insurers  has the second highest value for Total assets in billion U.S. dollars. ",
+      "The highest Insurers Prudential Financial has 502.32 more Total assets in billion U.S. dollars than the lowest Insurers Guardian. ",
+      "The Insurers Prudential Financial has the highest Total assets in billion U.S. dollars, followed by , and New York Life. Down to the Insurers Guardian which is the lowest. ",
+      "The Insurers Guardian has 2.77 times less Total assets in billion U.S. dollars than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 24,
+         "12": 24
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Insurers": "Prudential Financial",
+         "Total assets in billion U.S. dollars": 577.91
+      },
+      {
+         "Insurers": "MetLife Inc.",
+         "Total assets in billion U.S. dollars": 409.62
+      },
+      {
+         "Insurers": "New York Life",
+         "Total assets in billion U.S. dollars": 324.78
+      },
+      {
+         "Insurers": "TIAA-CREF",
+         "Total assets in billion U.S. dollars": 316.04
+      },
+      {
+         "Insurers": "American International Group",
+         "Total assets in billion U.S. dollars": 285.0
+      },
+      {
+         "Insurers": "Northwestern Mutual",
+         "Total assets in billion U.S. dollars": 272.27
+      },
+      {
+         "Insurers": "Lincoln Financial",
+         "Total assets in billion U.S. dollars": 255.64
+      },
+      {
+         "Insurers": "Massachusetts Mutual",
+         "Total assets in billion U.S. dollars": 254.87
+      },
+      {
+         "Insurers": "Manulife Financial",
+         "Total assets in billion U.S. dollars": 247.57
+      },
+      {
+         "Insurers": "Jackson National",
+         "Total assets in billion U.S. dollars": 236.99
+      },
+      {
+         "Insurers": "Transamerica Corporation",
+         "Total assets in billion U.S. dollars": 201.2
+      },
+      {
+         "Insurers": "AXA Financial",
+         "Total assets in billion U.S. dollars": 194.99
+      },
+      {
+         "Insurers": "Voya Financial",
+         "Total assets in billion U.S. dollars": 189.37
+      },
+      {
+         "Insurers": "Principal Financial",
+         "Total assets in billion U.S. dollars": 185.01
+      },
+      {
+         "Insurers": "Brighthouse Holdings Group",
+         "Total assets in billion U.S. dollars": 179.3
+      },
+      {
+         "Insurers": "Nationwide",
+         "Total assets in billion U.S. dollars": 170.47
+      },
+      {
+         "Insurers": "Allianz",
+         "Total assets in billion U.S. dollars": 145.15
+      },
+      {
+         "Insurers": "Pacific Life",
+         "Total assets in billion U.S. dollars": 135.58
+      },
+      {
+         "Insurers": "Hopmeadow Holdings Group",
+         "Total assets in billion U.S. dollars": 117.91
+      },
+      {
+         "Insurers": "Ameriprise Financial",
+         "Total assets in billion U.S. dollars": 104.11
+      },
+      {
+         "Insurers": "Thrivent Financial For Lutherans",
+         "Total assets in billion U.S. dollars": 94.23
+      },
+      {
+         "Insurers": "Sammons Financial",
+         "Total assets in billion U.S. dollars": 85.25
+      },
+      {
+         "Insurers": "Athene Group",
+         "Total assets in billion U.S. dollars": 83.78
+      },
+      {
+         "Insurers": "State Farm",
+         "Total assets in billion U.S. dollars": 78.03
+      },
+      {
+         "Insurers": "Guardian",
+         "Total assets in billion U.S. dollars": 75.59
+      }
+   ]
+}

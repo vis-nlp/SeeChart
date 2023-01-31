@@ -1,0 +1,81 @@
+{
+   "title": "Revenue of Sonic Corporation in the U.S. from 2009 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 10 data points.",
+      " In general Revenue in million U.S. dollars has fallen over the Year.",
+      "Revenue in million U.S. dollars is slightly decreasing from 2009 to 2010, roughly constant from 2010 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly gradually decreasing from 2016 to 2018.",
+      "The steepest decrease occurs in between the Year 2009 and 2010.",
+      "Maximum Revenue in million U.S. dollars, about 706.28 was reported at Year 2009",
+      "Minimum Revenue in million U.S. dollars about 423.59 was reached at Year 2018"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 10 data points.",
+      " In general Revenue in million U.S. dollars has fallen over the Year.",
+      "Revenue in million U.S. dollars is slightly decreasing from 2009 to 2010, roughly constant from 2010 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly gradually decreasing from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 10 data points.",
+      " In general Revenue in million U.S. dollars has fallen over the Year.",
+      "Revenue in million U.S. dollars is slightly decreasing from 2009 to 2010, roughly constant from 2010 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly gradually decreasing from 2016 to 2018.",
+      "The steepest decrease occurs in between the Year 2009 and 2010.",
+      "Maximum Revenue in million U.S. dollars, about 706.28 was reported at Year 2009",
+      "Minimum Revenue in million U.S. dollars about 423.59 was reached at Year 2018"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 10 data points.",
+      " Overall Revenue in million U.S. dollars has decreased over the Year.",
+      "Revenue in million U.S. dollars is slightly decreasing from 2009 to 2010, roughly constant from 2010 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly gradually decreasing from 2016 to 2018.",
+      "The most drastic decrease took place within the Year 2009 and 2010.",
+      "Maximum Revenue in million U.S. dollars, about 706.28 was reported at Year 2009",
+      "Minimum Revenue in million U.S. dollars about 423.59 was reached at Year 2018",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 423.59
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 477.27
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 606.32
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 606.09
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 552.35
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 542.59
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 543.73
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 545.95
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 550.93
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 706.28
+      }
+   ]
+}

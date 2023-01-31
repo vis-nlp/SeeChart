@@ -1,0 +1,79 @@
+{
+   "title": "Number of committed crimes , by type U.S. 2018",
+   "xAxis": "Type of crime",
+   "yAxis": "Number of committed crimes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Type of crime in the x axis and Number of committed crimes in the y axis. ",
+      "The Number of committed crimes is highest at Type of crime Property crime  (total) and lowest at Type of crime Murder and nonnegligent manslaughter. ",
+      "The highest Type of crime Property crime  (total) has 7179831.0 more Number of committed crimes than the lowest Type of crime Murder and nonnegligent manslaughter. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of committed crimes for 9 number of Type of crimes. ",
+      "The maximum Number of committed crimes 7196045.0 is found at Type of crime Property crime  (total) and the minimum is found at Murder and nonnegligent manslaughter where Number of committed crimes is 16214.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Type of crime in the x axis and Number of committed crimes in the y axis. ",
+      "The Number of committed crimes is highest at Type of crime Property crime  (total) and lowest at Type of crime Murder and nonnegligent manslaughter. ",
+      "The highest Type of crime Property crime  (total) has 7179831.0 more Number of committed crimes than the lowest Type of crime Murder and nonnegligent manslaughter. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Type of crime in the x axis and Number of committed crimes in the y axis. ",
+      "Type of crime Property crime  (total) has the highest Number of committed crimes and Murder and nonnegligent manslaughter has the lowest Number of committed crimes. ",
+      "The difference of Number of committed crimes between the highest and lowest Type of crime is 7179831.0. ",
+      "Number of committed crimes at Type of crime Property crime  (total) is 7196045.0 , second place is  at 7196045.0, and thirdly is Burglary at 1230149.0.",
+      "The Type of crime Murder and nonnegligent manslaughter has 3.84 times less Number of committed crimes than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Type of crime": "Property crime  (total)",
+         "Number of committed crimes": 7196045.0
+      },
+      {
+         "Type of crime": "Larceny-theft",
+         "Number of committed crimes": 5217055.0
+      },
+      {
+         "Type of crime": "Burglary",
+         "Number of committed crimes": 1230149.0
+      },
+      {
+         "Type of crime": "Violent crime  (total)",
+         "Number of committed crimes": 1206836.0
+      },
+      {
+         "Type of crime": "Aggravated assault",
+         "Number of committed crimes": 807410.0
+      },
+      {
+         "Type of crime": "Motor vehicle theft",
+         "Number of committed crimes": 748841.0
+      },
+      {
+         "Type of crime": "Robbery",
+         "Number of committed crimes": 282061.0
+      },
+      {
+         "Type of crime": "Rape (revised definition)",
+         "Number of committed crimes": 139380.0
+      },
+      {
+         "Type of crime": "Murder and nonnegligent manslaughter",
+         "Number of committed crimes": 16214.0
+      }
+   ]
+}

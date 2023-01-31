@@ -1,0 +1,108 @@
+{
+   "title": "Share of Americans with at least one tattoo - by age 2003 to 2015",
+   "labels": [
+      "Country",
+      "2003",
+      "2008",
+      "2012",
+      "2015"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of Americans with at least one tattoo on the Y-axis for 6 different Countrys for 4 groups 2003, 2008, 2012, and 2015 that are presented on the X-axis. ",
+      " For Country 30 to 39, 2015 had the highest Share of Americans with at least one tattoo 55.0 among the 4 groups and in 65 and older, 2012 had the lowest Share of Americans with at least one tattoo 5.0. ",
+      " The maximum Share of Americans with at least one tattoo for 2012 that was found in Country 30 to 39 was 7.6 times larger than the minimum Share of Americans with at least one tattoo observed in Country 65 and older. ",
+      "On average, the Country 30 to 39 had the highest Share of Americans with at least one tattoo for all 4 groups 2003, 2008, 2012, and 2015. Whereas 65 and older had the lowest average Share of Americans with at least one tattoo. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Share of Americans with at least one tattoo",
+   "min_summary": [
+      "This grouped bar chart shows Share of Americans with at least one tattoo on the Y-axis for 6 different Countrys for 4 groups 2003, 2008, 2012, and 2015 that are presented on the X-axis. ",
+      " Out of all 4 groups, 2015 had the highest Share of Americans with at least one tattoo for Country 30 to 39 and 2012 had the lowest Share of Americans with at least one tattoo for Country 65 and older. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of Americans with at least one tattoo on the Y-axis for 6 different Countrys for 4 groups 2003, 2008, 2012, and 2015 that are presented on the X-axis. ",
+      " For Country 30 to 39, 2015 had the highest Share of Americans with at least one tattoo 55.0 among the 4 groups and in 65 and older, 2012 had the lowest Share of Americans with at least one tattoo 5.0. ",
+      " The maximum Share of Americans with at least one tattoo for 2012 that was found in Country 30 to 39 was 7.6 times larger than the minimum Share of Americans with at least one tattoo observed in Country 65 and older. ",
+      "On average, the Country 30 to 39 had the highest Share of Americans with at least one tattoo for all 4 groups 2003, 2008, 2012, and 2015. Whereas 65 and older had the lowest average Share of Americans with at least one tattoo. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of Americans with at least one tattoo on the Y-axis for 6 different Countrys for 4 groups 2003, 2008, 2012, and 2015 that are presented on the X-axis. ",
+      " Country 30 to 39 had the maximum Share of Americans with at least one tattoo among all 4 groups, and it was for 2015. The minimum Share of Americans with at least one tattoo was observed in Country 65 and older for 2012. ",
+      " For Country 30 to 39, 2012 had the highest Share of Americans with at least one tattoo among all 6 Countrys and it has the lowest Share of Americans with at least one tattoo in Country 65 and older. ",
+      " The maximum Share of Americans with at least one tattoo for 2012 that was found in Country 30 to 39 was 7.6 times larger than the minimum Share of Americans with at least one tattoo observed in Country 65 and older. ",
+      " Out of all 4 groups, the highest gap between the maximum and minimum Share of Americans with at least one tattoo was found in case of 2012. ",
+      " 2015 had the maximum Share of Americans with at least one tattoo out of all 4 groups in Country 30 to 39 followed by 2015 in 30 to 39, and the minimum Share of Americans with at least one tattoo is found for 2012 in 65 and older. ",
+      "Averaging all 4 groups 2003, 2008, 2012, and 2015, the Country 30 to 39 is the maximum Share of Americans with at least one tattoo and 65 and older is the minimum Share of Americans with at least one tattoo. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "4",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "18 to 24",
+         "2003": "13",
+         "2008": "9",
+         "2012": "22",
+         "2015": "35"
+      },
+      {
+         "Country": "25 to 29",
+         "2003": "36",
+         "2008": "32",
+         "2012": "30",
+         "2015": "42"
+      },
+      {
+         "Country": "30 to 39",
+         "2003": "28",
+         "2008": "25",
+         "2012": "38",
+         "2015": "55"
+      },
+      {
+         "Country": "40 to 49",
+         "2003": "14",
+         "2008": "12",
+         "2012": "27",
+         "2015": "33"
+      },
+      {
+         "Country": "50 to 64",
+         "2003": "10",
+         "2008": "8",
+         "2012": "11",
+         "2015": "13"
+      },
+      {
+         "Country": "65 and older",
+         "2003": "7",
+         "2008": "9",
+         "2012": "5",
+         "2015": "11"
+      }
+   ]
+}

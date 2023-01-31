@@ -1,0 +1,97 @@
+{
+   "title": "Sales volume of USB flash drives in Germany 2004 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales volume in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales volume in millions. In total the number of data points it has is 15.",
+      " In general, Sales volume in millions has rose over the Year.",
+      "The steepest increase occurs in between the Year 2007 and 2008.",
+      "Maximum Sales volume in millions, about 16.17 was reported at Year 2016",
+      "The lowest Sales volume in millions, of value 2.03 was reported at Year 2004"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales volume in millions, containing a total of 15 data points.",
+      " Overall Sales volume in millions has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales volume in millions. In total the number of data points it has is 15.",
+      " In general, Sales volume in millions has rose over the Year.",
+      "The steepest increase occurs in between the Year 2007 and 2008.",
+      "Maximum Sales volume in millions, about 16.17 was reported at Year 2016",
+      "The lowest Sales volume in millions, of value 2.03 was reported at Year 2004"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales volume in millions. In total the number of data points it has is 15.",
+      " Overall Sales volume in millions has increased over the Year.",
+      "The most drastic increase took place within the Year 2007 and 2008.",
+      "Maximum Sales volume in millions, about 16.17 was reported at Year 2016",
+      "The lowest Sales volume in millions, of value 2.03 was reported at Year 2004",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales volume in millions": 12.88
+      },
+      {
+         "Year": "2017",
+         "Sales volume in millions": 13.51
+      },
+      {
+         "Year": "2016",
+         "Sales volume in millions": 16.17
+      },
+      {
+         "Year": "2015",
+         "Sales volume in millions": 15.94
+      },
+      {
+         "Year": "2014",
+         "Sales volume in millions": 15.46
+      },
+      {
+         "Year": "2013",
+         "Sales volume in millions": 13.5
+      },
+      {
+         "Year": "2012",
+         "Sales volume in millions": 15.85
+      },
+      {
+         "Year": "2011",
+         "Sales volume in millions": 13.82
+      },
+      {
+         "Year": "2010",
+         "Sales volume in millions": 11.78
+      },
+      {
+         "Year": "2009",
+         "Sales volume in millions": 12.99
+      },
+      {
+         "Year": "2008",
+         "Sales volume in millions": 13.0
+      },
+      {
+         "Year": "2007",
+         "Sales volume in millions": 8.18
+      },
+      {
+         "Year": "2006",
+         "Sales volume in millions": 5.0
+      },
+      {
+         "Year": "2005",
+         "Sales volume in millions": 3.2
+      },
+      {
+         "Year": "2004",
+         "Sales volume in millions": 2.03
+      }
+   ]
+}

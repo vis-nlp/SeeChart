@@ -1,0 +1,121 @@
+{
+   "title": "Unemployment rate in Somalia 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 15.34 was reported at Year 2002",
+      "Minimum Unemployment rate about 13.69 was reached at Year 2008"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " Overall Unemployment rate has decreased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 15.34 was reported at Year 2002",
+      "Minimum Unemployment rate about 13.69 was reached at Year 2008"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 15.34 was reported at Year 2002",
+      "Minimum Unemployment rate about 13.69 was reached at Year 2008",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 13.96
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 13.96
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 13.91
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 14.26
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 14.41
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 14.47
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 14.63
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 14.55
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 14.62
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 14.57
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 14.46
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 13.69
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 13.82
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 14.4
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 14.86
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 15.09
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 15.2
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 15.34
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 15.18
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 15.26
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 15.32
+      }
+   ]
+}

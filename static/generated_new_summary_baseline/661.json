@@ -1,0 +1,77 @@
+{
+   "title": "John Grisham - earnings 2010 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Earnings in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Earnings in million U.S. dollars in the y axis. ",
+      "The Earnings in million U.S. dollars is appeared to be the highest at Month May 2011 to May 2012 and lowest at Month June 2016 to June 2017. ",
+      "The difference of Earnings in million U.S. dollars between the highest and lowest Month is 12.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 8 columns on the x axis representing Month, and Earnings in million U.S. dollars in each Month on the y axis. ",
+      "The maximum Earnings in million U.S. dollars 26.0 is found at Month May 2011 to May 2012 and the minimum is found at June 2016 to June 2017 where Earnings in million U.S. dollars is 14.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Earnings in million U.S. dollars in the y axis. ",
+      "The Earnings in million U.S. dollars is appeared to be the highest at Month May 2011 to May 2012 and lowest at Month June 2016 to June 2017. ",
+      "The difference of Earnings in million U.S. dollars between the highest and lowest Month is 12.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Earnings in million U.S. dollars in the y axis. ",
+      "The maximum Earnings in million U.S. dollars 26.0 is found at Month May 2011 to May 2012 and the minimum is found at June 2016 to June 2017 where Earnings in million U.S. dollars is 14.0. ",
+      "There is a difference of 12.0 between the maximum Month May 2011 to May 2012 and minimum Month June 2016 to June 2017. ",
+      "The Month May 2011 to May 2012 has the highest Earnings in million U.S. dollars, followed by , and May 2010 to April 2011. Down to the Month June 2016 to June 2017 which is the lowest. ",
+      "Overall Earnings in million U.S. dollars has reduced over the Months. ",
+      "Month June 2015 to June 2016, June 2012 to June 2013, and May 2010 to April 2011 have the same Earnings in million U.S. dollars. ",
+      "The Month May 2011 to May 2012 has 1.42 times more Earnings in million U.S. dollars than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 6,
+         "12": 6
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "June 2017 to June 2018",
+         "Earnings in million U.S. dollars": 21.0
+      },
+      {
+         "Month": "June 2016 to June 2017",
+         "Earnings in million U.S. dollars": 14.0
+      },
+      {
+         "Month": "June 2015 to June 2016",
+         "Earnings in million U.S. dollars": 18.0
+      },
+      {
+         "Month": "June 2014 to June 2015",
+         "Earnings in million U.S. dollars": 14.0
+      },
+      {
+         "Month": "June 2013 to June 2014",
+         "Earnings in million U.S. dollars": 17.0
+      },
+      {
+         "Month": "June 2012 to June 2013",
+         "Earnings in million U.S. dollars": 18.0
+      },
+      {
+         "Month": "May 2011 to May 2012",
+         "Earnings in million U.S. dollars": 26.0
+      },
+      {
+         "Month": "May 2010 to April 2011",
+         "Earnings in million U.S. dollars": 18.0
+      }
+   ]
+}

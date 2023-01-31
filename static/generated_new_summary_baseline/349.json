@@ -1,0 +1,93 @@
+{
+   "title": "Roche 's expenditure on research and development 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Expenditure in million Swiss francs",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Expenditure in million Swiss francs, containing a total of 13 data points.",
+      " Overall Expenditure in million Swiss francs has increased over the Year.",
+      "Expenditure in million Swiss francs is slightly increasing from 2007 to 2009, slightly decreasing from 2009 to 2011, roughly constant from 2011 to 2014, and lastly slightly increasing from 2014 to 2019.",
+      "The most drastic decrease took place within the Year 2010 and 2011.",
+      "The highest Expenditure in million Swiss francs, of value 11696.0 was reached at Year 2019",
+      "Minimum Expenditure in million Swiss francs about 8073.0 was reached at Year 2011"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million Swiss francs. In total the number of data points it has is 13.",
+      " Overall Expenditure in million Swiss francs has increased over the Year.",
+      "Expenditure in million Swiss francs is slightly increasing from 2007 to 2009, slightly decreasing from 2009 to 2011, roughly constant from 2011 to 2014, and lastly slightly increasing from 2014 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Expenditure in million Swiss francs, containing a total of 13 data points.",
+      " Overall Expenditure in million Swiss francs has increased over the Year.",
+      "Expenditure in million Swiss francs is slightly increasing from 2007 to 2009, slightly decreasing from 2009 to 2011, roughly constant from 2011 to 2014, and lastly slightly increasing from 2014 to 2019.",
+      "The most drastic decrease took place within the Year 2010 and 2011.",
+      "The highest Expenditure in million Swiss francs, of value 11696.0 was reached at Year 2019",
+      "Minimum Expenditure in million Swiss francs about 8073.0 was reached at Year 2011"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million Swiss francs. In total the number of data points it has is 13.",
+      " In general Expenditure in million Swiss francs has rose over the Year.",
+      "Expenditure in million Swiss francs is slightly increasing from 2007 to 2009, slightly decreasing from 2009 to 2011, roughly constant from 2011 to 2014, and lastly slightly increasing from 2014 to 2019.",
+      "The steepest decrease occurs in between the Year 2010 and 2011.",
+      "The highest Expenditure in million Swiss francs, of value 11696.0 was reached at Year 2019",
+      "Minimum Expenditure in million Swiss francs about 8073.0 was reached at Year 2011",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Expenditure in million Swiss francs": 11696.0
+      },
+      {
+         "Year": "2018",
+         "Expenditure in million Swiss francs": 11047.0
+      },
+      {
+         "Year": "2017",
+         "Expenditure in million Swiss francs": 10392.0
+      },
+      {
+         "Year": "2016",
+         "Expenditure in million Swiss francs": 9915.0
+      },
+      {
+         "Year": "2015",
+         "Expenditure in million Swiss francs": 9300.0
+      },
+      {
+         "Year": "2014",
+         "Expenditure in million Swiss francs": 8913.0
+      },
+      {
+         "Year": "2013",
+         "Expenditure in million Swiss francs": 8700.0
+      },
+      {
+         "Year": "2012",
+         "Expenditure in million Swiss francs": 8475.0
+      },
+      {
+         "Year": "2011",
+         "Expenditure in million Swiss francs": 8073.0
+      },
+      {
+         "Year": "2010",
+         "Expenditure in million Swiss francs": 9050.0
+      },
+      {
+         "Year": "2009",
+         "Expenditure in million Swiss francs": 9509.0
+      },
+      {
+         "Year": "2008",
+         "Expenditure in million Swiss francs": 8704.0
+      },
+      {
+         "Year": "2007",
+         "Expenditure in million Swiss francs": 8385.0
+      }
+   ]
+}

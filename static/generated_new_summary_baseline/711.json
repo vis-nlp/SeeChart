@@ -1,0 +1,157 @@
+{
+   "title": "Employment by economic sector in Honduras from 2009 to 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Share of total employment and the x axis denotes Year.",
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year. ",
+      "The ranking of the lines from topmost to bottommost is as follows: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
+      "Throughout the period, Services generally had the highest Share of total employment relative to others with an average of 46.56, and it reached its maximum at 2016 with a value of 51.07.",
+      "After Services, Agriculture overall has the second highest values , with a mean value of 33.0, peaking at 2010. ",
+      "Industry mostly had the least Share of total employment with a mean value of 20.38, which peaked at 2014 with a value of 22.02. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of total employment",
+   "min_summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Share of total employment and the x axis denotes Year.",
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant, throughout the Year. ",
+      "Overall across the Year, Services mostly maintained the highest Share of total employment when compared to others with a mean value of 46.56, and it peaked at 2016.",
+      "After Services, Agriculture overall has the second highest values , with a mean value of 33.0, peaking at 2010. ",
+      "The bottommost line, Industry,  has a mean of 20.38, and peaked at 2014. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Share of total employment and the x axis denotes Year.",
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant, throughout the Year. ",
+      "The ranking of the lines from topmost to bottommost is as follows: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
+      "Throughout the period, Services generally had the highest Share of total employment relative to others with an average of 46.56, and it reached its maximum at 2016 with a value of 51.07. ",
+      "After Services, Agriculture overall has the second highest values , with a mean value of 33.0, peaking at 2010. ",
+      "Industry mostly had the least Share of total employment with a mean value of 20.38, which peaked at 2014 with a value of 22.02. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Share of total employment and the x axis denotes Year. ",
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year. ",
+      "The lines ordered according to average values of Share of total employment in descending order is: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
+      "Overall across the Year, Services mostly maintained the highest Share of total employment when compared to others with a mean value of 46.56, and it peaked at 2016. ",
+      "Followed by Agriculture which ranks as the second topmost line , with an average of 33.0 Share of total employment,reaching its highest point  at 2010 with a value of 37.8. ",
+      "The bottommost line, Industry,  has a mean of 20.38, and peaked at 2014. ",
+      "The minimum Share of total employment about 18.64, occurred at 2010 by Industry. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "2"
+         ],
+         "9": [
+            "3",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "9",
+            "0"
+         ],
+         "10": [
+            "9",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "31.84",
+         "Industry": "20.32",
+         "Services": "47.84"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "31.91",
+         "Industry": "20.5",
+         "Services": "47.59"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "31.99",
+         "Industry": "20.68",
+         "Services": "47.33"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "27.35",
+         "Industry": "21.58",
+         "Services": "51.07"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "28.72",
+         "Industry": "21.81",
+         "Services": "49.47"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "28.83",
+         "Industry": "22.02",
+         "Services": "49.14"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "34.52",
+         "Industry": "19.04",
+         "Services": "46.45"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "37.01",
+         "Industry": "19.93",
+         "Services": "43.07"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "36.62",
+         "Industry": "19.36",
+         "Services": "44.02"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "37.81",
+         "Industry": "18.64",
+         "Services": "43.55"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "37.07",
+         "Industry": "20.34",
+         "Services": "42.59"
+      }
+   ]
+}

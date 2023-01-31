@@ -1,0 +1,84 @@
+{
+   "title": "Countries with highest ransomware infection rates 2017 to 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of users attacked with ransomware out of all users encountering malware",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Share of users attacked with ransomware out of all users encountering malware in each Country on the y axis. ",
+      "Country Thailand has the highest Share of users attacked with ransomware out of all users encountering malware and Turkey has the lowest Share of users attacked with ransomware out of all users encountering malware. ",
+      "The difference of Share of users attacked with ransomware out of all users encountering malware between the highest and lowest Country is 6.35. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Share of users attacked with ransomware out of all users encountering malware in the y axis. ",
+      "Country Thailand has the highest Share of users attacked with ransomware out of all users encountering malware and Turkey has the lowest Share of users attacked with ransomware out of all users encountering malware. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Share of users attacked with ransomware out of all users encountering malware in each Country on the y axis. ",
+      "Country Thailand has the highest Share of users attacked with ransomware out of all users encountering malware and Turkey has the lowest Share of users attacked with ransomware out of all users encountering malware. ",
+      "The difference of Share of users attacked with ransomware out of all users encountering malware between the highest and lowest Country is 6.35. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Share of users attacked with ransomware out of all users encountering malware in the y axis. ",
+      "The Share of users attacked with ransomware out of all users encountering malware is appeared to be the highest at Country Thailand and lowest at Country Turkey. ",
+      "Country  has the second highest value for Share of users attacked with ransomware out of all users encountering malware. ",
+      "Country Thailand has 2.97 times more Share of users attacked with ransomware out of all users encountering malware than Country Turkey which is has the lowest. ",
+      "The Country Thailand has the highest Share of users attacked with ransomware out of all users encountering malware, followed by , and Iran. Down to the Country Turkey which is the lowest. ",
+      "The highest value 9.57 at Thailand is almost 1.53 times larger than the average value 6.24. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Thailand",
+         "Share of users attacked with ransomware out of all users encountering malware": 9.57
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Share of users attacked with ransomware out of all users encountering malware": 8.67
+      },
+      {
+         "Country": "Iran",
+         "Share of users attacked with ransomware out of all users encountering malware": 8.47
+      },
+      {
+         "Country": "Bangladesh",
+         "Share of users attacked with ransomware out of all users encountering malware": 7.62
+      },
+      {
+         "Country": "Vietnam",
+         "Share of users attacked with ransomware out of all users encountering malware": 6.17
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Share of users attacked with ransomware out of all users encountering malware": 5.45
+      },
+      {
+         "Country": "China",
+         "Share of users attacked with ransomware out of all users encountering malware": 5.36
+      },
+      {
+         "Country": "India",
+         "Share of users attacked with ransomware out of all users encountering malware": 4.28
+      },
+      {
+         "Country": "Algeria",
+         "Share of users attacked with ransomware out of all users encountering malware": 3.59
+      },
+      {
+         "Country": "Turkey",
+         "Share of users attacked with ransomware out of all users encountering malware": 3.22
+      }
+   ]
+}

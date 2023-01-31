@@ -1,0 +1,93 @@
+{
+   "title": "Denso - global revenue 2008 to 2019",
+   "xAxis": "Fiscal year",
+   "yAxis": "Net sales in million Japanese yen",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Fiscal year in the x axis and Net sales in million Japanese yen in the y axis. ",
+      "The Net sales in million Japanese yen is appeared to be the highest at Fiscal year 2019 and lowest at Fiscal year 2010. ",
+      "The highest Fiscal year 2019 has 2386063.0 more Net sales in million Japanese yen than the lowest Fiscal year 2010. "
+   ],
+   "min_summary": [
+      "This bar chart has 12 columns on the x axis representing Fiscal year, and Net sales in million Japanese yen in each Fiscal year on the y axis. ",
+      "The Net sales in million Japanese yen is highest at Fiscal year 2019 and lowest at Fiscal year 2010. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Fiscal year in the x axis and Net sales in million Japanese yen in the y axis. ",
+      "The Net sales in million Japanese yen is appeared to be the highest at Fiscal year 2019 and lowest at Fiscal year 2010. ",
+      "The highest Fiscal year 2019 has 2386063.0 more Net sales in million Japanese yen than the lowest Fiscal year 2010. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Net sales in million Japanese yen for 12 number of Fiscal years. ",
+      "The Net sales in million Japanese yen is highest at Fiscal year 2019 and lowest at Fiscal year 2010. ",
+      "The second highest Net sales in million Japanese yen is appeared to be the Fiscal year . ",
+      "The highest Fiscal year 2019 has 2386063.0 more Net sales in million Japanese yen than the lowest Fiscal year 2010. ",
+      "Net sales in million Japanese yen at Fiscal year 2019 is 5362772.0 , second place is  at 5362772.0, and thirdly is 2017 at 4527148.0.",
+      "The lowest value 2976709.0 at 2010 is almost 1.34 times smaller than the average value 3994911.92. ",
+      "The Net sales in million Japanese yen is 47938943.0 if we add up values of all Fiscal years. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fiscal year": "2019",
+         "Net sales in million Japanese yen": 5362772.0
+      },
+      {
+         "Fiscal year": "2018",
+         "Net sales in million Japanese yen": 5108291.0
+      },
+      {
+         "Fiscal year": "2017",
+         "Net sales in million Japanese yen": 4527148.0
+      },
+      {
+         "Fiscal year": "2016",
+         "Net sales in million Japanese yen": 4524522.0
+      },
+      {
+         "Fiscal year": "2015",
+         "Net sales in million Japanese yen": 4309787.0
+      },
+      {
+         "Fiscal year": "2014",
+         "Net sales in million Japanese yen": 4094960.0
+      },
+      {
+         "Fiscal year": "2013",
+         "Net sales in million Japanese yen": 3580923.0
+      },
+      {
+         "Fiscal year": "2012",
+         "Net sales in million Japanese yen": 3154630.0
+      },
+      {
+         "Fiscal year": "2011",
+         "Net sales in million Japanese yen": 3131460.0
+      },
+      {
+         "Fiscal year": "2010",
+         "Net sales in million Japanese yen": 2976709.0
+      },
+      {
+         "Fiscal year": "2009",
+         "Net sales in million Japanese yen": 3142665.0
+      },
+      {
+         "Fiscal year": "2008",
+         "Net sales in million Japanese yen": 4025076.0
+      }
+   ]
+}

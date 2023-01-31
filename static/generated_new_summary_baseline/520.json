@@ -1,0 +1,77 @@
+{
+   "title": "Estimated number of World of Warcraft subscribers 2015 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Subscribers in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Subscribers in millions, containing a total of 9 data points.",
+      " In general Subscribers in millions has fallen over the Year.",
+      "Subscribers in millions is slightly decreasing from 2015 to 2023.",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "The highest Subscribers in millions, of value 5.67 was reached at Year 2016",
+      "The lowest Subscribers in millions, of value 4.46 was reported at Year 2023"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Subscribers in millions. In total the number of data points it has is 9.",
+      " In general Subscribers in millions has fallen over the Year.",
+      "Subscribers in millions is slightly decreasing from 2015 to 2023."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Subscribers in millions, containing a total of 9 data points.",
+      " In general Subscribers in millions has fallen over the Year.",
+      "Subscribers in millions is slightly decreasing from 2015 to 2023.",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "The highest Subscribers in millions, of value 5.67 was reached at Year 2016",
+      "The lowest Subscribers in millions, of value 4.46 was reported at Year 2023"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Subscribers in millions. In total the number of data points it has is 9.",
+      " Overall Subscribers in millions has decreased over the Year.",
+      "Subscribers in millions is slightly decreasing from 2015 to 2023.",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "The highest Subscribers in millions, of value 5.67 was reached at Year 2016",
+      "The lowest Subscribers in millions, of value 4.46 was reported at Year 2023",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2023",
+         "Subscribers in millions": 4.46
+      },
+      {
+         "Year": "2022",
+         "Subscribers in millions": 4.59
+      },
+      {
+         "Year": "2021",
+         "Subscribers in millions": 4.74
+      },
+      {
+         "Year": "2020",
+         "Subscribers in millions": 4.88
+      },
+      {
+         "Year": "2019",
+         "Subscribers in millions": 5.03
+      },
+      {
+         "Year": "2018",
+         "Subscribers in millions": 5.19
+      },
+      {
+         "Year": "2017",
+         "Subscribers in millions": 5.42
+      },
+      {
+         "Year": "2016",
+         "Subscribers in millions": 5.67
+      },
+      {
+         "Year": "2015",
+         "Subscribers in millions": 5.5
+      }
+   ]
+}

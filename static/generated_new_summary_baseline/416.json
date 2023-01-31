@@ -1,0 +1,65 @@
+{
+   "title": "Consumer spending in Pakistan 2013 - 2018 , per capita",
+   "xAxis": "Year",
+   "yAxis": "U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing U.S. dollars, containing a total of 6 data points.",
+      " Overall U.S. dollars has increased over the Year.",
+      "U.S. dollars is slightly increasing from 2013 to 2018.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest U.S. dollars, of value 1658.0 was reached at Year 2018",
+      "The lowest U.S. dollars, of value 995.0 was reported at Year 2013"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing U.S. dollars, containing a total of 6 data points.",
+      " In general U.S. dollars has rose over the Year.",
+      "U.S. dollars is slightly increasing from 2013 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing U.S. dollars, containing a total of 6 data points.",
+      " Overall U.S. dollars has increased over the Year.",
+      "U.S. dollars is slightly increasing from 2013 to 2018.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest U.S. dollars, of value 1658.0 was reached at Year 2018",
+      "The lowest U.S. dollars, of value 995.0 was reported at Year 2013"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing U.S. dollars, containing a total of 6 data points.",
+      " Overall U.S. dollars has increased over the Year.",
+      "U.S. dollars is slightly increasing from 2013 to 2018.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest U.S. dollars, of value 1658.0 was reached at Year 2018",
+      "The lowest U.S. dollars, of value 995.0 was reported at Year 2013",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. dollars": 1658.0
+      },
+      {
+         "Year": "2017",
+         "U.S. dollars": 1488.0
+      },
+      {
+         "Year": "2016",
+         "U.S. dollars": 1335.0
+      },
+      {
+         "Year": "2015",
+         "U.S. dollars": 1204.0
+      },
+      {
+         "Year": "2014",
+         "U.S. dollars": 1091.0
+      },
+      {
+         "Year": "2013",
+         "U.S. dollars": 995.0
+      }
+   ]
+}

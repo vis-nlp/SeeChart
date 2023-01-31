@@ -1,0 +1,68 @@
+{
+   "title": "Hotel / restaurant industry : percentage of female employees by region 2010",
+   "xAxis": "Country",
+   "yAxis": "Female employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Female employees in the y axis. ",
+      "The maximum Female employees 58.5 is found at Country Latin America and the minimum is found at Asia where Female employees is 35.4. ",
+      "The minimum Country Asia has got 1.65 times less Female employees than the maximum Country Latin America. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Female employees for 6 number of Countrys. ",
+      "Country Latin America has the highest Female employees and Asia has the lowest Female employees. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Female employees in the y axis. ",
+      "The maximum Female employees 58.5 is found at Country Latin America and the minimum is found at Asia where Female employees is 35.4. ",
+      "The minimum Country Asia has got 1.65 times less Female employees than the maximum Country Latin America. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Female employees in the y axis. ",
+      "The Female employees is appeared to be the highest at Country Latin America and lowest at Country Asia. ",
+      "Country  has the second highest value for Female employees. ",
+      "Country Asia has 1.65 times less Female employees than Country Latin America which is the highest. ",
+      "Country Latin America is higher than any other Countrys with value 58.5, followed by , and Average. Down to Country Asia with the lowest value 35.4. ",
+      "The lowest value 35.4 at Asia is almost 1.2 times smaller than the average value 48.62. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Latin America",
+         "Female employees": 58.5
+      },
+      {
+         "Country": "Caribbean",
+         "Female employees": 55.4
+      },
+      {
+         "Country": "Africa",
+         "Female employees": 47.0
+      },
+      {
+         "Country": "Oceania",
+         "Female employees": 46.8
+      },
+      {
+         "Country": "Asia",
+         "Female employees": 35.4
+      },
+      {
+         "Country": "Average",
+         "Female employees": 48.62
+      }
+   ]
+}

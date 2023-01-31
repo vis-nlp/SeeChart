@@ -1,0 +1,73 @@
+{
+   "title": "Canada - average working hours per week 2019",
+   "xAxis": "Average usual weekly hours",
+   "yAxis": "Number of employed person in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 columns on the x axis representing Average usual weekly hours, and Number of employed person in thousands in each Average usual weekly hours on the y axis. ",
+      "The maximum Number of employed person in thousands 7282.5 is found at Average usual weekly hours 40 hours and the minimum is found at 41 to 49 hours where Number of employed person in thousands is 1044.2. ",
+      "The difference of Number of employed person in thousands between the highest and lowest Average usual weekly hours is 6238.3. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Average usual weekly hours in the x axis and Number of employed person in thousands in the y axis. ",
+      "Average usual weekly hours 40 hours has the highest Number of employed person in thousands and 41 to 49 hours has the lowest Number of employed person in thousands. "
+   ],
+   "mid_summary": [
+      "This bar chart has 7 columns on the x axis representing Average usual weekly hours, and Number of employed person in thousands in each Average usual weekly hours on the y axis. ",
+      "The maximum Number of employed person in thousands 7282.5 is found at Average usual weekly hours 40 hours and the minimum is found at 41 to 49 hours where Number of employed person in thousands is 1044.2. ",
+      "The difference of Number of employed person in thousands between the highest and lowest Average usual weekly hours is 6238.3. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Average usual weekly hours in the x axis and Number of employed person in thousands in the y axis. ",
+      "The Number of employed person in thousands is appeared to be the highest at Average usual weekly hours 40 hours and lowest at Average usual weekly hours 41 to 49 hours. ",
+      "The second highest Number of employed person in thousands is appeared to be the Average usual weekly hours . ",
+      "The difference of Number of employed person in thousands between the highest and lowest Average usual weekly hours is 6238.3. ",
+      "Number of employed person in thousands at Average usual weekly hours 40 hours is 7282.5 , second place is  at 1151.0, and thirdly is 15 to 29 hours at 2459.6.",
+      "Considered together, the average Number of employed person in thousands in all 7 Average usual weekly hourss is roughly 2722.23. ",
+      "The Number of employed person in thousands is 19055.6 if we add up values of all Average usual weekly hourss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Average usual weekly hours": "1 to 14 hours",
+         "Number of employed person in thousands": 1151.0
+      },
+      {
+         "Average usual weekly hours": "15 to 29 hours",
+         "Number of employed person in thousands": 2459.6
+      },
+      {
+         "Average usual weekly hours": "30 to 34 hours",
+         "Number of employed person in thousands": 1469.2
+      },
+      {
+         "Average usual weekly hours": "35 to 39 hours",
+         "Number of employed person in thousands": 4287.8
+      },
+      {
+         "Average usual weekly hours": "40 hours",
+         "Number of employed person in thousands": 7282.5
+      },
+      {
+         "Average usual weekly hours": "41 to 49 hours",
+         "Number of employed person in thousands": 1044.2
+      },
+      {
+         "Average usual weekly hours": "50 hours or more",
+         "Number of employed person in thousands": 1361.3
+      }
+   ]
+}

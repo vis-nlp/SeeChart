@@ -1,0 +1,141 @@
+{
+   "title": "Clothing and clothing accessories store sales in the United States 1992 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Billion U.S. dollars, containing a total of 26 data points.",
+      " In general Billion U.S. dollars has fallen over the Year.",
+      "The most drastic decrease took place within the Year 17 and 2.",
+      "Maximum Billion U.S. dollars, about 259.84 was reported at Year 16",
+      "Minimum Billion U.S. dollars about 120.1 was reached at Year 92"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Billion U.S. dollars. In total the number of data points it has is 26.",
+      " In general Billion U.S. dollars has fallen over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Billion U.S. dollars, containing a total of 26 data points.",
+      " In general Billion U.S. dollars has fallen over the Year.",
+      "The most drastic decrease took place within the Year 17 and 2.",
+      "Maximum Billion U.S. dollars, about 259.84 was reported at Year 16",
+      "Minimum Billion U.S. dollars about 120.1 was reached at Year 92"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Billion U.S. dollars. In total the number of data points it has is 26.",
+      " In general Billion U.S. dollars has fallen over the Year.",
+      "The most drastic decrease took place within the Year 17 and 2.",
+      "Maximum Billion U.S. dollars, about 259.84 was reported at Year 16",
+      "Minimum Billion U.S. dollars about 120.1 was reached at Year 92",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "17",
+         "Billion U.S. dollars": 258.74
+      },
+      {
+         "Year": "16",
+         "Billion U.S. dollars": 259.84
+      },
+      {
+         "Year": "15",
+         "Billion U.S. dollars": 255.8
+      },
+      {
+         "Year": "14",
+         "Billion U.S. dollars": 250.41
+      },
+      {
+         "Year": "13",
+         "Billion U.S. dollars": 244.72
+      },
+      {
+         "Year": "12",
+         "Billion U.S. dollars": 239.49
+      },
+      {
+         "Year": "11",
+         "Billion U.S. dollars": 228.61
+      },
+      {
+         "Year": "10",
+         "Billion U.S. dollars": 213.29
+      },
+      {
+         "Year": "9",
+         "Billion U.S. dollars": 204.48
+      },
+      {
+         "Year": "8",
+         "Billion U.S. dollars": 215.58
+      },
+      {
+         "Year": "7",
+         "Billion U.S. dollars": 221.21
+      },
+      {
+         "Year": "6",
+         "Billion U.S. dollars": 213.19
+      },
+      {
+         "Year": "5",
+         "Billion U.S. dollars": 200.97
+      },
+      {
+         "Year": "4",
+         "Billion U.S. dollars": 190.25
+      },
+      {
+         "Year": "3",
+         "Billion U.S. dollars": 178.69
+      },
+      {
+         "Year": "2",
+         "Billion U.S. dollars": 172.3
+      },
+      {
+         "Year": "1",
+         "Billion U.S. dollars": 167.29
+      },
+      {
+         "Year": "0",
+         "Billion U.S. dollars": 167.67
+      },
+      {
+         "Year": "99",
+         "Billion U.S. dollars": 159.75
+      },
+      {
+         "Year": "98",
+         "Billion U.S. dollars": 149.15
+      },
+      {
+         "Year": "97",
+         "Billion U.S. dollars": 140.29
+      },
+      {
+         "Year": "96",
+         "Billion U.S. dollars": 136.58
+      },
+      {
+         "Year": "95",
+         "Billion U.S. dollars": 131.33
+      },
+      {
+         "Year": "94",
+         "Billion U.S. dollars": 129.08
+      },
+      {
+         "Year": "93",
+         "Billion U.S. dollars": 124.75
+      },
+      {
+         "Year": "92",
+         "Billion U.S. dollars": 120.1
+      }
+   ]
+}

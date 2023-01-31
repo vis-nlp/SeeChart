@@ -1,0 +1,199 @@
+{
+   "title": "Class 8 truck manufacturers - sales 2007 to 2018",
+   "labels": [
+      "Year",
+      "Freightliner",
+      "Ford",
+      "Kenworth",
+      "Mack",
+      "Peterbilt",
+      "Volvo Truck"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi line chart with 6 lines denoting Freightliner, Ford, Kenworth, Mack, Peterbilt, and Volvo Truck. The y axis indicates the Truck sales in thousands and the x axis indicates Year.",
+      "Overall Freightliner, Kenworth, Peterbilt, and Volvo Truck are gradually increasing, Ford, and Mack are roughly constant,  throughout the Year.",
+      "Overall across the Year, Freightliner mostly maintained the highest Truck sales in thousands when compared to others with a mean value of 64.55, and it peaked at 2015.",
+      "Followed by Ford which ranks as the second topmost line , with an average of 29.9 Truck sales in thousands,reaching its highest point  at 2011 with a value of 35.9. ",
+      "The botommost line, Mack,  has a mean of 14.98, and peaked at 2015. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Truck sales in thousands",
+   "min_summary": [
+      "This is a chart of multi-line type with 6 lines denoting Freightliner, Ford, Kenworth, Mack, Peterbilt, and Volvo Truck. The y axis indicates the Truck sales in thousands and the x axis indicates Year.",
+      "Overall Freightliner, Kenworth, Peterbilt, and Volvo Truck are gradually increasing, Ford, and Mack are roughly constant,  throughout the Year.",
+      "Throughout the period, Freightliner generally had the highest Truck sales in thousands relative to others with an average of 64.55, and it reached its maximum at 2015 with a value of 100.21.",
+      "Followed by Ford which ranks as the second topmost line , with an average of 29.9 Truck sales in thousands,reaching its highest point  at 2011 with a value of 35.9. ",
+      "The botommost line, Mack,  has a mean of 14.98, and peaked at 2015. "
+   ],
+   "mid_summary": [
+      "This multi-line type chart has 6 lines denoting Freightliner, Ford, Kenworth, Mack, Peterbilt, and Volvo Truck. The y axis indicates the Truck sales in thousands and the x axis indicates Year.",
+      "Overall Freightliner, Kenworth, Peterbilt, and Volvo Truck are gradually increasing, Ford, and Mack are roughly constant,  throughout the Year.",
+      "Overall across the Year, Freightliner mostly maintained the highest Truck sales in thousands when compared to others with a mean value of 64.55, and it peaked at 2015.",
+      "Followed by Ford which ranks as the second topmost line , with an average of 29.9 Truck sales in thousands,reaching its highest point  at 2011 with a value of 35.9. ",
+      "The botommost line, Mack,  has a mean of 14.98, and peaked at 2015. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 6 lines representing Freightliner, Ford, Kenworth, Mack, Peterbilt, and Volvo Truck. The y axis denotes Truck sales in thousands and the x axis denotes Year.",
+      "Overall Freightliner, Kenworth, Peterbilt, and Volvo Truck are gradually increasing, Ford, and Mack are roughly constant,  throughout the Year.",
+      "Throughout the period, Freightliner generally had the highest Truck sales in thousands relative to others with an average of 64.55, and it reached its maximum at 2015 with a value of 100.21.",
+      "After Freightliner, Ford overall has the second highest values , with a mean value of 29.9, peaking at 2011. ",
+      "Mack mostly had the least Truck sales in thousands with a mean value of 14.98, which peaked at 2015 with a value of 19.83. ",
+      "Volvo Truck reported the lowest Truck sales in thousands about 7.07 in Year 2009"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "11",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "0"
+         ],
+         "9": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "11",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "7",
+            "1"
+         ],
+         "10": [
+            "7",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Freightliner": "90.86",
+         "Ford": "34.33",
+         "Kenworth": "37.38",
+         "Mack": "18.45",
+         "Peterbilt": "36.97",
+         "Volvo Truck": "26.79"
+      },
+      {
+         "Year": "2017",
+         "Freightliner": "72.17",
+         "Ford": "21.9",
+         "Kenworth": "29.34",
+         "Mack": "16.01",
+         "Peterbilt": "30.47",
+         "Volvo Truck": "17.1"
+      },
+      {
+         "Year": "2016",
+         "Freightliner": "77.46",
+         "Ford": "21.37",
+         "Kenworth": "29.47",
+         "Mack": "17.15",
+         "Peterbilt": "26.53",
+         "Volvo Truck": "20.54"
+      },
+      {
+         "Year": "2015",
+         "Freightliner": "100.21",
+         "Ford": "28.84",
+         "Kenworth": "37.2",
+         "Mack": "19.83",
+         "Peterbilt": "31.72",
+         "Volvo Truck": "30.93"
+      },
+      {
+         "Year": "2014",
+         "Freightliner": "82.11",
+         "Ford": "31.13",
+         "Kenworth": "31.16",
+         "Mack": "19.65",
+         "Peterbilt": "29.73",
+         "Volvo Truck": "26.56"
+      },
+      {
+         "Year": "2013",
+         "Freightliner": "70.58",
+         "Ford": "34.82",
+         "Kenworth": "25.94",
+         "Mack": "16.29",
+         "Peterbilt": "24.72",
+         "Volvo Truck": "20.66"
+      },
+      {
+         "Year": "2012",
+         "Freightliner": "66.6",
+         "Ford": "34.82",
+         "Kenworth": "27.78",
+         "Mack": "17.33",
+         "Peterbilt": "27.26",
+         "Volvo Truck": "20.92"
+      },
+      {
+         "Year": "2011",
+         "Freightliner": "54.37",
+         "Ford": "35.93",
+         "Kenworth": "22.58",
+         "Mack": "12.93",
+         "Peterbilt": "24.58",
+         "Volvo Truck": "20.96"
+      },
+      {
+         "Year": "2010",
+         "Freightliner": "36.35",
+         "Ford": "26.94",
+         "Kenworth": "11.62",
+         "Mack": "9.21",
+         "Peterbilt": "12.98",
+         "Volvo Truck": "10.04"
+      },
+      {
+         "Year": "2009",
+         "Freightliner": "29.58",
+         "Ford": "26.58",
+         "Kenworth": "11.65",
+         "Mack": "7.63",
+         "Peterbilt": "12.28",
+         "Volvo Truck": "7.07"
+      },
+      {
+         "Year": "2008",
+         "Freightliner": "42.64",
+         "Ford": "32.4",
+         "Kenworth": "15.86",
+         "Mack": "11.79",
+         "Peterbilt": "17.61",
+         "Volvo Truck": "13.06"
+      },
+      {
+         "Year": "2007",
+         "Freightliner": "51.71",
+         "Ford": "29.68",
+         "Kenworth": "19.3",
+         "Mack": "13.44",
+         "Peterbilt": "19.95",
+         "Volvo Truck": "16.06"
+      }
+   ]
+}

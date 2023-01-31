@@ -1,0 +1,90 @@
+{
+   "title": "Distribution of consumer transactions worldwide 2018 , by payment channel",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 41.0 is found at Response In-store and the minimum is found at Smart home device where Share of respondents is 2.0. ",
+      "The minimum Response Smart home device has got 20.5 times less Share of respondents than the maximum Response In-store. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response In-store has the highest Share of respondents and Smart home device has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 41.0 is found at Response In-store and the minimum is found at Smart home device where Share of respondents is 2.0. ",
+      "The minimum Response Smart home device has got 20.5 times less Share of respondents than the maximum Response In-store. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 11 number of Responses. ",
+      "The Share of respondents is highest at Response In-store and lowest at Response Smart home device. ",
+      "Second maximum Share of respondents is found at Response . ",
+      "The highest Response In-store has 39.0 more Share of respondents than the lowest Response Smart home device. ",
+      "Share of respondents at Response In-store is 41.0 , second place is  at 41.0, and thirdly is Buy buttons at 9.0.",
+      "Similar Share of respondents is found in Response Smart home device, Wearables / contactless, and Other. ",
+      "The Response Smart home device tends to be 4.47 percent lower than average. ",
+      "The Share of respondents is 101.0 if we add up values of all Responses. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "In-store",
+         "Share of respondents": 41.0
+      },
+      {
+         "Response": "Other online",
+         "Share of respondents": 14.0
+      },
+      {
+         "Response": "Buy buttons",
+         "Share of respondents": 9.0
+      },
+      {
+         "Response": "Other mobile transfers",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "P2P transfer",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Mobile messenger apps",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "QR codes",
+         "Share of respondents": 5.0
+      },
+      {
+         "Response": "Other in-app payments",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Smart home device",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Wearables / contactless",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 2.0
+      }
+   ]
+}

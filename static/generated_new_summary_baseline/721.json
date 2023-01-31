@@ -1,0 +1,85 @@
+{
+   "title": "BMW - motor vehicles produced worldwide 2006 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand units, containing a total of 11 data points.",
+      " Overall Production in thousand units has increased over the Year.",
+      "Production in thousand units is slightly increasing from 2006 to 2007, roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2012, and lastly roughly constant from 2012 to 2016.",
+      "The most drastic increase took place within the Year 2011 and 2012.",
+      "Maximum Production in thousand units, about 2359.76 was reported at Year 2016",
+      "Minimum Production in thousand units about 1258.42 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand units, containing a total of 11 data points.",
+      " Overall Production in thousand units has increased over the Year.",
+      "Production in thousand units is slightly increasing from 2006 to 2007, roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2012, and lastly roughly constant from 2012 to 2016."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand units, containing a total of 11 data points.",
+      " Overall Production in thousand units has increased over the Year.",
+      "Production in thousand units is slightly increasing from 2006 to 2007, roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2012, and lastly roughly constant from 2012 to 2016.",
+      "The most drastic increase took place within the Year 2011 and 2012.",
+      "Maximum Production in thousand units, about 2359.76 was reported at Year 2016",
+      "Minimum Production in thousand units about 1258.42 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand units, containing a total of 11 data points.",
+      " In general Production in thousand units has rose over the Year.",
+      "Production in thousand units is slightly increasing from 2006 to 2007, roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2012, and lastly roughly constant from 2012 to 2016.",
+      "The steepest increase occurs in between the Year 2011 and 2012.",
+      "Maximum Production in thousand units, about 2359.76 was reported at Year 2016",
+      "Minimum Production in thousand units about 1258.42 was reached at Year 2009",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2016",
+         "Production in thousand units": 2359.76
+      },
+      {
+         "Year": "2015",
+         "Production in thousand units": 2279.5
+      },
+      {
+         "Year": "2014",
+         "Production in thousand units": 2165.57
+      },
+      {
+         "Year": "2013",
+         "Production in thousand units": 2006.37
+      },
+      {
+         "Year": "2012",
+         "Production in thousand units": 2065.48
+      },
+      {
+         "Year": "2011",
+         "Production in thousand units": 1738.16
+      },
+      {
+         "Year": "2010",
+         "Production in thousand units": 1481.25
+      },
+      {
+         "Year": "2009",
+         "Production in thousand units": 1258.42
+      },
+      {
+         "Year": "2008",
+         "Production in thousand units": 1439.92
+      },
+      {
+         "Year": "2007",
+         "Production in thousand units": 1541.5
+      },
+      {
+         "Year": "2006",
+         "Production in thousand units": 1366.84
+      }
+   ]
+}

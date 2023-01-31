@@ -1,0 +1,109 @@
+{
+   "title": "Most valuable Swiss watch brands worldwide 2016",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million CHF",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Brand value in million CHF for 16 number of Brands. ",
+      "The Brand value in million CHF is highest at Brand Rolex and lowest at Brand Rado. ",
+      "The difference of Brand value in million CHF between the highest and lowest Brand is 7052.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Brand in the x axis and Brand value in million CHF in the y axis. ",
+      "The Brand value in million CHF is appeared to be the highest at Brand Rolex and lowest at Brand Rado. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Brand value in million CHF for 16 number of Brands. ",
+      "The Brand value in million CHF is highest at Brand Rolex and lowest at Brand Rado. ",
+      "The difference of Brand value in million CHF between the highest and lowest Brand is 7052.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Brand in the x axis and Brand value in million CHF in the y axis. ",
+      "The maximum Brand value in million CHF 7387.0 is found at Brand Rolex and the minimum is found at Rado where Brand value in million CHF is 335.0. ",
+      "Brand  has the second highest value for Brand value in million CHF. ",
+      "Brand Rolex has 22.05 times more Brand value in million CHF than Brand Rado which is has the lowest. ",
+      "The Brand Rolex has the highest Brand value in million CHF, followed by , and Patek Philippe. Down to the Brand Rado which is the lowest. ",
+      "The Brand Rolex tends to be 5.17 percent higher than average. ",
+      "Summing up the values of all Brands, we get total 22840.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 15,
+         "12": 15
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Rolex",
+         "Brand value in million CHF": 7387.0
+      },
+      {
+         "Brand": "Omega",
+         "Brand value in million CHF": 3677.0
+      },
+      {
+         "Brand": "Patek Philippe",
+         "Brand value in million CHF": 1885.0
+      },
+      {
+         "Brand": "Chopard",
+         "Brand value in million CHF": 1098.0
+      },
+      {
+         "Brand": "Longines",
+         "Brand value in million CHF": 1089.0
+      },
+      {
+         "Brand": "Breguet",
+         "Brand value in million CHF": 1004.0
+      },
+      {
+         "Brand": "Audemars Piguet",
+         "Brand value in million CHF": 961.0
+      },
+      {
+         "Brand": "Tissot",
+         "Brand value in million CHF": 847.0
+      },
+      {
+         "Brand": "Vacheron Constantin",
+         "Brand value in million CHF": 809.0
+      },
+      {
+         "Brand": "Tag Heuer",
+         "Brand value in million CHF": 764.0
+      },
+      {
+         "Brand": "Swatch",
+         "Brand value in million CHF": 772.0
+      },
+      {
+         "Brand": "IWC",
+         "Brand value in million CHF": 779.0
+      },
+      {
+         "Brand": "Jaeger Lecoultre",
+         "Brand value in million CHF": 673.0
+      },
+      {
+         "Brand": "Hublot",
+         "Brand value in million CHF": 401.0
+      },
+      {
+         "Brand": "Breitling",
+         "Brand value in million CHF": 359.0
+      },
+      {
+         "Brand": "Rado",
+         "Brand value in million CHF": 335.0
+      }
+   ]
+}

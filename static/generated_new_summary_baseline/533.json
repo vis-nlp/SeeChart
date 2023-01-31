@@ -1,0 +1,103 @@
+{
+   "title": "U.S. TV viewership selected games 2014 FIFA World Cup in Brazil",
+   "labels": [
+      "2014 World Cup Matches",
+      "ESPN/ABC",
+      "Univision"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows TV viewership in million viewers on the Y-axis for 8 different 2014 World Cup Matchess for 2 groups ESPN/ABC, and Univision that are presented on the X-axis. ",
+      " 2014 World Cup Matches Group match - USA vs. Portugal (06/22/14)(Univision & ESPN) had the maximum TV viewership in million viewers among all 2 groups, and it was for ESPN/ABC. The minimum TV viewership in million viewers was observed in 2014 World Cup Matches Group match - USA vs. Germany (06/22/14)(Univision & ESPN) for Univision. ",
+      " There is a gap of 58.0 between the highest and lowest TV viewership in million viewers found for Univision in 2014 World Cup Matches World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC) and Group match - USA vs. Germany (06/22/14)(Univision & ESPN). ",
+      "Averaging all 2 groups ESPN/ABC, and Univision, the 2014 World Cup Matches World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC) is the maximum TV viewership in million viewers and Opening match - Brazil vs. Croatia (06/12/14)(Univision & ESPN) is the minimum TV viewership in million viewers. "
+   ],
+   "xAxis": "2014 World Cup Matches",
+   "yAxis": "TV viewership in million viewers",
+   "min_summary": [
+      "This grouped bar chart represents 8 different 2014 World Cup Matchess on X-axis for 2 groups ESPN/ABC, and Univision. On the Y-axis it shows their corresponding TV viewership in million viewers. ",
+      " Out of all 2 groups, ESPN/ABC had the highest TV viewership in million viewers for 2014 World Cup Matches Group match - USA vs. Portugal (06/22/14)(Univision & ESPN) and Univision had the lowest TV viewership in million viewers for 2014 World Cup Matches Group match - USA vs. Germany (06/22/14)(Univision & ESPN). "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows TV viewership in million viewers on the Y-axis for 8 different 2014 World Cup Matchess for 2 groups ESPN/ABC, and Univision that are presented on the X-axis. ",
+      " 2014 World Cup Matches Group match - USA vs. Portugal (06/22/14)(Univision & ESPN) had the maximum TV viewership in million viewers among all 2 groups, and it was for ESPN/ABC. The minimum TV viewership in million viewers was observed in 2014 World Cup Matches Group match - USA vs. Germany (06/22/14)(Univision & ESPN) for Univision. ",
+      " There is a gap of 58.0 between the highest and lowest TV viewership in million viewers found for Univision in 2014 World Cup Matches World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC) and Group match - USA vs. Germany (06/22/14)(Univision & ESPN). ",
+      "Averaging all 2 groups ESPN/ABC, and Univision, the 2014 World Cup Matches World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC) is the maximum TV viewership in million viewers and Opening match - Brazil vs. Croatia (06/12/14)(Univision & ESPN) is the minimum TV viewership in million viewers. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 8 different 2014 World Cup Matchess on X-axis for 2 groups ESPN/ABC, and Univision. On the Y-axis it shows their corresponding TV viewership in million viewers. ",
+      " For 2014 World Cup Matches Group match - USA vs. Portugal (06/22/14)(Univision & ESPN), ESPN/ABC had the highest TV viewership in million viewers 182.0 among the 2 groups and in Group match - USA vs. Germany (06/22/14)(Univision & ESPN), Univision had the lowest TV viewership in million viewers 34.0. ",
+      " Among all the 2014 World Cup Matchess, Univision had the highest TV viewership in million viewers in 2014 World Cup Matches World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC) and lowest TV viewership in million viewers in 2014 World Cup Matches Group match - USA vs. Germany (06/22/14)(Univision & ESPN). ",
+      "2014 World Cup Matches World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC) and Group match - USA vs. Germany (06/22/14)(Univision & ESPN) had the biggest gap of 58.0 between the highest and lowest TV viewership in million viewers found for Univision. ",
+      " Among the groups, ESPN/ABC had the biggest difference in TV viewership in million viewers. Where the maximum TV viewership in million viewers was 4.14 times larger than the minimum TV viewership in million viewers. ",
+      "Averaging all 2 groups ESPN/ABC, and Univision, the 2014 World Cup Matches World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC) is the maximum TV viewership in million viewers and Opening match - Brazil vs. Croatia (06/12/14)(Univision & ESPN) is the minimum TV viewership in million viewers. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "7"
+         ],
+         "13": [
+            "2",
+            "7"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "2014 World Cup Matches": "Opening match - Brazil vs. Croatia (06/12/14)(Univision & ESPN)",
+         "ESPN/ABC": "4.4",
+         "Univision": "5.1"
+      },
+      {
+         "2014 World Cup Matches": "Group match - USA vs. Ghana (06/17/14)(Univision & ESPN)",
+         "ESPN/ABC": "11.1",
+         "Univision": "4.8"
+      },
+      {
+         "2014 World Cup Matches": "Group match - USA vs. Portugal (06/22/14)(Univision & ESPN)",
+         "ESPN/ABC": "18.2",
+         "Univision": "6.5"
+      },
+      {
+         "2014 World Cup Matches": "Group match - USA vs. Germany (06/22/14)(Univision & ESPN)",
+         "ESPN/ABC": "10.8",
+         "Univision": "3.4"
+      },
+      {
+         "2014 World Cup Matches": "Round of 16 - USA vs. Belgium (07/01/14)(Univision & ESPN)",
+         "ESPN/ABC": "16.5",
+         "Univision": "5.1"
+      },
+      {
+         "2014 World Cup Matches": "Semifinal - Brazil vs. Germany (07/08/14)(Univision & ESPN)",
+         "ESPN/ABC": "6.6",
+         "Univision": "5.8"
+      },
+      {
+         "2014 World Cup Matches": "Semifinal - Argentina vs. Netherlands (07/09/14)(Univision & ESPN)",
+         "ESPN/ABC": "6.8",
+         "Univision": "5.4"
+      },
+      {
+         "2014 World Cup Matches": "World Cup Final - Germany vs. Argentina (07/13/14)(Univision & ABC)",
+         "ESPN/ABC": "17.3",
+         "Univision": "9.2"
+      }
+   ]
+}

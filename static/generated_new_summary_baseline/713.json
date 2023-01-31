@@ -1,0 +1,137 @@
+{
+   "title": "Number of vehicles in use worldwide 2006 to 2015",
+   "labels": [
+      "Year",
+      "Commercial vehicles",
+      "Passenger cars"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 2 lines namely Commercial vehicles, and Passenger cars. The y axis represents Number of vehicles in thousand units and the x axis represents Year.",
+      "Overall Commercial vehicles, and Passenger cars are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Passenger cars, and lastly, 2. Commercial vehicles. ",
+      "Overall across the Year, Passenger cars mostly maintained the highest Number of vehicles in thousand units when compared to others with a mean value of 799826.3, and it peaked at 2015.",
+      "The botommost line, Commercial vehicles,  has a mean of 289727.9, and peaked at 2015. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of vehicles in thousand units",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Commercial vehicles, and Passenger cars. The y axis indicates the Number of vehicles in thousand units and the x axis indicates Year.",
+      "Overall Commercial vehicles, and Passenger cars are gradually increasing,  throughout the Year",
+      "Overall across the Year, Passenger cars mostly maintained the highest Number of vehicles in thousand units when compared to others with a mean value of 799826.3, and it peaked at 2015.",
+      "The botommost line, Commercial vehicles,  has a mean of 289727.9, and peaked at 2015. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely Commercial vehicles, and Passenger cars. The y axis represents Number of vehicles in thousand units and the x axis represents Year.",
+      "Overall Commercial vehicles, and Passenger cars are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Passenger cars, and lastly, 2. Commercial vehicles. ",
+      "Overall across the Year, Passenger cars mostly maintained the highest Number of vehicles in thousand units when compared to others with a mean value of 799826.3, and it peaked at 2015.",
+      "The botommost line, Commercial vehicles,  has a mean of 289727.9, and peaked at 2015. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Commercial vehicles, and Passenger cars. The y axis represents Number of vehicles in thousand units and the x axis represents Year.",
+      "Overall Commercial vehicles, and Passenger cars are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Passenger cars, and lastly, 2. Commercial vehicles. ",
+      "Overall across the Year, Passenger cars mostly maintained the highest Number of vehicles in thousand units when compared to others with a mean value of 799826.3, and it peaked at 2015.",
+      "The botommost line, Commercial vehicles,  has a mean of 289727.9, and peaked at 2015. ",
+      "The minimum Number of vehicles in thousand units about 247488.0, occured at 2006 by Commercial vehicles.",
+      "The greatest difference of Number of vehicles in thousand units between Commercial vehicles and Passenger cars occurs at Year 2015 and the smallest difference occurs at 2006."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "9",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "9",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Commercial vehicles": "335190",
+         "Passenger cars": "947080"
+      },
+      {
+         "Year": "2014",
+         "Commercial vehicles": "327825",
+         "Passenger cars": "907062"
+      },
+      {
+         "Year": "2013",
+         "Commercial vehicles": "315845",
+         "Passenger cars": "869083"
+      },
+      {
+         "Year": "2012",
+         "Commercial vehicles": "306721",
+         "Passenger cars": "834916"
+      },
+      {
+         "Year": "2011",
+         "Commercial vehicles": "288618",
+         "Passenger cars": "808401"
+      },
+      {
+         "Year": "2010",
+         "Commercial vehicles": "280127",
+         "Passenger cars": "775573"
+      },
+      {
+         "Year": "2009",
+         "Commercial vehicles": "271957",
+         "Passenger cars": "747899"
+      },
+      {
+         "Year": "2008",
+         "Commercial vehicles": "264970",
+         "Passenger cars": "727405"
+      },
+      {
+         "Year": "2007",
+         "Commercial vehicles": "258538",
+         "Passenger cars": "701690"
+      },
+      {
+         "Year": "2006",
+         "Commercial vehicles": "247488",
+         "Passenger cars": "679154"
+      }
+   ]
+}

@@ -1,0 +1,87 @@
+{
+   "title": "Amount spent on smartphone accessories by U.S. consumers 2010",
+   "labels": [
+      "Response",
+      "Under $50",
+      "$50 - $100",
+      "$100 - $200",
+      "$200 and up"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Response Android owners had the maximum Share of respondents among all 4 groups, and it was for Under $50. The minimum Share of respondents was observed in Response BlackBerry owners for $200 and up. ",
+      " There is a gap of 8.0 between the highest and lowest Share of respondents found for $200 and up in Response iPhone owners and BlackBerry owners. ",
+      "Averaging all 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up, the Response BlackBerry owners is the maximum Share of respondents and Android owners is the minimum Share of respondents. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 3 different Responses for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up that are presented on the X-axis. ",
+      " Out of all 4 groups, Under $50 had the highest Share of respondents for Response Android owners and $200 and up had the lowest Share of respondents for Response BlackBerry owners. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Response Android owners had the maximum Share of respondents among all 4 groups, and it was for Under $50. The minimum Share of respondents was observed in Response BlackBerry owners for $200 and up. ",
+      " There is a gap of 8.0 between the highest and lowest Share of respondents found for $200 and up in Response iPhone owners and BlackBerry owners. ",
+      "Averaging all 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up, the Response BlackBerry owners is the maximum Share of respondents and Android owners is the minimum Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 3 different Responses for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up that are presented on the X-axis. ",
+      " Out of all 4 groups, Under $50 had the highest Share of respondents for Response Android owners and $200 and up had the lowest Share of respondents for Response BlackBerry owners. ",
+      " For Response iPhone owners, $200 and up had the maximum Share of respondents and it saw the lowest in Response BlackBerry owners out of all 3 Responses. ",
+      " The maximum Share of respondents for $200 and up that was found in Response iPhone owners was 9.0 times larger than the minimum Share of respondents observed in Response BlackBerry owners. ",
+      " Among all 4 groups, Under $50 had the gap of 27.0 between the maximum and minimum Share of respondents observed in Response Android owners and iPhone owners respectively. ",
+      " Under $50 had the maximum Share of respondents out of all 4 groups in Response Android owners followed by Under $50 in Android owners, and the minimum Share of respondents is found for $200 and up in BlackBerry owners. ",
+      "Averaging all 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up, the Response BlackBerry owners is the maximum Share of respondents and Android owners is the minimum Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "4",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Android owners",
+         "Under $50": "60",
+         "$50 - $100": "19",
+         "$100 - $200": "8",
+         "$200 and up": "6"
+      },
+      {
+         "Response": "iPhone owners",
+         "Under $50": "33",
+         "$50 - $100": "33",
+         "$100 - $200": "19",
+         "$200 and up": "9"
+      },
+      {
+         "Response": "BlackBerry owners",
+         "Under $50": "47",
+         "$50 - $100": "31",
+         "$100 - $200": "15",
+         "$200 and up": "1"
+      }
+   ]
+}

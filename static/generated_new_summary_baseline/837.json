@@ -1,0 +1,110 @@
+{
+   "title": "Crucial problems in U.S. politics as of 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 16 number of Responses. ",
+      "The Share of respondents is highest at Response Immigration and lowest at Response Environment/ global warming. ",
+      "The difference of Share of respondents between the highest and lowest Response is 10.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Immigration and lowest at Response Environment/ global warming. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 16 number of Responses. ",
+      "The Share of respondents is highest at Response Immigration and lowest at Response Environment/ global warming. ",
+      "The difference of Share of respondents between the highest and lowest Response is 10.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 16 number of Responses. ",
+      "The Share of respondents is highest at Response Immigration and lowest at Response Environment/ global warming. ",
+      "Second maximum Share of respondents is found at Response . ",
+      "The difference of Share of respondents between the highest and lowest Response is 10.0. ",
+      "Response Immigration is higher than any other Responses with value 12.0, followed by , and Donald Trump. Down to Response Environment/ global warming with the lowest value 2.0. ",
+      "Response Unemployment/ lack of jobs, Distribution of wealth / Inequality, Education/ schools/ affording education, and Foreign policy (general) have a similar Share of respondents that is 4.0. ",
+      "Considered together, the average Share of respondents in all 16 Responses is roughly 4.69. ",
+      "Summing up the values of all Responses, we get total 75.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Immigration",
+         "Share of respondents": 12.0
+      },
+      {
+         "Response": "Race relations/ racism",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "Donald Trump",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "Parties/ gridlock/ divisions in country",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Economy (general) health care/costs/accessibility",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Unemployment/ lack of jobs",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Distribution of wealth / Inequality",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Education/ schools/ affording education",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Foreign policy (general)",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Crime/violence/judicial system",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Morality/ ethics/ family values",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Gun control/ too many guns",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Lack of humanity/ respect",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Environment/ global warming",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Dissatisfaction with government/ politics/ corruption",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Defense/ national security",
+         "Share of respondents": 2.0
+      }
+   ]
+}

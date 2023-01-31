@@ -1,0 +1,133 @@
+{
+   "title": "Literacy rate in South Africa 2015",
+   "labels": [
+      "Year",
+      "Adult total",
+      "Adult male",
+      "Adult female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Adult total, Adult male, and Adult female. The y axis indicates the Share of population ages 15 and above and the x axis indicates Year.",
+      "Overall Adult total, and Adult female are gradually increasing, Adult male is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of population ages 15 and above in descending order is: 1. Adult male, 2. Adult total, and lastly, 3. Adult female. ",
+      "Throughout the period, Adult male generally had the highest Share of population ages 15 and above relative to others with an average of 94.13, and it reached its maximum at 2015 with a value of 95.4.",
+      "After Adult male, Adult total overall has the second highest values , with a mean value of 92.8, peaking at 2015. ",
+      "Adult female mostly had the least Share of population ages 15 and above with a mean value of 91.66, which peaked at 2015 with a value of 93.41. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of population ages 15 and above",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Adult total, Adult male, and Adult female. The y axis indicates the Share of population ages 15 and above and the x axis indicates Year.",
+      "Overall Adult total, and Adult female are gradually increasing, Adult male is roughly constant,  throughout the Year",
+      "Throughout the period, Adult male generally had the highest Share of population ages 15 and above relative to others with an average of 94.13, and it reached its maximum at 2015 with a value of 95.4.",
+      "After Adult male, Adult total overall has the second highest values , with a mean value of 92.8, peaking at 2015. ",
+      "Adult female mostly had the least Share of population ages 15 and above with a mean value of 91.66, which peaked at 2015 with a value of 93.41. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Adult total, Adult male, and Adult female. The y axis indicates the Share of population ages 15 and above and the x axis indicates Year.",
+      "Overall Adult total, and Adult female are gradually increasing, Adult male is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of population ages 15 and above in descending order is: 1. Adult male, 2. Adult total, and lastly, 3. Adult female. ",
+      "Throughout the period, Adult male generally had the highest Share of population ages 15 and above relative to others with an average of 94.13, and it reached its maximum at 2015 with a value of 95.4.",
+      "After Adult male, Adult total overall has the second highest values , with a mean value of 92.8, peaking at 2015. ",
+      "Adult female mostly had the least Share of population ages 15 and above with a mean value of 91.66, which peaked at 2015 with a value of 93.41. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 3 lines namely Adult total, Adult male, and Adult female. The y axis represents Share of population ages 15 and above and the x axis represents Year.",
+      "Overall Adult total, and Adult female are gradually increasing, Adult male is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of population ages 15 and above in descending order is: 1. Adult male, 2. Adult total, and lastly, 3. Adult female. ",
+      "Overall across the Year, Adult male mostly maintained the highest Share of population ages 15 and above when compared to others with a mean value of 94.13, and it peaked at 2015.",
+      "After Adult male, Adult total overall has the second highest values , with a mean value of 92.8, peaking at 2015. ",
+      "Adult female mostly had the least Share of population ages 15 and above with a mean value of 91.66, which peaked at 2015 with a value of 93.41. ",
+      "Adult female reported the lowest Share of population ages 15 and above about 87.04 in Year 2007"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Adult total": "94.37",
+         "Adult male": "95.4",
+         "Adult female": "93.41"
+      },
+      {
+         "Year": "2014",
+         "Adult total": "94.14",
+         "Adult male": "95.29",
+         "Adult female": "93.07"
+      },
+      {
+         "Year": "2012",
+         "Adult total": "93.73",
+         "Adult male": "94.96",
+         "Adult female": "92.59"
+      },
+      {
+         "Year": "2011",
+         "Adult total": "93.1",
+         "Adult male": "94.25",
+         "Adult female": "92.05"
+      },
+      {
+         "Year": "2010",
+         "Adult total": "92.88",
+         "Adult male": "94.14",
+         "Adult female": "91.71"
+      },
+      {
+         "Year": "2009",
+         "Adult total": "92.89",
+         "Adult male": "94.12",
+         "Adult female": "91.77"
+      },
+      {
+         "Year": "2007",
+         "Adult total": "88.72",
+         "Adult male": "90.72",
+         "Adult female": "87.04"
+      }
+   ]
+}

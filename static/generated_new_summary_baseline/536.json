@@ -1,0 +1,54 @@
+{
+   "title": "U.S. consumers who use marijuana 2019 , by age group",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 4.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is roughly constant from 18-29_years to 50-64_years, and finally slightly decreasing from 50-64_years to 65+_years.",
+      "Maximum Share of respondents, about 22.0 was reported at Year 18-29_years",
+      "Minimum Share of respondents about 3.0 was reached at Year 65+_years"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 4 data points.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is roughly constant from 18-29_years to 50-64_years, and finally slightly decreasing from 50-64_years to 65+_years."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 4.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is roughly constant from 18-29_years to 50-64_years, and finally slightly decreasing from 50-64_years to 65+_years.",
+      "Maximum Share of respondents, about 22.0 was reported at Year 18-29_years",
+      "Minimum Share of respondents about 3.0 was reached at Year 65+_years"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 4 data points.",
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is roughly constant from 18-29_years to 50-64_years, and finally slightly decreasing from 50-64_years to 65+_years.",
+      "Maximum Share of respondents, about 22.0 was reported at Year 18-29_years",
+      "Minimum Share of respondents about 3.0 was reached at Year 65+_years",
+      "The line rapidly decreased by 75.0% from Year 50-64_years to 65+_years."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "18-29 years",
+         "Share of respondents": 22.0
+      },
+      {
+         "Year": "30-49 years",
+         "Share of respondents": 11.0
+      },
+      {
+         "Year": "50-64 years",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "65+ years",
+         "Share of respondents": 3.0
+      }
+   ]
+}

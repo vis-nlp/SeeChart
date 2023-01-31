@@ -1,0 +1,77 @@
+{
+   "title": "Annual net income/loss of Zalando 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Net income/loss in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net income/loss in million euros. In total the number of data points it has is 9.",
+      " Overall Net income/loss in million euros has increased over the Year.",
+      "Net income/loss in million euros is gradually increasing from 2010 to 2011, roughly constant from 2011 to 2013, roughly increasing from 2013 to 2015, roughly constant from 2015 to 2017, and finally slightly decreasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Net income/loss in million euros, of value 121.5 was reached at Year 2015",
+      "The lowest Net income/loss in million euros, of value 23.1 was reported at Year 2010"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net income/loss in million euros, containing a total of 9 data points.",
+      " In general Net income/loss in million euros has rose over the Year.",
+      "Net income/loss in million euros is gradually increasing from 2010 to 2011, roughly constant from 2011 to 2013, roughly increasing from 2013 to 2015, roughly constant from 2015 to 2017, and finally slightly decreasing from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net income/loss in million euros. In total the number of data points it has is 9.",
+      " Overall Net income/loss in million euros has increased over the Year.",
+      "Net income/loss in million euros is gradually increasing from 2010 to 2011, roughly constant from 2011 to 2013, roughly increasing from 2013 to 2015, roughly constant from 2015 to 2017, and finally slightly decreasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Net income/loss in million euros, of value 121.5 was reached at Year 2015",
+      "The lowest Net income/loss in million euros, of value 23.1 was reported at Year 2010"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net income/loss in million euros, containing a total of 9 data points.",
+      " Overall Net income/loss in million euros has increased over the Year.",
+      "Net income/loss in million euros is gradually increasing from 2010 to 2011, roughly constant from 2011 to 2013, roughly increasing from 2013 to 2015, roughly constant from 2015 to 2017, and finally slightly decreasing from 2017 to 2018.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Net income/loss in million euros, of value 121.5 was reached at Year 2015",
+      "The lowest Net income/loss in million euros, of value 23.1 was reported at Year 2010",
+      "The line significantly increased by 36.64 from Year 2010 to 2011, and lastly, increased by 74.4 from Year 2014 to 2015."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Net income/loss in million euros": 51.2
+      },
+      {
+         "Year": "2017",
+         "Net income/loss in million euros": 101.6
+      },
+      {
+         "Year": "2016",
+         "Net income/loss in million euros": 120.5
+      },
+      {
+         "Year": "2015",
+         "Net income/loss in million euros": 121.5
+      },
+      {
+         "Year": "2014",
+         "Net income/loss in million euros": 47.1
+      },
+      {
+         "Year": "2013",
+         "Net income/loss in million euros": 116.6
+      },
+      {
+         "Year": "2012",
+         "Net income/loss in million euros": 85.07
+      },
+      {
+         "Year": "2011",
+         "Net income/loss in million euros": 59.74
+      },
+      {
+         "Year": "2010",
+         "Net income/loss in million euros": 23.1
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Leading Youtubers from the Netherlands based on subscribers 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
+      "The Number of subscribers in thousands is appeared to be the highest at Month Trap City and lowest at Month Ti\u00ebsto. ",
+      "The highest Month Trap City has 6847.71 more Number of subscribers in thousands than the lowest Month Ti\u00ebsto. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Number of subscribers in thousands in each Month on the y axis. ",
+      "The Number of subscribers in thousands is highest at Month Trap City and lowest at Month Ti\u00ebsto. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
+      "The Number of subscribers in thousands is appeared to be the highest at Month Trap City and lowest at Month Ti\u00ebsto. ",
+      "The highest Month Trap City has 6847.71 more Number of subscribers in thousands than the lowest Month Ti\u00ebsto. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of subscribers in thousands for 10 number of Months. ",
+      "The Number of subscribers in thousands is appeared to be the highest at Month Trap City and lowest at Month Ti\u00ebsto. ",
+      "The difference of Number of subscribers in thousands between the highest and lowest Month is 6847.71. ",
+      "Number of subscribers in thousands at Month Trap City is 9333.53 , second place is  at 9333.53, and thirdly is Martin Garrix at 8102.89.",
+      "Overall Number of subscribers in thousands has decreased over the Months. ",
+      "The lowest value 2485.82 at Ti\u00ebsto is almost 1.63 times smaller than the average value 5734.78. ",
+      "Summing up the values of all Months, we get total 57347.76. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Trap City",
+         "Number of subscribers in thousands": 9333.53
+      },
+      {
+         "Month": "NikkieTutorials",
+         "Number of subscribers in thousands": 8883.0
+      },
+      {
+         "Month": "Martin Garrix",
+         "Number of subscribers in thousands": 8102.89
+      },
+      {
+         "Month": "Kwebbelkop",
+         "Number of subscribers in thousands": 7898.74
+      },
+      {
+         "Month": "Jelly",
+         "Number of subscribers in thousands": 7643.67
+      },
+      {
+         "Month": "Hardwell",
+         "Number of subscribers in thousands": 4084.03
+      },
+      {
+         "Month": "Armada Music",
+         "Number of subscribers in thousands": 3261.56
+      },
+      {
+         "Month": "saskiasdansschool",
+         "Number of subscribers in thousands": 3032.43
+      },
+      {
+         "Month": "NiceNienke",
+         "Number of subscribers in thousands": 2622.09
+      },
+      {
+         "Month": "Ti\u00ebsto",
+         "Number of subscribers in thousands": 2485.82
+      }
+   ]
+}

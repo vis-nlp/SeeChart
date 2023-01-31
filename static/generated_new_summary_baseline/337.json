@@ -1,0 +1,93 @@
+{
+   "title": "UEFA ( Union of European Football Associations ) total revenue 2004 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million euros, containing a total of 14 data points.",
+      " Overall Revenue in million euros has increased over the Year.",
+      "The steepest increase occurs in between the Year 2014/15 and 2015/16.",
+      "The highest Revenue in million euros, of value 4579.8 was reached at Year 2015/16",
+      "The lowest Revenue in million euros, of value 659.2 was reported at Year 2004/05"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million euros, containing a total of 14 data points.",
+      " In general Revenue in million euros has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million euros, containing a total of 14 data points.",
+      " Overall Revenue in million euros has increased over the Year.",
+      "The steepest increase occurs in between the Year 2014/15 and 2015/16.",
+      "The highest Revenue in million euros, of value 4579.8 was reached at Year 2015/16",
+      "The lowest Revenue in million euros, of value 659.2 was reported at Year 2004/05"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million euros. In total the number of data points it has is 14.",
+      " In general Revenue in million euros has rose over the Year.",
+      "The steepest increase occurs in between the Year 2014/15 and 2015/16.",
+      "The highest Revenue in million euros, of value 4579.8 was reached at Year 2015/16",
+      "The lowest Revenue in million euros, of value 659.2 was reported at Year 2004/05",
+      "The line significantly increased by 1411.6 from Year 2010/11 to 2011/12, and lastly, increased by 2480.39 from Year 2014/15 to 2015/16."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Revenue in million euros": 2789.8
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million euros": 2835.9
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million euros": 4579.8
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million euros": 2099.41
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million euros": 1730.4
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million euros": 1698.9
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million euros": 2795.7
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million euros": 1384.1
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million euros": 1394.7
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million euros": 907.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million euros": 1925.26
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million euros": 1151.6
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million euros": 700.45
+      },
+      {
+         "Year": "2004/05",
+         "Revenue in million euros": 659.2
+      }
+   ]
+}

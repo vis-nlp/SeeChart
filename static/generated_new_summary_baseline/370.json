@@ -1,0 +1,65 @@
+{
+   "title": "PetSmart 's revenue in the U.S. 2014/15 - 2019/20",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 6 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 2014/15 to 2017/18, and lastly slightly increasing from 2017/18 to 2019/20.",
+      "The most drastic increase took place within the Year 2017/18 and 2018/19.",
+      "The highest Revenue in million U.S. dollars, of value 7091.1 was reached at Year 2019/20",
+      "The lowest Revenue in million U.S. dollars, of value 4900.8 was reported at Year 2014/15"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 6 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 2014/15 to 2017/18, and lastly slightly increasing from 2017/18 to 2019/20."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 6 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 2014/15 to 2017/18, and lastly slightly increasing from 2017/18 to 2019/20.",
+      "The most drastic increase took place within the Year 2017/18 and 2018/19.",
+      "The highest Revenue in million U.S. dollars, of value 7091.1 was reached at Year 2019/20",
+      "The lowest Revenue in million U.S. dollars, of value 4900.8 was reported at Year 2014/15"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 6 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 2014/15 to 2017/18, and lastly slightly increasing from 2017/18 to 2019/20.",
+      "The most drastic increase took place within the Year 2017/18 and 2018/19.",
+      "The highest Revenue in million U.S. dollars, of value 7091.1 was reached at Year 2019/20",
+      "The lowest Revenue in million U.S. dollars, of value 4900.8 was reported at Year 2014/15",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019/20",
+         "Revenue in million U.S. dollars": 7091.1
+      },
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 6492.5
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 5256.5
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 5393.7
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 5039.7
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 4900.8
+      }
+   ]
+}

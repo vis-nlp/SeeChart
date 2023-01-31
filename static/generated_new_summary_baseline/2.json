@@ -1,0 +1,57 @@
+{
+   "title": "Expenditure of affluent U.S. households on fees for social , recreation , health club",
+   "xAxis": "Year",
+   "yAxis": "Amount spent in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Amount spent in U.S. dollars. In total the number of data points it has is 4.",
+      " Overall Amount spent in U.S. dollars has increased over the Year.",
+      "Amount spent in U.S. dollars is roughly constant from 2013 to 2014, and finally slightly increasing from 2014 to 2016.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum Amount spent in U.S. dollars, about 56.15 was reported at Year 2016",
+      "The lowest Amount spent in U.S. dollars, of value 46.58 was reported at Year 2013"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Amount spent in U.S. dollars, containing a total of 4 data points.",
+      " Overall Amount spent in U.S. dollars has increased over the Year.",
+      "Amount spent in U.S. dollars is roughly constant from 2013 to 2014, and finally slightly increasing from 2014 to 2016."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Amount spent in U.S. dollars. In total the number of data points it has is 4.",
+      " Overall Amount spent in U.S. dollars has increased over the Year.",
+      "Amount spent in U.S. dollars is roughly constant from 2013 to 2014, and finally slightly increasing from 2014 to 2016.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum Amount spent in U.S. dollars, about 56.15 was reported at Year 2016",
+      "The lowest Amount spent in U.S. dollars, of value 46.58 was reported at Year 2013"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Amount spent in U.S. dollars, containing a total of 4 data points.",
+      " In general Amount spent in U.S. dollars has rose over the Year.",
+      "Amount spent in U.S. dollars is roughly constant from 2013 to 2014, and finally slightly increasing from 2014 to 2016.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum Amount spent in U.S. dollars, about 56.15 was reported at Year 2016",
+      "The lowest Amount spent in U.S. dollars, of value 46.58 was reported at Year 2013",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2013",
+         "Amount spent in U.S. dollars": 46.58
+      },
+      {
+         "Year": "2014",
+         "Amount spent in U.S. dollars": 47.39
+      },
+      {
+         "Year": "2015",
+         "Amount spent in U.S. dollars": 51.52
+      },
+      {
+         "Year": "2016",
+         "Amount spent in U.S. dollars": 56.15
+      }
+   ]
+}

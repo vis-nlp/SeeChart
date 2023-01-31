@@ -1,0 +1,85 @@
+{
+   "title": "Leading U.S. states based on the total number of active physicians 2019",
+   "xAxis": "State",
+   "yAxis": "Number of specialist physicians",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing State, and Number of specialist physicians in each State on the y axis. ",
+      "State California has the highest Number of specialist physicians and New Jersey has the lowest Number of specialist physicians. ",
+      "State New Jersey has 3.7 times less Number of specialist physicians than State California which is the highest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing State in the x axis and Number of specialist physicians in the y axis. ",
+      "The Number of specialist physicians is highest at State California and lowest at State New Jersey. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing State, and Number of specialist physicians in each State on the y axis. ",
+      "State California has the highest Number of specialist physicians and New Jersey has the lowest Number of specialist physicians. ",
+      "State New Jersey has 3.7 times less Number of specialist physicians than State California which is the highest. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing State, and Number of specialist physicians in each State on the y axis. ",
+      "State California has the highest Number of specialist physicians and New Jersey has the lowest Number of specialist physicians. ",
+      "Second maximum Number of specialist physicians is found at State . ",
+      "The lowest value at State New Jersey is 3.7x times less than the highest value at California. ",
+      "State California is higher than any other States with value 112906.0, followed by , and Texas. Down to State New Jersey with the lowest value 30502.0. ",
+      "Considered together, the average Number of specialist physicians in all 10 States is roughly 56615.3. ",
+      "The Number of specialist physicians is 566153.0 if we add up values of all States. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Number of specialist physicians": 112906.0
+      },
+      {
+         "State": "New York",
+         "Number of specialist physicians": 89500.0
+      },
+      {
+         "State": "Texas",
+         "Number of specialist physicians": 64602.0
+      },
+      {
+         "State": "Florida",
+         "Number of specialist physicians": 56499.0
+      },
+      {
+         "State": "Pennsylvania",
+         "Number of specialist physicians": 51069.0
+      },
+      {
+         "State": "Illinois",
+         "Number of specialist physicians": 43377.0
+      },
+      {
+         "State": "Ohio",
+         "Number of specialist physicians": 42373.0
+      },
+      {
+         "State": "Michigan",
+         "Number of specialist physicians": 38819.0
+      },
+      {
+         "State": "Massachusetts",
+         "Number of specialist physicians": 36506.0
+      },
+      {
+         "State": "New Jersey",
+         "Number of specialist physicians": 30502.0
+      }
+   ]
+}

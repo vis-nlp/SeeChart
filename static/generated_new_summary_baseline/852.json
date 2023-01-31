@@ -1,0 +1,101 @@
+{
+   "title": "Natural gas consumption in the United States : 1995 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Consumption in trillion cubic feet",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Consumption in trillion cubic feet, containing a total of 16 data points.",
+      " In general Consumption in trillion cubic feet has rose over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Consumption in trillion cubic feet, about 29.95 was reported at Year 2018",
+      "Minimum Consumption in trillion cubic feet about 21.7 was reached at Year 2006"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption in trillion cubic feet. In total the number of data points it has is 16.",
+      " Overall Consumption in trillion cubic feet has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Consumption in trillion cubic feet, containing a total of 16 data points.",
+      " In general Consumption in trillion cubic feet has rose over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Consumption in trillion cubic feet, about 29.95 was reported at Year 2018",
+      "Minimum Consumption in trillion cubic feet about 21.7 was reached at Year 2006"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Consumption in trillion cubic feet, containing a total of 16 data points.",
+      " Overall Consumption in trillion cubic feet has increased over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Consumption in trillion cubic feet, about 29.95 was reported at Year 2018",
+      "Minimum Consumption in trillion cubic feet about 21.7 was reached at Year 2006",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Consumption in trillion cubic feet": 29.95
+      },
+      {
+         "Year": "2017",
+         "Consumption in trillion cubic feet": 27.13
+      },
+      {
+         "Year": "2016",
+         "Consumption in trillion cubic feet": 27.44
+      },
+      {
+         "Year": "2015",
+         "Consumption in trillion cubic feet": 27.24
+      },
+      {
+         "Year": "2014",
+         "Consumption in trillion cubic feet": 26.59
+      },
+      {
+         "Year": "2013",
+         "Consumption in trillion cubic feet": 26.16
+      },
+      {
+         "Year": "2012",
+         "Consumption in trillion cubic feet": 25.54
+      },
+      {
+         "Year": "2011",
+         "Consumption in trillion cubic feet": 24.48
+      },
+      {
+         "Year": "2010",
+         "Consumption in trillion cubic feet": 24.09
+      },
+      {
+         "Year": "2009",
+         "Consumption in trillion cubic feet": 22.91
+      },
+      {
+         "Year": "2008",
+         "Consumption in trillion cubic feet": 23.28
+      },
+      {
+         "Year": "2007",
+         "Consumption in trillion cubic feet": 23.1
+      },
+      {
+         "Year": "2006",
+         "Consumption in trillion cubic feet": 21.7
+      },
+      {
+         "Year": "2005",
+         "Consumption in trillion cubic feet": 22.01
+      },
+      {
+         "Year": "2000",
+         "Consumption in trillion cubic feet": 23.33
+      },
+      {
+         "Year": "1995",
+         "Consumption in trillion cubic feet": 22.21
+      }
+   ]
+}

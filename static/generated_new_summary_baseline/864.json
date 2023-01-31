@@ -1,0 +1,51 @@
+{
+   "title": "Snapchat : distribution of global audiences 2020 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Share of active users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of active users for 2 number of Sexs. ",
+      "The maximum Share of active users 61.0 is found at Sex Female and the minimum is found at Male where Share of active users is 38.0. ",
+      "The difference of Share of active users between the highest and lowest Sex is 23.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of active users for 2 number of Sexs. ",
+      "The Share of active users is appeared to be the highest at Sex Female and lowest at Sex Male. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of active users for 2 number of Sexs. ",
+      "The maximum Share of active users 61.0 is found at Sex Female and the minimum is found at Male where Share of active users is 38.0. ",
+      "The difference of Share of active users between the highest and lowest Sex is 23.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Sex in the x axis and Share of active users in the y axis. ",
+      "Sex Female has the highest Share of active users and Male has the lowest Share of active users. ",
+      "There is a difference of 23.0 between the maximum Sex Female and minimum Sex Male. ",
+      "The Sex Male tends to be 1.23 percent lower than average. ",
+      "The Share of active users is 99.0 if we add up values of all Sexs. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Share of active users": 61.0
+      },
+      {
+         "Sex": "Male",
+         "Share of active users": 38.0
+      }
+   ]
+}

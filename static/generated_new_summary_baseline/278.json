@@ -1,0 +1,113 @@
+{
+   "title": "U.S. per capita consumption of fresh mangoes 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita consumption in pounds, containing a total of 19 data points.",
+      " In general Per capita consumption in pounds has rose over the Year.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "The highest Per capita consumption in pounds, of value 3.22 was reached at Year 2017",
+      "Minimum Per capita consumption in pounds about 1.75 was reached at Year 2000"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita consumption in pounds. In total the number of data points it has is 19.",
+      " Overall Per capita consumption in pounds has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita consumption in pounds, containing a total of 19 data points.",
+      " In general Per capita consumption in pounds has rose over the Year.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "The highest Per capita consumption in pounds, of value 3.22 was reached at Year 2017",
+      "Minimum Per capita consumption in pounds about 1.75 was reached at Year 2000"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita consumption in pounds. In total the number of data points it has is 19.",
+      " Overall Per capita consumption in pounds has increased over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Per capita consumption in pounds, of value 3.22 was reached at Year 2017",
+      "Minimum Per capita consumption in pounds about 1.75 was reached at Year 2000",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": 3.17
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": 3.22
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": 2.96
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": 2.6
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": 2.52
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": 2.87
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": 2.49
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": 2.53
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": 2.24
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": 2.02
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": 2.1
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": 2.1
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": 2.1
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": 1.88
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": 2.02
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": 2.06
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": 1.97
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": 1.79
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": 1.75
+      }
+   ]
+}

@@ -1,0 +1,126 @@
+{
+   "title": "Highest salaries in Major League Baseball 2019",
+   "xAxis": "Baseball Player",
+   "yAxis": "Salary in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Baseball Player in the x axis and Salary in million U.S. dollars in the y axis. ",
+      "The maximum Salary in million U.S. dollars 38.33 is found at Baseball Player Stephen Strasburg and the minimum is found at Jason Heyward where Salary in million U.S. dollars is 22.5. ",
+      "The Salary in million U.S. dollars of Baseball Player Stephen Strasburg is 1.7% larger than the minimum value at Jason Heyward. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Baseball Player in the x axis and Salary in million U.S. dollars in the y axis. ",
+      "Baseball Player Stephen Strasburg has the highest Salary in million U.S. dollars and Jason Heyward has the lowest Salary in million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Baseball Player in the x axis and Salary in million U.S. dollars in the y axis. ",
+      "The maximum Salary in million U.S. dollars 38.33 is found at Baseball Player Stephen Strasburg and the minimum is found at Jason Heyward where Salary in million U.S. dollars is 22.5. ",
+      "The Salary in million U.S. dollars of Baseball Player Stephen Strasburg is 1.7% larger than the minimum value at Jason Heyward. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Baseball Player in the x axis and Salary in million U.S. dollars in the y axis. ",
+      "The Salary in million U.S. dollars is highest at Baseball Player Stephen Strasburg and lowest at Baseball Player Jason Heyward. ",
+      "Second maximum Salary in million U.S. dollars is found at Baseball Player . ",
+      "The minimum Baseball Player Jason Heyward has got 1.7 times less Salary in million U.S. dollars than the maximum Baseball Player Stephen Strasburg. ",
+      "Baseball Player Stephen Strasburg is higher than any other Baseball Players with value 38.33, followed by , and Zack Greinke. Down to Baseball Player Jason Heyward with the lowest value 22.5. ",
+      "Similar Salary in million U.S. dollars is found in Baseball Player Jake Arrieta, Jordan Zimmermann, and Joey Votto. ",
+      "The Baseball Player Jason Heyward tends to be 1.36 percent lower than average. ",
+      "The Salary in million U.S. dollars is 562.85 if we add up values of all Baseball Players. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Baseball Player": "Stephen Strasburg",
+         "Salary in million U.S. dollars": 38.33
+      },
+      {
+         "Baseball Player": "Max Scherzer",
+         "Salary in million U.S. dollars": 37.41
+      },
+      {
+         "Baseball Player": "Zack Greinke",
+         "Salary in million U.S. dollars": 34.5
+      },
+      {
+         "Baseball Player": "David Price",
+         "Salary in million U.S. dollars": 31.0
+      },
+      {
+         "Baseball Player": "Clayton Kershaw",
+         "Salary in million U.S. dollars": 31.0
+      },
+      {
+         "Baseball Player": "Miguel Cabrera",
+         "Salary in million U.S. dollars": 30.0
+      },
+      {
+         "Baseball Player": "Yoenis Cespedes",
+         "Salary in million U.S. dollars": 29.0
+      },
+      {
+         "Baseball Player": "Albert Pujols",
+         "Salary in million U.S. dollars": 28.0
+      },
+      {
+         "Baseball Player": "Justin Verlander",
+         "Salary in million U.S. dollars": 28.0
+      },
+      {
+         "Baseball Player": "Felix Hernandez",
+         "Salary in million U.S. dollars": 27.86
+      },
+      {
+         "Baseball Player": "Jon Lester",
+         "Salary in million U.S. dollars": 27.5
+      },
+      {
+         "Baseball Player": "Nolan Arenado",
+         "Salary in million U.S. dollars": 26.0
+      },
+      {
+         "Baseball Player": "Giancarlo Stanton",
+         "Salary in million U.S. dollars": 26.0
+      },
+      {
+         "Baseball Player": "Jake Arrieta",
+         "Salary in million U.S. dollars": 25.0
+      },
+      {
+         "Baseball Player": "Jordan Zimmermann",
+         "Salary in million U.S. dollars": 25.0
+      },
+      {
+         "Baseball Player": "Joey Votto",
+         "Salary in million U.S. dollars": 25.0
+      },
+      {
+         "Baseball Player": "Robinson Cano",
+         "Salary in million U.S. dollars": 24.0
+      },
+      {
+         "Baseball Player": "J.D. Martinez",
+         "Salary in million U.S. dollars": 23.75
+      },
+      {
+         "Baseball Player": "Josh Donaldson",
+         "Salary in million U.S. dollars": 23.0
+      },
+      {
+         "Baseball Player": "Jason Heyward",
+         "Salary in million U.S. dollars": 22.5
+      }
+   ]
+}

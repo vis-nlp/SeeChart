@@ -1,0 +1,117 @@
+{
+   "title": "Employees with zero hours contracts in the UK 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Employees in thousands. In total the number of data points it has is 20.",
+      " Overall Employees in thousands has increased over the Year.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "Maximum Employees in thousands, about 903.0 was reported at Year 2016",
+      "The lowest Employees in thousands, of value 108.0 was reported at Year 2004"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Employees in thousands, containing a total of 20 data points.",
+      " Overall Employees in thousands has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Employees in thousands. In total the number of data points it has is 20.",
+      " Overall Employees in thousands has increased over the Year.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "Maximum Employees in thousands, about 903.0 was reported at Year 2016",
+      "The lowest Employees in thousands, of value 108.0 was reported at Year 2004"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Employees in thousands, containing a total of 20 data points.",
+      " In general Employees in thousands has rose over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "Maximum Employees in thousands, about 903.0 was reported at Year 2016",
+      "The lowest Employees in thousands, of value 108.0 was reported at Year 2004",
+      "The line drastically increased by 2.3 times from Year 2012 to 2013."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Employees in thousands": 896.0
+      },
+      {
+         "Year": "2018",
+         "Employees in thousands": 780.0
+      },
+      {
+         "Year": "2017",
+         "Employees in thousands": 883.0
+      },
+      {
+         "Year": "2016",
+         "Employees in thousands": 903.0
+      },
+      {
+         "Year": "2015",
+         "Employees in thousands": 747.0
+      },
+      {
+         "Year": "2014",
+         "Employees in thousands": 624.0
+      },
+      {
+         "Year": "2013",
+         "Employees in thousands": 585.0
+      },
+      {
+         "Year": "2012",
+         "Employees in thousands": 252.0
+      },
+      {
+         "Year": "2011",
+         "Employees in thousands": 190.0
+      },
+      {
+         "Year": "2010",
+         "Employees in thousands": 168.0
+      },
+      {
+         "Year": "2009",
+         "Employees in thousands": 189.0
+      },
+      {
+         "Year": "2008",
+         "Employees in thousands": 143.0
+      },
+      {
+         "Year": "2007",
+         "Employees in thousands": 166.0
+      },
+      {
+         "Year": "2006",
+         "Employees in thousands": 147.0
+      },
+      {
+         "Year": "2005",
+         "Employees in thousands": 119.0
+      },
+      {
+         "Year": "2004",
+         "Employees in thousands": 108.0
+      },
+      {
+         "Year": "2003",
+         "Employees in thousands": 124.0
+      },
+      {
+         "Year": "2002",
+         "Employees in thousands": 156.0
+      },
+      {
+         "Year": "2001",
+         "Employees in thousands": 176.0
+      },
+      {
+         "Year": "2000",
+         "Employees in thousands": 225.0
+      }
+   ]
+}

@@ -1,0 +1,139 @@
+{
+   "title": "Main source of news in selected countries 2017",
+   "labels": [
+      "Country",
+      "Online (excl. social media)",
+      "Online (incl. social media)",
+      "TV",
+      "Print",
+      "Radio"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Country Italy had the maximum Share of respondents among all 5 groups, and it was for TV. The minimum Share of respondents was observed in Country Italy for Radio. ",
+      " There is a gap of 20.0 between the highest and lowest Share of respondents found for Online (excl. social media) in Country Sweden and Italy. ",
+      "On average, the Country Sweden had the highest Share of respondents for all 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio. Whereas Germany had the lowest average Share of respondents. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Country Italy had the maximum Share of respondents among all 5 groups, and it was for TV. The minimum Share of respondents was observed in Country Italy for Radio. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Country Italy had the maximum Share of respondents among all 5 groups, and it was for TV. The minimum Share of respondents was observed in Country Italy for Radio. ",
+      " There is a gap of 20.0 between the highest and lowest Share of respondents found for Online (excl. social media) in Country Sweden and Italy. ",
+      "On average, the Country Sweden had the highest Share of respondents for all 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio. Whereas Germany had the lowest average Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 9 different Countrys for 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio that are presented on the X-axis. ",
+      " Country Italy had the maximum Share of respondents among all 5 groups, and it was for TV. The minimum Share of respondents was observed in Country Italy for Radio. ",
+      " Among all the Countrys, Online (excl. social media) had the highest Share of respondents 39.0 in Country Sweden and lowest value 19.0 in Country Italy. ",
+      " There is a gap of 20.0 between the highest and lowest Share of respondents found for Online (excl. social media) in Country Sweden and Italy. ",
+      " Out of all 5 groups, the highest gap between the maximum and minimum Share of respondents was found in case of TV. ",
+      " In case of Country Italy, TV had the highest Share of respondents 59.0 among the 5 groups and in Italy, Radio had the lowest Share of respondents 4.0. The second highest Share of respondents 15.0 was observed for TV in Country Italy. ",
+      "Averaging all 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio, the Country Sweden is the maximum Share of respondents and Germany is the minimum Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "8"
+         ],
+         "13": [
+            "5",
+            "8"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "5",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United Kingdom",
+         "Online (excl. social media)": "32",
+         "Online (incl. social media)": "41",
+         "TV": "40",
+         "Print": "11",
+         "Radio": "7"
+      },
+      {
+         "Country": "France",
+         "Online (excl. social media)": "23",
+         "Online (incl. social media)": "34",
+         "TV": "50",
+         "Print": "6",
+         "Radio": "7"
+      },
+      {
+         "Country": "Germany",
+         "Online (excl. social media)": "21",
+         "Online (incl. social media)": "28",
+         "TV": "52",
+         "Print": "7",
+         "Radio": "10"
+      },
+      {
+         "Country": "Italy",
+         "Online (excl. social media)": "19",
+         "Online (incl. social media)": "29",
+         "TV": "59",
+         "Print": "7",
+         "Radio": "4"
+      },
+      {
+         "Country": "United States",
+         "Online (excl. social media)": "27",
+         "Online (incl. social media)": "44",
+         "TV": "41",
+         "Print": "6",
+         "Radio": "5"
+      },
+      {
+         "Country": "Japan",
+         "Online (excl. social media)": "29",
+         "Online (incl. social media)": "37",
+         "TV": "44",
+         "Print": "15",
+         "Radio": "4"
+      },
+      {
+         "Country": "Australia",
+         "Online (excl. social media)": "26",
+         "Online (incl. social media)": "43",
+         "TV": "36",
+         "Print": "9",
+         "Radio": "8"
+      },
+      {
+         "Country": "Spain",
+         "Online (excl. social media)": "23",
+         "Online (incl. social media)": "39",
+         "TV": "42",
+         "Print": "10",
+         "Radio": "8"
+      },
+      {
+         "Country": "Sweden",
+         "Online (excl. social media)": "39",
+         "Online (incl. social media)": "49",
+         "TV": "29",
+         "Print": "9",
+         "Radio": "10"
+      }
+   ]
+}

@@ -1,0 +1,77 @@
+{
+   "title": "Southwest Airlines - available seat miles 2011 to 2019",
+   "xAxis": "Year",
+   "yAxis": "ASMs in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing ASMs in billions, containing a total of 9 data points.",
+      " Overall ASMs in billions has increased over the Year.",
+      "ASMs in billions is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2014, gradually increasing from 2014 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest ASMs in billions, of value 159.8 was reached at Year 2018",
+      "Minimum ASMs in billions about 120.58 was reached at Year 2011"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes ASMs in billions. In total the number of data points it has is 9.",
+      " Overall ASMs in billions has increased over the Year.",
+      "ASMs in billions is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2014, gradually increasing from 2014 to 2017, and lastly roughly constant from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing ASMs in billions, containing a total of 9 data points.",
+      " Overall ASMs in billions has increased over the Year.",
+      "ASMs in billions is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2014, gradually increasing from 2014 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest ASMs in billions, of value 159.8 was reached at Year 2018",
+      "Minimum ASMs in billions about 120.58 was reached at Year 2011"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes ASMs in billions. In total the number of data points it has is 9.",
+      " Overall ASMs in billions has increased over the Year.",
+      "ASMs in billions is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2014, gradually increasing from 2014 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest ASMs in billions, of value 159.8 was reached at Year 2018",
+      "Minimum ASMs in billions about 120.58 was reached at Year 2011",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "ASMs in billions": 157.25
+      },
+      {
+         "Year": "2018",
+         "ASMs in billions": 159.8
+      },
+      {
+         "Year": "2017",
+         "ASMs in billions": 153.81
+      },
+      {
+         "Year": "2016",
+         "ASMs in billions": 148.52
+      },
+      {
+         "Year": "2015",
+         "ASMs in billions": 140.5
+      },
+      {
+         "Year": "2014",
+         "ASMs in billions": 131.0
+      },
+      {
+         "Year": "2013",
+         "ASMs in billions": 130.34
+      },
+      {
+         "Year": "2012",
+         "ASMs in billions": 128.14
+      },
+      {
+         "Year": "2011",
+         "ASMs in billions": 120.58
+      }
+   ]
+}

@@ -1,0 +1,81 @@
+{
+   "title": "Air Products and Chemicals ' sales 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 11 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2012 and 2013.",
+      "The highest Revenue in million U.S. dollars, of value 9674.0 was reached at Year 2011",
+      "The lowest Revenue in million U.S. dollars, of value 7504.0 was reported at Year 2016"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 11 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 11 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2012 and 2013.",
+      "The highest Revenue in million U.S. dollars, of value 9674.0 was reached at Year 2011",
+      "The lowest Revenue in million U.S. dollars, of value 7504.0 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 11 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2012 and 2013.",
+      "The highest Revenue in million U.S. dollars, of value 9674.0 was reached at Year 2011",
+      "The lowest Revenue in million U.S. dollars, of value 7504.0 was reported at Year 2016",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": 8919.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 8930.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 8188.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 7504.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 7824.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 8384.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 8313.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 9612.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 9674.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 8616.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 7847.0
+      }
+   ]
+}

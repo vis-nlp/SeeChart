@@ -1,0 +1,109 @@
+{
+   "title": "Boston Red Sox revenue 2001 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Revenue in million U.S. dollars, of value 516.0 was reached at Year 2018",
+      "Minimum Revenue in million U.S. dollars about 152.0 was reached at Year 2001"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
+      " In general Revenue in million U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Revenue in million U.S. dollars, of value 516.0 was reached at Year 2018",
+      "Minimum Revenue in million U.S. dollars about 152.0 was reached at Year 2001"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest Revenue in million U.S. dollars, of value 516.0 was reached at Year 2018",
+      "Minimum Revenue in million U.S. dollars about 152.0 was reached at Year 2001",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 516.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 453.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 434.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 398.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 370.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 357.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 336.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 310.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 272.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 266.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 269.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 263.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 234.0
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 206.0
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 201.0
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 190.0
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 171.0
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 152.0
+      }
+   ]
+}

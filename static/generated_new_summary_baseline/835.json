@@ -1,0 +1,145 @@
+{
+   "title": "Women 's magazine websites ranked by visitors in Great Britain ( GB ) 2017",
+   "xAxis": "British Retailers",
+   "yAxis": "Visitors in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Visitors in thousands for 25 number of British Retailerss. ",
+      "The Visitors in thousands is appeared to be the highest at British Retailers tesco.com and lowest at British Retailers weightwatchers.co.uk. ",
+      "The lowest value at British Retailers weightwatchers.co.uk is 92.05x times less than the highest value at tesco.com. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing British Retailers in the x axis and Visitors in thousands in the y axis. ",
+      "The maximum Visitors in thousands 3498.0 is found at British Retailers tesco.com and the minimum is found at weightwatchers.co.uk where Visitors in thousands is 38.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Visitors in thousands for 25 number of British Retailerss. ",
+      "The Visitors in thousands is appeared to be the highest at British Retailers tesco.com and lowest at British Retailers weightwatchers.co.uk. ",
+      "The lowest value at British Retailers weightwatchers.co.uk is 92.05x times less than the highest value at tesco.com. "
+   ],
+   "max_summary": [
+      "This bar chart has 25 columns on the x axis representing British Retailers, and Visitors in thousands in each British Retailers on the y axis. ",
+      "The maximum Visitors in thousands 3498.0 is found at British Retailers tesco.com and the minimum is found at weightwatchers.co.uk where Visitors in thousands is 38.0. ",
+      "British Retailers  has the second highest value for Visitors in thousands. ",
+      "There is a difference of 3460.0 between the maximum British Retailers tesco.com and minimum British Retailers weightwatchers.co.uk. ",
+      "Visitors in thousands at British Retailers tesco.com is 3498.0 , second place is  at 3498.0, and thirdly is bbcgoodfood.com at 1901.0.",
+      "The highest value 3498.0 at tesco.com is almost 6.71 times larger than the average value 521.04. ",
+      "The Visitors in thousands is 13026.0 if we add up values of all British Retailerss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 24,
+         "12": 24
+      },
+      {}
+   ],
+   "data": [
+      {
+         "British Retailers": "tesco.com",
+         "Visitors in thousands": 3498.0
+      },
+      {
+         "British Retailers": "asda.com",
+         "Visitors in thousands": 2067.0
+      },
+      {
+         "British Retailers": "bbcgoodfood.com",
+         "Visitors in thousands": 1901.0
+      },
+      {
+         "British Retailers": "johnlewis.com",
+         "Visitors in thousands": 1576.0
+      },
+      {
+         "British Retailers": "ok.co.uk",
+         "Visitors in thousands": 542.0
+      },
+      {
+         "British Retailers": "jamieoliver.com",
+         "Visitors in thousands": 456.0
+      },
+      {
+         "British Retailers": "waitrose.com",
+         "Visitors in thousands": 441.0
+      },
+      {
+         "British Retailers": "Cosmopolitan UK",
+         "Visitors in thousands": 298.0
+      },
+      {
+         "British Retailers": "vogue.co.uk",
+         "Visitors in thousands": 260.0
+      },
+      {
+         "British Retailers": "goodhousekeeping.co.uk",
+         "Visitors in thousands": 239.0
+      },
+      {
+         "British Retailers": "slimmingworld.co.uk",
+         "Visitors in thousands": 227.0
+      },
+      {
+         "British Retailers": "hellomagazine.com",
+         "Visitors in thousands": 223.0
+      },
+      {
+         "British Retailers": "deliciousmagazine.co.uk",
+         "Visitors in thousands": 191.0
+      },
+      {
+         "British Retailers": "glamourmagazine.co.uk",
+         "Visitors in thousands": 158.0
+      },
+      {
+         "British Retailers": "idealhome.co.uk",
+         "Visitors in thousands": 153.0
+      },
+      {
+         "British Retailers": "vanityfair.com",
+         "Visitors in thousands": 136.0
+      },
+      {
+         "British Retailers": "marieclaire.co.uk",
+         "Visitors in thousands": 124.0
+      },
+      {
+         "British Retailers": "elleuk.com",
+         "Visitors in thousands": 103.0
+      },
+      {
+         "British Retailers": "celebsnow.co.uk",
+         "Visitors in thousands": 80.0
+      },
+      {
+         "British Retailers": "womanandhome.com",
+         "Visitors in thousands": 78.0
+      },
+      {
+         "British Retailers": "redonline.co.uk",
+         "Visitors in thousands": 77.0
+      },
+      {
+         "British Retailers": "youandyourwedding.co.uk",
+         "Visitors in thousands": 62.0
+      },
+      {
+         "British Retailers": "whatsontv.co.uk",
+         "Visitors in thousands": 59.0
+      },
+      {
+         "British Retailers": "takeabreak.co.uk",
+         "Visitors in thousands": 39.0
+      },
+      {
+         "British Retailers": "weightwatchers.co.uk",
+         "Visitors in thousands": 38.0
+      }
+   ]
+}

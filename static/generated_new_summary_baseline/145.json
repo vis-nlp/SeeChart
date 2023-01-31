@@ -1,0 +1,117 @@
+{
+   "title": "Population of Luxembourg 2019 , by age",
+   "xAxis": "Year",
+   "yAxis": "Number of inhabitants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of inhabitants. In total the number of data points it has is 20.",
+      " In general Number of inhabitants has fallen over the Year.",
+      "The steepest increase occurs in between the Year 5-9_years and 50-54_years.",
+      "The highest Number of inhabitants, of value 48111.0 was reached at Year 35-39_years",
+      "The lowest Number of inhabitants, of value 766.0 was reported at Year 95_years_and_older"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of inhabitants. In total the number of data points it has is 20.",
+      " Overall Number of inhabitants has decreased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of inhabitants. In total the number of data points it has is 20.",
+      " In general Number of inhabitants has fallen over the Year.",
+      "The steepest increase occurs in between the Year 5-9_years and 50-54_years.",
+      "The highest Number of inhabitants, of value 48111.0 was reached at Year 35-39_years",
+      "The lowest Number of inhabitants, of value 766.0 was reported at Year 95_years_and_older"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of inhabitants, containing a total of 20 data points.",
+      " Overall Number of inhabitants has decreased over the Year.",
+      "The most drastic increase took place within the Year 5-9_years and 50-54_years.",
+      "The highest Number of inhabitants, of value 48111.0 was reached at Year 35-39_years",
+      "The lowest Number of inhabitants, of value 766.0 was reported at Year 95_years_and_older",
+      "The line rapidly decreased by 75.89% from Year 90-94_years to 95_years_and_older."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "0-4 years",
+         "Number of inhabitants": 32592.0
+      },
+      {
+         "Year": "5-9 years",
+         "Number of inhabitants": 33355.0
+      },
+      {
+         "Year": "10-14 years",
+         "Number of inhabitants": 32660.0
+      },
+      {
+         "Year": "15-19 years",
+         "Number of inhabitants": 33206.0
+      },
+      {
+         "Year": "20-24 years",
+         "Number of inhabitants": 38038.0
+      },
+      {
+         "Year": "25-29 years",
+         "Number of inhabitants": 46125.0
+      },
+      {
+         "Year": "30-34 years",
+         "Number of inhabitants": 47863.0
+      },
+      {
+         "Year": "35-39 years",
+         "Number of inhabitants": 48111.0
+      },
+      {
+         "Year": "40-44 years",
+         "Number of inhabitants": 46177.0
+      },
+      {
+         "Year": "45-49 years",
+         "Number of inhabitants": 46183.0
+      },
+      {
+         "Year": "50-54 years",
+         "Number of inhabitants": 46695.0
+      },
+      {
+         "Year": "55-59 years",
+         "Number of inhabitants": 41130.0
+      },
+      {
+         "Year": "60-64 years",
+         "Number of inhabitants": 33431.0
+      },
+      {
+         "Year": "65-69 years",
+         "Number of inhabitants": 26712.0
+      },
+      {
+         "Year": "70-74 years",
+         "Number of inhabitants": 21074.0
+      },
+      {
+         "Year": "75-79 years",
+         "Number of inhabitants": 16260.0
+      },
+      {
+         "Year": "80-84 years",
+         "Number of inhabitants": 12270.0
+      },
+      {
+         "Year": "85-89 years",
+         "Number of inhabitants": 8069.0
+      },
+      {
+         "Year": "90-94 years",
+         "Number of inhabitants": 3177.0
+      },
+      {
+         "Year": "95 years and older",
+         "Number of inhabitants": 766.0
+      }
+   ]
+}

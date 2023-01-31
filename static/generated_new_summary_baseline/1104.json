@@ -1,0 +1,85 @@
+{
+   "title": "Manchester United total revenue 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 11 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 2009 to 2010, slightly increasing from 2010 to 2011, roughly constant from 2011 to 2012, rapidly increasing from 2012 to 2016, and lastly roughly constant from 2016 to 2019.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "The highest Revenue in million U.S. dollars, of value 796.4 was reached at Year 2019",
+      "Minimum Revenue in million U.S. dollars about 366.24 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 11.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 2009 to 2010, slightly increasing from 2010 to 2011, roughly constant from 2011 to 2012, rapidly increasing from 2012 to 2016, and lastly roughly constant from 2016 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 11 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 2009 to 2010, slightly increasing from 2010 to 2011, roughly constant from 2011 to 2012, rapidly increasing from 2012 to 2016, and lastly roughly constant from 2016 to 2019.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "The highest Revenue in million U.S. dollars, of value 796.4 was reached at Year 2019",
+      "Minimum Revenue in million U.S. dollars about 366.24 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 11 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 2009 to 2010, slightly increasing from 2010 to 2011, roughly constant from 2011 to 2012, rapidly increasing from 2012 to 2016, and lastly roughly constant from 2016 to 2019.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "The highest Revenue in million U.S. dollars, of value 796.4 was reached at Year 2019",
+      "Minimum Revenue in million U.S. dollars about 366.24 was reached at Year 2009",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": 796.4
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 775.96
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 764.36
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 677.76
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 519.75
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 569.72
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 477.65
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 421.27
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 435.89
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 376.68
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 366.24
+      }
+   ]
+}

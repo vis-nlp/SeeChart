@@ -1,0 +1,85 @@
+{
+   "title": "Spotify : most streamed weekly tracks worldwide 2020",
+   "xAxis": "Songs",
+   "yAxis": "Number of streams in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of streams in millions for 10 number of Songss. ",
+      "The maximum Number of streams in millions 50.24 is found at Songs Dance Monkey - Tones and I and the minimum is found at Circles - Post Malone where Number of streams in millions is 26.37. ",
+      "There is a difference of 23.87 between the maximum Songs Dance Monkey - Tones and I and minimum Songs Circles - Post Malone. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Songs in the x axis and Number of streams in millions in the y axis. ",
+      "The maximum Number of streams in millions 50.24 is found at Songs Dance Monkey - Tones and I and the minimum is found at Circles - Post Malone where Number of streams in millions is 26.37. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of streams in millions for 10 number of Songss. ",
+      "The maximum Number of streams in millions 50.24 is found at Songs Dance Monkey - Tones and I and the minimum is found at Circles - Post Malone where Number of streams in millions is 26.37. ",
+      "There is a difference of 23.87 between the maximum Songs Dance Monkey - Tones and I and minimum Songs Circles - Post Malone. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of streams in millions for 10 number of Songss. ",
+      "The Number of streams in millions is appeared to be the highest at Songs Dance Monkey - Tones and I and lowest at Songs Circles - Post Malone. ",
+      "Second maximum Number of streams in millions is found at Songs . ",
+      "The highest Songs Dance Monkey - Tones and I has 23.87 more Number of streams in millions than the lowest Songs Circles - Post Malone. ",
+      "Number of streams in millions at Songs Dance Monkey - Tones and I is 50.24 , second place is  at 50.24, and thirdly is ROXANNE - Arizona Zervas at 33.55.",
+      "The Songs Dance Monkey - Tones and I tends to be 1.57 percent higher than average. ",
+      "Summing up the values of all Songss, we get total 320.58. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Songs": "Dance Monkey - Tones and I",
+         "Number of streams in millions": 50.24
+      },
+      {
+         "Songs": "Yummy - Justin Bieber",
+         "Number of streams in millions": 36.77
+      },
+      {
+         "Songs": "ROXANNE - Arizona Zervas",
+         "Number of streams in millions": 33.55
+      },
+      {
+         "Songs": "The Box - Roddy Ricch",
+         "Number of streams in millions": 32.33
+      },
+      {
+         "Songs": "Tusa - KAROL G",
+         "Number of streams in millions": 29.52
+      },
+      {
+         "Songs": "Blinding Lights - The Weeknd",
+         "Number of streams in millions": 29.2
+      },
+      {
+         "Songs": "Falling - Trevor Daniel",
+         "Number of streams in millions": 28.25
+      },
+      {
+         "Songs": "Don't Start Now - Dua Lipa",
+         "Number of streams in millions": 27.34
+      },
+      {
+         "Songs": "Memories - Maroon 5",
+         "Number of streams in millions": 27.01
+      },
+      {
+         "Songs": "Circles - Post Malone",
+         "Number of streams in millions": 26.37
+      }
+   ]
+}

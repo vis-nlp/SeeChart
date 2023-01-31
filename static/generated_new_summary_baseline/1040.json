@@ -1,0 +1,145 @@
+{
+   "title": "Percentage of U.S. population engaged in leisure and sports per day 2010 to 2018",
+   "labels": [
+      "Year",
+      "All",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 3 lines representing All, Men, and Women. The y axis denotes Engagement in leisure and sports and the x axis denotes Year.",
+      "Overall All, Men, and Women are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Engagement in leisure and sports in descending order is: 1. Men, 2. All, and lastly, 3. Women. ",
+      "Throughout the period, Men generally had the highest Engagement in leisure and sports relative to others with an average of 96.04, and it reached its maximum at 2012 with a value of 96.9.",
+      "Followed by All which ranks as the second topmpost line , with an average of 95.7 Engagement in leisure and sports,reaching its highest point  at 2012 with a value of 96.2. ",
+      "Women mostly had the least Engagement in leisure and sports with a mean value of 95.37, which peaked at 2014 with a value of 95.7. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Engagement in leisure and sports",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely All, Men, and Women. The y axis represents Engagement in leisure and sports and the x axis represents Year.",
+      "Overall All, Men, and Women are roughly constant,  throughout the Year",
+      "Overall across the Year, Men mostly maintained the highest Engagement in leisure and sports when compared to others with a mean value of 96.04, and it peaked at 2012.",
+      "After Men, All overall has the second highest values , with a mean value of 95.7, peaking at 2012. ",
+      "The botommost line, Women,  has a mean of 95.37, and peaked at 2014. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 3 lines representing All, Men, and Women. The y axis denotes Engagement in leisure and sports and the x axis denotes Year.",
+      "Overall All, Men, and Women are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Engagement in leisure and sports in descending order is: 1. Men, 2. All, and lastly, 3. Women. ",
+      "Throughout the period, Men generally had the highest Engagement in leisure and sports relative to others with an average of 96.04, and it reached its maximum at 2012 with a value of 96.9.",
+      "Followed by All which ranks as the second topmpost line , with an average of 95.7 Engagement in leisure and sports,reaching its highest point  at 2012 with a value of 96.2. ",
+      "Women mostly had the least Engagement in leisure and sports with a mean value of 95.37, which peaked at 2014 with a value of 95.7. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting All, Men, and Women. The y axis indicates the Engagement in leisure and sports and the x axis indicates Year.",
+      "Overall All, Men, and Women are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Men, 2. All, and lastly, 3. Women. ",
+      "Throughout the period, Men generally had the highest Engagement in leisure and sports relative to others with an average of 96.04, and it reached its maximum at 2012 with a value of 96.9.",
+      "Followed by All which ranks as the second topmpost line , with an average of 95.7 Engagement in leisure and sports,reaching its highest point  at 2012 with a value of 96.2. ",
+      "Women mostly had the least Engagement in leisure and sports with a mean value of 95.37, which peaked at 2014 with a value of 95.7. ",
+      "Women reported the lowest Engagement in leisure and sports about 94.8 in Year 2011"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "8",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "1"
+         ],
+         "9": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "8",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "0"
+         ],
+         "10": [
+            "6",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "All": "95.6",
+         "Men": "96.2",
+         "Women": "94.9"
+      },
+      {
+         "Year": "2017",
+         "All": "95.6",
+         "Men": "95.6",
+         "Women": "95.6"
+      },
+      {
+         "Year": "2016",
+         "All": "95.8",
+         "Men": "96.4",
+         "Women": "95.3"
+      },
+      {
+         "Year": "2015",
+         "All": "96.1",
+         "Men": "96.6",
+         "Women": "95.6"
+      },
+      {
+         "Year": "2014",
+         "All": "95.7",
+         "Men": "95.8",
+         "Women": "95.7"
+      },
+      {
+         "Year": "2013",
+         "All": "95.3",
+         "Men": "95.1",
+         "Women": "95.4"
+      },
+      {
+         "Year": "2012",
+         "All": "96.2",
+         "Men": "96.9",
+         "Women": "95.6"
+      },
+      {
+         "Year": "2011",
+         "All": "95.2",
+         "Men": "95.7",
+         "Women": "94.8"
+      },
+      {
+         "Year": "2010",
+         "All": "95.8",
+         "Men": "96.1",
+         "Women": "95.4"
+      }
+   ]
+}

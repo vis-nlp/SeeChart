@@ -1,0 +1,81 @@
+{
+   "title": "U.S. teens : most frequently accessed social networks 2019",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents who use network most often",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Platform in the x axis and Share of respondents who use network most often in the y axis. ",
+      "The Share of respondents who use network most often is appeared to be the highest at Platform Instagram and lowest at Platform Other. ",
+      "The highest Platform Instagram has 24.0 more Share of respondents who use network most often than the lowest Platform Other. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Platform, and Share of respondents who use network most often in each Platform on the y axis. ",
+      "The Share of respondents who use network most often is appeared to be the highest at Platform Instagram and lowest at Platform Other. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Platform in the x axis and Share of respondents who use network most often in the y axis. ",
+      "The Share of respondents who use network most often is appeared to be the highest at Platform Instagram and lowest at Platform Other. ",
+      "The highest Platform Instagram has 24.0 more Share of respondents who use network most often than the lowest Platform Other. "
+   ],
+   "max_summary": [
+      "This bar chart has 9 columns on the x axis representing Platform, and Share of respondents who use network most often in each Platform on the y axis. ",
+      "The Share of respondents who use network most often is highest at Platform Instagram and lowest at Platform Other. ",
+      "The second highest Share of respondents who use network most often is appeared to be the Platform . ",
+      "The difference of Share of respondents who use network most often between the highest and lowest Platform is 24.0. ",
+      "Share of respondents who use network most often at Platform Instagram is 25.0 , second place is  at 25.0, and thirdly is Snapchat at 22.0.",
+      "Platform Other, and Don't know share the same value 1.0. ",
+      "The highest value 25.0 at Instagram is almost 2.25 times larger than the average value 11.11. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Platform": "Instagram",
+         "Share of respondents who use network most often": 25.0
+      },
+      {
+         "Platform": "Facebook",
+         "Share of respondents who use network most often": 24.0
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents who use network most often": 22.0
+      },
+      {
+         "Platform": "YouTube",
+         "Share of respondents who use network most often": 16.0
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents who use network most often": 5.0
+      },
+      {
+         "Platform": "WhatsApp",
+         "Share of respondents who use network most often": 4.0
+      },
+      {
+         "Platform": "TikTok",
+         "Share of respondents who use network most often": 2.0
+      },
+      {
+         "Platform": "Other",
+         "Share of respondents who use network most often": 1.0
+      },
+      {
+         "Platform": "Don't know",
+         "Share of respondents who use network most often": 1.0
+      }
+   ]
+}

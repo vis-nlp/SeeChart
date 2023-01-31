@@ -1,0 +1,203 @@
+{
+   "title": "Car dealership network sizes in the United Kingdom ( UK ) 2014 to 2017",
+   "labels": [
+      "Car Manufacturer",
+      "July 2014",
+      "January 2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Number of car dealerships on the Y-axis for 28 different Car Manufacturers for 2 groups July 2014, and January 2017 that are presented on the X-axis. ",
+      " Car Manufacturer Ford had the maximum Number of car dealerships among all 2 groups, and it was for July 2014. The minimum Number of car dealerships was observed in Car Manufacturer Mercedes for July 2014. ",
+      "Car Manufacturer Ford and Mercedes had the biggest gap of 471.0 between the highest and lowest Number of car dealerships found for July 2014. ",
+      "Averaging all 2 groups July 2014, and January 2017, the Car Manufacturer Ford is the maximum Number of car dealerships and Mercedes is the minimum Number of car dealerships. "
+   ],
+   "xAxis": "Car Manufacturer",
+   "yAxis": "Number of car dealerships",
+   "min_summary": [
+      "This grouped bar chart shows Number of car dealerships on the Y-axis for 28 different Car Manufacturers for 2 groups July 2014, and January 2017 that are presented on the X-axis. ",
+      " Out of all 2 groups, July 2014 had the highest Number of car dealerships for Car Manufacturer Ford and July 2014 had the lowest Number of car dealerships for Car Manufacturer Mercedes. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of car dealerships on the Y-axis for 28 different Car Manufacturers for 2 groups July 2014, and January 2017 that are presented on the X-axis. ",
+      " Car Manufacturer Ford had the maximum Number of car dealerships among all 2 groups, and it was for July 2014. The minimum Number of car dealerships was observed in Car Manufacturer Mercedes for July 2014. ",
+      "Car Manufacturer Ford and Mercedes had the biggest gap of 471.0 between the highest and lowest Number of car dealerships found for July 2014. ",
+      "Averaging all 2 groups July 2014, and January 2017, the Car Manufacturer Ford is the maximum Number of car dealerships and Mercedes is the minimum Number of car dealerships. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 28 different Car Manufacturers on X-axis for 2 groups July 2014, and January 2017. On the Y-axis it shows their corresponding Number of car dealerships. ",
+      " For Car Manufacturer Ford, July 2014 had the highest Number of car dealerships 506.0 among the 2 groups and in Mercedes, July 2014 had the lowest Number of car dealerships 35.0. ",
+      " Among all the Car Manufacturers, July 2014 had the highest Number of car dealerships 506.0 in Car Manufacturer Ford and lowest value 35.0 in Car Manufacturer Mercedes. ",
+      " The maximum Number of car dealerships for July 2014 that was found in Car Manufacturer Ford was 14.46 times larger than the minimum Number of car dealerships observed in Car Manufacturer Mercedes. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Number of car dealerships was found in case of July 2014. ",
+      "Averaging all 2 groups July 2014, and January 2017, the Car Manufacturer Ford is the maximum Number of car dealerships and Mercedes is the minimum Number of car dealerships. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Car Manufacturer": "Ford",
+         "July 2014": "506",
+         "January 2017": "475"
+      },
+      {
+         "Car Manufacturer": "Vauxhall",
+         "July 2014": "271",
+         "January 2017": "234"
+      },
+      {
+         "Car Manufacturer": "Peugeot",
+         "July 2014": "187",
+         "January 2017": "179"
+      },
+      {
+         "Car Manufacturer": "Nissan",
+         "July 2014": "203",
+         "January 2017": "197"
+      },
+      {
+         "Car Manufacturer": "Volkswagen",
+         "July 2014": "233",
+         "January 2017": "196"
+      },
+      {
+         "Car Manufacturer": "Kia",
+         "July 2014": "179",
+         "January 2017": "187"
+      },
+      {
+         "Car Manufacturer": "Toyota",
+         "July 2014": "182",
+         "January 2017": "177"
+      },
+      {
+         "Car Manufacturer": "Citroen",
+         "July 2014": "189",
+         "January 2017": "176"
+      },
+      {
+         "Car Manufacturer": "Fiat",
+         "July 2014": "171",
+         "January 2017": "157"
+      },
+      {
+         "Car Manufacturer": "Suzuki",
+         "July 2014": "144",
+         "January 2017": "163"
+      },
+      {
+         "Car Manufacturer": "BMW",
+         "July 2014": "144",
+         "January 2017": "146"
+      },
+      {
+         "Car Manufacturer": "Mini",
+         "July 2014": "142",
+         "January 2017": "143"
+      },
+      {
+         "Car Manufacturer": "Hyundai",
+         "July 2014": "149",
+         "January 2017": "158"
+      },
+      {
+         "Car Manufacturer": "Mazda",
+         "July 2014": "132",
+         "January 2017": "130"
+      },
+      {
+         "Car Manufacturer": "Renault",
+         "July 2014": "151",
+         "January 2017": "151"
+      },
+      {
+         "Car Manufacturer": "Audi",
+         "July 2014": "114",
+         "January 2017": "124"
+      },
+      {
+         "Car Manufacturer": "Seat",
+         "July 2014": "135",
+         "January 2017": "131"
+      },
+      {
+         "Car Manufacturer": "Land Rover",
+         "July 2014": "117",
+         "January 2017": "119"
+      },
+      {
+         "Car Manufacturer": "Mitsubishi",
+         "July 2014": "110",
+         "January 2017": "106"
+      },
+      {
+         "Car Manufacturer": "Volvo",
+         "July 2014": "106",
+         "January 2017": "121"
+      },
+      {
+         "Car Manufacturer": "Jaguar",
+         "July 2014": "89",
+         "January 2017": "85"
+      },
+      {
+         "Car Manufacturer": "Subaru",
+         "July 2014": "59",
+         "January 2017": "73"
+      },
+      {
+         "Car Manufacturer": "Skoda",
+         "July 2014": "125",
+         "January 2017": "79"
+      },
+      {
+         "Car Manufacturer": "Honda",
+         "July 2014": "176",
+         "January 2017": "154"
+      },
+      {
+         "Car Manufacturer": "Jeep",
+         "July 2014": "64",
+         "January 2017": "96"
+      },
+      {
+         "Car Manufacturer": "Alfa Romeo",
+         "July 2014": "59",
+         "January 2017": "62"
+      },
+      {
+         "Car Manufacturer": "Lexus",
+         "July 2014": "47",
+         "January 2017": "47"
+      },
+      {
+         "Car Manufacturer": "Mercedes",
+         "July 2014": "35",
+         "January 2017": "38"
+      }
+   ]
+}

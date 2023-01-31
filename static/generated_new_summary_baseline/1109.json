@@ -1,0 +1,83 @@
+{
+   "title": "Leading gaming content on Twitch H1 2019 , by hours watched",
+   "xAxis": "Games",
+   "yAxis": "Number of hours watched",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Games in the x axis and Number of hours watched in the y axis. ",
+      "The Number of hours watched is appeared to be the highest at Games League of Legends and lowest at Games World of Warcraft. ",
+      "The difference of Number of hours watched between the highest and lowest Games is 393.8. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Games, and Number of hours watched in each Games on the y axis. ",
+      "The Number of hours watched is appeared to be the highest at Games League of Legends and lowest at Games World of Warcraft. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Games in the x axis and Number of hours watched in the y axis. ",
+      "The Number of hours watched is appeared to be the highest at Games League of Legends and lowest at Games World of Warcraft. ",
+      "The difference of Number of hours watched between the highest and lowest Games is 393.8. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of hours watched for 10 number of Gamess. ",
+      "The Number of hours watched is highest at Games League of Legends and lowest at Games World of Warcraft. ",
+      "The difference of Number of hours watched between the highest and lowest Games is 393.8. ",
+      "The Games League of Legends has the highest Number of hours watched, followed by , and Just Chatting. Down to the Games World of Warcraft which is the lowest. ",
+      "The Games World of Warcraft tends to be 1.98 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Games": "League of Legends",
+         "Number of hours watched": 512.3
+      },
+      {
+         "Games": "Fortnite",
+         "Number of hours watched": 465.0
+      },
+      {
+         "Games": "Just Chatting",
+         "Number of hours watched": 372.5
+      },
+      {
+         "Games": "Grand Theft Auto V",
+         "Number of hours watched": 269.1
+      },
+      {
+         "Games": "Dota 2",
+         "Number of hours watched": 237.1
+      },
+      {
+         "Games": "Apex Legends",
+         "Number of hours watched": 181.4
+      },
+      {
+         "Games": "Counter-Strike: Global Offensive",
+         "Number of hours watched": 178.0
+      },
+      {
+         "Games": "Overwatch",
+         "Number of hours watched": 127.3
+      },
+      {
+         "Games": "Hearthstone",
+         "Number of hours watched": 120.7
+      },
+      {
+         "Games": "World of Warcraft",
+         "Number of hours watched": 118.5
+      }
+   ]
+}

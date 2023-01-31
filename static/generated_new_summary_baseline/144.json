@@ -1,0 +1,81 @@
+{
+   "title": "National debt of Ireland 2024",
+   "xAxis": "Year",
+   "yAxis": "National debt in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in billion U.S. dollars, containing a total of 11 data points.",
+      " Overall National debt in billion U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest National debt in billion U.S. dollars, of value 231.85 was reached at Year 2021",
+      "The lowest National debt in billion U.S. dollars, of value 220.87 was reported at Year 2016"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in billion U.S. dollars, containing a total of 11 data points.",
+      " Overall National debt in billion U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in billion U.S. dollars, containing a total of 11 data points.",
+      " Overall National debt in billion U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest National debt in billion U.S. dollars, of value 231.85 was reached at Year 2021",
+      "The lowest National debt in billion U.S. dollars, of value 220.87 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in billion U.S. dollars, containing a total of 11 data points.",
+      " Overall National debt in billion U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest National debt in billion U.S. dollars, of value 231.85 was reached at Year 2021",
+      "The lowest National debt in billion U.S. dollars, of value 220.87 was reported at Year 2016",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in billion U.S. dollars": 224.31
+      },
+      {
+         "Year": "2023",
+         "National debt in billion U.S. dollars": 228.22
+      },
+      {
+         "Year": "2022",
+         "National debt in billion U.S. dollars": 230.52
+      },
+      {
+         "Year": "2021",
+         "National debt in billion U.S. dollars": 231.85
+      },
+      {
+         "Year": "2020",
+         "National debt in billion U.S. dollars": 227.68
+      },
+      {
+         "Year": "2019",
+         "National debt in billion U.S. dollars": 229.83
+      },
+      {
+         "Year": "2018",
+         "National debt in billion U.S. dollars": 226.92
+      },
+      {
+         "Year": "2017",
+         "National debt in billion U.S. dollars": 221.59
+      },
+      {
+         "Year": "2016",
+         "National debt in billion U.S. dollars": 220.87
+      },
+      {
+         "Year": "2015",
+         "National debt in billion U.S. dollars": 221.87
+      },
+      {
+         "Year": "2014",
+         "National debt in billion U.S. dollars": 223.78
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "title": "UK cyber security : total market size 2010 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Market size in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market size in million GBP. In total the number of data points it has is 8.",
+      " Overall Market size in million GBP has increased over the Year.",
+      "Market size in million GBP is slightly increasing from 2010 to 2017.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "Maximum Market size in million GBP, about 3489.0 was reported at Year 2017",
+      "The lowest Market size in million GBP, of value 2407.0 was reported at Year 2010"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market size in million GBP, containing a total of 8 data points.",
+      " Overall Market size in million GBP has increased over the Year.",
+      "Market size in million GBP is slightly increasing from 2010 to 2017."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market size in million GBP. In total the number of data points it has is 8.",
+      " Overall Market size in million GBP has increased over the Year.",
+      "Market size in million GBP is slightly increasing from 2010 to 2017.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "Maximum Market size in million GBP, about 3489.0 was reported at Year 2017",
+      "The lowest Market size in million GBP, of value 2407.0 was reported at Year 2010"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market size in million GBP, containing a total of 8 data points.",
+      " In general Market size in million GBP has rose over the Year.",
+      "Market size in million GBP is slightly increasing from 2010 to 2017.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "Maximum Market size in million GBP, about 3489.0 was reported at Year 2017",
+      "The lowest Market size in million GBP, of value 2407.0 was reported at Year 2010",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Market size in million GBP": 3489.0
+      },
+      {
+         "Year": "2016",
+         "Market size in million GBP": 3330.0
+      },
+      {
+         "Year": "2015",
+         "Market size in million GBP": 3173.0
+      },
+      {
+         "Year": "2014",
+         "Market size in million GBP": 2996.0
+      },
+      {
+         "Year": "2013",
+         "Market size in million GBP": 2796.0
+      },
+      {
+         "Year": "2012",
+         "Market size in million GBP": 2621.0
+      },
+      {
+         "Year": "2011",
+         "Market size in million GBP": 2492.0
+      },
+      {
+         "Year": "2010",
+         "Market size in million GBP": 2407.0
+      }
+   ]
+}

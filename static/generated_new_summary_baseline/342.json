@@ -1,0 +1,159 @@
+{
+   "title": "Liverpool FC revenue by stream 2018/19",
+   "labels": [
+      "Year",
+      "Matchday",
+      "Broadcasting",
+      "Commercial"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 3 lines namely Matchday, Broadcasting, and Commercial. The y axis represents Revenue by million euros and the x axis represents Year.",
+      "Overall Broadcasting is rapidly increasing, Matchday, and Commercial are gradually increasing,  throughout the Year",
+      "Broadcasting has increased by 241.66666666666669 percent.",
+      "The lines ordered according to average values of Revenue by million euros in descending order is: 1. Broadcasting, 2. Commercial, and lastly, 3. Matchday. ",
+      "Overall across the Year, Broadcasting mostly maintained the highest Revenue by million euros when compared to others with a mean value of 145.05, and it peaked at 2018/19.",
+      "After Broadcasting, Commercial overall has the second highest values , with a mean value of 130.1, peaking at 2018/19. ",
+      "The botommost line, Matchday,  has a mean of 66.7, and peaked at 2018/19. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Revenue by million euros",
+   "min_summary": [
+      "This is a multi-line chart with 3 lines representing Matchday, Broadcasting, and Commercial. The y axis denotes Revenue by million euros and the x axis denotes Year.",
+      "Overall Broadcasting is rapidly increasing, Matchday, and Commercial are gradually increasing,  throughout the Year",
+      "Overall across the Year, Broadcasting mostly maintained the highest Revenue by million euros when compared to others with a mean value of 145.05, and it peaked at 2018/19.",
+      "Followed by Commercial which ranks as the second topmpost line , with an average of 130.1 Revenue by million euros,reaching its highest point  at 2018/19 with a value of 210.0. ",
+      "Matchday mostly had the least Revenue by million euros with a mean value of 66.7, which peaked at 2018/19 with a value of 94.5. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 3 lines namely Matchday, Broadcasting, and Commercial. The y axis represents Revenue by million euros and the x axis represents Year.",
+      "Overall Broadcasting is rapidly increasing, Matchday, and Commercial are gradually increasing,  throughout the Year",
+      "Broadcasting has increased by 241.66666666666669 percent.",
+      "The lines ordered according to average values of Revenue by million euros in descending order is: 1. Broadcasting, 2. Commercial, and lastly, 3. Matchday. ",
+      "Overall across the Year, Broadcasting mostly maintained the highest Revenue by million euros when compared to others with a mean value of 145.05, and it peaked at 2018/19.",
+      "After Broadcasting, Commercial overall has the second highest values , with a mean value of 130.1, peaking at 2018/19. ",
+      "The botommost line, Matchday,  has a mean of 66.7, and peaked at 2018/19. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 3 lines namely Matchday, Broadcasting, and Commercial. The y axis represents Revenue by million euros and the x axis represents Year.",
+      "Overall Broadcasting is rapidly increasing, Matchday, and Commercial are gradually increasing,  throughout the Year",
+      "Broadcasting has increased by 241.66666666666669 percent.",
+      "The lines ordered according to average values of Revenue by million euros in descending order is: 1. Broadcasting, 2. Commercial, and lastly, 3. Matchday. ",
+      "Throughout the period, Broadcasting generally had the highest Revenue by million euros relative to others with an average of 145.05, and it reached its maximum at 2018/19 with a value of 299.3.",
+      "After Broadcasting, Commercial overall has the second highest values , with a mean value of 130.1, peaking at 2018/19. ",
+      "The botommost line, Matchday,  has a mean of 66.7, and peaked at 2018/19. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Matchday": "94.5",
+         "Broadcasting": "299.3",
+         "Commercial": "210.9"
+      },
+      {
+         "Year": "2017/18",
+         "Matchday": "91.6",
+         "Broadcasting": "251.3",
+         "Commercial": "170.8"
+      },
+      {
+         "Year": "2016/17",
+         "Matchday": "80.1",
+         "Broadcasting": "182.5",
+         "Commercial": "161.6"
+      },
+      {
+         "Year": "2015/16",
+         "Matchday": "75.9",
+         "Broadcasting": "168.1",
+         "Commercial": "159.8"
+      },
+      {
+         "Year": "2014/15",
+         "Matchday": "75.0",
+         "Broadcasting": "163.8",
+         "Commercial": "153.0"
+      },
+      {
+         "Year": "2013/14",
+         "Matchday": "61.0",
+         "Broadcasting": "120.8",
+         "Commercial": "124.1"
+      },
+      {
+         "Year": "2012/13",
+         "Matchday": "52.1",
+         "Broadcasting": "74.5",
+         "Commercial": "114.0"
+      },
+      {
+         "Year": "2011/12",
+         "Matchday": "55.9",
+         "Broadcasting": "78.2",
+         "Commercial": "99.1"
+      },
+      {
+         "Year": "2010/11",
+         "Matchday": "45.3",
+         "Broadcasting": "72.3",
+         "Commercial": "85.7"
+      },
+      {
+         "Year": "2009/10",
+         "Matchday": "52.4",
+         "Broadcasting": "97.1",
+         "Commercial": "75.8"
+      },
+      {
+         "Year": "2008/09",
+         "Matchday": "49.9",
+         "Broadcasting": "87.6",
+         "Commercial": "79.5"
+      }
+   ]
+}

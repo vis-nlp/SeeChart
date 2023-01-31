@@ -1,0 +1,77 @@
+{
+   "title": "Population in Sweden 2018 , by level of education",
+   "xAxis": "Level Of Education",
+   "yAxis": "Share of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of population for 8 number of Level Of Educations. ",
+      "The Share of population is highest at Level Of Education Upper secondary education (3 years or more) and lowest at Level Of Education Post-graduate education. ",
+      "The highest Level Of Education Upper secondary education (3 years or more) has 22.28 more Share of population than the lowest Level Of Education Post-graduate education. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of population for 8 number of Level Of Educations. ",
+      "The Share of population is highest at Level Of Education Upper secondary education (3 years or more) and lowest at Level Of Education Post-graduate education. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of population for 8 number of Level Of Educations. ",
+      "The Share of population is highest at Level Of Education Upper secondary education (3 years or more) and lowest at Level Of Education Post-graduate education. ",
+      "The highest Level Of Education Upper secondary education (3 years or more) has 22.28 more Share of population than the lowest Level Of Education Post-graduate education. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Level Of Education in the x axis and Share of population in the y axis. ",
+      "The Share of population is appeared to be the highest at Level Of Education Upper secondary education (3 years or more) and lowest at Level Of Education Post-graduate education. ",
+      "Level Of Education  has the second highest value for Share of population. ",
+      "The Share of population of Level Of Education Upper secondary education (3 years or more) is 20.89% larger than the minimum value at Post-graduate education. ",
+      "The Level Of Education Upper secondary education (3 years or more) has the highest Share of population, followed by , and Upper secondary education (less than 3 years). Down to the Level Of Education Post-graduate education which is the lowest. ",
+      "The lowest value 1.12 at Post-graduate education is almost 1.87 times smaller than the average value 12.52. ",
+      "Summing up the values of all Level Of Educations, we get total 100.12. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Level Of Education": "Primary and lower education (less than 9 years)",
+         "Share of population": 4.1
+      },
+      {
+         "Level Of Education": "Lower secondary education (9 years)",
+         "Share of population": 13.1
+      },
+      {
+         "Level Of Education": "Upper secondary education (less than 3 years)",
+         "Share of population": 19.5
+      },
+      {
+         "Level Of Education": "Upper secondary education (3 years or more)",
+         "Share of population": 23.4
+      },
+      {
+         "Level Of Education": "Post-secondary education (less than 3 years)",
+         "Share of population": 14.5
+      },
+      {
+         "Level Of Education": "Post-secondary education (3 years or more)",
+         "Share of population": 21.7
+      },
+      {
+         "Level Of Education": "Post-graduate education",
+         "Share of population": 1.12
+      },
+      {
+         "Level Of Education": "No information about level of education",
+         "Share of population": 2.7
+      }
+   ]
+}

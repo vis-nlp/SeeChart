@@ -1,0 +1,69 @@
+{
+   "title": "Mexico : age distribution of internet users 2019",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 7.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is slightly increasing from 12-17_years to 18-24_years, slightly decreasing from 18-24_years to 35-44_years, roughly constant from 35-44_years to 6-11_years, and lastly slightly decreasing from 6-11_years to Over_55_years.",
+      "The steepest decrease occurs in between the Year 25-34_years and 35-44_years.",
+      "Maximum Share of respondents, about 22.0 was reported at Year 25-34_years",
+      "Minimum Share of respondents about 8.0 was reached at Year Over_55_years"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 7 data points.",
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is slightly increasing from 12-17_years to 18-24_years, slightly decreasing from 18-24_years to 35-44_years, roughly constant from 35-44_years to 6-11_years, and lastly slightly decreasing from 6-11_years to Over_55_years."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 7.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is slightly increasing from 12-17_years to 18-24_years, slightly decreasing from 18-24_years to 35-44_years, roughly constant from 35-44_years to 6-11_years, and lastly slightly decreasing from 6-11_years to Over_55_years.",
+      "The steepest decrease occurs in between the Year 25-34_years and 35-44_years.",
+      "Maximum Share of respondents, about 22.0 was reported at Year 25-34_years",
+      "Minimum Share of respondents about 8.0 was reached at Year Over_55_years"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 7 data points.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is slightly increasing from 12-17_years to 18-24_years, slightly decreasing from 18-24_years to 35-44_years, roughly constant from 35-44_years to 6-11_years, and lastly slightly decreasing from 6-11_years to Over_55_years.",
+      "The steepest decrease occurs in between the Year 25-34_years and 35-44_years.",
+      "Maximum Share of respondents, about 22.0 was reported at Year 25-34_years",
+      "Minimum Share of respondents about 8.0 was reached at Year Over_55_years",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "6-11 years",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "12-17 years",
+         "Share of respondents": 14.0
+      },
+      {
+         "Year": "18-24 years",
+         "Share of respondents": 18.0
+      },
+      {
+         "Year": "25-34 years",
+         "Share of respondents": 22.0
+      },
+      {
+         "Year": "35-44 years",
+         "Share of respondents": 14.0
+      },
+      {
+         "Year": "45-54 years",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "Over 55 years",
+         "Share of respondents": 8.0
+      }
+   ]
+}

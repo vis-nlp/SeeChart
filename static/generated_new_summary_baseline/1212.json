@@ -1,0 +1,69 @@
+{
+   "title": "Most important export partner countries for Bangladesh in 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total export",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
+      "Country Germany has the highest Share in total export and Italy has the lowest Share in total export. ",
+      "The difference of Share in total export between the highest and lowest Country is 8.8. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Share in total export in the y axis. ",
+      "The Share in total export is appeared to be the highest at Country Germany and lowest at Country Italy. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
+      "Country Germany has the highest Share in total export and Italy has the lowest Share in total export. ",
+      "The difference of Share in total export between the highest and lowest Country is 8.8. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share in total export for 6 number of Countrys. ",
+      "The Share in total export is appeared to be the highest at Country Germany and lowest at Country Italy. ",
+      "Country  has the second highest value for Share in total export. ",
+      "The difference of Share in total export between the highest and lowest Country is 8.8. ",
+      "Share in total export at Country Germany is 12.9 , second place is  at 12.9, and thirdly is United Kingdom at 8.7.",
+      "The lowest value 4.1 at Italy is almost 1.6 times smaller than the average value 8.05. ",
+      "The Share in total export is 48.3 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Share in total export": 12.9
+      },
+      {
+         "Country": "United States",
+         "Share in total export": 12.2
+      },
+      {
+         "Country": "United Kingdom",
+         "Share in total export": 8.7
+      },
+      {
+         "Country": "Spain",
+         "Share in total export": 5.3
+      },
+      {
+         "Country": "France",
+         "Share in total export": 5.1
+      },
+      {
+         "Country": "Italy",
+         "Share in total export": 4.1
+      }
+   ]
+}

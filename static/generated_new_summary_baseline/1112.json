@@ -1,0 +1,81 @@
+{
+   "title": "Number of homicides in Sweden 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of homicides",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of homicides. In total the number of data points it has is 11.",
+      " Overall Number of homicides has increased over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Number of homicides, of value 113.0 was reached at Year 2017",
+      "The lowest Number of homicides, of value 68.0 was reported at Year 2012"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of homicides. In total the number of data points it has is 11.",
+      " Overall Number of homicides has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of homicides. In total the number of data points it has is 11.",
+      " Overall Number of homicides has increased over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Number of homicides, of value 113.0 was reached at Year 2017",
+      "The lowest Number of homicides, of value 68.0 was reported at Year 2012"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of homicides. In total the number of data points it has is 11.",
+      " In general Number of homicides has rose over the Year.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Number of homicides, of value 113.0 was reached at Year 2017",
+      "The lowest Number of homicides, of value 68.0 was reported at Year 2012",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of homicides": 108.0
+      },
+      {
+         "Year": "2017",
+         "Number of homicides": 113.0
+      },
+      {
+         "Year": "2016",
+         "Number of homicides": 106.0
+      },
+      {
+         "Year": "2015",
+         "Number of homicides": 112.0
+      },
+      {
+         "Year": "2014",
+         "Number of homicides": 87.0
+      },
+      {
+         "Year": "2013",
+         "Number of homicides": 87.0
+      },
+      {
+         "Year": "2012",
+         "Number of homicides": 68.0
+      },
+      {
+         "Year": "2011",
+         "Number of homicides": 81.0
+      },
+      {
+         "Year": "2010",
+         "Number of homicides": 91.0
+      },
+      {
+         "Year": "2009",
+         "Number of homicides": 93.0
+      },
+      {
+         "Year": "2008",
+         "Number of homicides": 82.0
+      }
+   ]
+}

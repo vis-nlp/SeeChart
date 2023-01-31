@@ -1,0 +1,93 @@
+{
+   "title": "Global NAND memory bit market share 2020 , by application",
+   "labels": [
+      "Race",
+      "2019",
+      "2020"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Memory Demand Share on the Y-axis for 6 different Races for 2 groups 2019, and 2020 that are presented on the X-axis. ",
+      " Race Smartphone had the maximum Memory Demand Share among all 2 groups, and it was for 2020. The minimum Memory Demand Share was observed in Race Other for 2019. ",
+      " There is a gap of 33.0 between the highest and lowest Memory Demand Share found for 2020 in Race Smartphone and Other. ",
+      "Averaging all 2 groups 2019, and 2020, the Race Smartphone is the maximum Memory Demand Share and Other is the minimum Memory Demand Share. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "Memory Demand Share",
+   "min_summary": [
+      "This grouped bar chart shows Memory Demand Share on the Y-axis for 6 different Races for 2 groups 2019, and 2020 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2020 had the highest Memory Demand Share for Race Smartphone and 2019 had the lowest Memory Demand Share for Race Other. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Memory Demand Share on the Y-axis for 6 different Races for 2 groups 2019, and 2020 that are presented on the X-axis. ",
+      " Race Smartphone had the maximum Memory Demand Share among all 2 groups, and it was for 2020. The minimum Memory Demand Share was observed in Race Other for 2019. ",
+      " There is a gap of 33.0 between the highest and lowest Memory Demand Share found for 2020 in Race Smartphone and Other. ",
+      "Averaging all 2 groups 2019, and 2020, the Race Smartphone is the maximum Memory Demand Share and Other is the minimum Memory Demand Share. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 6 different Races on X-axis for 2 groups 2019, and 2020. On the Y-axis it shows their corresponding Memory Demand Share. ",
+      " Out of all 2 groups, 2020 had the highest Memory Demand Share for Race Smartphone and 2019 had the lowest Memory Demand Share for Race Other. ",
+      " For Race Smartphone, 2020 had the maximum Memory Demand Share and it saw the lowest in Race Other out of all 6 Races. ",
+      " There is a gap of 33.0 between the highest and lowest Memory Demand Share found for 2020 in Race Smartphone and Other. ",
+      " Among all 2 groups, 2019 had the gap of 32.0 between the maximum and minimum Memory Demand Share observed in Race Smartphone and Other respectively. ",
+      "Averaging all 2 groups 2019, and 2020, the Race Smartphone is the maximum Memory Demand Share and Other is the minimum Memory Demand Share. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "Smartphone",
+         "2019": "35",
+         "2020": "36"
+      },
+      {
+         "Race": "SSD (client enterprise)",
+         "2019": "28",
+         "2020": "30"
+      },
+      {
+         "Race": "Memory card",
+         "2019": "15",
+         "2020": "13"
+      },
+      {
+         "Race": "Tablet PC",
+         "2019": "12",
+         "2020": "11"
+      },
+      {
+         "Race": "Consumer",
+         "2019": "7",
+         "2020": "7"
+      },
+      {
+         "Race": "Other",
+         "2019": "3",
+         "2020": "3"
+      }
+   ]
+}

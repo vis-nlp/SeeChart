@@ -1,0 +1,132 @@
+{
+   "title": "Wage and salary of U.S. employees , by industry 2018",
+   "xAxis": "Industry",
+   "yAxis": "Wage and salary in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Wage and salary in U.S. dollars for 22 number of Industrys. ",
+      "The maximum Wage and salary in U.S. dollars 130777.0 is found at Industry Management of companies and enterprises and the minimum is found at Accommodation and food services where Wage and salary in U.S. dollars is 30403.0. ",
+      "The highest Industry Management of companies and enterprises has 100374.0 more Wage and salary in U.S. dollars than the lowest Industry Accommodation and food services. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Industry in the x axis and Wage and salary in U.S. dollars in the y axis. ",
+      "The Wage and salary in U.S. dollars is highest at Industry Management of companies and enterprises and lowest at Industry Accommodation and food services. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Wage and salary in U.S. dollars for 22 number of Industrys. ",
+      "The maximum Wage and salary in U.S. dollars 130777.0 is found at Industry Management of companies and enterprises and the minimum is found at Accommodation and food services where Wage and salary in U.S. dollars is 30403.0. ",
+      "The highest Industry Management of companies and enterprises has 100374.0 more Wage and salary in U.S. dollars than the lowest Industry Accommodation and food services. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Industry in the x axis and Wage and salary in U.S. dollars in the y axis. ",
+      "The Wage and salary in U.S. dollars is highest at Industry Management of companies and enterprises and lowest at Industry Accommodation and food services. ",
+      "The highest Industry Management of companies and enterprises has 100374.0 more Wage and salary in U.S. dollars than the lowest Industry Accommodation and food services. ",
+      "The Industry Management of companies and enterprises has the highest Wage and salary in U.S. dollars, followed by , and Utilities. Down to the Industry Accommodation and food services which is the lowest. ",
+      "The lowest value 30403.0 at Accommodation and food services is almost 1.82 times smaller than the average value 71927.36. ",
+      "The Wage and salary in U.S. dollars is 1582402.0 if we add up values of all Industrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 21,
+         "12": 21
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Management of companies and enterprises",
+         "Wage and salary in U.S. dollars": 130777.0
+      },
+      {
+         "Industry": "Information",
+         "Wage and salary in U.S. dollars": 123534.0
+      },
+      {
+         "Industry": "Utilities",
+         "Wage and salary in U.S. dollars": 113665.0
+      },
+      {
+         "Industry": "Finance and insurance",
+         "Wage and salary in U.S. dollars": 112335.0
+      },
+      {
+         "Industry": "Mining",
+         "Wage and salary in U.S. dollars": 106279.0
+      },
+      {
+         "Industry": "Professional scientific and technical services",
+         "Wage and salary in U.S. dollars": 102676.0
+      },
+      {
+         "Industry": "Wholesale trade",
+         "Wage and salary in U.S. dollars": 81527.0
+      },
+      {
+         "Industry": "Manufacturing",
+         "Wage and salary in U.S. dollars": 71281.0
+      },
+      {
+         "Industry": "Government",
+         "Wage and salary in U.S. dollars": 68638.0
+      },
+      {
+         "Industry": "Construction",
+         "Wage and salary in U.S. dollars": 65487.0
+      },
+      {
+         "Industry": "Real estate and rental and leasing",
+         "Wage and salary in U.S. dollars": 65349.0
+      },
+      {
+         "Industry": "Wages and salaries per full-time equivalent employee",
+         "Wage and salary in U.S. dollars": 64678.0
+      },
+      {
+         "Industry": "Private industries",
+         "Wage and salary in U.S. dollars": 63305.0
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Wage and salary in U.S. dollars": 59458.0
+      },
+      {
+         "Industry": "Health care and social assistance",
+         "Wage and salary in U.S. dollars": 56061.0
+      },
+      {
+         "Industry": "Arts entertainment and recreation",
+         "Wage and salary in U.S. dollars": 51204.0
+      },
+      {
+         "Industry": "Educational services",
+         "Wage and salary in U.S. dollars": 48404.0
+      },
+      {
+         "Industry": "Administrative and waste management services",
+         "Wage and salary in U.S. dollars": 45221.0
+      },
+      {
+         "Industry": "Other services except government",
+         "Wage and salary in U.S. dollars": 45069.0
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "Wage and salary in U.S. dollars": 38828.0
+      },
+      {
+         "Industry": "Retail trade",
+         "Wage and salary in U.S. dollars": 38223.0
+      },
+      {
+         "Industry": "Accommodation and food services",
+         "Wage and salary in U.S. dollars": 30403.0
+      }
+   ]
+}

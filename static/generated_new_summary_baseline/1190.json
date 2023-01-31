@@ -1,0 +1,107 @@
+{
+   "title": "Market capitalization of leading 100 banks worldwide 2016 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Market capitalization in trillion Euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Quarter in the x axis and Market capitalization in trillion Euros in the y axis. ",
+      "Quarter Q4 '17 has the highest Market capitalization in trillion Euros and Q2 '16 has the lowest Market capitalization in trillion Euros. ",
+      "The difference of Market capitalization in trillion Euros between the highest and lowest Quarter is 1.5. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Market capitalization in trillion Euros for 15 number of Quarters. ",
+      "The Market capitalization in trillion Euros is highest at Quarter Q4 '17 and lowest at Quarter Q2 '16. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Market capitalization in trillion Euros in the y axis. ",
+      "Quarter Q4 '17 has the highest Market capitalization in trillion Euros and Q2 '16 has the lowest Market capitalization in trillion Euros. ",
+      "The difference of Market capitalization in trillion Euros between the highest and lowest Quarter is 1.5. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Quarter in the x axis and Market capitalization in trillion Euros in the y axis. ",
+      "The Market capitalization in trillion Euros is highest at Quarter Q4 '17 and lowest at Quarter Q2 '16. ",
+      "The second highest Market capitalization in trillion Euros is appeared to be the Quarter . ",
+      "The difference of Market capitalization in trillion Euros between the highest and lowest Quarter is 1.5. ",
+      "Quarter Q4 '17 is higher than any other Quarters with value 5.6, followed by , and Q1 '17. Down to Quarter Q2 '16 with the lowest value 4.1. ",
+      "The Market capitalization in trillion Euros has lowered over the past 15 Quarters. ",
+      "Quarter Q2 '19, Q1 '19, Q2 '18, and Q4 '16 have the same Market capitalization in trillion Euros. ",
+      "The highest value 5.6 at Q4 '17 is almost 1.11 times larger than the average value 5.07. ",
+      "Summing up the values of all Quarters, we get total 76.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 7,
+         "12": 7
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 '19",
+         "Market capitalization in trillion Euros": 5.3
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Market capitalization in trillion Euros": 4.8
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Market capitalization in trillion Euros": 5.3
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Market capitalization in trillion Euros": 5.4
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Market capitalization in trillion Euros": 5.6
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Market capitalization in trillion Euros": 5.4
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Market capitalization in trillion Euros": 5.3
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Market capitalization in trillion Euros": 5.4
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Market capitalization in trillion Euros": 4.4
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Market capitalization in trillion Euros": 4.1
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Market capitalization in trillion Euros": 4.2
+      }
+   ]
+}

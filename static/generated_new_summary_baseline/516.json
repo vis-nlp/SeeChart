@@ -1,0 +1,65 @@
+{
+   "title": "Brand value of Reebok 2012 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Brand value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Brand value in billion U.S. dollars. In total the number of data points it has is 6.",
+      " In general Brand value in billion U.S. dollars has fallen over the Year.",
+      "Brand value in billion U.S. dollars is slightly decreasing from 2012 to 2014, and lastly roughly constant from 2014 to 2017.",
+      "The steepest decrease occurs in between the Year 2013 and 2014.",
+      "The highest Brand value in billion U.S. dollars, of value 1.2 was reached at Year 2012",
+      "Minimum Brand value in billion U.S. dollars about 0.8 was reached at Year 2016, and 2017"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Brand value in billion U.S. dollars, containing a total of 6 data points.",
+      " In general Brand value in billion U.S. dollars has fallen over the Year.",
+      "Brand value in billion U.S. dollars is slightly decreasing from 2012 to 2014, and lastly roughly constant from 2014 to 2017."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Brand value in billion U.S. dollars. In total the number of data points it has is 6.",
+      " In general Brand value in billion U.S. dollars has fallen over the Year.",
+      "Brand value in billion U.S. dollars is slightly decreasing from 2012 to 2014, and lastly roughly constant from 2014 to 2017.",
+      "The steepest decrease occurs in between the Year 2013 and 2014.",
+      "The highest Brand value in billion U.S. dollars, of value 1.2 was reached at Year 2012",
+      "Minimum Brand value in billion U.S. dollars about 0.8 was reached at Year 2016, and 2017"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Brand value in billion U.S. dollars, containing a total of 6 data points.",
+      " In general Brand value in billion U.S. dollars has fallen over the Year.",
+      "Brand value in billion U.S. dollars is slightly decreasing from 2012 to 2014, and lastly roughly constant from 2014 to 2017.",
+      "The steepest decrease occurs in between the Year 2013 and 2014.",
+      "The highest Brand value in billion U.S. dollars, of value 1.2 was reached at Year 2012",
+      "Minimum Brand value in billion U.S. dollars about 0.8 was reached at Year 2016, and 2017",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Brand value in billion U.S. dollars": 0.8
+      },
+      {
+         "Year": "2016",
+         "Brand value in billion U.S. dollars": 0.8
+      },
+      {
+         "Year": "2015",
+         "Brand value in billion U.S. dollars": 0.83
+      },
+      {
+         "Year": "2014",
+         "Brand value in billion U.S. dollars": 0.88
+      },
+      {
+         "Year": "2013",
+         "Brand value in billion U.S. dollars": 1.1
+      },
+      {
+         "Year": "2012",
+         "Brand value in billion U.S. dollars": 1.2
+      }
+   ]
+}

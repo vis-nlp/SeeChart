@@ -1,0 +1,129 @@
+{
+   "title": "Yelp : number of unique visitors 2010 to 2015",
+   "xAxis": "Quarter",
+   "yAxis": "Unique visitors in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 21 columns on the x axis representing Quarter, and Unique visitors in millions in each Quarter on the y axis. ",
+      "The Unique visitors in millions is appeared to be the highest at Quarter Q1 '15 and lowest at Quarter Q1 '10. ",
+      "There is a difference of 112.18 between the maximum Quarter Q1 '15 and minimum Quarter Q1 '10. "
+   ],
+   "min_summary": [
+      "This bar chart has 21 columns on the x axis representing Quarter, and Unique visitors in millions in each Quarter on the y axis. ",
+      "The Unique visitors in millions is appeared to be the highest at Quarter Q1 '15 and lowest at Quarter Q1 '10. "
+   ],
+   "mid_summary": [
+      "This bar chart has 21 columns on the x axis representing Quarter, and Unique visitors in millions in each Quarter on the y axis. ",
+      "The Unique visitors in millions is appeared to be the highest at Quarter Q1 '15 and lowest at Quarter Q1 '10. ",
+      "There is a difference of 112.18 between the maximum Quarter Q1 '15 and minimum Quarter Q1 '10. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Unique visitors in millions for 21 number of Quarters. ",
+      "Quarter Q1 '15 has the highest Unique visitors in millions and Q1 '10 has the lowest Unique visitors in millions. ",
+      "The second highest Unique visitors in millions is appeared to be the Quarter . ",
+      "There is a difference of 112.18 between the maximum Quarter Q1 '15 and minimum Quarter Q1 '10. ",
+      "Unique visitors in millions at Quarter Q1 '15 is 142.0 , second place is  at 29.82, and thirdly is Q2 '14 at 138.0.",
+      "The Unique visitors in millions has climbed over the past 21 Quarters. ",
+      "Considered together, the average Unique visitors in millions in all 21 Quarters is roughly 86.54. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 20,
+         "12": 20
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 '10",
+         "Unique visitors in millions": 29.82
+      },
+      {
+         "Quarter": "Q2 '10",
+         "Unique visitors in millions": 32.54
+      },
+      {
+         "Quarter": "Q3 '10",
+         "Unique visitors in millions": 37.5
+      },
+      {
+         "Quarter": "Q4 '10",
+         "Unique visitors in millions": 39.36
+      },
+      {
+         "Quarter": "Q1 '11",
+         "Unique visitors in millions": 46.82
+      },
+      {
+         "Quarter": "Q2 '11",
+         "Unique visitors in millions": 51.56
+      },
+      {
+         "Quarter": "Q3 '11",
+         "Unique visitors in millions": 61.1
+      },
+      {
+         "Quarter": "Q4 '11",
+         "Unique visitors in millions": 65.8
+      },
+      {
+         "Quarter": "Q1 '12",
+         "Unique visitors in millions": 71.4
+      },
+      {
+         "Quarter": "Q2 '12",
+         "Unique visitors in millions": 78.0
+      },
+      {
+         "Quarter": "Q3 '12",
+         "Unique visitors in millions": 84.0
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Unique visitors in millions": 86.3
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Unique visitors in millions": 102.1
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Unique visitors in millions": 108.0
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Unique visitors in millions": 117.0
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Unique visitors in millions": 120.0
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Unique visitors in millions": 132.0
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Unique visitors in millions": 138.0
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Unique visitors in millions": 139.0
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Unique visitors in millions": 135.0
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Unique visitors in millions": 142.0
+      }
+   ]
+}

@@ -1,0 +1,137 @@
+{
+   "title": "Net interest margin of banks in the U.S. 1995 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Net interest margin",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net interest margin. In total the number of data points it has is 25.",
+      " In general Net interest margin has fallen over the Year.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "Maximum Net interest margin, about 4.3 was reported at Year 1996, and 1997",
+      "The lowest Net interest margin, of value 2.98 was reported at Year 2015"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net interest margin. In total the number of data points it has is 25.",
+      " In general Net interest margin has fallen over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net interest margin. In total the number of data points it has is 25.",
+      " In general Net interest margin has fallen over the Year.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "Maximum Net interest margin, about 4.3 was reported at Year 1996, and 1997",
+      "The lowest Net interest margin, of value 2.98 was reported at Year 2015"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net interest margin. In total the number of data points it has is 25.",
+      " In general Net interest margin has fallen over the Year.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "Maximum Net interest margin, about 4.3 was reported at Year 1996, and 1997",
+      "The lowest Net interest margin, of value 2.98 was reported at Year 2015",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Net interest margin": 3.35
+      },
+      {
+         "Year": "2018",
+         "Net interest margin": 3.31
+      },
+      {
+         "Year": "2017",
+         "Net interest margin": 3.14
+      },
+      {
+         "Year": "2016",
+         "Net interest margin": 3.03
+      },
+      {
+         "Year": "2015",
+         "Net interest margin": 2.98
+      },
+      {
+         "Year": "2014",
+         "Net interest margin": 3.1
+      },
+      {
+         "Year": "2013",
+         "Net interest margin": 3.2
+      },
+      {
+         "Year": "2012",
+         "Net interest margin": 3.41
+      },
+      {
+         "Year": "2011",
+         "Net interest margin": 3.55
+      },
+      {
+         "Year": "2010",
+         "Net interest margin": 3.76
+      },
+      {
+         "Year": "2009",
+         "Net interest margin": 3.36
+      },
+      {
+         "Year": "2008",
+         "Net interest margin": 3.27
+      },
+      {
+         "Year": "2007",
+         "Net interest margin": 3.35
+      },
+      {
+         "Year": "2006",
+         "Net interest margin": 3.45
+      },
+      {
+         "Year": "2005",
+         "Net interest margin": 3.56
+      },
+      {
+         "Year": "2004",
+         "Net interest margin": 3.62
+      },
+      {
+         "Year": "2003",
+         "Net interest margin": 3.75
+      },
+      {
+         "Year": "2002",
+         "Net interest margin": 4.07
+      },
+      {
+         "Year": "2001",
+         "Net interest margin": 3.85
+      },
+      {
+         "Year": "2000",
+         "Net interest margin": 3.93
+      },
+      {
+         "Year": "1999",
+         "Net interest margin": 4.04
+      },
+      {
+         "Year": "1998",
+         "Net interest margin": 4.04
+      },
+      {
+         "Year": "1997",
+         "Net interest margin": 4.3
+      },
+      {
+         "Year": "1996",
+         "Net interest margin": 4.3
+      },
+      {
+         "Year": "1995",
+         "Net interest margin": 4.23
+      }
+   ]
+}

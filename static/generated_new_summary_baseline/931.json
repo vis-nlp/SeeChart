@@ -1,0 +1,79 @@
+{
+   "title": "YouTube : all-time beauty content category views 2017",
+   "xAxis": "Selected Cosmetics",
+   "yAxis": "Amount of category views in billions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Amount of category views in billions for 9 number of Selected Cosmeticss. ",
+      "The Amount of category views in billions is highest at Selected Cosmetics Beauty - overall and lowest at Selected Cosmetics Nails. ",
+      "There is a difference of 215.0 between the maximum Selected Cosmetics Beauty - overall and minimum Selected Cosmetics Nails. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Amount of category views in billions for 9 number of Selected Cosmeticss. ",
+      "Selected Cosmetics Beauty - overall has the highest Amount of category views in billions and Nails has the lowest Amount of category views in billions. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Amount of category views in billions for 9 number of Selected Cosmeticss. ",
+      "The Amount of category views in billions is highest at Selected Cosmetics Beauty - overall and lowest at Selected Cosmetics Nails. ",
+      "There is a difference of 215.0 between the maximum Selected Cosmetics Beauty - overall and minimum Selected Cosmetics Nails. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Selected Cosmetics in the x axis and Amount of category views in billions in the y axis. ",
+      "The Amount of category views in billions is highest at Selected Cosmetics Beauty - overall and lowest at Selected Cosmetics Nails. ",
+      "Selected Cosmetics Beauty - overall has 54.75 times more Amount of category views in billions than Selected Cosmetics Nails which is has the lowest. ",
+      "The Selected Cosmetics Beauty - overall has the highest Amount of category views in billions, followed by , and Hair. Down to the Selected Cosmetics Nails which is the lowest. ",
+      "The Selected Cosmetics Beauty - overall tends to be 3.16 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Selected Cosmetics": "Personal care - overall",
+         "Amount of category views in billions": 28.0
+      },
+      {
+         "Selected Cosmetics": "Deodorant",
+         "Amount of category views in billions": 17.0
+      },
+      {
+         "Selected Cosmetics": "Body care",
+         "Amount of category views in billions": 16.0
+      },
+      {
+         "Selected Cosmetics": "Beauty - overall",
+         "Amount of category views in billions": 219.0
+      },
+      {
+         "Selected Cosmetics": "Cosmetics",
+         "Amount of category views in billions": 156.0
+      },
+      {
+         "Selected Cosmetics": "Hair",
+         "Amount of category views in billions": 87.0
+      },
+      {
+         "Selected Cosmetics": "Skincare",
+         "Amount of category views in billions": 73.0
+      },
+      {
+         "Selected Cosmetics": "Fragrance",
+         "Amount of category views in billions": 24.0
+      },
+      {
+         "Selected Cosmetics": "Nails",
+         "Amount of category views in billions": 4.0
+      }
+   ]
+}

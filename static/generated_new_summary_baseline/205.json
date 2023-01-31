@@ -1,0 +1,157 @@
+{
+   "title": "Employment by economic sector in Iceland 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Share of total employment and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Share of total employment when compared to others with a mean value of 77.39, and it peaked at 2019.",
+      "After Services, Industry overall has the second highest values , with a mean value of 18.1, peaking at 2009. ",
+      "Agriculture mostly had the least Share of total employment with a mean value of 4.52, which peaked at 2010 with a value of 5.59. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of total employment",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Share of total employment and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "Overall across the Year, Services mostly maintained the highest Share of total employment when compared to others with a mean value of 77.39, and it peaked at 2019.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.1 Share of total employment,reaching its highest point  at 2009 with a value of 19.5. ",
+      "Agriculture mostly had the least Share of total employment with a mean value of 4.52, which peaked at 2010 with a value of 5.59. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Share of total employment and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Share of total employment when compared to others with a mean value of 77.39, and it peaked at 2019.",
+      "After Services, Industry overall has the second highest values , with a mean value of 18.1, peaking at 2009. ",
+      "Agriculture mostly had the least Share of total employment with a mean value of 4.52, which peaked at 2010 with a value of 5.59. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Share of total employment and the x axis denotes Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of total employment in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Share of total employment when compared to others with a mean value of 77.39, and it peaked at 2019.",
+      "After Services, Industry overall has the second highest values , with a mean value of 18.1, peaking at 2009. ",
+      "Agriculture mostly had the least Share of total employment with a mean value of 4.52, which peaked at 2010 with a value of 5.59. ",
+      "Agriculture reported the lowest Share of total employment about 3.69 in Year 2019"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "10": [
+            "10",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "3.69",
+         "Industry": "17.13",
+         "Services": "79.18"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "3.72",
+         "Industry": "17.31",
+         "Services": "78.97"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "3.76",
+         "Industry": "17.48",
+         "Services": "78.76"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "3.9",
+         "Industry": "17.46",
+         "Services": "78.65"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "4.24",
+         "Industry": "17.84",
+         "Services": "77.92"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "4.54",
+         "Industry": "18.43",
+         "Services": "77.03"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "4.45",
+         "Industry": "18.64",
+         "Services": "76.92"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "5.55",
+         "Industry": "18.22",
+         "Services": "76.23"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "5.49",
+         "Industry": "18.55",
+         "Services": "75.96"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "5.59",
+         "Industry": "18.44",
+         "Services": "75.97"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "4.83",
+         "Industry": "19.5",
+         "Services": "75.67"
+      }
+   ]
+}

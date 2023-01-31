@@ -1,0 +1,85 @@
+{
+   "title": "Runner-up at World Cup tournaments by country 1930 to 2014",
+   "xAxis": "Country",
+   "yAxis": "Number of runners-up",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of runners-up for 10 number of Countrys. ",
+      "The Number of runners-up is appeared to be the highest at Country Germany and lowest at Country France. ",
+      "There is a difference of 3.0 between the maximum Country Germany and minimum Country France. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Number of runners-up in the y axis. ",
+      "The Number of runners-up is highest at Country Germany and lowest at Country France. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of runners-up for 10 number of Countrys. ",
+      "The Number of runners-up is appeared to be the highest at Country Germany and lowest at Country France. ",
+      "There is a difference of 3.0 between the maximum Country Germany and minimum Country France. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of runners-up for 10 number of Countrys. ",
+      "Country Germany has the highest Number of runners-up and France has the lowest Number of runners-up. ",
+      "The difference of Number of runners-up between the highest and lowest Country is 3.0. ",
+      "Number of runners-up at Country Germany is 4.0 , second place is  at 4.0, and thirdly is Argentina at 3.0.",
+      "Country Czech Republic, Brazil, Czechoslovakia, Italy, and Hungary share the same value 2.0. ",
+      "Considered together, the average Number of runners-up in all 10 Countrys is roughly 2.2. ",
+      "The Number of runners-up is 22.0 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of runners-up": 4.0
+      },
+      {
+         "Country": "Netherlands the",
+         "Number of runners-up": 3.0
+      },
+      {
+         "Country": "Argentina",
+         "Number of runners-up": 3.0
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Czechoslovakia",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Italy",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Hungary",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "France",
+         "Number of runners-up": 1.0
+      },
+      {
+         "Country": "Sweden",
+         "Number of runners-up": 1.0
+      }
+   ]
+}

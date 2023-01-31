@@ -1,0 +1,61 @@
+{
+   "title": "Deaths of British tourists abroad 2009 to 2014",
+   "xAxis": "Year",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of deaths, containing a total of 5 data points.",
+      " In general Number of deaths has fallen over the Year.",
+      "Number of deaths is roughly constant from 2009/2010 to 2012/2013, and finally slightly decreasing from 2012/2013 to 2013/2014.",
+      "The steepest decrease occurs in between the Year 2012/2013 and 2013/2014.",
+      "Maximum Number of deaths, about 6237.0 was reported at Year 2011/2012",
+      "Minimum Number of deaths about 4110.0 was reached at Year 2013/2014"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of deaths, containing a total of 5 data points.",
+      " Overall Number of deaths has decreased over the Year.",
+      "Number of deaths is roughly constant from 2009/2010 to 2012/2013, and finally slightly decreasing from 2012/2013 to 2013/2014."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of deaths, containing a total of 5 data points.",
+      " In general Number of deaths has fallen over the Year.",
+      "Number of deaths is roughly constant from 2009/2010 to 2012/2013, and finally slightly decreasing from 2012/2013 to 2013/2014.",
+      "The steepest decrease occurs in between the Year 2012/2013 and 2013/2014.",
+      "Maximum Number of deaths, about 6237.0 was reported at Year 2011/2012",
+      "Minimum Number of deaths about 4110.0 was reached at Year 2013/2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of deaths, containing a total of 5 data points.",
+      " In general Number of deaths has fallen over the Year.",
+      "Number of deaths is roughly constant from 2009/2010 to 2012/2013, and finally slightly decreasing from 2012/2013 to 2013/2014.",
+      "The most drastic decrease took place within the Year 2012/2013 and 2013/2014.",
+      "Maximum Number of deaths, about 6237.0 was reported at Year 2011/2012",
+      "Minimum Number of deaths about 4110.0 was reached at Year 2013/2014",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2013/2014",
+         "Number of deaths": 4110.0
+      },
+      {
+         "Year": "2012/2013",
+         "Number of deaths": 6193.0
+      },
+      {
+         "Year": "2011/2012",
+         "Number of deaths": 6237.0
+      },
+      {
+         "Year": "2010/2011",
+         "Number of deaths": 5972.0
+      },
+      {
+         "Year": "2009/2010",
+         "Number of deaths": 5930.0
+      }
+   ]
+}

@@ -1,0 +1,315 @@
+{
+    box-sizing: border-box
+;
+}
+
+body {
+    font: 14px helvetica;
+    margin: 0px;
+    overflow-x: hidden;
+    width: fit-content;
+}
+
+text.label {
+    font: 20px helvetica;
+    font-weight: bold;
+}
+
+text {
+    font: 18px helvetica;
+}
+
+.x.axis path {
+    display: none;
+}
+
+a.outline {
+    text-shadow: 0.5px 1px #ffa86b;
+}
+
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+}
+
+table {
+    text-align: center;
+    font: 18px helvetica;
+}
+
+#title {
+    font: 36px helvetica;
+    text-align: center;
+}
+
+p#summary {
+    font: 24px helvetica;
+    text-align: left;
+}
+
+.button {
+    display: inline-block;
+    border-radius: 8px;
+    background-color: #21C199FF;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    padding: 12px;
+    width: 50%;
+    vertical-align: central;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.button:hover span {
+    padding-right: 25px;
+}
+
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+.gridY {
+    opacity: 40%
+}
+
+.gridX {
+    opacity: 40%
+}
+
+.button:hover {
+    background-color: #6bd8fb;
+}
+
+.grid-container {
+    margin-top: 0px; /* Add a top margin to avoid content overlay */
+    flex-grow: initial;
+    text-align: center;
+    vertical-align: center;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 0.5fr 2fr 0.5fr;
+    gap: 10px 5px;
+    grid-template-areas: "Title Selector" "Chart Meta" "Caption tts";
+}
+
+.Title {
+    grid-area: Title;
+    margin-top: 0px; /* Add a top margin to avoid content overlay */
+}
+
+.Selector {
+    vertical-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 5px 5px;
+    grid-template-areas: "Label Text" "Navigation Submit";
+    grid-area: Selector;
+}
+
+/*.Caption {*/
+/*    font-size: small;*/
+/*    overflow: scroll;*/
+/*}*/
+
+.Label {
+    grid-area: Label;
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+
+.Text {
+    grid-area: Text;
+    margin-top: 10px; /* Add a top margin to avoid content overlay */
+}
+
+.Navigation {
+    grid-area: Navigation;
+}
+
+.Submit {
+    grid-area: Submit;
+}
+
+.Chart {
+    grid-area: Chart;
+}
+
+.Caption {
+    grid-area: Caption;
+    align-self: center;
+}
+
+.tts {
+    grid-area: tts;
+}
+
+.Meta {
+    grid-area: Meta;
+}
+
+.dot, .bar, .lassoable {
+    fill-opacity: 0.5;
+}
+
+.lasso path {
+    stroke: rgb(80, 80, 80);
+    stroke-width: 2px;
+}
+
+.lasso .drawn {
+    fill-opacity: .05;
+}
+
+.lasso .loop_close {
+    fill: none;
+    stroke-dasharray: 4, 4;
+}
+
+.lasso .origin {
+    fill: #3399FF;
+    fill-opacity: .5;
+}
+
+.not_possible {
+    fill: rgb(200, 200, 200);
+}
+
+.possible {
+    fill: #EC888C;
+}
+
+/*.selected {
+    fill: red;
+}*/
+
+/* FOR SLIDER */
+.slidecontainer {
+    width: 100%;
+}
+
+.questions {
+    alignment: center;
+    width: 100%;
+    height: 500px;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 25px;
+    background: #d3d3d3;
+    outline: none;
+    border-radius: 25px;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 35px;
+    height: 25px;
+    background: #04AA6D;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #04AA6D;
+    cursor: pointer;
+}
+
+
+/*BRUSH X*/
+
+.selected {
+    fill: #afa2dc;
+    stroke: #2f225d;
+}
+
+.brush .extent {
+    stroke: #b61919;
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}
+
+
+#wrap {
+    width: 750px;
+    height: 500px;
+    padding: 0;
+    overflow: hidden;
+}
+
+#scaled-frame {
+    width: 600px;
+    height: 500px;
+    border: 0px;
+}
+
+#scaled-frame {
+    zoom: 0.75;
+    -moz-transform: scale(0.75);
+    -moz-transform-origin: 0 0;
+    -o-transform: scale(0.75);
+    -o-transform-origin: 0 0;
+    -webkit-transform: scale(0.75);
+    -webkit-transform-origin: 0 0;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    #scaled-frame {
+        zoom: 1;
+    }
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Branch numbers of Banco Santander globally 2012 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of branches",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of branches, containing a total of 8 data points.",
+      " Overall Number of branches has decreased over the Year.",
+      "Number of branches is slightly decreasing from 2012 to 2013, roughly constant from 2013 to 2015, slightly increasing from 2015 to 2017, roughly constant from 2017 to 2018, and finally slightly decreasing from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Number of branches, of value 14392.0 was reached at Year 2012",
+      "The lowest Number of branches, of value 11952.0 was reported at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of branches. In total the number of data points it has is 8.",
+      " In general Number of branches has fallen over the Year.",
+      "Number of branches is slightly decreasing from 2012 to 2013, roughly constant from 2013 to 2015, slightly increasing from 2015 to 2017, roughly constant from 2017 to 2018, and finally slightly decreasing from 2018 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of branches, containing a total of 8 data points.",
+      " Overall Number of branches has decreased over the Year.",
+      "Number of branches is slightly decreasing from 2012 to 2013, roughly constant from 2013 to 2015, slightly increasing from 2015 to 2017, roughly constant from 2017 to 2018, and finally slightly decreasing from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Number of branches, of value 14392.0 was reached at Year 2012",
+      "The lowest Number of branches, of value 11952.0 was reported at Year 2019"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of branches. In total the number of data points it has is 8.",
+      " In general Number of branches has fallen over the Year.",
+      "Number of branches is slightly decreasing from 2012 to 2013, roughly constant from 2013 to 2015, slightly increasing from 2015 to 2017, roughly constant from 2017 to 2018, and finally slightly decreasing from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Number of branches, of value 14392.0 was reached at Year 2012",
+      "The lowest Number of branches, of value 11952.0 was reported at Year 2019",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of branches": 11952.0
+      },
+      {
+         "Year": "2018",
+         "Number of branches": 13217.0
+      },
+      {
+         "Year": "2017",
+         "Number of branches": 13697.0
+      },
+      {
+         "Year": "2016",
+         "Number of branches": 12235.0
+      },
+      {
+         "Year": "2015",
+         "Number of branches": 13030.0
+      },
+      {
+         "Year": "2014",
+         "Number of branches": 12951.0
+      },
+      {
+         "Year": "2013",
+         "Number of branches": 13781.0
+      },
+      {
+         "Year": "2012",
+         "Number of branches": 14392.0
+      }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+   "title": "France : public debt 2017 to 2022",
+   "xAxis": "Year",
+   "yAxis": "Share of GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of GDP, containing a total of 6 data points.",
+      " Overall Share of GDP has decreased over the Year.",
+      "Share of GDP is roughly constant from 2017 to 2019, and finally slightly decreasing from 2019 to 2022.",
+      "The steepest decrease occurs in between the Year 2021 and 2022.",
+      "Maximum Share of GDP, about 97.1 was reported at Year 2019",
+      "Minimum Share of GDP about 91.4 was reached at Year 2022"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of GDP, containing a total of 6 data points.",
+      " In general Share of GDP has fallen over the Year.",
+      "Share of GDP is roughly constant from 2017 to 2019, and finally slightly decreasing from 2019 to 2022."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of GDP, containing a total of 6 data points.",
+      " Overall Share of GDP has decreased over the Year.",
+      "Share of GDP is roughly constant from 2017 to 2019, and finally slightly decreasing from 2019 to 2022.",
+      "The steepest decrease occurs in between the Year 2021 and 2022.",
+      "Maximum Share of GDP, about 97.1 was reported at Year 2019",
+      "Minimum Share of GDP about 91.4 was reached at Year 2022"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of GDP, containing a total of 6 data points.",
+      " In general Share of GDP has fallen over the Year.",
+      "Share of GDP is roughly constant from 2017 to 2019, and finally slightly decreasing from 2019 to 2022.",
+      "The most drastic decrease took place within the Year 2021 and 2022.",
+      "Maximum Share of GDP, about 97.1 was reported at Year 2019",
+      "Minimum Share of GDP about 91.4 was reached at Year 2022",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2022",
+         "Share of GDP": 91.4
+      },
+      {
+         "Year": "2021",
+         "Share of GDP": 94.2
+      },
+      {
+         "Year": "2020",
+         "Share of GDP": 96.1
+      },
+      {
+         "Year": "2019",
+         "Share of GDP": 97.1
+      },
+      {
+         "Year": "2018",
+         "Share of GDP": 96.8
+      },
+      {
+         "Year": "2017",
+         "Share of GDP": 96.8
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Unemployment rate in Canada 2024",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 11 data points.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "Unemployment rate is roughly constant from 2014 to 2016, gradually decreasing from 2016 to 2018, roughly constant from 2018 to 2019, slightly increasing from 2019 to 2022, and finally roughly constant from 2022 to 2024.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest Unemployment rate, of value 6.99 was reached at Year 2016",
+      "The lowest Unemployment rate, of value 5.79 was reported at Year 2019"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 11 data points.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "Unemployment rate is roughly constant from 2014 to 2016, gradually decreasing from 2016 to 2018, roughly constant from 2018 to 2019, slightly increasing from 2019 to 2022, and finally roughly constant from 2022 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 11 data points.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "Unemployment rate is roughly constant from 2014 to 2016, gradually decreasing from 2016 to 2018, roughly constant from 2018 to 2019, slightly increasing from 2019 to 2022, and finally roughly constant from 2022 to 2024.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest Unemployment rate, of value 6.99 was reached at Year 2016",
+      "The lowest Unemployment rate, of value 5.79 was reported at Year 2019"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 11 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "Unemployment rate is roughly constant from 2014 to 2016, gradually decreasing from 2016 to 2018, roughly constant from 2018 to 2019, slightly increasing from 2019 to 2022, and finally roughly constant from 2022 to 2024.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest Unemployment rate, of value 6.99 was reached at Year 2016",
+      "The lowest Unemployment rate, of value 5.79 was reported at Year 2019",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "Unemployment rate": 6.5
+      },
+      {
+         "Year": "2023",
+         "Unemployment rate": 6.39
+      },
+      {
+         "Year": "2022",
+         "Unemployment rate": 6.25
+      },
+      {
+         "Year": "2021",
+         "Unemployment rate": 6.12
+      },
+      {
+         "Year": "2020",
+         "Unemployment rate": 6.0
+      },
+      {
+         "Year": "2019",
+         "Unemployment rate": 5.79
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 5.83
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 6.33
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 6.99
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 6.9
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 6.93
+      }
+   ]
+}

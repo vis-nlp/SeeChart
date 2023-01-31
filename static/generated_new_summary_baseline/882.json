@@ -1,0 +1,127 @@
+{
+   "title": "Number of customer transactions at the Home Depot and Lowe 's worldwide 2011 to 2018",
+   "labels": [
+      "Year",
+      "Home Depot",
+      "Lowe's"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Home Depot, and Lowe's. The y axis indicates the Number of customer transactions in millions and the x axis indicates Year.",
+      "Overall Home Depot, and Lowe's are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Number of customer transactions in millions in descending order is: 1. Home Depot, and lastly, 2. Lowe's. ",
+      "Throughout the period, Home Depot generally had the highest Number of customer transactions in millions relative to others with an average of 1470.0, and it reached its maximum at 2018 with a value of 1621.0.",
+      "Lowe's mostly had the least Number of customer transactions in millions with a mean value of 877.0, which peaked at 2017 with a value of 953.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of customer transactions in millions",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing Home Depot, and Lowe's. The y axis denotes Number of customer transactions in millions and the x axis denotes Year.",
+      "Overall Home Depot, and Lowe's are gradually increasing,  throughout the Year",
+      "Overall across the Year, Home Depot mostly maintained the highest Number of customer transactions in millions when compared to others with a mean value of 1470.0, and it peaked at 2018.",
+      "Lowe's mostly had the least Number of customer transactions in millions with a mean value of 877.0, which peaked at 2017 with a value of 953.0. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Home Depot, and Lowe's. The y axis indicates the Number of customer transactions in millions and the x axis indicates Year.",
+      "Overall Home Depot, and Lowe's are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Number of customer transactions in millions in descending order is: 1. Home Depot, and lastly, 2. Lowe's. ",
+      "Throughout the period, Home Depot generally had the highest Number of customer transactions in millions relative to others with an average of 1470.0, and it reached its maximum at 2018 with a value of 1621.0.",
+      "Lowe's mostly had the least Number of customer transactions in millions with a mean value of 877.0, which peaked at 2017 with a value of 953.0. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Home Depot, and Lowe's. The y axis indicates the Number of customer transactions in millions and the x axis indicates Year.",
+      "Overall Home Depot, and Lowe's are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Home Depot, and lastly, 2. Lowe's. ",
+      "Overall across the Year, Home Depot mostly maintained the highest Number of customer transactions in millions when compared to others with a mean value of 1470.0, and it peaked at 2018.",
+      "Lowe's mostly had the least Number of customer transactions in millions with a mean value of 877.0, which peaked at 2017 with a value of 953.0. ",
+      "Lowe's reported the lowest Number of customer transactions in millions about 804.0 in Year 2012",
+      "The difference of Number of customer transactions in millions between Home Depot and Lowe's is greater at Year 2018 compared to the Year 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "10": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Home Depot": "1621",
+         "Lowe's": "941"
+      },
+      {
+         "Year": "2017",
+         "Home Depot": "1579",
+         "Lowe's": "953"
+      },
+      {
+         "Year": "2016",
+         "Home Depot": "1544",
+         "Lowe's": "945"
+      },
+      {
+         "Year": "2015",
+         "Home Depot": "1501",
+         "Lowe's": "878"
+      },
+      {
+         "Year": "2014",
+         "Home Depot": "1442",
+         "Lowe's": "857"
+      },
+      {
+         "Year": "2013",
+         "Home Depot": "1391",
+         "Lowe's": "828"
+      },
+      {
+         "Year": "2012",
+         "Home Depot": "1364",
+         "Lowe's": "804"
+      },
+      {
+         "Year": "2011",
+         "Home Depot": "1318",
+         "Lowe's": "810"
+      }
+   ]
+}

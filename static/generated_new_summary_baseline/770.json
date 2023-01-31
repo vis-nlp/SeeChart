@@ -1,0 +1,65 @@
+{
+   "title": "Number of Spotify employees 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 6 data points.",
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is slightly increasing from 2011 to 2013, roughly constant from 2013 to 2016, and finally slightly increasing from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2016 and 2018.",
+      "Maximum Number of employees, about 4165.0 was reported at Year 2018",
+      "The lowest Number of employees, of value 311.0 was reported at Year 2011"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 6 data points.",
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is slightly increasing from 2011 to 2013, roughly constant from 2013 to 2016, and finally slightly increasing from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 6 data points.",
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is slightly increasing from 2011 to 2013, roughly constant from 2013 to 2016, and finally slightly increasing from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2016 and 2018.",
+      "Maximum Number of employees, about 4165.0 was reported at Year 2018",
+      "The lowest Number of employees, of value 311.0 was reported at Year 2011"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 6 data points.",
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is slightly increasing from 2011 to 2013, roughly constant from 2013 to 2016, and finally slightly increasing from 2016 to 2018.",
+      "The steepest increase occurs in between the Year 2016 and 2018.",
+      "Maximum Number of employees, about 4165.0 was reported at Year 2018",
+      "The lowest Number of employees, of value 311.0 was reported at Year 2011",
+      "The line drastically increased by 3.1 times from Year 2011 to 2013, and lastly, increased by 1.9 times from Year 2016 to 2018."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": 4165.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 2162.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 1581.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 1365.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 958.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 311.0
+      }
+   ]
+}

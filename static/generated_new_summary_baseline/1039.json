@@ -1,0 +1,85 @@
+{
+   "title": "Comic book reading among young people in the UK 2015 , by demographic",
+   "xAxis": "Demographic",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Demographics. ",
+      "The Share of respondents is highest at Demographic Boys and lowest at Demographic KS5. ",
+      "There is a difference of 19.6 between the maximum Demographic Boys and minimum Demographic KS5. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Demographic, and Share of respondents in each Demographic on the y axis. ",
+      "Demographic Boys has the highest Share of respondents and KS5 has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Demographics. ",
+      "The Share of respondents is highest at Demographic Boys and lowest at Demographic KS5. ",
+      "There is a difference of 19.6 between the maximum Demographic Boys and minimum Demographic KS5. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Demographic in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Demographic Boys and lowest at Demographic KS5. ",
+      "The second highest Share of respondents is appeared to be the Demographic . ",
+      "There is a difference of 19.6 between the maximum Demographic Boys and minimum Demographic KS5. ",
+      "Demographic Boys is higher than any other Demographics with value 34.0, followed by , and KS2. Down to Demographic KS5 with the lowest value 14.4. ",
+      "The lowest value 14.4 at KS5 is almost 1.32 times smaller than the average value 25.68. ",
+      "Summing up the values of all Demographics, we get total 256.8. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Demographic": "Boys",
+         "Share of respondents": 34.0
+      },
+      {
+         "Demographic": "Girls",
+         "Share of respondents": 19.3
+      },
+      {
+         "Demographic": "KS2",
+         "Share of respondents": 29.3
+      },
+      {
+         "Demographic": "KS3",
+         "Share of respondents": 27.5
+      },
+      {
+         "Demographic": "KS4",
+         "Share of respondents": 17.6
+      },
+      {
+         "Demographic": "KS5",
+         "Share of respondents": 14.4
+      },
+      {
+         "Demographic": "White",
+         "Share of respondents": 26.2
+      },
+      {
+         "Demographic": "Mixed",
+         "Share of respondents": 30.8
+      },
+      {
+         "Demographic": "Asian",
+         "Share of respondents": 28.6
+      },
+      {
+         "Demographic": "Black",
+         "Share of respondents": 29.1
+      }
+   ]
+}

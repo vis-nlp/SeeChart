@@ -1,0 +1,81 @@
+{
+   "title": "Mobile operators : carrier market shares in the United Kingdom ( UK ) 2018",
+   "xAxis": "Mobile Carrier",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Market share for 9 number of Mobile Carriers. ",
+      "The Market share is highest at Mobile Carrier BT (including EE) and lowest at Mobile Carrier Talk Talk. ",
+      "The Market share of Mobile Carrier Talk Talk is 28.0% smaller than the maximum value at BT (including EE). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Market share for 9 number of Mobile Carriers. ",
+      "Mobile Carrier BT (including EE) has the highest Market share and Talk Talk has the lowest Market share. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Market share for 9 number of Mobile Carriers. ",
+      "The Market share is highest at Mobile Carrier BT (including EE) and lowest at Mobile Carrier Talk Talk. ",
+      "The Market share of Mobile Carrier Talk Talk is 28.0% smaller than the maximum value at BT (including EE). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Mobile Carrier in the x axis and Market share in the y axis. ",
+      "The maximum Market share 28.0 is found at Mobile Carrier BT (including EE) and the minimum is found at Talk Talk where Market share is 1.0. ",
+      "The difference of Market share between the highest and lowest Mobile Carrier is 27.0. ",
+      "Market share at Mobile Carrier BT (including EE) is 28.0 , second place is  at 28.0, and thirdly is Vodafone at 21.0.",
+      "Mobile Carrier Talk Talk, iD Mobile, and Sky have the same Market share. ",
+      "The Mobile Carrier BT (including EE) tends to be 2.52 percent higher than average. ",
+      "Summing up the values of all Mobile Carriers, we get total 100.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Mobile Carrier": "BT (including EE)",
+         "Market share": 28.0
+      },
+      {
+         "Mobile Carrier": "O2",
+         "Market share": 26.0
+      },
+      {
+         "Mobile Carrier": "Vodafone",
+         "Market share": 21.0
+      },
+      {
+         "Mobile Carrier": "Three",
+         "Market share": 12.0
+      },
+      {
+         "Mobile Carrier": "Tesco Mobile",
+         "Market share": 6.0
+      },
+      {
+         "Mobile Carrier": "Virgin Mobile",
+         "Market share": 4.0
+      },
+      {
+         "Mobile Carrier": "Talk Talk",
+         "Market share": 1.0
+      },
+      {
+         "Mobile Carrier": "iD Mobile",
+         "Market share": 1.0
+      },
+      {
+         "Mobile Carrier": "Sky",
+         "Market share": 1.0
+      }
+   ]
+}

@@ -1,0 +1,55 @@
+{
+   "title": "Banco Santander global operations : geographic diversification of profit 2019",
+   "xAxis": "Region",
+   "yAxis": "Share of attributable profit",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 3 columns on the x axis representing Region, and Share of attributable profit in each Region on the y axis. ",
+      "The Share of attributable profit is appeared to be the highest at Region Europe and lowest at Region North America. ",
+      "The highest value at Region Europe is 2.94x times more than the lowest value at North America. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of attributable profit for 3 number of Regions. ",
+      "The Share of attributable profit is highest at Region Europe and lowest at Region North America. "
+   ],
+   "mid_summary": [
+      "This bar chart has 3 columns on the x axis representing Region, and Share of attributable profit in each Region on the y axis. ",
+      "The Share of attributable profit is appeared to be the highest at Region Europe and lowest at Region North America. ",
+      "The highest value at Region Europe is 2.94x times more than the lowest value at North America. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of attributable profit for 3 number of Regions. ",
+      "Region Europe has the highest Share of attributable profit and North America has the lowest Share of attributable profit. ",
+      "Region  has the second highest value for Share of attributable profit. ",
+      "The highest Region Europe has 31.0 more Share of attributable profit than the lowest Region North America. ",
+      "The lowest value 16.0 at North America is almost 1.41 times smaller than the average value 33.33. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "North America",
+         "Share of attributable profit": 16.0
+      },
+      {
+         "Region": "South America",
+         "Share of attributable profit": 37.0
+      },
+      {
+         "Region": "Europe",
+         "Share of attributable profit": 47.0
+      }
+   ]
+}

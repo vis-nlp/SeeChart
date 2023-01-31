@@ -1,0 +1,56 @@
+{
+   "title": "Public opinion on adoption rights for same-sex couples in the U.S. 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Yes should and lowest at Response No opinion. ",
+      "The highest Response Yes should has 61.0 more Share of respondents than the lowest Response No opinion. "
+   ],
+   "min_summary": [
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Yes should has the highest Share of respondents and No opinion has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Yes should and lowest at Response No opinion. ",
+      "The highest Response Yes should has 61.0 more Share of respondents than the lowest Response No opinion. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 63.0 is found at Response Yes should and the minimum is found at No opinion where Share of respondents is 2.0. ",
+      "The second highest Share of respondents is appeared to be the Response . ",
+      "The difference of Share of respondents between the highest and lowest Response is 61.0. ",
+      "The Response No opinion tends to be 1.89 percent lower than average. ",
+      "The Share of respondents is 100.0 if we add up values of all Responses. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Yes should",
+         "Share of respondents": 63.0
+      },
+      {
+         "Response": "No should not",
+         "Share of respondents": 35.0
+      },
+      {
+         "Response": "No opinion",
+         "Share of respondents": 2.0
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Population growth in Mexico 2018",
+   "xAxis": "Year",
+   "yAxis": "Population growth compared to the previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Population growth compared to the previous year. In total the number of data points it has is 11.",
+      " Overall Population growth compared to the previous year has decreased over the Year.",
+      "Population growth compared to the previous year is roughly constant from 2008 to 2009, and lastly slightly decreasing from 2009 to 2018.",
+      "The steepest decrease occurs in between the Year 2010 and 2011.",
+      "Maximum Population growth compared to the previous year, about 1.5 was reported at Year 2008",
+      "The lowest Population growth compared to the previous year, of value 1.13 was reported at Year 2018"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Population growth compared to the previous year, containing a total of 11 data points.",
+      " In general Population growth compared to the previous year has fallen over the Year.",
+      "Population growth compared to the previous year is roughly constant from 2008 to 2009, and lastly slightly decreasing from 2009 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Population growth compared to the previous year. In total the number of data points it has is 11.",
+      " Overall Population growth compared to the previous year has decreased over the Year.",
+      "Population growth compared to the previous year is roughly constant from 2008 to 2009, and lastly slightly decreasing from 2009 to 2018.",
+      "The steepest decrease occurs in between the Year 2010 and 2011.",
+      "Maximum Population growth compared to the previous year, about 1.5 was reported at Year 2008",
+      "The lowest Population growth compared to the previous year, of value 1.13 was reported at Year 2018"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Population growth compared to the previous year, containing a total of 11 data points.",
+      " Overall Population growth compared to the previous year has decreased over the Year.",
+      "Population growth compared to the previous year is roughly constant from 2008 to 2009, and lastly slightly decreasing from 2009 to 2018.",
+      "The steepest decrease occurs in between the Year 2010 and 2011.",
+      "Maximum Population growth compared to the previous year, about 1.5 was reported at Year 2008",
+      "The lowest Population growth compared to the previous year, of value 1.13 was reported at Year 2018",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Population growth compared to the previous year": 1.13
+      },
+      {
+         "Year": "2017",
+         "Population growth compared to the previous year": 1.16
+      },
+      {
+         "Year": "2016",
+         "Population growth compared to the previous year": 1.2
+      },
+      {
+         "Year": "2015",
+         "Population growth compared to the previous year": 1.24
+      },
+      {
+         "Year": "2014",
+         "Population growth compared to the previous year": 1.28
+      },
+      {
+         "Year": "2013",
+         "Population growth compared to the previous year": 1.32
+      },
+      {
+         "Year": "2012",
+         "Population growth compared to the previous year": 1.36
+      },
+      {
+         "Year": "2011",
+         "Population growth compared to the previous year": 1.39
+      },
+      {
+         "Year": "2010",
+         "Population growth compared to the previous year": 1.44
+      },
+      {
+         "Year": "2009",
+         "Population growth compared to the previous year": 1.48
+      },
+      {
+         "Year": "2008",
+         "Population growth compared to the previous year": 1.5
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Most popular social media sites in Norway 2019 , by platform",
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Platform, and Share of respondents in each Platform on the y axis. ",
+      "The Share of respondents is highest at Platform Facebook and lowest at Platform Tumblr. ",
+      "The highest Platform Facebook has 81.0 more Share of respondents than the lowest Platform Tumblr. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Platform in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Platform Facebook and lowest at Platform Tumblr. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Platform, and Share of respondents in each Platform on the y axis. ",
+      "The Share of respondents is highest at Platform Facebook and lowest at Platform Tumblr. ",
+      "The highest Platform Facebook has 81.0 more Share of respondents than the lowest Platform Tumblr. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Platform, and Share of respondents in each Platform on the y axis. ",
+      "The Share of respondents is highest at Platform Facebook and lowest at Platform Tumblr. ",
+      "The highest Platform Facebook has 81.0 more Share of respondents than the lowest Platform Tumblr. ",
+      "Share of respondents at Platform Facebook is 83.0 , second place is  at 83.0, and thirdly is YouTube at 60.0.",
+      "Similar Share of respondents is found in Platform Pinterest, and Whatsapp. ",
+      "The Platform Tumblr tends to be 2.43 percent lower than average. ",
+      "The Share of respondents is 342.0 if we add up values of all Platforms. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of respondents": 83.0
+      },
+      {
+         "Platform": "Snapchat",
+         "Share of respondents": 61.0
+      },
+      {
+         "Platform": "YouTube",
+         "Share of respondents": 60.0
+      },
+      {
+         "Platform": "Instagram",
+         "Share of respondents": 57.0
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of respondents": 21.0
+      },
+      {
+         "Platform": "Twitter",
+         "Share of respondents": 20.0
+      },
+      {
+         "Platform": "Pinterest",
+         "Share of respondents": 16.0
+      },
+      {
+         "Platform": "Whatsapp",
+         "Share of respondents": 16.0
+      },
+      {
+         "Platform": "Reddit",
+         "Share of respondents": 6.0
+      },
+      {
+         "Platform": "Tumblr",
+         "Share of respondents": 2.0
+      }
+   ]
+}

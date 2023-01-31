@@ -1,0 +1,95 @@
+{
+   "title": "adidas Group - revenue from H1 2017 to H1 2019 , by region",
+   "labels": [
+      "Half",
+      "Asia-Pacific",
+      "Europe",
+      "North America",
+      "Latin America",
+      "Emerging Markets",
+      "Russia/CIS"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 3 different Halfs on X-axis for 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS. On the Y-axis it shows their corresponding Revenue in million euros. ",
+      " Out of all 6 groups, Asia-Pacific had the highest Revenue in million euros for Half 1st half 2019 and Russia/CIS had the lowest Revenue in million euros for Half 1st half 2018. ",
+      "Half 1st half 2019 and 1st half 2017 had the biggest gap of 771.0 between the highest and lowest Revenue in million euros found for Asia-Pacific. ",
+      "Averaging all 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS, the Half 1st half 2019 is the maximum Revenue in million euros and 1st half 2017 is the minimum Revenue in million euros. "
+   ],
+   "xAxis": "Half",
+   "yAxis": "Revenue in million euros",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Halfs on X-axis for 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS. On the Y-axis it shows their corresponding Revenue in million euros. ",
+      " For Half 1st half 2019, Asia-Pacific had the highest Revenue in million euros 4011.0 among the 6 groups and in 1st half 2018, Russia/CIS had the lowest Revenue in million euros 297.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 3 different Halfs on X-axis for 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS. On the Y-axis it shows their corresponding Revenue in million euros. ",
+      " Out of all 6 groups, Asia-Pacific had the highest Revenue in million euros for Half 1st half 2019 and Russia/CIS had the lowest Revenue in million euros for Half 1st half 2018. ",
+      "Half 1st half 2019 and 1st half 2017 had the biggest gap of 771.0 between the highest and lowest Revenue in million euros found for Asia-Pacific. ",
+      "Averaging all 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS, the Half 1st half 2019 is the maximum Revenue in million euros and 1st half 2017 is the minimum Revenue in million euros. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 3 different Halfs on X-axis for 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS. On the Y-axis it shows their corresponding Revenue in million euros. ",
+      " For Half 1st half 2019, Asia-Pacific had the highest Revenue in million euros 4011.0 among the 6 groups and in 1st half 2018, Russia/CIS had the lowest Revenue in million euros 297.0. ",
+      " For Half 1st half 2019, Asia-Pacific had the highest Revenue in million euros among all 3 Halfs and it has the lowest Revenue in million euros in Half 1st half 2017. ",
+      "Half 1st half 2019 and 1st half 2017 had the biggest gap of 771.0 between the highest and lowest Revenue in million euros found for Asia-Pacific. ",
+      " Among the groups, Asia-Pacific had the biggest difference in Revenue in million euros. Where the maximum Revenue in million euros was 1.24 times larger than the minimum Revenue in million euros. ",
+      " In case of Half 1st half 2019, Asia-Pacific had the highest Revenue in million euros 4011.0 among the 6 groups and in 1st half 2018, Russia/CIS had the lowest Revenue in million euros 297.0. The second highest Revenue in million euros 644.0 was observed for Asia-Pacific in Half 1st half 2019. ",
+      "On average, the Half 1st half 2019 had the highest Revenue in million euros for all 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS. Whereas 1st half 2017 had the lowest average Revenue in million euros. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "6",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Half": "1st half 2019",
+         "Asia-Pacific": "4011",
+         "Europe": "2972",
+         "North America": "2370",
+         "Latin America": "779",
+         "Emerging Markets": "611",
+         "Russia/CIS": "307"
+      },
+      {
+         "Half": "1st half 2018",
+         "Asia-Pacific": "3582",
+         "Europe": "3023",
+         "North America": "2122",
+         "Latin America": "847",
+         "Emerging Markets": "560",
+         "Russia/CIS": "297"
+      },
+      {
+         "Half": "1st half 2017",
+         "Asia-Pacific": "3240",
+         "Europe": "2969",
+         "North America": "2001",
+         "Latin America": "895",
+         "Emerging Markets": "644",
+         "Russia/CIS": "341"
+      }
+   ]
+}

@@ -1,0 +1,61 @@
+{
+   "title": "Share of people owning microwave ovens in Germany 2008 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is roughly constant from 2008 to 2010, and finally slightly decreasing from 2010 to 2017.",
+      "The steepest decrease occurs in between the Year 2013 and 2015.",
+      "Maximum Share of respondents, about 80.0 was reported at Year 2008, and 2010",
+      "The lowest Share of respondents, of value 65.0 was reported at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 5.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is roughly constant from 2008 to 2010, and finally slightly decreasing from 2010 to 2017."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is roughly constant from 2008 to 2010, and finally slightly decreasing from 2010 to 2017.",
+      "The steepest decrease occurs in between the Year 2013 and 2015.",
+      "Maximum Share of respondents, about 80.0 was reported at Year 2008, and 2010",
+      "The lowest Share of respondents, of value 65.0 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is roughly constant from 2008 to 2010, and finally slightly decreasing from 2010 to 2017.",
+      "The most drastic decrease took place within the Year 2013 and 2015.",
+      "Maximum Share of respondents, about 80.0 was reported at Year 2008, and 2010",
+      "The lowest Share of respondents, of value 65.0 was reported at Year 2017",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Share of respondents": 65.0
+      },
+      {
+         "Year": "2015",
+         "Share of respondents": 70.0
+      },
+      {
+         "Year": "2013",
+         "Share of respondents": 76.0
+      },
+      {
+         "Year": "2010",
+         "Share of respondents": 80.0
+      },
+      {
+         "Year": "2008",
+         "Share of respondents": 80.0
+      }
+   ]
+}

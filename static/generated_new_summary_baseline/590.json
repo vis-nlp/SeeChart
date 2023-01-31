@@ -1,0 +1,64 @@
+{
+   "title": "Distribution of Instagram.com traffic 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Share of desktop traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Share of desktop traffic in each Country on the y axis. ",
+      "The maximum Share of desktop traffic 17.77 is found at Country United States and the minimum is found at Turkey where Share of desktop traffic is 3.24. ",
+      "The highest Country United States has 14.53 more Share of desktop traffic than the lowest Country Turkey. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Share of desktop traffic in each Country on the y axis. ",
+      "The maximum Share of desktop traffic 17.77 is found at Country United States and the minimum is found at Turkey where Share of desktop traffic is 3.24. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Share of desktop traffic in each Country on the y axis. ",
+      "The maximum Share of desktop traffic 17.77 is found at Country United States and the minimum is found at Turkey where Share of desktop traffic is 3.24. ",
+      "The highest Country United States has 14.53 more Share of desktop traffic than the lowest Country Turkey. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Share of desktop traffic in each Country on the y axis. ",
+      "The Share of desktop traffic is appeared to be the highest at Country United States and lowest at Country Turkey. ",
+      "Second maximum Share of desktop traffic is found at Country . ",
+      "There is a difference of 14.53 between the maximum Country United States and minimum Country Turkey. ",
+      "Country United States is higher than any other Countrys with value 17.77, followed by , and Russia. Down to Country Turkey with the lowest value 3.24. ",
+      "The Country Turkey tends to be 2.23 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of desktop traffic": 17.77
+      },
+      {
+         "Country": "Brazil",
+         "Share of desktop traffic": 8.22
+      },
+      {
+         "Country": "Russia",
+         "Share of desktop traffic": 7.06
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of desktop traffic": 3.6
+      },
+      {
+         "Country": "Turkey",
+         "Share of desktop traffic": 3.24
+      }
+   ]
+}

@@ -1,0 +1,130 @@
+{
+   "title": "Number of M & A transactions in Asia 2015 - 2017 , by country",
+   "labels": [
+      "Quarter",
+      "Australia",
+      "China/Hong Kong",
+      "India",
+      "Japan"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Number of deals on the Y-axis for 9 different Quarters for 4 groups Australia, China/Hong Kong, India, and Japan that are presented on the X-axis. ",
+      " All through the Quarters, the Number of deals for India have increased. On the other hand, for China/Hong Kong the Number of deals have lowered. ",
+      " Out of all 4 groups, China/Hong Kong had the highest Number of deals for Quarter Q4 2016 and India had the lowest Number of deals for Quarter Q3 2017. ",
+      "Quarter Q1 2016 and Q3 2017 had the biggest gap of 130.0 between the highest and lowest Number of deals found for India. "
+   ],
+   "xAxis": "Quarter",
+   "yAxis": "Number of deals",
+   "min_summary": [
+      "This grouped bar chart represents 9 different Quarters on X-axis for 4 groups Australia, China/Hong Kong, India, and Japan. On the Y-axis it shows their corresponding Number of deals. ",
+      " All through the Quarters, the Number of deals for India have increased. On the other hand, for China/Hong Kong the Number of deals have lowered. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of deals on the Y-axis for 9 different Quarters for 4 groups Australia, China/Hong Kong, India, and Japan that are presented on the X-axis. ",
+      " All through the Quarters, the Number of deals for India have increased. On the other hand, for China/Hong Kong the Number of deals have lowered. ",
+      " Out of all 4 groups, China/Hong Kong had the highest Number of deals for Quarter Q4 2016 and India had the lowest Number of deals for Quarter Q3 2017. ",
+      "Quarter Q1 2016 and Q3 2017 had the biggest gap of 130.0 between the highest and lowest Number of deals found for India. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 9 different Quarters on X-axis for 4 groups Australia, China/Hong Kong, India, and Japan. On the Y-axis it shows their corresponding Number of deals. ",
+      " Over the 9 Quarters, the Number of deals for India have been increased whereas lowered for China/Hong Kong. ",
+      " For Quarter Q4 2016, China/Hong Kong had the highest Number of deals 1059.0 among the 4 groups and in Q3 2017, India had the lowest Number of deals 156.0. ",
+      " Among all the Quarters, India had the highest Number of deals in Quarter Q1 2016 and lowest Number of deals in Quarter Q3 2017. ",
+      " The maximum Number of deals for India that was found in Quarter Q1 2016 was 1.83 times larger than the minimum Number of deals observed in Quarter Q3 2017. ",
+      " Among all 4 groups, China/Hong Kong had the gap of 327.0 between the maximum and minimum Number of deals observed in Quarter Q4 2016 and Q2 2016 respectively. ",
+      " In case of Quarter Q4 2016, China/Hong Kong had the highest Number of deals 1059.0 among the 4 groups and in Q3 2017, India had the lowest Number of deals 156.0. The second highest Number of deals 404.0 was observed for China/Hong Kong in Quarter Q4 2016. ",
+      "Averaging all 4 groups Australia, China/Hong Kong, India, and Japan, the Quarter Q4 2016 is the maximum Number of deals and Q2 2016 is the minimum Number of deals. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "4",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "4",
+            "4"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 2017",
+         "Australia": "328",
+         "China/Hong Kong": "983",
+         "India": "156",
+         "Japan": "492"
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Australia": "328",
+         "China/Hong Kong": "930",
+         "India": "173",
+         "Japan": "456"
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Australia": "321",
+         "China/Hong Kong": "771",
+         "India": "228",
+         "Japan": "446"
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Australia": "404",
+         "China/Hong Kong": "1059",
+         "India": "221",
+         "Japan": "445"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Australia": "364",
+         "China/Hong Kong": "916",
+         "India": "258",
+         "Japan": "437"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Australia": "358",
+         "China/Hong Kong": "732",
+         "India": "254",
+         "Japan": "394"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Australia": "362",
+         "China/Hong Kong": "746",
+         "India": "286",
+         "Japan": "425"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Australia": "402",
+         "China/Hong Kong": "932",
+         "India": "241",
+         "Japan": "384"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Australia": "394",
+         "China/Hong Kong": "896",
+         "India": "271",
+         "Japan": "381"
+      }
+   ]
+}

@@ -1,0 +1,150 @@
+{
+   "title": "Bottled water consumption per capita in Europe 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Litres consumed per capita",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 26 columns on the x axis representing Country, and Litres consumed per capita in each Country on the y axis. ",
+      "The Litres consumed per capita is highest at Country Italy and lowest at Country Sweden. ",
+      "The maximum Country Italy has got 18.8 times higher Litres consumed per capita than the minimum Country Sweden. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Litres consumed per capita for 26 number of Countrys. ",
+      "The maximum Litres consumed per capita 188.0 is found at Country Italy and the minimum is found at Sweden where Litres consumed per capita is 10.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 26 columns on the x axis representing Country, and Litres consumed per capita in each Country on the y axis. ",
+      "The Litres consumed per capita is highest at Country Italy and lowest at Country Sweden. ",
+      "The maximum Country Italy has got 18.8 times higher Litres consumed per capita than the minimum Country Sweden. "
+   ],
+   "max_summary": [
+      "This bar chart has 26 columns on the x axis representing Country, and Litres consumed per capita in each Country on the y axis. ",
+      "The Litres consumed per capita is highest at Country Italy and lowest at Country Sweden. ",
+      "The second highest Litres consumed per capita is appeared to be the Country . ",
+      "The difference of Litres consumed per capita between the highest and lowest Country is 178.0. ",
+      "The Country Italy has the highest Litres consumed per capita, followed by , and Belgium. Down to the Country Sweden which is the lowest. ",
+      "Country Hungary, and Spain have a similar Litres consumed per capita that is 126.0. ",
+      "Considered together, the average Litres consumed per capita in all 26 Countrys is roughly 81.31. ",
+      "Summing up the values of all Countrys, we get total 2114.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 25,
+         "12": 25
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Italy",
+         "Litres consumed per capita": 188.0
+      },
+      {
+         "Country": "Germany",
+         "Litres consumed per capita": 175.0
+      },
+      {
+         "Country": "Hungary",
+         "Litres consumed per capita": 126.0
+      },
+      {
+         "Country": "Belgium",
+         "Litres consumed per capita": 130.0
+      },
+      {
+         "Country": "France",
+         "Litres consumed per capita": 125.0
+      },
+      {
+         "Country": "Spain",
+         "Litres consumed per capita": 126.0
+      },
+      {
+         "Country": "Portugal",
+         "Litres consumed per capita": 125.0
+      },
+      {
+         "Country": "EU Average",
+         "Litres consumed per capita": 117.0
+      },
+      {
+         "Country": "Poland",
+         "Litres consumed per capita": 99.0
+      },
+      {
+         "Country": "Austria",
+         "Litres consumed per capita": 92.0
+      },
+      {
+         "Country": "Greece",
+         "Litres consumed per capita": 93.0
+      },
+      {
+         "Country": "Romania",
+         "Litres consumed per capita": 90.0
+      },
+      {
+         "Country": "Bulgaria",
+         "Litres consumed per capita": 80.0
+      },
+      {
+         "Country": "Croatia",
+         "Litres consumed per capita": 74.0
+      },
+      {
+         "Country": "Slovakia",
+         "Litres consumed per capita": 67.0
+      },
+      {
+         "Country": "Slovenia",
+         "Litres consumed per capita": 61.0
+      },
+      {
+         "Country": "Latvia",
+         "Litres consumed per capita": 62.0
+      },
+      {
+         "Country": "Czech Republic",
+         "Litres consumed per capita": 50.0
+      },
+      {
+         "Country": "Lithuania",
+         "Litres consumed per capita": 48.0
+      },
+      {
+         "Country": "Ireland",
+         "Litres consumed per capita": 48.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Litres consumed per capita": 36.0
+      },
+      {
+         "Country": "Estonia",
+         "Litres consumed per capita": 32.0
+      },
+      {
+         "Country": "Netherlands",
+         "Litres consumed per capita": 25.0
+      },
+      {
+         "Country": "Denmark",
+         "Litres consumed per capita": 21.0
+      },
+      {
+         "Country": "Finland",
+         "Litres consumed per capita": 14.0
+      },
+      {
+         "Country": "Sweden",
+         "Litres consumed per capita": 10.0
+      }
+   ]
+}

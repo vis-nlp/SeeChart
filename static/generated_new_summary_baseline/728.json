@@ -1,0 +1,74 @@
+{
+   "title": "MoviePass subscribers in the U.S. 2019",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
+      "The Number of subscribers in thousands is highest at Month June 2018 and lowest at Month December 2016. ",
+      "The lowest value at Month December 2016 is 150.0x times less than the highest value at June 2018. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
+      "The maximum Number of subscribers in thousands 3000.0 is found at Month June 2018 and the minimum is found at December 2016 where Number of subscribers in thousands is 20.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
+      "The Number of subscribers in thousands is highest at Month June 2018 and lowest at Month December 2016. ",
+      "The lowest value at Month December 2016 is 150.0x times less than the highest value at June 2018. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of subscribers in thousands for 7 number of Months. ",
+      "The Number of subscribers in thousands is appeared to be the highest at Month June 2018 and lowest at Month December 2016. ",
+      "Second maximum Number of subscribers in thousands is found at Month . ",
+      "The maximum Month June 2018 has got 150.0 times higher Number of subscribers in thousands than the minimum Month December 2016. ",
+      "Month June 2018 is higher than any other Months with value 3000.0, followed by , and January 2018. Down to Month December 2016 with the lowest value 20.0. ",
+      "The Number of subscribers in thousands has lowered over the past 7 Months. ",
+      "Considered together, the average Number of subscribers in thousands in all 7 Months is roughly 1056.43. ",
+      "Summing up the values of all Months, we get total 7395.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "April 2019",
+         "Number of subscribers in thousands": 225.0
+      },
+      {
+         "Month": "June 2018",
+         "Number of subscribers in thousands": 3000.0
+      },
+      {
+         "Month": "March 2018",
+         "Number of subscribers in thousands": 2000.0
+      },
+      {
+         "Month": "January 2018",
+         "Number of subscribers in thousands": 1500.0
+      },
+      {
+         "Month": "September 2017",
+         "Number of subscribers in thousands": 500.0
+      },
+      {
+         "Month": "August 2017",
+         "Number of subscribers in thousands": 150.0
+      },
+      {
+         "Month": "December 2016",
+         "Number of subscribers in thousands": 20.0
+      }
+   ]
+}

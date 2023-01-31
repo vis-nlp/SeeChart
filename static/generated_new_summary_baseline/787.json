@@ -1,0 +1,109 @@
+{
+   "title": "Franchise value of the New York Mets 2002 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Franchise value in million U.S. dollars. In total the number of data points it has is 18.",
+      " In general Franchise value in million U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Franchise value in million U.S. dollars, of value 2300.0 was reached at Year 2019",
+      "Minimum Franchise value in million U.S. dollars about 442.0 was reached at Year 2004"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, containing a total of 18 data points.",
+      " Overall Franchise value in million U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Franchise value in million U.S. dollars. In total the number of data points it has is 18.",
+      " In general Franchise value in million U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Franchise value in million U.S. dollars, of value 2300.0 was reached at Year 2019",
+      "Minimum Franchise value in million U.S. dollars about 442.0 was reached at Year 2004"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Franchise value in million U.S. dollars. In total the number of data points it has is 18.",
+      " In general Franchise value in million U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Franchise value in million U.S. dollars, of value 2300.0 was reached at Year 2019",
+      "Minimum Franchise value in million U.S. dollars about 442.0 was reached at Year 2004",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": 2300.0
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": 2100.0
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": 2000.0
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": 1650.0
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": 1350.0
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": 800.0
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": 811.0
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": 719.0
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": 747.0
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": 858.0
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": 912.0
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": 824.0
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": 736.0
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": 604.0
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": 505.0
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": 442.0
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": 498.0
+      },
+      {
+         "Year": "2002",
+         "Franchise value in million U.S. dollars": 482.0
+      }
+   ]
+}

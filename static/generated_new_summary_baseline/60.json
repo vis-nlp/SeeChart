@@ -1,0 +1,258 @@
+{
+   "title": "Higher education spending as a share of GDP worldwide 2016 , by country",
+   "labels": [
+      "Country",
+      "Public",
+      "Private"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of GDP on the Y-axis for 39 different Countrys for 2 groups Public, and Private that are presented on the X-axis. ",
+      " Country Norway had the maximum Share of GDP among all 2 groups, and it was for Public. The minimum Share of GDP was observed in Country Luxembourg for Private. ",
+      "Country Norway and Germany had the biggest gap of 17.0 between the highest and lowest Share of GDP found for Public. ",
+      "On average, the Country Chile had the highest Share of GDP for all 2 groups Public, and Private. Whereas Luxembourg had the lowest average Share of GDP. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Share of GDP",
+   "min_summary": [
+      "This grouped bar chart represents 39 different Countrys on X-axis for 2 groups Public, and Private. On the Y-axis it shows their corresponding Share of GDP. ",
+      " Country Norway had the maximum Share of GDP among all 2 groups, and it was for Public. The minimum Share of GDP was observed in Country Luxembourg for Private. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of GDP on the Y-axis for 39 different Countrys for 2 groups Public, and Private that are presented on the X-axis. ",
+      " Country Norway had the maximum Share of GDP among all 2 groups, and it was for Public. The minimum Share of GDP was observed in Country Luxembourg for Private. ",
+      "Country Norway and Germany had the biggest gap of 17.0 between the highest and lowest Share of GDP found for Public. ",
+      "On average, the Country Chile had the highest Share of GDP for all 2 groups Public, and Private. Whereas Luxembourg had the lowest average Share of GDP. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 39 different Countrys on X-axis for 2 groups Public, and Private. On the Y-axis it shows their corresponding Share of GDP. ",
+      " For Country Norway, Public had the highest Share of GDP 18.0 among the 2 groups and in Luxembourg, Private had the lowest Share of GDP 0.0. ",
+      " For Country Norway, Public had the maximum Share of GDP and it saw the lowest in Country Germany out of all 39 Countrys. ",
+      " The maximum Share of GDP for Public that was found in Country Norway was 18.0 times larger than the minimum Share of GDP observed in Country Germany. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share of GDP was found in case of Public. ",
+      "On average, the Country Chile had the highest Share of GDP for all 2 groups Public, and Private. Whereas Luxembourg had the lowest average Share of GDP. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "13"
+         ],
+         "13": [
+            "2",
+            "13"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "6"
+         ],
+         "14": [
+            "2",
+            "6"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Norway",
+         "Public": "1.8",
+         "Private": "0.1"
+      },
+      {
+         "Country": "Austria",
+         "Public": "1.6",
+         "Private": "0.1"
+      },
+      {
+         "Country": "Finland",
+         "Public": "1.5",
+         "Private": "0.1"
+      },
+      {
+         "Country": "Turkey",
+         "Public": "1.4",
+         "Private": "0.5"
+      },
+      {
+         "Country": "Sweden",
+         "Public": "1.4",
+         "Private": "0.2"
+      },
+      {
+         "Country": "Switzerland",
+         "Public": "1.3",
+         "Private": "0"
+      },
+      {
+         "Country": "Canada",
+         "Public": "1.2",
+         "Private": "1.1"
+      },
+      {
+         "Country": "Belgium",
+         "Public": "1.2",
+         "Private": "0.2"
+      },
+      {
+         "Country": "Estonia",
+         "Public": "1.2",
+         "Private": "0.2"
+      },
+      {
+         "Country": "Netherlands",
+         "Public": "1.1",
+         "Private": "0.5"
+      },
+      {
+         "Country": "France",
+         "Public": "1.1",
+         "Private": "0.3"
+      },
+      {
+         "Country": "Argentina",
+         "Public": "1.1",
+         "Private": "0"
+      },
+      {
+         "Country": "Iceland",
+         "Public": "1.1",
+         "Private": "0.1"
+      },
+      {
+         "Country": "Chile",
+         "Public": "1",
+         "Private": "1.7"
+      },
+      {
+         "Country": "Brazil",
+         "Public": "1",
+         "Private": "0"
+      },
+      {
+         "Country": "Germany",
+         "Public": "1",
+         "Private": "0.2"
+      },
+      {
+         "Country": "Mexico",
+         "Public": "0.9",
+         "Private": "0.4"
+      },
+      {
+         "Country": "Poland",
+         "Public": "0.9",
+         "Private": "0.2"
+      },
+      {
+         "Country": "New Zealand",
+         "Public": "0.9",
+         "Private": "0.9"
+      },
+      {
+         "Country": "Australia",
+         "Public": "0.8",
+         "Private": "1.2"
+      },
+      {
+         "Country": "Israel",
+         "Public": "0.8",
+         "Private": "0.6"
+      },
+      {
+         "Country": "Slovenia",
+         "Public": "0.8",
+         "Private": "0.1"
+      },
+      {
+         "Country": "Colombia",
+         "Public": "0.8",
+         "Private": "0.8"
+      },
+      {
+         "Country": "Spain",
+         "Public": "0.8",
+         "Private": "0.4"
+      },
+      {
+         "Country": "Latvia",
+         "Public": "0.7",
+         "Private": "0.3"
+      },
+      {
+         "Country": "Korea",
+         "Public": "0.7",
+         "Private": "1.1"
+      },
+      {
+         "Country": "Slovak Republic",
+         "Public": "0.7",
+         "Private": "0.3"
+      },
+      {
+         "Country": "Czech Republic",
+         "Public": "0.7",
+         "Private": "0.2"
+      },
+      {
+         "Country": "Lithuania",
+         "Public": "0.7",
+         "Private": "0.3"
+      },
+      {
+         "Country": "Portugal",
+         "Public": "0.7",
+         "Private": "0.4"
+      },
+      {
+         "Country": "Russian Federation",
+         "Public": "0.7",
+         "Private": "0.4"
+      },
+      {
+         "Country": "Hungary",
+         "Public": "0.7",
+         "Private": "0.4"
+      },
+      {
+         "Country": "Greece",
+         "Public": "0.6",
+         "Private": "0"
+      },
+      {
+         "Country": "Ireland",
+         "Public": "0.6",
+         "Private": "0.2"
+      },
+      {
+         "Country": "South Africa",
+         "Public": "0.6",
+         "Private": "0"
+      },
+      {
+         "Country": "Italy",
+         "Public": "0.5",
+         "Private": "0.3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Public": "0.5",
+         "Private": "1.2"
+      },
+      {
+         "Country": "Japan",
+         "Public": "0.4",
+         "Private": "1"
+      },
+      {
+         "Country": "Luxembourg",
+         "Public": "0.4",
+         "Private": "0"
+      }
+   ]
+}

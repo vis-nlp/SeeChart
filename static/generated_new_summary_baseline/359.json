@@ -1,0 +1,82 @@
+{
+   "title": "Problems of the Italian school system 2019",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 9 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Lack of opportunities to enter into the labor market and lowest at Response Others. ",
+      "The difference of Share of respondents between the highest and lowest Response is 24.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Lack of opportunities to enter into the labor market and lowest at Response Others. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 9 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Lack of opportunities to enter into the labor market and lowest at Response Others. ",
+      "The difference of Share of respondents between the highest and lowest Response is 24.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 9 number of Responses. ",
+      "The maximum Share of respondents 26.0 is found at Response Lack of opportunities to enter into the labor market and the minimum is found at Others where Share of respondents is 2.0. ",
+      "Second maximum Share of respondents is found at Response . ",
+      "The highest Response Lack of opportunities to enter into the labor market has 24.0 more Share of respondents than the lowest Response Others. ",
+      "Share of respondents at Response Lack of opportunities to enter into the labor market is 26.0 , second place is  at 26.0, and thirdly is Lack of financial aid for low-income families and students at 13.0.",
+      "Response Bad teachers, and Lack of financial aid for low-income families and students share the same value 13.0. ",
+      "The Response Others tends to be 2.34 percent lower than average. ",
+      "Summing up the values of all Responses, we get total 100.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Lack of opportunities to enter into the labor market",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Lack of funding and resources",
+         "Share of respondents": 21.0
+      },
+      {
+         "Response": "Bad teachers",
+         "Share of respondents": 13.0
+      },
+      {
+         "Response": "Lack of financial aid for low-income families and students",
+         "Share of respondents": 13.0
+      },
+      {
+         "Response": "Inadequacy or backwardness of programs",
+         "Share of respondents": 11.0
+      },
+      {
+         "Response": "Violence",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "All these aspects",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Others",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "I do not know",
+         "Share of respondents": 3.0
+      }
+   ]
+}

@@ -1,0 +1,82 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Angola 2024 ",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " In general GDP growth compared to previous year has fallen over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2017, gradually increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024.",
+      "Maximum GDP growth compared to previous year, about 4.82 was reported at Year 2014",
+      "The lowest GDP growth compared to previous year, of value 0.15 was reported at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " Overall GDP growth compared to previous year has decreased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2017, gradually increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " In general GDP growth compared to previous year has fallen over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2017, gradually increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024.",
+      "Maximum GDP growth compared to previous year, about 4.82 was reported at Year 2014",
+      "The lowest GDP growth compared to previous year, of value 0.15 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " Overall GDP growth compared to previous year has decreased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2014 to 2017, gradually increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024.",
+      "Maximum GDP growth compared to previous year, about 4.82 was reported at Year 2014",
+      "The lowest GDP growth compared to previous year, of value 0.15 was reported at Year 2017",
+      "The line rapidly remained stable by 80.5% from Year 2014 to 2015,increased by 174.47% from Year 2015 to 2016,remained stable by 94.19% from Year 2016 to 2017,increased by 700.0% from Year 2017 to 2018,remained stable by 77.5% from Year 2018 to 2019,increased by 325.93% from Year 2019 to 2020, and lastly, increased by 149.57% from Year 2020 to 2021."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 3.78
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 4.13
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 3.33
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 2.87
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 1.15
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 0.27
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 1.2
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 0.15
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 2.58
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 0.94
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 4.82
+      }
+   ]
+}

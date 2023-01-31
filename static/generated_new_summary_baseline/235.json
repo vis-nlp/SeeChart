@@ -1,0 +1,81 @@
+{
+   "title": "Gross domestic product ( GDP ) per capita in South Sudan 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP per capita in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 11.",
+      " In general GDP per capita in U.S. dollars has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "Maximum GDP per capita in U.S. dollars, about 1309.95 was reported at Year 2014",
+      "Minimum GDP per capita in U.S. dollars about 243.27 was reached at Year 2020"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, containing a total of 11 data points.",
+      " Overall GDP per capita in U.S. dollars has decreased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 11.",
+      " In general GDP per capita in U.S. dollars has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "Maximum GDP per capita in U.S. dollars, about 1309.95 was reported at Year 2014",
+      "Minimum GDP per capita in U.S. dollars about 243.27 was reached at Year 2020"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 11.",
+      " In general GDP per capita in U.S. dollars has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "Maximum GDP per capita in U.S. dollars, about 1309.95 was reported at Year 2014",
+      "Minimum GDP per capita in U.S. dollars about 243.27 was reached at Year 2020",
+      "The line significantly decreased by 943.68 from Year 2015 to 2016."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP per capita in U.S. dollars": 265.58
+      },
+      {
+         "Year": "2023",
+         "GDP per capita in U.S. dollars": 270.37
+      },
+      {
+         "Year": "2022",
+         "GDP per capita in U.S. dollars": 278.36
+      },
+      {
+         "Year": "2021",
+         "GDP per capita in U.S. dollars": 244.0
+      },
+      {
+         "Year": "2020",
+         "GDP per capita in U.S. dollars": 243.27
+      },
+      {
+         "Year": "2019",
+         "GDP per capita in U.S. dollars": 275.18
+      },
+      {
+         "Year": "2018",
+         "GDP per capita in U.S. dollars": 353.17
+      },
+      {
+         "Year": "2017",
+         "GDP per capita in U.S. dollars": 273.14
+      },
+      {
+         "Year": "2016",
+         "GDP per capita in U.S. dollars": 281.51
+      },
+      {
+         "Year": "2015",
+         "GDP per capita in U.S. dollars": 1225.19
+      },
+      {
+         "Year": "2014",
+         "GDP per capita in U.S. dollars": 1309.95
+      }
+   ]
+}

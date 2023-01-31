@@ -1,0 +1,117 @@
+{
+   "title": "Number of cars on the road in the United Kingdom ( UK ) 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of cars in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of cars in millions, containing a total of 19 data points.",
+      " In general Number of cars in millions has rose over the Year.",
+      "Number of cars in millions is slightly increasing from 2000 to 2004, roughly constant from 2004 to 2012, roughly decreasing from 2012 to 2013, and finally slightly increasing from 2013 to 2018.",
+      "The most drastic increase took place within the Year 2001 and 2002.",
+      "Maximum Number of cars in millions, about 32.5 was reported at Year 2018",
+      "The lowest Number of cars in millions, of value 27.2 was reported at Year 2000"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of cars in millions, containing a total of 19 data points.",
+      " In general Number of cars in millions has rose over the Year.",
+      "Number of cars in millions is slightly increasing from 2000 to 2004, roughly constant from 2004 to 2012, roughly decreasing from 2012 to 2013, and finally slightly increasing from 2013 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of cars in millions, containing a total of 19 data points.",
+      " In general Number of cars in millions has rose over the Year.",
+      "Number of cars in millions is slightly increasing from 2000 to 2004, roughly constant from 2004 to 2012, roughly decreasing from 2012 to 2013, and finally slightly increasing from 2013 to 2018.",
+      "The most drastic increase took place within the Year 2001 and 2002.",
+      "Maximum Number of cars in millions, about 32.5 was reported at Year 2018",
+      "The lowest Number of cars in millions, of value 27.2 was reported at Year 2000"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of cars in millions, containing a total of 19 data points.",
+      " Overall Number of cars in millions has increased over the Year.",
+      "Number of cars in millions is slightly increasing from 2000 to 2004, roughly constant from 2004 to 2012, roughly decreasing from 2012 to 2013, and finally slightly increasing from 2013 to 2018.",
+      "The most drastic increase took place within the Year 2001 and 2002.",
+      "Maximum Number of cars in millions, about 32.5 was reported at Year 2018",
+      "The lowest Number of cars in millions, of value 27.2 was reported at Year 2000",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of cars in millions": 32.5
+      },
+      {
+         "Year": "2017",
+         "Number of cars in millions": 32.2
+      },
+      {
+         "Year": "2016",
+         "Number of cars in millions": 31.8
+      },
+      {
+         "Year": "2015",
+         "Number of cars in millions": 31.2
+      },
+      {
+         "Year": "2014",
+         "Number of cars in millions": 30.5
+      },
+      {
+         "Year": "2013",
+         "Number of cars in millions": 30.9
+      },
+      {
+         "Year": "2012",
+         "Number of cars in millions": 30.5
+      },
+      {
+         "Year": "2011",
+         "Number of cars in millions": 30.4
+      },
+      {
+         "Year": "2010",
+         "Number of cars in millions": 30.3
+      },
+      {
+         "Year": "2009",
+         "Number of cars in millions": 30.1
+      },
+      {
+         "Year": "2008",
+         "Number of cars in millions": 30.3
+      },
+      {
+         "Year": "2007",
+         "Number of cars in millions": 30.2
+      },
+      {
+         "Year": "2006",
+         "Number of cars in millions": 29.9
+      },
+      {
+         "Year": "2005",
+         "Number of cars in millions": 29.8
+      },
+      {
+         "Year": "2004",
+         "Number of cars in millions": 29.4
+      },
+      {
+         "Year": "2003",
+         "Number of cars in millions": 29.0
+      },
+      {
+         "Year": "2002",
+         "Number of cars in millions": 28.5
+      },
+      {
+         "Year": "2001",
+         "Number of cars in millions": 27.8
+      },
+      {
+         "Year": "2000",
+         "Number of cars in millions": 27.2
+      }
+   ]
+}

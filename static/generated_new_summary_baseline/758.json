@@ -1,0 +1,85 @@
+{
+   "title": "National debt in the US in relation to gross domestic product ( GDP ) 2024 ",
+   "xAxis": "Year",
+   "yAxis": "National debt in relation to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in relation to GDP, containing a total of 11 data points.",
+      " Overall National debt in relation to GDP has increased over the Year.",
+      "National debt in relation to GDP is roughly constant from 2014 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly gradually increasing from 2017 to 2024.",
+      "The steepest increase occurs in between the Year 2021 and 2022.",
+      "Maximum National debt in relation to GDP, about 115.77 was reported at Year 2024",
+      "Minimum National debt in relation to GDP about 104.26 was reached at Year 2018"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in relation to GDP, containing a total of 11 data points.",
+      " In general National debt in relation to GDP has rose over the Year.",
+      "National debt in relation to GDP is roughly constant from 2014 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly gradually increasing from 2017 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in relation to GDP, containing a total of 11 data points.",
+      " Overall National debt in relation to GDP has increased over the Year.",
+      "National debt in relation to GDP is roughly constant from 2014 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly gradually increasing from 2017 to 2024.",
+      "The steepest increase occurs in between the Year 2021 and 2022.",
+      "Maximum National debt in relation to GDP, about 115.77 was reported at Year 2024",
+      "Minimum National debt in relation to GDP about 104.26 was reached at Year 2018"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes National debt in relation to GDP. In total the number of data points it has is 11.",
+      " In general National debt in relation to GDP has rose over the Year.",
+      "National debt in relation to GDP is roughly constant from 2014 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly gradually increasing from 2017 to 2024.",
+      "The steepest increase occurs in between the Year 2021 and 2022.",
+      "Maximum National debt in relation to GDP, about 115.77 was reported at Year 2024",
+      "Minimum National debt in relation to GDP about 104.26 was reached at Year 2018",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in relation to GDP": 115.77
+      },
+      {
+         "Year": "2023",
+         "National debt in relation to GDP": 114.19
+      },
+      {
+         "Year": "2022",
+         "National debt in relation to GDP": 112.25
+      },
+      {
+         "Year": "2021",
+         "National debt in relation to GDP": 109.99
+      },
+      {
+         "Year": "2020",
+         "National debt in relation to GDP": 108.02
+      },
+      {
+         "Year": "2019",
+         "National debt in relation to GDP": 106.22
+      },
+      {
+         "Year": "2018",
+         "National debt in relation to GDP": 104.26
+      },
+      {
+         "Year": "2017",
+         "National debt in relation to GDP": 105.99
+      },
+      {
+         "Year": "2016",
+         "National debt in relation to GDP": 106.82
+      },
+      {
+         "Year": "2015",
+         "National debt in relation to GDP": 104.65
+      },
+      {
+         "Year": "2014",
+         "National debt in relation to GDP": 104.41
+      }
+   ]
+}

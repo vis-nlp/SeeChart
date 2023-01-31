@@ -1,0 +1,68 @@
+{
+   "title": "Revenue share by geographic region of delivery for Christian Dior December 2018",
+   "xAxis": "Country",
+   "yAxis": "Revenue share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Revenue share in the y axis. ",
+      "The Revenue share is highest at Country Asia (excluding Japan) and lowest at Country Japan. ",
+      "The difference of Revenue share between the highest and lowest Country is 22.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue share for 6 number of Countrys. ",
+      "The Revenue share is highest at Country Asia (excluding Japan) and lowest at Country Japan. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Revenue share in the y axis. ",
+      "The Revenue share is highest at Country Asia (excluding Japan) and lowest at Country Japan. ",
+      "The difference of Revenue share between the highest and lowest Country is 22.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Revenue share in the y axis. ",
+      "Country Asia (excluding Japan) has the highest Revenue share and Japan has the lowest Revenue share. ",
+      "Country  has the second highest value for Revenue share. ",
+      "The difference of Revenue share between the highest and lowest Country is 22.0. ",
+      "The Country Asia (excluding Japan) has the highest Revenue share, followed by , and Europe (excluding France). Down to the Country Japan which is the lowest. ",
+      "The Country Asia (excluding Japan) has 1.74 times more Revenue share than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Other markets",
+         "Revenue share": 11.0
+      },
+      {
+         "Country": "Asia (excluding Japan)",
+         "Revenue share": 29.0
+      },
+      {
+         "Country": "Japan",
+         "Revenue share": 7.0
+      },
+      {
+         "Country": "United States",
+         "Revenue share": 24.0
+      },
+      {
+         "Country": "Europe (excluding France)",
+         "Revenue share": 19.0
+      },
+      {
+         "Country": "France",
+         "Revenue share": 10.0
+      }
+   ]
+}

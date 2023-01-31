@@ -1,0 +1,115 @@
+{
+   "title": "Quarterly average daily rate of hotels in Barcelona 2010 to 2017",
+   "labels": [
+      "Quarter",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 4 different Quarters on X-axis for 8 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding Average daily rate in euros. ",
+      " All through the Quarters, the Average daily rate in euros for 2010 have lowered. On the other hand, for Quarter the Average daily rate in euros have risen. ",
+      " Quarter Q3 had the maximum Average daily rate in euros among all 8 groups, and it was for 2015. The minimum Average daily rate in euros was observed in Quarter Q4 for 2017. ",
+      " There is a gap of 14.0 between the highest and lowest Average daily rate in euros found for 2010 in Quarter Q2 and Q1. "
+   ],
+   "xAxis": "Quarter",
+   "yAxis": "Average daily rate in euros",
+   "min_summary": [
+      "This grouped bar chart represents 4 different Quarters on X-axis for 8 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding Average daily rate in euros. ",
+      " All through the Quarters, the Average daily rate in euros for 2010 have lowered. On the other hand, for Quarter the Average daily rate in euros have risen. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 4 different Quarters on X-axis for 8 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding Average daily rate in euros. ",
+      " All through the Quarters, the Average daily rate in euros for 2010 have lowered. On the other hand, for Quarter the Average daily rate in euros have risen. ",
+      " Quarter Q3 had the maximum Average daily rate in euros among all 8 groups, and it was for 2015. The minimum Average daily rate in euros was observed in Quarter Q4 for 2017. ",
+      " There is a gap of 14.0 between the highest and lowest Average daily rate in euros found for 2010 in Quarter Q2 and Q1. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Quarters on X-axis for 8 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding Average daily rate in euros. ",
+      " All through the Quarters, the Average daily rate in euros for 2010 have lowered. On the other hand, for Quarter the Average daily rate in euros have risen. ",
+      " Quarter Q3 had the maximum Average daily rate in euros among all 8 groups, and it was for 2015. The minimum Average daily rate in euros was observed in Quarter Q4 for 2017. ",
+      " Among all the Quarters, 2010 had the highest Average daily rate in euros 130.0 in Quarter Q2 and lowest value 116.0 in Quarter Q1. ",
+      " There is a gap of 14.0 between the highest and lowest Average daily rate in euros found for 2010 in Quarter Q2 and Q1. ",
+      " Out of all 8 groups, the highest gap between the maximum and minimum Average daily rate in euros was found in case of 2011. ",
+      " 2015 had the maximum Average daily rate in euros out of all 8 groups in Quarter Q3 followed by 2015 in Q3, and the minimum Average daily rate in euros is found for 2017 in Q4. ",
+      "On average, the Quarter Q1 had the highest Average daily rate in euros for all 8 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017. Whereas Q4 had the lowest average Average daily rate in euros. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "8",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "8",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4",
+         "2010": "120",
+         "2011": "136",
+         "2012": "150",
+         "2013": "125",
+         "2014": "144",
+         "2015": "169",
+         "2016": "175",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2010": "129",
+         "2011": "161",
+         "2012": "155",
+         "2013": "127",
+         "2014": "163",
+         "2015": "182",
+         "2016": "180",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q2",
+         "2010": "130",
+         "2011": "147",
+         "2012": "171",
+         "2013": "135",
+         "2014": "170",
+         "2015": "170",
+         "2016": "182",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q1",
+         "2010": "116",
+         "2011": "121",
+         "2012": "153",
+         "2013": "121",
+         "2014": "151",
+         "2015": "145",
+         "2016": "151",
+         "2017": "163"
+      }
+   ]
+}

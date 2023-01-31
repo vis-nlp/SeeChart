@@ -1,0 +1,113 @@
+{
+   "title": "Twitter : top mentioned hashtags of the Oscars 2017",
+   "labels": [
+      "Hashtags",
+      "Tweets",
+      "Retweets"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Number of mentions on the Y-axis for 10 different Hashtagss for 2 groups Tweets, and Retweets that are presented on the X-axis. ",
+      " Hashtags #Oscars had the maximum Number of mentions among all 2 groups, and it was for Retweets. The minimum Number of mentions was observed in Hashtags #WinnerIsDJT for Tweets. ",
+      " The maximum Number of mentions for Tweets that was found in Hashtags #Oscars was 928.57 times larger than the minimum Number of mentions observed in Hashtags #WinnerIsDJT. ",
+      "On average, the Hashtags #Oscars had the highest Number of mentions for all 2 groups Tweets, and Retweets. Whereas #OSCARS had the lowest average Number of mentions. "
+   ],
+   "xAxis": "Hashtags",
+   "yAxis": "Number of mentions",
+   "min_summary": [
+      "This grouped bar chart represents 10 different Hashtagss on X-axis for 2 groups Tweets, and Retweets. On the Y-axis it shows their corresponding Number of mentions. ",
+      " For Hashtags #Oscars, Retweets had the highest Number of mentions 1987739.0 among the 2 groups and in #WinnerIsDJT, Tweets had the lowest Number of mentions 855.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of mentions on the Y-axis for 10 different Hashtagss for 2 groups Tweets, and Retweets that are presented on the X-axis. ",
+      " Hashtags #Oscars had the maximum Number of mentions among all 2 groups, and it was for Retweets. The minimum Number of mentions was observed in Hashtags #WinnerIsDJT for Tweets. ",
+      " The maximum Number of mentions for Tweets that was found in Hashtags #Oscars was 928.57 times larger than the minimum Number of mentions observed in Hashtags #WinnerIsDJT. ",
+      "On average, the Hashtags #Oscars had the highest Number of mentions for all 2 groups Tweets, and Retweets. Whereas #OSCARS had the lowest average Number of mentions. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 10 different Hashtagss on X-axis for 2 groups Tweets, and Retweets. On the Y-axis it shows their corresponding Number of mentions. ",
+      " Out of all 2 groups, Retweets had the highest Number of mentions for Hashtags #Oscars and Tweets had the lowest Number of mentions for Hashtags #WinnerIsDJT. ",
+      " For Hashtags #Oscars, Tweets had the highest Number of mentions among all 10 Hashtagss and it has the lowest Number of mentions in Hashtags #WinnerIsDJT. ",
+      " There is a gap of 793070.0 between the highest and lowest Number of mentions found for Tweets in Hashtags #Oscars and #WinnerIsDJT. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Number of mentions was found in case of Tweets. ",
+      "On average, the Hashtags #Oscars had the highest Number of mentions for all 2 groups Tweets, and Retweets. Whereas #OSCARS had the lowest average Number of mentions. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Hashtags": "#Oscars",
+         "Tweets": "793925",
+         "Retweets": "1987739"
+      },
+      {
+         "Hashtags": "#oscars",
+         "Tweets": "74804",
+         "Retweets": "98341"
+      },
+      {
+         "Hashtags": "#Oscars2017",
+         "Tweets": "86770",
+         "Retweets": "85934"
+      },
+      {
+         "Hashtags": "#Moonlight",
+         "Tweets": "12728",
+         "Retweets": "39728"
+      },
+      {
+         "Hashtags": "#WinnerIsDJT",
+         "Tweets": "855",
+         "Retweets": "42518"
+      },
+      {
+         "Hashtags": "#Maga",
+         "Tweets": "1644",
+         "Retweets": "41202"
+      },
+      {
+         "Hashtags": "#TrumpWins4USA",
+         "Tweets": "887",
+         "Retweets": "38055"
+      },
+      {
+         "Hashtags": "#HiddenFigures",
+         "Tweets": "3550",
+         "Retweets": "30263"
+      },
+      {
+         "Hashtags": "#LaLaLand",
+         "Tweets": "10370",
+         "Retweets": "31284"
+      },
+      {
+         "Hashtags": "#OSCARS",
+         "Tweets": "6404",
+         "Retweets": "26829"
+      }
+   ]
+}

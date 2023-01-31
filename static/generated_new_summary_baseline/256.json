@@ -1,0 +1,86 @@
+{
+   "title": "Market share of the global luggage market 2015 , by company",
+   "xAxis": "Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Company in the x axis and Market share in the y axis. ",
+      "The Market share is highest at Company Samsonite International SA and lowest at Company Shanghai Taifeng Cases Co Ltd. ",
+      "The highest value at Company Samsonite International SA is 28.83x times more than the lowest value at Shanghai Taifeng Cases Co Ltd. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Company in the x axis and Market share in the y axis. ",
+      "The Market share is appeared to be the highest at Company Samsonite International SA and lowest at Company Shanghai Taifeng Cases Co Ltd. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Company in the x axis and Market share in the y axis. ",
+      "The Market share is highest at Company Samsonite International SA and lowest at Company Shanghai Taifeng Cases Co Ltd. ",
+      "The highest value at Company Samsonite International SA is 28.83x times more than the lowest value at Shanghai Taifeng Cases Co Ltd. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Company in the x axis and Market share in the y axis. ",
+      "The Market share is highest at Company Samsonite International SA and lowest at Company Shanghai Taifeng Cases Co Ltd. ",
+      "The second highest Market share is appeared to be the Company . ",
+      "The highest Company Samsonite International SA has 16.7 more Market share than the lowest Company Shanghai Taifeng Cases Co Ltd. ",
+      "Market share at Company Samsonite International SA is 17.3 , second place is  at 17.3, and thirdly is Delsey SA at 2.0.",
+      "Company VF Corp, and Tumi Holdings Inc have a similar Market share that is 1.3. ",
+      "Considered together, the average Market share in all 10 Companys is roughly 3.24. ",
+      "Summing up the values of all Companys, we get total 32.4. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Samsonite International SA",
+         "Market share": 17.3
+      },
+      {
+         "Company": "LVMH Mo\u00ebt Hennessy Louis Vuitton SA",
+         "Market share": 5.0
+      },
+      {
+         "Company": "Delsey SA",
+         "Market share": 2.0
+      },
+      {
+         "Company": "Rimowa GmbH",
+         "Market share": 1.8
+      },
+      {
+         "Company": "VF Corp",
+         "Market share": 1.3
+      },
+      {
+         "Company": "Tumi Holdings Inc",
+         "Market share": 1.3
+      },
+      {
+         "Company": "VIP Industries Ltd",
+         "Market share": 1.2
+      },
+      {
+         "Company": "Kering SA",
+         "Market share": 1.0
+      },
+      {
+         "Company": "Herm\u00e8s International SCA",
+         "Market share": 0.9
+      },
+      {
+         "Company": "Shanghai Taifeng Cases Co Ltd",
+         "Market share": 0.6
+      }
+   ]
+}

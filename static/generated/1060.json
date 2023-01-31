@@ -1,0 +1,771 @@
+{
+    "title": "Iris Species Data",
+    "xAxis": "Sepal length",
+    "yAxis": "Sepal width",
+    "columnType": "two",
+    "graphType": "scatter",
+    "class": "category",
+    "summaryType": "nlp",
+    "summary": [
+        "This chart shows the relationship between sepal width (y-axis) and sepal length (x-axis) for three species of Iris. ",
+        "Setosa, versicolor and virginica. "
+    ],
+    "trends": [],
+    "data": [
+        {
+            "category": "setosa",
+            "Sepal length": 5.1,
+            "Sepal width": 3.5
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.9,
+            "Sepal width": 3
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.7,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.6,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5,
+            "Sepal width": 3.6
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.4,
+            "Sepal width": 3.9
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.6,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.4,
+            "Sepal width": 2.9
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.9,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.4,
+            "Sepal width": 3.7
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.8,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.8,
+            "Sepal width": 3
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.3,
+            "Sepal width": 3
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.8,
+            "Sepal width": 4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.7,
+            "Sepal width": 4.4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.4,
+            "Sepal width": 3.9
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.1,
+            "Sepal width": 3.5
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.7,
+            "Sepal width": 3.8
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.1,
+            "Sepal width": 3.8
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.4,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.1,
+            "Sepal width": 3.7
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.6,
+            "Sepal width": 3.6
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.1,
+            "Sepal width": 3.3
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.8,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5,
+            "Sepal width": 3
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.2,
+            "Sepal width": 3.5
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.2,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.7,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.8,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.4,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.2,
+            "Sepal width": 4.1
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.5,
+            "Sepal width": 4.2
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.9,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.5,
+            "Sepal width": 3.5
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.9,
+            "Sepal width": 3.6
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.4,
+            "Sepal width": 3
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.1,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5,
+            "Sepal width": 3.5
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.5,
+            "Sepal width": 2.3
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.4,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5,
+            "Sepal width": 3.5
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.1,
+            "Sepal width": 3.8
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.8,
+            "Sepal width": 3
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.1,
+            "Sepal width": 3.8
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 4.6,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5.3,
+            "Sepal width": 3.7
+        },
+        {
+            "category": "setosa",
+            "Sepal length": 5,
+            "Sepal width": 3.3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 7,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.4,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.9,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.5,
+            "Sepal width": 2.3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.5,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.7,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.3,
+            "Sepal width": 3.3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 4.9,
+            "Sepal width": 2.4
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.6,
+            "Sepal width": 2.9
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.2,
+            "Sepal width": 2.7
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5,
+            "Sepal width": 2
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.9,
+            "Sepal width": 3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6,
+            "Sepal width": 2.2
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.1,
+            "Sepal width": 2.9
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.6,
+            "Sepal width": 2.9
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.7,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.6,
+            "Sepal width": 3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.8,
+            "Sepal width": 2.7
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.2,
+            "Sepal width": 2.2
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.6,
+            "Sepal width": 2.5
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.9,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.1,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.3,
+            "Sepal width": 2.5
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.1,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.4,
+            "Sepal width": 2.9
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.6,
+            "Sepal width": 3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.8,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.7,
+            "Sepal width": 3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6,
+            "Sepal width": 2.9
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.7,
+            "Sepal width": 2.6
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.5,
+            "Sepal width": 2.4
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.5,
+            "Sepal width": 2.4
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.8,
+            "Sepal width": 2.7
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6,
+            "Sepal width": 2.7
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.4,
+            "Sepal width": 3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.7,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.3,
+            "Sepal width": 2.3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.6,
+            "Sepal width": 3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.5,
+            "Sepal width": 2.5
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.5,
+            "Sepal width": 2.6
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.1,
+            "Sepal width": 3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.8,
+            "Sepal width": 2.6
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5,
+            "Sepal width": 2.3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.6,
+            "Sepal width": 2.7
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.7,
+            "Sepal width": 3
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.7,
+            "Sepal width": 2.9
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 6.2,
+            "Sepal width": 2.9
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.1,
+            "Sepal width": 2.5
+        },
+        {
+            "category": "versicolor",
+            "Sepal length": 5.7,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.3,
+            "Sepal width": 3.3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 5.8,
+            "Sepal width": 2.7
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.1,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.3,
+            "Sepal width": 2.9
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.5,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.6,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 4.9,
+            "Sepal width": 2.5
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.3,
+            "Sepal width": 2.9
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.7,
+            "Sepal width": 2.5
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.2,
+            "Sepal width": 3.6
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.5,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.4,
+            "Sepal width": 2.7
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.8,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 5.7,
+            "Sepal width": 2.5
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 5.8,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.4,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.5,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.7,
+            "Sepal width": 3.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.7,
+            "Sepal width": 2.6
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6,
+            "Sepal width": 2.2
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.9,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 5.6,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.7,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.3,
+            "Sepal width": 2.7
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.7,
+            "Sepal width": 3.3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.2,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.2,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.1,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.4,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.2,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.4,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.9,
+            "Sepal width": 3.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.4,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.3,
+            "Sepal width": 2.8
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.1,
+            "Sepal width": 2.6
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 7.7,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.3,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.4,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.9,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.7,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.9,
+            "Sepal width": 3.1
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 5.8,
+            "Sepal width": 2.7
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.8,
+            "Sepal width": 3.2
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.7,
+            "Sepal width": 3.3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.7,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.3,
+            "Sepal width": 2.5
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.5,
+            "Sepal width": 3
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 6.2,
+            "Sepal width": 3.4
+        },
+        {
+            "category": "virginica",
+            "Sepal length": 5.9,
+            "Sepal width": 3
+        }
+    ],
+    "gold": [
+        "This statistic shows the sum of the imports and exports of bauxite worldwide from 2005 to 2018. ",
+        "Total global bauxite exports increased from 24 million in 2005 to 55.97 million metric tons at the end of 2018. ",
+        "Total global imports of bauxite reached around 108.8 million metric tons at end of 2018 ."
+    ]
+}

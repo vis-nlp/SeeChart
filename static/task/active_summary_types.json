@@ -1,0 +1,10 @@
+{
+    "template": true,
+    "ml": false,
+    "human": true,
+    "brush": true,
+    "grp_a": false,
+    "grp_b": true,
+    "grp_c": false,
+    "grp_d": false
+}

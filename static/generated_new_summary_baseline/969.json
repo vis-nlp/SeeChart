@@ -1,0 +1,85 @@
+{
+   "title": "National debt of India 2024",
+   "xAxis": "Year",
+   "yAxis": "National debt in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes National debt in billion U.S. dollars. In total the number of data points it has is 11.",
+      " Overall National debt in billion U.S. dollars has increased over the Year.",
+      "National debt in billion U.S. dollars is slightly increasing from 2014 to 2024.",
+      "The most drastic increase took place within the Year 2023 and 2024.",
+      "The highest National debt in billion U.S. dollars, of value 3299.94 was reached at Year 2024",
+      "The lowest National debt in billion U.S. dollars, of value 1160.56 was reported at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes National debt in billion U.S. dollars. In total the number of data points it has is 11.",
+      " Overall National debt in billion U.S. dollars has increased over the Year.",
+      "National debt in billion U.S. dollars is slightly increasing from 2014 to 2024."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes National debt in billion U.S. dollars. In total the number of data points it has is 11.",
+      " Overall National debt in billion U.S. dollars has increased over the Year.",
+      "National debt in billion U.S. dollars is slightly increasing from 2014 to 2024.",
+      "The most drastic increase took place within the Year 2023 and 2024.",
+      "The highest National debt in billion U.S. dollars, of value 3299.94 was reached at Year 2024",
+      "The lowest National debt in billion U.S. dollars, of value 1160.56 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in billion U.S. dollars, containing a total of 11 data points.",
+      " Overall National debt in billion U.S. dollars has increased over the Year.",
+      "National debt in billion U.S. dollars is slightly increasing from 2014 to 2024.",
+      "The most drastic increase took place within the Year 2023 and 2024.",
+      "The highest National debt in billion U.S. dollars, of value 3299.94 was reached at Year 2024",
+      "The lowest National debt in billion U.S. dollars, of value 1160.56 was reported at Year 2014",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in billion U.S. dollars": 3299.94
+      },
+      {
+         "Year": "2023",
+         "National debt in billion U.S. dollars": 2984.05
+      },
+      {
+         "Year": "2022",
+         "National debt in billion U.S. dollars": 2701.91
+      },
+      {
+         "Year": "2021",
+         "National debt in billion U.S. dollars": 2449.0
+      },
+      {
+         "Year": "2020",
+         "National debt in billion U.S. dollars": 2219.37
+      },
+      {
+         "Year": "2019",
+         "National debt in billion U.S. dollars": 2009.81
+      },
+      {
+         "Year": "2018",
+         "National debt in billion U.S. dollars": 1801.98
+      },
+      {
+         "Year": "2017",
+         "National debt in billion U.S. dollars": 1615.18
+      },
+      {
+         "Year": "2016",
+         "National debt in billion U.S. dollars": 1448.03
+      },
+      {
+         "Year": "2015",
+         "National debt in billion U.S. dollars": 1319.32
+      },
+      {
+         "Year": "2014",
+         "National debt in billion U.S. dollars": 1160.56
+      }
+   ]
+}

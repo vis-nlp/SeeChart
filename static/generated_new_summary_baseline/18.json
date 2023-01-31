@@ -1,0 +1,192 @@
+{
+   "title": "U.S. construction : annual spending in public and private sectors 1998 to 2018",
+   "labels": [
+      "Year",
+      "Public sector",
+      "Private sector"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Public sector, and Private sector. The y axis indicates the Value in billion USD and the x axis indicates Year.",
+      "Overall Public sector, and Private sector are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Private sector, and lastly, 2. Public sector. ",
+      "Throughout the period, Private sector generally had the highest Value in billion USD relative to others with an average of 717.86, and it reached its maximum at '18 with a value of 992.0.",
+      "Public sector mostly had the least Value in billion USD with a mean value of 254.33, which peaked at '09 with a value of 315.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Value in billion USD",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Public sector, and Private sector. The y axis indicates the Value in billion USD and the x axis indicates Year.",
+      "Overall Public sector, and Private sector are roughly constant,  throughout the Year",
+      "Throughout the period, Private sector generally had the highest Value in billion USD relative to others with an average of 717.86, and it reached its maximum at '18 with a value of 992.0.",
+      "Public sector mostly had the least Value in billion USD with a mean value of 254.33, which peaked at '09 with a value of 315.0. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Public sector, and Private sector. The y axis indicates the Value in billion USD and the x axis indicates Year.",
+      "Overall Public sector, and Private sector are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Private sector, and lastly, 2. Public sector. ",
+      "Throughout the period, Private sector generally had the highest Value in billion USD relative to others with an average of 717.86, and it reached its maximum at '18 with a value of 992.0.",
+      "Public sector mostly had the least Value in billion USD with a mean value of 254.33, which peaked at '09 with a value of 315.0. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing Public sector, and Private sector. The y axis denotes Value in billion USD and the x axis denotes Year.",
+      "Overall Public sector, and Private sector are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Private sector, and lastly, 2. Public sector. ",
+      "Overall across the Year, Private sector mostly maintained the highest Value in billion USD when compared to others with a mean value of 717.86, and it peaked at '18.",
+      "Public sector mostly had the least Value in billion USD with a mean value of 254.33, which peaked at '09 with a value of 315.0. ",
+      "Public sector reported the lowest Value in billion USD about 155.0 in Year '98",
+      "The greatest difference of Value in billion USD between Public sector and Private sector occurs at Year '18 and the smallest difference occurs at '10."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "20",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "20",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "9",
+            "0"
+         ],
+         "10": [
+            "9",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "'18",
+         "Public sector": "302",
+         "Private sector": "992"
+      },
+      {
+         "Year": "'17",
+         "Public sector": "283",
+         "Private sector": "963"
+      },
+      {
+         "Year": "'16",
+         "Public sector": "292",
+         "Private sector": "899"
+      },
+      {
+         "Year": "'15",
+         "Public sector": "290",
+         "Private sector": "823"
+      },
+      {
+         "Year": "'14",
+         "Public sector": "276",
+         "Private sector": "730"
+      },
+      {
+         "Year": "'13",
+         "Public sector": "271",
+         "Private sector": "636"
+      },
+      {
+         "Year": "'12",
+         "Public sector": "279",
+         "Private sector": "571"
+      },
+      {
+         "Year": "'11",
+         "Public sector": "286",
+         "Private sector": "502"
+      },
+      {
+         "Year": "'10",
+         "Public sector": "304",
+         "Private sector": "505"
+      },
+      {
+         "Year": "'09",
+         "Public sector": "315",
+         "Private sector": "592"
+      },
+      {
+         "Year": "'08",
+         "Public sector": "309",
+         "Private sector": "769"
+      },
+      {
+         "Year": "'07",
+         "Public sector": "289",
+         "Private sector": "863"
+      },
+      {
+         "Year": "'06",
+         "Public sector": "255",
+         "Private sector": "912"
+      },
+      {
+         "Year": "'05",
+         "Public sector": "234",
+         "Private sector": "870"
+      },
+      {
+         "Year": "'04",
+         "Public sector": "220",
+         "Private sector": "771"
+      },
+      {
+         "Year": "'03",
+         "Public sector": "216",
+         "Private sector": "675"
+      },
+      {
+         "Year": "'02",
+         "Public sector": "213",
+         "Private sector": "634"
+      },
+      {
+         "Year": "'01",
+         "Public sector": "202",
+         "Private sector": "638"
+      },
+      {
+         "Year": "'00",
+         "Public sector": "181",
+         "Private sector": "621"
+      },
+      {
+         "Year": "'99",
+         "Public sector": "169",
+         "Private sector": "575"
+      },
+      {
+         "Year": "'98",
+         "Public sector": "155",
+         "Private sector": "534"
+      }
+   ]
+}

@@ -1,0 +1,86 @@
+{
+   "title": "Leading brands on Facebook from Indonesia 2017 , by number of fans",
+   "xAxis": "Month",
+   "yAxis": "Number of fans on Facebook in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Number of fans on Facebook in millions in the y axis. ",
+      "The maximum Number of fans on Facebook in millions 19.99 is found at Month Mario Teguh and the minimum is found at Liputan6 where Number of fans on Facebook in millions is 8.19. ",
+      "The highest Month Mario Teguh has 11.8 more Number of fans on Facebook in millions than the lowest Month Liputan6. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Number of fans on Facebook in millions in the y axis. ",
+      "The Number of fans on Facebook in millions is highest at Month Mario Teguh and lowest at Month Liputan6. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Number of fans on Facebook in millions in the y axis. ",
+      "The maximum Number of fans on Facebook in millions 19.99 is found at Month Mario Teguh and the minimum is found at Liputan6 where Number of fans on Facebook in millions is 8.19. ",
+      "The highest Month Mario Teguh has 11.8 more Number of fans on Facebook in millions than the lowest Month Liputan6. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Number of fans on Facebook in millions in each Month on the y axis. ",
+      "The maximum Number of fans on Facebook in millions 19.99 is found at Month Mario Teguh and the minimum is found at Liputan6 where Number of fans on Facebook in millions is 8.19. ",
+      "The second highest Number of fans on Facebook in millions is appeared to be the Month . ",
+      "There is a difference of 11.8 between the maximum Month Mario Teguh and minimum Month Liputan6. ",
+      "The Month Mario Teguh has the highest Number of fans on Facebook in millions, followed by , and Kompas.com. Down to the Month Liputan6 which is the lowest. ",
+      "Overall Number of fans on Facebook in millions has declined over the Months. ",
+      "The Month Liputan6 tends to be 1.88 percent lower than average. ",
+      "Summing up the values of all Months, we get total 106.49. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Mario Teguh",
+         "Number of fans on Facebook in millions": 19.99
+      },
+      {
+         "Month": "DRAWING PENCIL",
+         "Number of fans on Facebook in millions": 12.91
+      },
+      {
+         "Month": "Kompas.com",
+         "Number of fans on Facebook in millions": 11.05
+      },
+      {
+         "Month": "PERSIB Bandung",
+         "Number of fans on Facebook in millions": 9.63
+      },
+      {
+         "Month": "Prabowo Subianto",
+         "Number of fans on Facebook in millions": 9.62
+      },
+      {
+         "Month": "Kang Dedi Mulyadi",
+         "Number of fans on Facebook in millions": 9.14
+      },
+      {
+         "Month": "Facebook Indonesia",
+         "Number of fans on Facebook in millions": 9.03
+      },
+      {
+         "Month": "Iwan Fals",
+         "Number of fans on Facebook in millions": 8.51
+      },
+      {
+         "Month": "Tribunnews.com",
+         "Number of fans on Facebook in millions": 8.42
+      },
+      {
+         "Month": "Liputan6",
+         "Number of fans on Facebook in millions": 8.19
+      }
+   ]
+}

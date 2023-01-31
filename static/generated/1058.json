@@ -1,0 +1,33 @@
+{
+    "title": "Fruit Sales : The overall sales in 2014 for fruits",
+    "name": "Fruit",
+    "percent": "percentage",
+    "columnType": "two",
+    "graphType": "pie",
+    "summaryType": "nlp",
+    "summary": [
+        "The pie chart shows the overall sales in 2014 for fruits. ",
+        "Apples were sold the most, at 45 percent. ",
+        "The smallest sales were of bananas, at 20 percent. "
+    ],
+    "trends": [
+        {}
+    ],
+    "data": [
+        {
+            "Fruit": "Banana",
+            "percentage": 20
+        },
+        {
+            "Fruit": "Apple",
+            "percentage": 45
+        },
+        {
+            "Fruit": "Carrot",
+            "percentage": 35
+        }
+    ],
+    "gold": [
+        "This statistic shows the sales of certain friuts in 2014."
+    ]
+}

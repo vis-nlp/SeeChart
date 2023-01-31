@@ -1,0 +1,64 @@
+{
+   "title": "Number of Dollar Tree stores in Canada by province 2019",
+   "xAxis": "Province",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 columns on the x axis representing Province, and Number of stores in each Province on the y axis. ",
+      "The maximum Number of stores 110.0 is found at Province Ontario and the minimum is found at Manitoba where Number of stores is 13.0. ",
+      "The difference of Number of stores between the highest and lowest Province is 97.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Province in the x axis and Number of stores in the y axis. ",
+      "The Number of stores is highest at Province Ontario and lowest at Province Manitoba. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Province, and Number of stores in each Province on the y axis. ",
+      "The maximum Number of stores 110.0 is found at Province Ontario and the minimum is found at Manitoba where Number of stores is 13.0. ",
+      "The difference of Number of stores between the highest and lowest Province is 97.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Province, and Number of stores in each Province on the y axis. ",
+      "The maximum Number of stores 110.0 is found at Province Ontario and the minimum is found at Manitoba where Number of stores is 13.0. ",
+      "The difference of Number of stores between the highest and lowest Province is 97.0. ",
+      "Province Ontario is higher than any other Provinces with value 110.0, followed by , and Alberta. Down to Province Manitoba with the lowest value 13.0. ",
+      "The average Number of stores in all 5 Provinces is 45.0. ",
+      "Summing up the values of all Provinces, we get total 225.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Province": "Manitoba",
+         "Number of stores": 13.0
+      },
+      {
+         "Province": "Saskatchewan",
+         "Number of stores": 16.0
+      },
+      {
+         "Province": "Alberta",
+         "Number of stores": 37.0
+      },
+      {
+         "Province": "British Columbia",
+         "Number of stores": 49.0
+      },
+      {
+         "Province": "Ontario",
+         "Number of stores": 110.0
+      }
+   ]
+}

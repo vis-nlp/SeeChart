@@ -1,0 +1,124 @@
+{
+   "title": "Enrollment of postsecondary students in Canada , by age and gender 2017/18",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Male, and Female. The y axis denotes Number of students and the x axis denotes Year.",
+      "Overall Male, and Female are rapidly decreasing,  throughout the Year",
+      "Male, and Female has decreased by 99.61912238237495, and 99.82666369748 percent respectively.",
+      "The lines ordered according to average values of Number of students in descending order is: 1. Female, and lastly, 2. Male. ",
+      "Overall across the Year, Female mostly maintained the highest Number of students when compared to others with a mean value of 168751.29, and it peaked at 20_to_24_years.",
+      "Male mostly had the least Number of students with a mean value of 132632.57, which peaked at 20_to_24_years with a value of 412731.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of students",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing Male, and Female. The y axis denotes Number of students and the x axis denotes Year.",
+      "Overall Male, and Female are rapidly decreasing,  throughout the Year",
+      "Overall across the Year, Female mostly maintained the highest Number of students when compared to others with a mean value of 168751.29, and it peaked at 20_to_24_years.",
+      "Male mostly had the least Number of students with a mean value of 132632.57, which peaked at 20_to_24_years with a value of 412731.0. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing Male, and Female. The y axis denotes Number of students and the x axis denotes Year.",
+      "Overall Male, and Female are rapidly decreasing,  throughout the Year",
+      "Male, and Female has decreased by 99.61912238237495, and 99.82666369748 percent respectively.",
+      "The lines ordered according to average values of Number of students in descending order is: 1. Female, and lastly, 2. Male. ",
+      "Overall across the Year, Female mostly maintained the highest Number of students when compared to others with a mean value of 168751.29, and it peaked at 20_to_24_years.",
+      "Male mostly had the least Number of students with a mean value of 132632.57, which peaked at 20_to_24_years with a value of 412731.0. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Male, and Female. The y axis represents Number of students and the x axis represents Year.",
+      "Overall Male, and Female are rapidly decreasing,  throughout the Year",
+      "Male, and Female has decreased by 99.61912238237495, and 99.82666369748 percent respectively.",
+      "The lines ordered according to average values of Number of students in descending order is: 1. Female, and lastly, 2. Male. ",
+      "Throughout the period, Female generally had the highest Number of students relative to others with an average of 168751.29, and it reached its maximum at 20_to_24_years with a value of 498453.0.",
+      "Male mostly had the least Number of students with a mean value of 132632.57, which peaked at 20_to_24_years with a value of 412731.0. ",
+      "The greatest difference of Number of students between Male and Female occurs at Year 20_to_24_years and the smallest difference occurs at Not_reported."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "9": [
+            "1",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "10": [
+            "1",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Less than 20 years",
+         "Male": "227739",
+         "Female": "279924"
+      },
+      {
+         "Year": "20 to 24 years",
+         "Male": "412731",
+         "Female": "498453"
+      },
+      {
+         "Year": "25 to 29 years",
+         "Male": "134769",
+         "Female": "164106"
+      },
+      {
+         "Year": "30 to 34 years",
+         "Male": "58491",
+         "Female": "82065"
+      },
+      {
+         "Year": "35 to 39 years",
+         "Male": "35760",
+         "Female": "57324"
+      },
+      {
+         "Year": "40 years and over",
+         "Male": "57366",
+         "Female": "98523"
+      },
+      {
+         "Year": "Not reported",
+         "Male": "1572",
+         "Female": "864"
+      }
+   ]
+}

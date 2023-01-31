@@ -1,0 +1,81 @@
+{
+   "title": "Test",
+   "labels": [
+      "Year",
+      "Practitioners",
+      "Retail Pharmacies",
+      "Chain Pharmacies"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 6 categories of Year on the x axis representing 3 groups: Practitioners, Retail Pharmacies, and Chain Pharmacies.",
+      " Averaging these 3 groups, the highest category is found for Year 2011 with a mean value of 1270.0.",
+      " The lowest category is observed at 2008 that has a mean value of 1133.33",
+      " showing a difference of 11.4% with the maximum value.",
+      " In case of 2011, Practitioners shows more dominance than any other Year with a value 1200.0 and it has the lowest value 650.0 in 2008.  However, Retail Pharmacies is the second impactful group, and it has the highest value 1410.0 for Year 2010 and the lowest 1300.0 in case of 2011. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "5"
+         ],
+         "13": [
+            "3",
+            "5"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "3",
+            "4"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2006",
+         "Practitioners": "750",
+         "Retail Pharmacies": "1350",
+         "Chain Pharmacies": "1340"
+      },
+      {
+         "Year": "2007",
+         "Practitioners": "850",
+         "Retail Pharmacies": "1360",
+         "Chain Pharmacies": "1350"
+      },
+      {
+         "Year": "2008",
+         "Practitioners": "650",
+         "Retail Pharmacies": "1380",
+         "Chain Pharmacies": "1370"
+      },
+      {
+         "Year": "2009",
+         "Practitioners": "700",
+         "Retail Pharmacies": "1400",
+         "Chain Pharmacies": "1390"
+      },
+      {
+         "Year": "2010",
+         "Practitioners": "820",
+         "Retail Pharmacies": "1420",
+         "Chain Pharmacies": "1410"
+      },
+      {
+         "Year": "2011",
+         "Practitioners": "1200",
+         "Retail Pharmacies": "1310",
+         "Chain Pharmacies": "1300"
+      }
+   ]
+}

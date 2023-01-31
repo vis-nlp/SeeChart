@@ -1,0 +1,117 @@
+{
+   "title": "Unemployment rate in Northern Ireland ( UK ) 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 20 data points.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "The steepest increase occurs in between the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 7.5 was reported at Year 2013",
+      "Minimum Unemployment rate about 2.7 was reached at Year 2019"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 20 data points.",
+      " Overall Unemployment rate has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 20 data points.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "The steepest increase occurs in between the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 7.5 was reported at Year 2013",
+      "Minimum Unemployment rate about 2.7 was reached at Year 2019"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 20.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 7.5 was reported at Year 2013",
+      "Minimum Unemployment rate about 2.7 was reached at Year 2019",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 2.7
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 3.6
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 4.6
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 5.7
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 6.1
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 6.4
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 7.5
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 7.4
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 7.2
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 7.1
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 6.4
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 4.4
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 3.9
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 4.4
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 4.6
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 5.0
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 5.6
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 5.9
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 6.0
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 6.2
+      }
+   ]
+}

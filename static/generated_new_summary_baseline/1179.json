@@ -1,0 +1,85 @@
+{
+   "title": "Argentina : poverty headcount ratio at 3.20 U.S. dollars per day 2005 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 12 data points.",
+      " In general Percentage of population has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 2009 and 2010.",
+      "Maximum Percentage of population, about 10.0 was reported at Year 2005",
+      "Minimum Percentage of population about 2.0 was reached at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 12.",
+      " Overall Percentage of population has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 12 data points.",
+      " In general Percentage of population has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 2009 and 2010.",
+      "Maximum Percentage of population, about 10.0 was reported at Year 2005",
+      "Minimum Percentage of population about 2.0 was reached at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 12.",
+      " Overall Percentage of population has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2009 and 2010.",
+      "Maximum Percentage of population, about 10.0 was reported at Year 2005",
+      "Minimum Percentage of population about 2.0 was reached at Year 2017",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Percentage of population": 2.0
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": 2.4
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": 2.8
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": 2.4
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": 2.7
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": 2.6
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": 3.7
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": 6.0
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": 6.2
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": 6.9
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": 8.0
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": 10.0
+      }
+   ]
+}

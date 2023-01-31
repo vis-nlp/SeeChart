@@ -1,0 +1,85 @@
+{
+   "title": "Life expectancy of women in Mexico 2017",
+   "xAxis": "Year",
+   "yAxis": "Life expectancy at birth in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Life expectancy at birth in years, containing a total of 11 data points.",
+      " Overall Life expectancy at birth in years has decreased over the Year.",
+      "Life expectancy at birth in years is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2014, and finally roughly constant from 2014 to 2017.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Life expectancy at birth in years, of value 78.04 was reached at Year 2007",
+      "Minimum Life expectancy at birth in years about 77.83 was reached at Year 2016, and 2017"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Life expectancy at birth in years, containing a total of 11 data points.",
+      " In general Life expectancy at birth in years has stayed the same over the Year.",
+      "Life expectancy at birth in years is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2014, and finally roughly constant from 2014 to 2017."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Life expectancy at birth in years, containing a total of 11 data points.",
+      " Overall Life expectancy at birth in years has decreased over the Year.",
+      "Life expectancy at birth in years is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2014, and finally roughly constant from 2014 to 2017.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Life expectancy at birth in years, of value 78.04 was reached at Year 2007",
+      "Minimum Life expectancy at birth in years about 77.83 was reached at Year 2016, and 2017"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Life expectancy at birth in years, containing a total of 11 data points.",
+      " In general Life expectancy at birth in years has stayed the same over the Year.",
+      "Life expectancy at birth in years is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2014, and finally roughly constant from 2014 to 2017.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Life expectancy at birth in years, of value 78.04 was reached at Year 2007",
+      "Minimum Life expectancy at birth in years about 77.83 was reached at Year 2016, and 2017",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Life expectancy at birth in years": 77.83
+      },
+      {
+         "Year": "2016",
+         "Life expectancy at birth in years": 77.83
+      },
+      {
+         "Year": "2015",
+         "Life expectancy at birth in years": 77.84
+      },
+      {
+         "Year": "2014",
+         "Life expectancy at birth in years": 77.86
+      },
+      {
+         "Year": "2013",
+         "Life expectancy at birth in years": 77.89
+      },
+      {
+         "Year": "2012",
+         "Life expectancy at birth in years": 77.92
+      },
+      {
+         "Year": "2011",
+         "Life expectancy at birth in years": 77.95
+      },
+      {
+         "Year": "2010",
+         "Life expectancy at birth in years": 77.98
+      },
+      {
+         "Year": "2009",
+         "Life expectancy at birth in years": 78.0
+      },
+      {
+         "Year": "2008",
+         "Life expectancy at birth in years": 78.03
+      },
+      {
+         "Year": "2007",
+         "Life expectancy at birth in years": 78.04
+      }
+   ]
+}

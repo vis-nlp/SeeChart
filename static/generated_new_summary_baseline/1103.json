@@ -1,0 +1,139 @@
+{
+   "title": "Leading Croatian national team players at FIFA World Cup 2018 , by market value",
+   "xAxis": "Month",
+   "yAxis": "Market value in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 23 columns on the x axis representing Month, and Market value in million euros in each Month on the y axis. ",
+      "Month Ivan Rakitic has the highest Market value in million euros and Dominik Livakovic has the lowest Market value in million euros. ",
+      "The highest Month Ivan Rakitic has 48.5 more Market value in million euros than the lowest Month Dominik Livakovic. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Market value in million euros for 23 number of Months. ",
+      "The Market value in million euros is appeared to be the highest at Month Ivan Rakitic and lowest at Month Dominik Livakovic. "
+   ],
+   "mid_summary": [
+      "This bar chart has 23 columns on the x axis representing Month, and Market value in million euros in each Month on the y axis. ",
+      "Month Ivan Rakitic has the highest Market value in million euros and Dominik Livakovic has the lowest Market value in million euros. ",
+      "The highest Month Ivan Rakitic has 48.5 more Market value in million euros than the lowest Month Dominik Livakovic. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Market value in million euros in the y axis. ",
+      "Month Ivan Rakitic has the highest Market value in million euros and Dominik Livakovic has the lowest Market value in million euros. ",
+      "Month  has the second highest value for Market value in million euros. ",
+      "Month Ivan Rakitic has 33.33 times more Market value in million euros than Month Dominik Livakovic which is has the lowest. ",
+      "Market value in million euros at Month Ivan Rakitic is 50.0 , second place is  at 50.0, and thirdly is Mateo Kovacic at 30.0.",
+      "Over the past 23 Months, the Market value in million euros has declined. ",
+      "Month Andrej Kramaric, and Marcelo Brozovic share the same value 27.0. ",
+      "The Month Ivan Rakitic tends to be 3.16 percent higher than average. ",
+      "The Market value in million euros is 364.0 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 22,
+         "12": 22
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Ivan Rakitic",
+         "Market value in million euros": 50.0
+      },
+      {
+         "Month": "Ivan Perisic",
+         "Market value in million euros": 40.0
+      },
+      {
+         "Month": "Mateo Kovacic",
+         "Market value in million euros": 30.0
+      },
+      {
+         "Month": "Andrej Kramaric",
+         "Market value in million euros": 27.0
+      },
+      {
+         "Month": "Marcelo Brozovic",
+         "Market value in million euros": 27.0
+      },
+      {
+         "Month": "Luka Modric",
+         "Market value in million euros": 25.0
+      },
+      {
+         "Month": "Sime Vrsaljko",
+         "Market value in million euros": 25.0
+      },
+      {
+         "Month": "Dejan Lovren",
+         "Market value in million euros": 20.0
+      },
+      {
+         "Month": "Mario Mandzukic",
+         "Market value in million euros": 18.0
+      },
+      {
+         "Month": "Milan Badelj",
+         "Market value in million euros": 15.0
+      },
+      {
+         "Month": "Marko Pjaca",
+         "Market value in million euros": 15.0
+      },
+      {
+         "Month": "Nikola Kalinic",
+         "Market value in million euros": 14.0
+      },
+      {
+         "Month": "Ante Rebic",
+         "Market value in million euros": 10.0
+      },
+      {
+         "Month": "Duje Caleta\u2013Car",
+         "Market value in million euros": 10.0
+      },
+      {
+         "Month": "Domagoj Vida",
+         "Market value in million euros": 7.0
+      },
+      {
+         "Month": "Lovre Kalinic",
+         "Market value in million euros": 6.5
+      },
+      {
+         "Month": "Tin Jedvaj",
+         "Market value in million euros": 5.0
+      },
+      {
+         "Month": "Danijel Subasic",
+         "Market value in million euros": 4.5
+      },
+      {
+         "Month": "Vedran Corluka",
+         "Market value in million euros": 4.0
+      },
+      {
+         "Month": "Ivan Strinic",
+         "Market value in million euros": 4.0
+      },
+      {
+         "Month": "Filip Bradaric",
+         "Market value in million euros": 3.5
+      },
+      {
+         "Month": "Josip Pivaric",
+         "Market value in million euros": 2.0
+      },
+      {
+         "Month": "Dominik Livakovic",
+         "Market value in million euros": 1.5
+      }
+   ]
+}

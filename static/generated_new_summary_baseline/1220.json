@@ -1,0 +1,105 @@
+{
+   "title": "Capacity factor of nuclear power plants in the U.S. 1975 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Capacity factor",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Capacity factor, containing a total of 16 data points.",
+      " Overall Capacity factor has increased over the Year.",
+      "Capacity factor is roughly constant from 1975 to 1980, rapidly increasing from 1980 to 2000, roughly constant from 2000 to 2011, roughly increasing from 2011 to 2012, and finally roughly constant from 2012 to 2018.",
+      "The most drastic increase took place within the Year 1990 and 1995.",
+      "The highest Capacity factor, of value 92.6 was reached at Year 2018",
+      "The lowest Capacity factor, of value 55.9 was reported at Year 1975"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Capacity factor. In total the number of data points it has is 16.",
+      " In general Capacity factor has rose over the Year.",
+      "Capacity factor is roughly constant from 1975 to 1980, rapidly increasing from 1980 to 2000, roughly constant from 2000 to 2011, roughly increasing from 2011 to 2012, and finally roughly constant from 2012 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Capacity factor, containing a total of 16 data points.",
+      " Overall Capacity factor has increased over the Year.",
+      "Capacity factor is roughly constant from 1975 to 1980, rapidly increasing from 1980 to 2000, roughly constant from 2000 to 2011, roughly increasing from 2011 to 2012, and finally roughly constant from 2012 to 2018.",
+      "The most drastic increase took place within the Year 1990 and 1995.",
+      "The highest Capacity factor, of value 92.6 was reached at Year 2018",
+      "The lowest Capacity factor, of value 55.9 was reported at Year 1975"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Capacity factor. In total the number of data points it has is 16.",
+      " Overall Capacity factor has increased over the Year.",
+      "Capacity factor is roughly constant from 1975 to 1980, rapidly increasing from 1980 to 2000, roughly constant from 2000 to 2011, roughly increasing from 2011 to 2012, and finally roughly constant from 2012 to 2018.",
+      "The steepest increase occurs in between the Year 1990 and 1995.",
+      "The highest Capacity factor, of value 92.6 was reached at Year 2018",
+      "The lowest Capacity factor, of value 55.9 was reported at Year 1975",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Capacity factor": 92.6
+      },
+      {
+         "Year": "2017",
+         "Capacity factor": 92.3
+      },
+      {
+         "Year": "2016",
+         "Capacity factor": 92.3
+      },
+      {
+         "Year": "2015",
+         "Capacity factor": 92.3
+      },
+      {
+         "Year": "2014",
+         "Capacity factor": 91.7
+      },
+      {
+         "Year": "2013",
+         "Capacity factor": 89.9
+      },
+      {
+         "Year": "2012",
+         "Capacity factor": 86.1
+      },
+      {
+         "Year": "2011",
+         "Capacity factor": 89.1
+      },
+      {
+         "Year": "2010",
+         "Capacity factor": 91.1
+      },
+      {
+         "Year": "2005",
+         "Capacity factor": 89.3
+      },
+      {
+         "Year": "2000",
+         "Capacity factor": 88.1
+      },
+      {
+         "Year": "1995",
+         "Capacity factor": 77.4
+      },
+      {
+         "Year": "1990",
+         "Capacity factor": 66.0
+      },
+      {
+         "Year": "1985",
+         "Capacity factor": 58.0
+      },
+      {
+         "Year": "1980",
+         "Capacity factor": 56.3
+      },
+      {
+         "Year": "1975",
+         "Capacity factor": 55.9
+      }
+   ]
+}

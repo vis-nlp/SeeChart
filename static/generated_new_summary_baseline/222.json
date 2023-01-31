@@ -1,0 +1,117 @@
+{
+   "title": "Total U.S. hay production 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in thousand tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in thousand tons. In total the number of data points it has is 20.",
+      " Overall Production in thousand tons has decreased over the Year.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "The highest Production in thousand tons, of value 158122.0 was reached at Year 2004",
+      "The lowest Production in thousand tons, of value 117072.0 was reported at Year 2012"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in thousand tons. In total the number of data points it has is 20.",
+      " Overall Production in thousand tons has decreased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in thousand tons. In total the number of data points it has is 20.",
+      " Overall Production in thousand tons has decreased over the Year.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "The highest Production in thousand tons, of value 158122.0 was reached at Year 2004",
+      "The lowest Production in thousand tons, of value 117072.0 was reported at Year 2012"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand tons, containing a total of 20 data points.",
+      " In general Production in thousand tons has fallen over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Production in thousand tons, of value 158122.0 was reached at Year 2004",
+      "The lowest Production in thousand tons, of value 117072.0 was reported at Year 2012",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2000",
+         "Production in thousand tons": 153603.0
+      },
+      {
+         "Year": "2001",
+         "Production in thousand tons": 156416.0
+      },
+      {
+         "Year": "2002",
+         "Production in thousand tons": 149467.0
+      },
+      {
+         "Year": "2003",
+         "Production in thousand tons": 157390.0
+      },
+      {
+         "Year": "2004",
+         "Production in thousand tons": 158122.0
+      },
+      {
+         "Year": "2005",
+         "Production in thousand tons": 150461.0
+      },
+      {
+         "Year": "2006",
+         "Production in thousand tons": 140783.0
+      },
+      {
+         "Year": "2007",
+         "Production in thousand tons": 146901.0
+      },
+      {
+         "Year": "2008",
+         "Production in thousand tons": 146270.0
+      },
+      {
+         "Year": "2009",
+         "Production in thousand tons": 147700.0
+      },
+      {
+         "Year": "2010",
+         "Production in thousand tons": 145000.0
+      },
+      {
+         "Year": "2011",
+         "Production in thousand tons": 129880.0
+      },
+      {
+         "Year": "2012",
+         "Production in thousand tons": 117072.0
+      },
+      {
+         "Year": "2013",
+         "Production in thousand tons": 135002.0
+      },
+      {
+         "Year": "2014",
+         "Production in thousand tons": 139923.0
+      },
+      {
+         "Year": "2015",
+         "Production in thousand tons": 134502.0
+      },
+      {
+         "Year": "2016",
+         "Production in thousand tons": 134995.0
+      },
+      {
+         "Year": "2017",
+         "Production in thousand tons": 131455.0
+      },
+      {
+         "Year": "2018",
+         "Production in thousand tons": 123600.0
+      },
+      {
+         "Year": "2019",
+         "Production in thousand tons": 128864.0
+      }
+   ]
+}

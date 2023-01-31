@@ -1,0 +1,166 @@
+{
+   "title": "National Basketball Association all-time rebounding leaders 1946 to 2020",
+   "xAxis": "NBA player",
+   "yAxis": "Number of rebounds",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 30 columns on the x axis representing NBA player, and Number of rebounds in each NBA player on the y axis. ",
+      "The maximum Number of rebounds 23924.0 is found at NBA player Wilt Chamberlain and the minimum is found at Bill Bridges where Number of rebounds is 11054.0. ",
+      "The highest NBA player Wilt Chamberlain has 12870.0 more Number of rebounds than the lowest NBA player Bill Bridges. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing NBA player in the x axis and Number of rebounds in the y axis. ",
+      "The Number of rebounds is highest at NBA player Wilt Chamberlain and lowest at NBA player Bill Bridges. "
+   ],
+   "mid_summary": [
+      "This bar chart has 30 columns on the x axis representing NBA player, and Number of rebounds in each NBA player on the y axis. ",
+      "The maximum Number of rebounds 23924.0 is found at NBA player Wilt Chamberlain and the minimum is found at Bill Bridges where Number of rebounds is 11054.0. ",
+      "The highest NBA player Wilt Chamberlain has 12870.0 more Number of rebounds than the lowest NBA player Bill Bridges. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of rebounds for 30 number of NBA players. ",
+      "The Number of rebounds is appeared to be the highest at NBA player Wilt Chamberlain and lowest at NBA player Bill Bridges. ",
+      "The second highest Number of rebounds is appeared to be the NBA player . ",
+      "The highest NBA player Wilt Chamberlain has 12870.0 more Number of rebounds than the lowest NBA player Bill Bridges. ",
+      "The NBA player Wilt Chamberlain has the highest Number of rebounds, followed by , and Kareem Abdul-Jabbar. Down to the NBA player Bill Bridges which is the lowest. ",
+      "NBA player Charles Barkley, and Charles Oakley have a similar Number of rebounds that is 12546.0. ",
+      "The NBA player Wilt Chamberlain tends to be 1.72 percent higher than average. ",
+      "The Number of rebounds is 418464.0 if we add up values of all NBA players. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 29,
+         "12": 29
+      },
+      {}
+   ],
+   "data": [
+      {
+         "NBA player": "Wilt Chamberlain",
+         "Number of rebounds": 23924.0
+      },
+      {
+         "NBA player": "Bill Russell",
+         "Number of rebounds": 21620.0
+      },
+      {
+         "NBA player": "Kareem Abdul-Jabbar",
+         "Number of rebounds": 17440.0
+      },
+      {
+         "NBA player": "Elvin Hayes",
+         "Number of rebounds": 16279.0
+      },
+      {
+         "NBA player": "Moses Malone",
+         "Number of rebounds": 16212.0
+      },
+      {
+         "NBA player": "Tim Duncan",
+         "Number of rebounds": 15091.0
+      },
+      {
+         "NBA player": "Karl Malone",
+         "Number of rebounds": 14968.0
+      },
+      {
+         "NBA player": "Robert Parish",
+         "Number of rebounds": 14715.0
+      },
+      {
+         "NBA player": "Kevin Garnett",
+         "Number of rebounds": 14662.0
+      },
+      {
+         "NBA player": "Nate Thurmond",
+         "Number of rebounds": 14464.0
+      },
+      {
+         "NBA player": "Walt Bellamy",
+         "Number of rebounds": 14241.0
+      },
+      {
+         "NBA player": "Wes Unseld",
+         "Number of rebounds": 13769.0
+      },
+      {
+         "NBA player": "Hakeem Olajuwon",
+         "Number of rebounds": 13748.0
+      },
+      {
+         "NBA player": "Dwight Howard",
+         "Number of rebounds": 13587.0
+      },
+      {
+         "NBA player": "Shaquille O'Neal",
+         "Number of rebounds": 13099.0
+      },
+      {
+         "NBA player": "Buck Williams",
+         "Number of rebounds": 13017.0
+      },
+      {
+         "NBA player": "Jerry Lucas",
+         "Number of rebounds": 12942.0
+      },
+      {
+         "NBA player": "Bob Petit",
+         "Number of rebounds": 12849.0
+      },
+      {
+         "NBA player": "Charles Barkley",
+         "Number of rebounds": 12546.0
+      },
+      {
+         "NBA player": "Dikembe Mutombo",
+         "Number of rebounds": 12359.0
+      },
+      {
+         "NBA player": "Paul Silas",
+         "Number of rebounds": 12357.0
+      },
+      {
+         "NBA player": "Charles Oakley",
+         "Number of rebounds": 12546.0
+      },
+      {
+         "NBA player": "Dennis Rodman",
+         "Number of rebounds": 11954.0
+      },
+      {
+         "NBA player": "Kevin Willis",
+         "Number of rebounds": 11901.0
+      },
+      {
+         "NBA player": "Patrick Ewing",
+         "Number of rebounds": 11607.0
+      },
+      {
+         "NBA player": "Dirk Nowitzki",
+         "Number of rebounds": 11489.0
+      },
+      {
+         "NBA player": "Elgin Baylor",
+         "Number of rebounds": 11463.0
+      },
+      {
+         "NBA player": "Pau Gasol",
+         "Number of rebounds": 11305.0
+      },
+      {
+         "NBA player": "Dolph Schayes",
+         "Number of rebounds": 11256.0
+      },
+      {
+         "NBA player": "Bill Bridges",
+         "Number of rebounds": 11054.0
+      }
+   ]
+}

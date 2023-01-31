@@ -1,0 +1,186 @@
+{
+   "title": "Full-time weekly hours of work , by gender 2000 - 2019 | UK Statistic",
+   "labels": [
+      "Year",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Average weekly hours and the x axis denotes Year.",
+      "Overall Men, and Women are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Average weekly hours in descending order is: 1. Men, and lastly, 2. Women. ",
+      "Throughout the period, Men generally had the highest Average weekly hours relative to others with an average of 39.18, and it reached its maximum at 2000 with a value of 39.8.",
+      "Women mostly had the least Average weekly hours with a mean value of 34.07, which peaked at 2014, and 2019 with a value of 34.5. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Average weekly hours",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the Average weekly hours and the x axis indicates Year.",
+      "Overall Men, and Women are roughly constant,  throughout the Year",
+      "Overall across the Year, Men mostly maintained the highest Average weekly hours when compared to others with a mean value of 39.18, and it peaked at 2000.",
+      "The botommost line, Women,  has a mean of 34.07, and peaked at 2014, and 2019. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Average weekly hours and the x axis denotes Year.",
+      "Overall Men, and Women are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Average weekly hours in descending order is: 1. Men, and lastly, 2. Women. ",
+      "Throughout the period, Men generally had the highest Average weekly hours relative to others with an average of 39.18, and it reached its maximum at 2000 with a value of 39.8.",
+      "Women mostly had the least Average weekly hours with a mean value of 34.07, which peaked at 2014, and 2019 with a value of 34.5. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Average weekly hours and the x axis denotes Year.",
+      "Overall Men, and Women are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Men, and lastly, 2. Women. ",
+      "Throughout the period, Men generally had the highest Average weekly hours relative to others with an average of 39.18, and it reached its maximum at 2000 with a value of 39.8.",
+      "The botommost line, Women,  has a mean of 34.07, and peaked at 2014, and 2019. ",
+      "The greatest difference of Average weekly hours between Men and Women occurs at Year 2000 and the smallest difference occurs at 2019."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "19",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "19",
+            "0"
+         ],
+         "9": [
+            "19",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "19",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Men": "39.0",
+         "Women": "34.5"
+      },
+      {
+         "Year": "2018",
+         "Men": "39.0",
+         "Women": "34.1"
+      },
+      {
+         "Year": "2017",
+         "Men": "39.3",
+         "Women": "34.2"
+      },
+      {
+         "Year": "2016",
+         "Men": "39.3",
+         "Women": "34.3"
+      },
+      {
+         "Year": "2015",
+         "Men": "39.3",
+         "Women": "34.2"
+      },
+      {
+         "Year": "2014",
+         "Men": "39.4",
+         "Women": "34.5"
+      },
+      {
+         "Year": "2013",
+         "Men": "39.5",
+         "Women": "34.2"
+      },
+      {
+         "Year": "2012",
+         "Men": "39.3",
+         "Women": "34.0"
+      },
+      {
+         "Year": "2011",
+         "Men": "39.0",
+         "Women": "33.7"
+      },
+      {
+         "Year": "2010",
+         "Men": "39.0",
+         "Women": "33.8"
+      },
+      {
+         "Year": "2009",
+         "Men": "38.5",
+         "Women": "33.7"
+      },
+      {
+         "Year": "2008",
+         "Men": "38.9",
+         "Women": "33.8"
+      },
+      {
+         "Year": "2007",
+         "Men": "39.0",
+         "Women": "33.9"
+      },
+      {
+         "Year": "2006",
+         "Men": "38.9",
+         "Women": "34.0"
+      },
+      {
+         "Year": "2005",
+         "Men": "39.1",
+         "Women": "34.0"
+      },
+      {
+         "Year": "2004",
+         "Men": "39.2",
+         "Women": "33.9"
+      },
+      {
+         "Year": "2003",
+         "Men": "39.2",
+         "Women": "34.0"
+      },
+      {
+         "Year": "2002",
+         "Men": "39.3",
+         "Women": "34.1"
+      },
+      {
+         "Year": "2001",
+         "Men": "39.7",
+         "Women": "34.3"
+      },
+      {
+         "Year": "2000",
+         "Men": "39.8",
+         "Women": "34.2"
+      }
+   ]
+}

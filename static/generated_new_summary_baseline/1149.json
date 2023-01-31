@@ -1,0 +1,61 @@
+{
+   "title": "Population of the Netherlands 2019 , by age",
+   "xAxis": "Year",
+   "yAxis": "Number of inhabitants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of inhabitants. In total the number of data points it has is 5.",
+      " Overall Number of inhabitants has decreased over the Year.",
+      "Number of inhabitants is roughly constant from 0_-_20_years to 20_-_40_years, and lastly slightly decreasing from 20_-_40_years to 80_years_and_older.",
+      "The most drastic decrease took place within the Year 40_-_65_years and 65_-_80_years.",
+      "Maximum Number of inhabitants, about 5866334.0 was reported at Year 40_-_65_years",
+      "Minimum Number of inhabitants about 798820.0 was reached at Year 80_years_and_older"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of inhabitants, containing a total of 5 data points.",
+      " Overall Number of inhabitants has decreased over the Year.",
+      "Number of inhabitants is roughly constant from 0_-_20_years to 20_-_40_years, and lastly slightly decreasing from 20_-_40_years to 80_years_and_older."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of inhabitants. In total the number of data points it has is 5.",
+      " Overall Number of inhabitants has decreased over the Year.",
+      "Number of inhabitants is roughly constant from 0_-_20_years to 20_-_40_years, and lastly slightly decreasing from 20_-_40_years to 80_years_and_older.",
+      "The most drastic decrease took place within the Year 40_-_65_years and 65_-_80_years.",
+      "Maximum Number of inhabitants, about 5866334.0 was reported at Year 40_-_65_years",
+      "Minimum Number of inhabitants about 798820.0 was reached at Year 80_years_and_older"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of inhabitants, containing a total of 5 data points.",
+      " Overall Number of inhabitants has decreased over the Year.",
+      "Number of inhabitants is roughly constant from 0_-_20_years to 20_-_40_years, and lastly slightly decreasing from 20_-_40_years to 80_years_and_older.",
+      "The most drastic decrease took place within the Year 40_-_65_years and 65_-_80_years.",
+      "Maximum Number of inhabitants, about 5866334.0 was reported at Year 40_-_65_years",
+      "Minimum Number of inhabitants about 798820.0 was reached at Year 80_years_and_older",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "0 - 20 years",
+         "Number of inhabitants": 3791838.0
+      },
+      {
+         "Year": "20 - 40 years",
+         "Number of inhabitants": 4309987.0
+      },
+      {
+         "Year": "40 - 65 years",
+         "Number of inhabitants": 5866334.0
+      },
+      {
+         "Year": "65 - 80 years",
+         "Number of inhabitants": 2515184.0
+      },
+      {
+         "Year": "80 years and older",
+         "Number of inhabitants": 798820.0
+      }
+   ]
+}

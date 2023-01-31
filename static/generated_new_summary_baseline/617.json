@@ -1,0 +1,57 @@
+{
+   "title": "U.S. automobile registrations 1999 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of passenger cars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of passenger cars. In total the number of data points it has is 4.",
+      " In general Number of passenger cars has fallen over the Year.",
+      "Number of passenger cars is slightly decreasing from 1999 to 2017.",
+      "The most drastic decrease took place within the Year 2011 and 2017.",
+      "The highest Number of passenger cars, of value 136568083.0 was reached at Year 2005",
+      "The lowest Number of passenger cars, of value 111177029.0 was reported at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of passenger cars. In total the number of data points it has is 4.",
+      " Overall Number of passenger cars has decreased over the Year.",
+      "Number of passenger cars is slightly decreasing from 1999 to 2017."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of passenger cars. In total the number of data points it has is 4.",
+      " In general Number of passenger cars has fallen over the Year.",
+      "Number of passenger cars is slightly decreasing from 1999 to 2017.",
+      "The most drastic decrease took place within the Year 2011 and 2017.",
+      "The highest Number of passenger cars, of value 136568083.0 was reached at Year 2005",
+      "The lowest Number of passenger cars, of value 111177029.0 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of passenger cars, containing a total of 4 data points.",
+      " In general Number of passenger cars has fallen over the Year.",
+      "Number of passenger cars is slightly decreasing from 1999 to 2017.",
+      "The steepest decrease occurs in between the Year 2011 and 2017.",
+      "The highest Number of passenger cars, of value 136568083.0 was reached at Year 2005",
+      "The lowest Number of passenger cars, of value 111177029.0 was reported at Year 2017",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of passenger cars": 111177029.0
+      },
+      {
+         "Year": "2011",
+         "Number of passenger cars": 126966714.0
+      },
+      {
+         "Year": "2005",
+         "Number of passenger cars": 136568083.0
+      },
+      {
+         "Year": "1999",
+         "Number of passenger cars": 127083019.0
+      }
+   ]
+}

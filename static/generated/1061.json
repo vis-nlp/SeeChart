@@ -1,0 +1,136 @@
+{
+    "title": "Breakfast Cereal Dataset",
+    "xAxis": "Calories",
+    "yAxis": "Protein (g)",
+    "columnType": "two",
+    "graphType": "scatter",
+    "class": "Manufacturer",
+    "summaryType": "nlp",
+    "summary": [
+        "The statistic shows the the Breakfast Cereal Dataset. ",
+        "It shows different Cereals of different Manufacturers and their composition. ."
+    ],
+    "trends": [],
+    "data": [
+        {
+            "Manufacturer": "Nabisco",
+            "Calories": 50,
+            "Protein (g)": 1
+        },
+        {
+            "Manufacturer": "Quaker Oats",
+            "Calories": 115,
+            "Protein (g)": 2.5
+        },
+        {
+            "Manufacturer": "Kelloggs",
+            "Calories": 75,
+            "Protein (g)": 3
+        },
+        {
+            "Manufacturer": "Kelloggs",
+            "Calories": 63,
+            "Protein (g)": 4
+        },
+        {
+            "Manufacturer": "Ralston Purina",
+            "Calories": 160,
+            "Protein (g)": 5
+        },
+        {
+            "Manufacturer": "General Mills",
+            "Calories": 130,
+            "Protein (g)": 6
+        },
+        {
+            "Manufacturer": "Kelloggs",
+            "Calories": 89,
+            "Protein (g)": 7
+        },
+        {
+            "Manufacturer": "General Mills",
+            "Calories": 70,
+            "Protein (g)": 1
+        },
+        {
+            "Manufacturer": "Ralston Purina",
+            "Calories": 140,
+            "Protein (g)": 2
+        },
+        {
+            "Manufacturer": "Post",
+            "Calories": 135,
+            "Protein (g)": 3
+        },
+        {
+            "Manufacturer": "Quaker Oats",
+            "Calories": 85,
+            "Protein (g)": 4
+        },
+        {
+            "Manufacturer": "General Mills",
+            "Calories": 80,
+            "Protein (g)": 6
+        },
+        {
+            "Manufacturer": "General Mills",
+            "Calories": 127,
+            "Protein (g)": 5
+        },
+        {
+            "Manufacturer": "General Mills",
+            "Calories": 140,
+            "Protein (g)": 7
+        },
+        {
+            "Manufacturer": "General Mills",
+            "Calories": 145,
+            "Protein (g)": 1
+        },
+        {
+            "Manufacturer": "Ralston Purina",
+            "Calories": 90,
+            "Protein (g)": 2
+        },
+        {
+            "Manufacturer": "Kelloggs",
+            "Calories": 111,
+            "Protein (g)": 1
+        },
+        {
+            "Manufacturer": "Kelloggs",
+            "Calories": 63,
+            "Protein (g)": 3
+        },
+        {
+            "Manufacturer": "General Mills",
+            "Calories": 57,
+            "Protein (g)": 4
+        },
+        {
+            "Manufacturer": "Kelloggs",
+            "Calories": 82,
+            "Protein (g)": 5
+        },
+        {
+            "Manufacturer": "Nabisco",
+            "Calories": 72,
+            "Protein (g)": 6
+        },
+        {
+            "Manufacturer": "Kelloggs",
+            "Calories": 132,
+            "Protein (g)": 7
+        },
+        {
+            "Manufacturer": "General Mills",
+            "Calories": 142,
+            "Protein (g)": 5
+        }
+    ],
+    "gold": [
+        "This statistic shows the sum of the imports and exports of bauxite worldwide from 2005 to 2018. ",
+        "Total global bauxite exports increased from 24 million in 2005 to 55.97 million metric tons at the end of 2018. ",
+        "Total global imports of bauxite reached around 108.8 million metric tons at end of 2018 ."
+    ]
+}

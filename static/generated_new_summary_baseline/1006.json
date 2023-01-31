@@ -1,0 +1,55 @@
+{
+   "title": "Public opinions on gay marriage in Italy 2016",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 52.0 is found at Response Against and the minimum is found at I don\u00b4t know where Share of respondents is 8.0. ",
+      "There is a difference of 44.0 between the maximum Response Against and minimum Response I don\u00b4t know. "
+   ],
+   "min_summary": [
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Against and lowest at Response I don\u00b4t know. "
+   ],
+   "mid_summary": [
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 52.0 is found at Response Against and the minimum is found at I don\u00b4t know where Share of respondents is 8.0. ",
+      "There is a difference of 44.0 between the maximum Response Against and minimum Response I don\u00b4t know. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 3 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Against and lowest at Response I don\u00b4t know. ",
+      "Second maximum Share of respondents is found at Response . ",
+      "The highest Response Against has 44.0 more Share of respondents than the lowest Response I don\u00b4t know. ",
+      "The Response Against tends to be 1.56 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "I don\u00b4t know",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "In favor",
+         "Share of respondents": 40.0
+      },
+      {
+         "Response": "Against",
+         "Share of respondents": 52.0
+      }
+   ]
+}

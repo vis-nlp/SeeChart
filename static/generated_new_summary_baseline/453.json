@@ -1,0 +1,84 @@
+{
+   "title": "Leading IPOs in the U.S. 2019",
+   "xAxis": "Company (Offer date)",
+   "yAxis": "Deal size in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Company (Offer date), and Deal size in million U.S. dollars in each Company (Offer date) on the y axis. ",
+      "The Deal size in million U.S. dollars is appeared to be the highest at Company (Offer date) Uber Technologies (May 9) and lowest at Company (Offer date) DouYu International Holdings (Jul 16). ",
+      "The highest Company (Offer date) Uber Technologies (May 9) has 7325.0 more Deal size in million U.S. dollars than the lowest Company (Offer date) DouYu International Holdings (Jul 16). "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Company (Offer date), and Deal size in million U.S. dollars in each Company (Offer date) on the y axis. ",
+      "The Deal size in million U.S. dollars is highest at Company (Offer date) Uber Technologies (May 9) and lowest at Company (Offer date) DouYu International Holdings (Jul 16). "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Company (Offer date), and Deal size in million U.S. dollars in each Company (Offer date) on the y axis. ",
+      "The Deal size in million U.S. dollars is appeared to be the highest at Company (Offer date) Uber Technologies (May 9) and lowest at Company (Offer date) DouYu International Holdings (Jul 16). ",
+      "The highest Company (Offer date) Uber Technologies (May 9) has 7325.0 more Deal size in million U.S. dollars than the lowest Company (Offer date) DouYu International Holdings (Jul 16). "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Deal size in million U.S. dollars for 10 number of Company (Offer date)s. ",
+      "The maximum Deal size in million U.S. dollars 8100.0 is found at Company (Offer date) Uber Technologies (May 9) and the minimum is found at DouYu International Holdings (Jul 16) where Deal size in million U.S. dollars is 775.0. ",
+      "Second maximum Deal size in million U.S. dollars is found at Company (Offer date) . ",
+      "There is a difference of 7325.0 between the maximum Company (Offer date) Uber Technologies (May 9) and minimum Company (Offer date) DouYu International Holdings (Jul 16). ",
+      "Deal size in million U.S. dollars at Company (Offer date) Uber Technologies (May 9) is 8100.0 , second place is  at 8100.0, and thirdly is Lyft (Mar 28) at 2340.0.",
+      "The lowest value 775.0 at DouYu International Holdings (Jul 16) is almost 3.66 times smaller than the average value 2210.5. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company (Offer date)": "Uber Technologies (May 9)",
+         "Deal size in million U.S. dollars": 8100.0
+      },
+      {
+         "Company (Offer date)": "Avantor (May 16)",
+         "Deal size in million U.S. dollars": 2898.0
+      },
+      {
+         "Company (Offer date)": "Lyft (Mar 28)",
+         "Deal size in million U.S. dollars": 2340.0
+      },
+      {
+         "Company (Offer date)": "XP (Dec 10)",
+         "Deal size in million U.S. dollars": 1958.0
+      },
+      {
+         "Company (Offer date)": "Pinterest (Apr 17)",
+         "Deal size in million U.S. dollars": 1425.0
+      },
+      {
+         "Company (Offer date)": "SmileDirectClub (Sep 11)",
+         "Deal size in million U.S. dollars": 1346.0
+      },
+      {
+         "Company (Offer date)": "Peloton Interactive (Sep 25)",
+         "Deal size in million U.S. dollars": 1160.0
+      },
+      {
+         "Company (Offer date)": "Tradeweb Markets (Apr 3)",
+         "Deal size in million U.S. dollars": 1080.0
+      },
+      {
+         "Company (Offer date)": "Chewy (Jun 13)",
+         "Deal size in million U.S. dollars": 1023.0
+      },
+      {
+         "Company (Offer date)": "DouYu International Holdings (Jul 16)",
+         "Deal size in million U.S. dollars": 775.0
+      }
+   ]
+}

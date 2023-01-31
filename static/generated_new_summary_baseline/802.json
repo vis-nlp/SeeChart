@@ -1,0 +1,85 @@
+{
+   "title": "U.S. honey imports by country of origin 2017",
+   "xAxis": "Country",
+   "yAxis": "Imports in metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Imports in metric tons in the y axis. ",
+      "Country India has the highest Imports in metric tons and Uruguay has the lowest Imports in metric tons. ",
+      "There is a difference of 41145.0 between the maximum Country India and minimum Country Uruguay. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Imports in metric tons in each Country on the y axis. ",
+      "The maximum Imports in metric tons 45170.0 is found at Country India and the minimum is found at Uruguay where Imports in metric tons is 4025.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Imports in metric tons in the y axis. ",
+      "Country India has the highest Imports in metric tons and Uruguay has the lowest Imports in metric tons. ",
+      "There is a difference of 41145.0 between the maximum Country India and minimum Country Uruguay. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Imports in metric tons in each Country on the y axis. ",
+      "The Imports in metric tons is highest at Country India and lowest at Country Uruguay. ",
+      "Country  has the second highest value for Imports in metric tons. ",
+      "Country India has 11.22 times more Imports in metric tons than Country Uruguay which is has the lowest. ",
+      "The Country India has the highest Imports in metric tons, followed by , and Argentina. Down to the Country Uruguay which is the lowest. ",
+      "The lowest value 4025.0 at Uruguay is almost 2.33 times smaller than the average value 19351.5. ",
+      "Summing up the values of all Countrys, we get total 193515.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "India",
+         "Imports in metric tons": 45170.0
+      },
+      {
+         "Country": "Vietnam",
+         "Imports in metric tons": 36288.0
+      },
+      {
+         "Country": "Argentina",
+         "Imports in metric tons": 35378.0
+      },
+      {
+         "Country": "Brazil",
+         "Imports in metric tons": 24031.0
+      },
+      {
+         "Country": "Ukraine",
+         "Imports in metric tons": 19363.0
+      },
+      {
+         "Country": "Canada",
+         "Imports in metric tons": 15786.0
+      },
+      {
+         "Country": "Mexico",
+         "Imports in metric tons": 4783.0
+      },
+      {
+         "Country": "Thailand",
+         "Imports in metric tons": 4490.0
+      },
+      {
+         "Country": "New  Zealand",
+         "Imports in metric tons": 4201.0
+      },
+      {
+         "Country": "Uruguay",
+         "Imports in metric tons": 4025.0
+      }
+   ]
+}

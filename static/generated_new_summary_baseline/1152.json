@@ -1,0 +1,84 @@
+{
+   "title": "Italy : largest rivers in 2018 , by length",
+   "xAxis": "Rivers In Italy",
+   "yAxis": "Lenght in kilometers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Lenght in kilometers for 10 number of Rivers In Italys. ",
+      "The Lenght in kilometers is highest at Rivers In Italy Po and lowest at Rivers In Italy Reno. ",
+      "The difference of Lenght in kilometers between the highest and lowest Rivers In Italy is 441.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Lenght in kilometers for 10 number of Rivers In Italys. ",
+      "Rivers In Italy Po has the highest Lenght in kilometers and Reno has the lowest Lenght in kilometers. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Lenght in kilometers for 10 number of Rivers In Italys. ",
+      "The Lenght in kilometers is highest at Rivers In Italy Po and lowest at Rivers In Italy Reno. ",
+      "The difference of Lenght in kilometers between the highest and lowest Rivers In Italy is 441.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Rivers In Italy, and Lenght in kilometers in each Rivers In Italy on the y axis. ",
+      "The Lenght in kilometers is appeared to be the highest at Rivers In Italy Po and lowest at Rivers In Italy Reno. ",
+      "The maximum Rivers In Italy Po has got 3.09 times higher Lenght in kilometers than the minimum Rivers In Italy Reno. ",
+      "Rivers In Italy Po is higher than any other Rivers In Italys with value 652.0, followed by , and Tevere. Down to Rivers In Italy Reno with the lowest value 211.0. ",
+      "The Rivers In Italy Reno has 2.0 times less Lenght in kilometers than average. ",
+      "The Lenght in kilometers is 3256.0 if we add up values of all Rivers In Italys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Rivers In Italy": "Po",
+         "Lenght in kilometers": 652.0
+      },
+      {
+         "Rivers In Italy": "Adige",
+         "Lenght in kilometers": 410.0
+      },
+      {
+         "Rivers In Italy": "Tevere",
+         "Lenght in kilometers": 405.0
+      },
+      {
+         "Rivers In Italy": "Adda",
+         "Lenght in kilometers": 313.0
+      },
+      {
+         "Rivers In Italy": "Oglio",
+         "Lenght in kilometers": 280.0
+      },
+      {
+         "Rivers In Italy": "Tanaro",
+         "Lenght in kilometers": 276.0
+      },
+      {
+         "Rivers In Italy": "Ticino",
+         "Lenght in kilometers": 248.0
+      },
+      {
+         "Rivers In Italy": "Arno",
+         "Lenght in kilometers": 241.0
+      },
+      {
+         "Rivers In Italy": "Piave",
+         "Lenght in kilometers": 220.0
+      },
+      {
+         "Rivers In Italy": "Reno",
+         "Lenght in kilometers": 211.0
+      }
+   ]
+}

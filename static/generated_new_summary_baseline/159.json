@@ -1,0 +1,61 @@
+{
+   "title": "Consumer preference : fiction versus non-fiction books in England 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 4 number of Responses. ",
+      "The Share of respondents is highest at Response Mixture of both and lowest at Response Neither. ",
+      "The highest Response Mixture of both has 36.0 more Share of respondents than the lowest Response Neither. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Mixture of both and lowest at Response Neither. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 4 number of Responses. ",
+      "The Share of respondents is highest at Response Mixture of both and lowest at Response Neither. ",
+      "The highest Response Mixture of both has 36.0 more Share of respondents than the lowest Response Neither. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response Mixture of both has the highest Share of respondents and Neither has the lowest Share of respondents. ",
+      "The second highest Share of respondents is appeared to be the Response . ",
+      "There is a difference of 36.0 between the maximum Response Mixture of both and minimum Response Neither. ",
+      "The Response Mixture of both has the highest Share of respondents, followed by , and Non-fiction. Down to the Response Neither which is the lowest. ",
+      "The highest value 44.0 at Mixture of both is almost 1.76 times larger than the average value 25.0. ",
+      "The Share of respondents is 100.0 if we add up values of all Responses. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Mixture of both",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Fiction",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Non-fiction",
+         "Share of respondents": 22.0
+      },
+      {
+         "Response": "Neither",
+         "Share of respondents": 8.0
+      }
+   ]
+}

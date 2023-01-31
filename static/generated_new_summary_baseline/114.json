@@ -1,0 +1,187 @@
+{
+   "title": "U.S. airports - public and private 1990 to 2018",
+   "labels": [
+      "Year",
+      "Public use",
+      "Private use"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 2 lines namely Public use, and Private use. The y axis represents Number of airports and the x axis represents Year.",
+      "Overall Private use is gradually decreasing, Public use is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Private use, and lastly, 2. Public use. ",
+      "Throughout the period, Private use generally had the highest Number of airports relative to others with an average of 14126.75, and it reached its maximum at 7 with a value of 14839.0.",
+      "The botommost line, Public use,  has a mean of 5236.2, and peaked at 90. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of airports",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing Public use, and Private use. The y axis denotes Number of airports and the x axis denotes Year.",
+      "Overall Private use is gradually decreasing, Public use is roughly constant,  throughout the Year",
+      "Overall across the Year, Private use mostly maintained the highest Number of airports when compared to others with a mean value of 14126.75, and it peaked at 7.",
+      "The botommost line, Public use,  has a mean of 5236.2, and peaked at 90. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely Public use, and Private use. The y axis represents Number of airports and the x axis represents Year.",
+      "Overall Private use is gradually decreasing, Public use is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Private use, and lastly, 2. Public use. ",
+      "Throughout the period, Private use generally had the highest Number of airports relative to others with an average of 14126.75, and it reached its maximum at 7 with a value of 14839.0.",
+      "The botommost line, Public use,  has a mean of 5236.2, and peaked at 90. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Public use, and Private use. The y axis indicates the Number of airports and the x axis indicates Year.",
+      "Overall Private use is gradually decreasing, Public use is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Number of airports in descending order is: 1. Private use, and lastly, 2. Public use. ",
+      "Overall across the Year, Private use mostly maintained the highest Number of airports when compared to others with a mean value of 14126.75, and it peaked at 7.",
+      "The botommost line, Public use,  has a mean of 5236.2, and peaked at 90. ",
+      "Public use reported the lowest Number of airports about 5087.0 in Year 18",
+      "The difference of Number of airports between Public use and Private use is smaller at Year 95 compared to the Year 0."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "19",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "9": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "19",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "19",
+            "0"
+         ],
+         "10": [
+            "19",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "18",
+         "Public use": "5087",
+         "Private use": "14549"
+      },
+      {
+         "Year": "17",
+         "Public use": "5104",
+         "Private use": "14263"
+      },
+      {
+         "Year": "16",
+         "Public use": "5136",
+         "Private use": "14112"
+      },
+      {
+         "Year": "14",
+         "Public use": "5145",
+         "Private use": "13863"
+      },
+      {
+         "Year": "13",
+         "Public use": "5155",
+         "Private use": "14009"
+      },
+      {
+         "Year": "12",
+         "Public use": "5171",
+         "Private use": "14269"
+      },
+      {
+         "Year": "11",
+         "Public use": "5172",
+         "Private use": "14339"
+      },
+      {
+         "Year": "10",
+         "Public use": "5175",
+         "Private use": "14353"
+      },
+      {
+         "Year": "9",
+         "Public use": "5178",
+         "Private use": "14298"
+      },
+      {
+         "Year": "8",
+         "Public use": "5202",
+         "Private use": "14451"
+      },
+      {
+         "Year": "7",
+         "Public use": "5221",
+         "Private use": "14839"
+      },
+      {
+         "Year": "6",
+         "Public use": "5233",
+         "Private use": "14757"
+      },
+      {
+         "Year": "5",
+         "Public use": "5270",
+         "Private use": "14584"
+      },
+      {
+         "Year": "4",
+         "Public use": "5288",
+         "Private use": "14532"
+      },
+      {
+         "Year": "3",
+         "Public use": "5286",
+         "Private use": "14295"
+      },
+      {
+         "Year": "2",
+         "Public use": "5286",
+         "Private use": "14286"
+      },
+      {
+         "Year": "1",
+         "Public use": "5294",
+         "Private use": "14062"
+      },
+      {
+         "Year": "0",
+         "Public use": "5317",
+         "Private use": "13964"
+      },
+      {
+         "Year": "95",
+         "Public use": "5415",
+         "Private use": "12809"
+      },
+      {
+         "Year": "90",
+         "Public use": "5589",
+         "Private use": "11901"
+      }
+   ]
+}

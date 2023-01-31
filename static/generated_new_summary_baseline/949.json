@@ -1,0 +1,74 @@
+{
+   "title": "Piracy - actual and attempted attacks worldwide by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Number of incidents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Number of incidents in the y axis. ",
+      "The Number of incidents is highest at Country Nigeria and lowest at Country Venezuela. ",
+      "The Number of incidents of Country Nigeria is 5.83% larger than the minimum value at Venezuela. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Number of incidents in the y axis. ",
+      "The Number of incidents is highest at Country Nigeria and lowest at Country Venezuela. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Number of incidents in the y axis. ",
+      "The Number of incidents is highest at Country Nigeria and lowest at Country Venezuela. ",
+      "The Number of incidents of Country Nigeria is 5.83% larger than the minimum value at Venezuela. "
+   ],
+   "max_summary": [
+      "This bar chart has 7 columns on the x axis representing Country, and Number of incidents in each Country on the y axis. ",
+      "The Number of incidents is appeared to be the highest at Country Nigeria and lowest at Country Venezuela. ",
+      "Second maximum Number of incidents is found at Country . ",
+      "Country Nigeria has 5.83 times more Number of incidents than Country Venezuela which is has the lowest. ",
+      "The Country Nigeria has the highest Number of incidents, followed by , and Singapore Staits. Down to the Country Venezuela which is the lowest. ",
+      "Similar Number of incidents is found in Country Venezuela, and Cameroon. ",
+      "The Country Nigeria tends to be 2.33 percent higher than average. ",
+      "The Number of incidents is 105.0 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Nigeria",
+         "Number of incidents": 35.0
+      },
+      {
+         "Country": "Indonesia",
+         "Number of incidents": 25.0
+      },
+      {
+         "Country": "Singapore Staits",
+         "Number of incidents": 12.0
+      },
+      {
+         "Country": "Malaysia",
+         "Number of incidents": 11.0
+      },
+      {
+         "Country": "Peru",
+         "Number of incidents": 10.0
+      },
+      {
+         "Country": "Venezuela",
+         "Number of incidents": 6.0
+      },
+      {
+         "Country": "Cameroon",
+         "Number of incidents": 6.0
+      }
+   ]
+}

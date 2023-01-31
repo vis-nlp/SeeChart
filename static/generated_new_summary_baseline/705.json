@@ -1,0 +1,109 @@
+{
+   "title": "Forecast of lanthanum oxide price globally 2009 to 2025",
+   "xAxis": "Year",
+   "yAxis": "Price in U.S. dollars per metric ton",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price in U.S. dollars per metric ton. In total the number of data points it has is 17.",
+      " Overall Price in U.S. dollars per metric ton has increased over the Year.",
+      "Price in U.S. dollars per metric ton is gradually increasing from 2009 to 2011, roughly decreasing from 2011 to 2012, and lastly roughly constant from 2012 to 2025.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Price in U.S. dollars per metric ton, about 98757.0 was reported at Year 2011",
+      "Minimum Price in U.S. dollars per metric ton about 4604.0 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price in U.S. dollars per metric ton. In total the number of data points it has is 17.",
+      " Overall Price in U.S. dollars per metric ton has increased over the Year.",
+      "Price in U.S. dollars per metric ton is gradually increasing from 2009 to 2011, roughly decreasing from 2011 to 2012, and lastly roughly constant from 2012 to 2025."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price in U.S. dollars per metric ton. In total the number of data points it has is 17.",
+      " Overall Price in U.S. dollars per metric ton has increased over the Year.",
+      "Price in U.S. dollars per metric ton is gradually increasing from 2009 to 2011, roughly decreasing from 2011 to 2012, and lastly roughly constant from 2012 to 2025.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Price in U.S. dollars per metric ton, about 98757.0 was reported at Year 2011",
+      "Minimum Price in U.S. dollars per metric ton about 4604.0 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price in U.S. dollars per metric ton. In total the number of data points it has is 17.",
+      " Overall Price in U.S. dollars per metric ton has increased over the Year.",
+      "Price in U.S. dollars per metric ton is gradually increasing from 2009 to 2011, roughly decreasing from 2011 to 2012, and lastly roughly constant from 2012 to 2025.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Maximum Price in U.S. dollars per metric ton, about 98757.0 was reported at Year 2011",
+      "Minimum Price in U.S. dollars per metric ton about 4604.0 was reached at Year 2009",
+      "The line rapidly increased by 417.38% from Year 2009 to 2010,increased by 314.6% from Year 2010 to 2011, and lastly, decreased by 74.13% from Year 2011 to 2012."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2009",
+         "Price in U.S. dollars per metric ton": 4604.0
+      },
+      {
+         "Year": "2010",
+         "Price in U.S. dollars per metric ton": 23820.0
+      },
+      {
+         "Year": "2011",
+         "Price in U.S. dollars per metric ton": 98757.0
+      },
+      {
+         "Year": "2012",
+         "Price in U.S. dollars per metric ton": 25547.0
+      },
+      {
+         "Year": "2013",
+         "Price in U.S. dollars per metric ton": 7866.0
+      },
+      {
+         "Year": "2014",
+         "Price in U.S. dollars per metric ton": 5955.0
+      },
+      {
+         "Year": "2015",
+         "Price in U.S. dollars per metric ton": 6955.0
+      },
+      {
+         "Year": "2016",
+         "Price in U.S. dollars per metric ton": 7254.0
+      },
+      {
+         "Year": "2017",
+         "Price in U.S. dollars per metric ton": 7810.0
+      },
+      {
+         "Year": "2018",
+         "Price in U.S. dollars per metric ton": 7904.0
+      },
+      {
+         "Year": "2019",
+         "Price in U.S. dollars per metric ton": 7033.0
+      },
+      {
+         "Year": "2020",
+         "Price in U.S. dollars per metric ton": 6742.0
+      },
+      {
+         "Year": "2021",
+         "Price in U.S. dollars per metric ton": 6447.0
+      },
+      {
+         "Year": "2022",
+         "Price in U.S. dollars per metric ton": 6558.0
+      },
+      {
+         "Year": "2023",
+         "Price in U.S. dollars per metric ton": 6676.0
+      },
+      {
+         "Year": "2024",
+         "Price in U.S. dollars per metric ton": 6800.0
+      },
+      {
+         "Year": "2025",
+         "Price in U.S. dollars per metric ton": 6932.0
+      }
+   ]
+}

@@ -1,0 +1,93 @@
+{
+   "title": "Regular season home attendance of the Atlanta Falcons 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Home attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Home attendance. In total the number of data points it has is 14.",
+      " In general Home attendance has stayed the same over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Home attendance, of value 583184.0 was reached at Year 2018",
+      "Minimum Home attendance about 493515.0 was reached at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Home attendance. In total the number of data points it has is 14.",
+      " In general Home attendance has stayed the same over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Home attendance. In total the number of data points it has is 14.",
+      " In general Home attendance has stayed the same over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Home attendance, of value 583184.0 was reached at Year 2018",
+      "Minimum Home attendance about 493515.0 was reached at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Home attendance, containing a total of 14 data points.",
+      " Overall Home attendance has increased over the Year.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Home attendance, of value 583184.0 was reached at Year 2018",
+      "Minimum Home attendance about 493515.0 was reached at Year 2014",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Home attendance": 572811.0
+      },
+      {
+         "Year": "2018",
+         "Home attendance": 583184.0
+      },
+      {
+         "Year": "2017",
+         "Home attendance": 575681.0
+      },
+      {
+         "Year": "2016",
+         "Home attendance": 559998.0
+      },
+      {
+         "Year": "2015",
+         "Home attendance": 562845.0
+      },
+      {
+         "Year": "2014",
+         "Home attendance": 493515.0
+      },
+      {
+         "Year": "2013",
+         "Home attendance": 561795.0
+      },
+      {
+         "Year": "2012",
+         "Home attendance": 560773.0
+      },
+      {
+         "Year": "2011",
+         "Home attendance": 551892.0
+      },
+      {
+         "Year": "2010",
+         "Home attendance": 542800.0
+      },
+      {
+         "Year": "2009",
+         "Home attendance": 545384.0
+      },
+      {
+         "Year": "2008",
+         "Home attendance": 512520.0
+      },
+      {
+         "Year": "2007",
+         "Home attendance": 547610.0
+      },
+      {
+         "Year": "2006",
+         "Home attendance": 563456.0
+      }
+   ]
+}

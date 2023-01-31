@@ -1,0 +1,113 @@
+{
+   "title": "Brooklyn Nets ' revenue 2001 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 01/02 to 11/12, rapidly increasing from 11/12 to 12/13, roughly constant from 12/13 to 15/16, slightly increasing from 15/16 to 16/17, and lastly roughly constant from 16/17 to 18/19.",
+      "The steepest increase occurs in between the Year 11/12 and 12/13.",
+      "Maximum Revenue in million U.S. dollars, about 304.0 was reported at Year 18/19",
+      "The lowest Revenue in million U.S. dollars, of value 84.0 was reported at Year 11/12"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 01/02 to 11/12, rapidly increasing from 11/12 to 12/13, roughly constant from 12/13 to 15/16, slightly increasing from 15/16 to 16/17, and lastly roughly constant from 16/17 to 18/19."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 01/02 to 11/12, rapidly increasing from 11/12 to 12/13, roughly constant from 12/13 to 15/16, slightly increasing from 15/16 to 16/17, and lastly roughly constant from 16/17 to 18/19.",
+      "The steepest increase occurs in between the Year 11/12 and 12/13.",
+      "Maximum Revenue in million U.S. dollars, about 304.0 was reported at Year 18/19",
+      "The lowest Revenue in million U.S. dollars, of value 84.0 was reported at Year 11/12"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 01/02 to 11/12, rapidly increasing from 11/12 to 12/13, roughly constant from 12/13 to 15/16, slightly increasing from 15/16 to 16/17, and lastly roughly constant from 16/17 to 18/19.",
+      "The most drastic increase took place within the Year 11/12 and 12/13.",
+      "Maximum Revenue in million U.S. dollars, about 304.0 was reported at Year 18/19",
+      "The lowest Revenue in million U.S. dollars, of value 84.0 was reported at Year 11/12",
+      "The line drastically increased by 2.3 times from Year 11/12 to 12/13."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "18/19",
+         "Revenue in million U.S. dollars": 304.0
+      },
+      {
+         "Year": "17/18",
+         "Revenue in million U.S. dollars": 290.0
+      },
+      {
+         "Year": "16/17",
+         "Revenue in million U.S. dollars": 273.0
+      },
+      {
+         "Year": "15/16",
+         "Revenue in million U.S. dollars": 223.0
+      },
+      {
+         "Year": "14/15",
+         "Revenue in million U.S. dollars": 220.0
+      },
+      {
+         "Year": "13/14",
+         "Revenue in million U.S. dollars": 212.0
+      },
+      {
+         "Year": "12/13",
+         "Revenue in million U.S. dollars": 190.0
+      },
+      {
+         "Year": "11/12",
+         "Revenue in million U.S. dollars": 84.0
+      },
+      {
+         "Year": "10/11",
+         "Revenue in million U.S. dollars": 89.0
+      },
+      {
+         "Year": "09/10",
+         "Revenue in million U.S. dollars": 89.0
+      },
+      {
+         "Year": "08/09",
+         "Revenue in million U.S. dollars": 92.0
+      },
+      {
+         "Year": "07/08",
+         "Revenue in million U.S. dollars": 98.0
+      },
+      {
+         "Year": "06/07",
+         "Revenue in million U.S. dollars": 102.0
+      },
+      {
+         "Year": "05/06",
+         "Revenue in million U.S. dollars": 93.0
+      },
+      {
+         "Year": "04/05",
+         "Revenue in million U.S. dollars": 87.0
+      },
+      {
+         "Year": "03/04",
+         "Revenue in million U.S. dollars": 93.0
+      },
+      {
+         "Year": "02/03",
+         "Revenue in million U.S. dollars": 94.0
+      },
+      {
+         "Year": "01/02",
+         "Revenue in million U.S. dollars": 91.0
+      }
+   ]
+}

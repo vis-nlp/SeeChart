@@ -1,0 +1,120 @@
+{
+   "title": "Personal income in New York - income per capita 2000 to 2018",
+   "xAxis": "Fiscal years",
+   "yAxis": "Income in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Fiscal years in the x axis and Income in U.S. dollars in the y axis. ",
+      "The maximum Income in U.S. dollars 68668.0 is found at Fiscal years '18 and the minimum is found at '00 where Income in U.S. dollars is 36028.0. ",
+      "The difference of Income in U.S. dollars between the highest and lowest Fiscal years is 32640.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Income in U.S. dollars for 19 number of Fiscal yearss. ",
+      "The Income in U.S. dollars is highest at Fiscal years '18 and lowest at Fiscal years '00. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Fiscal years in the x axis and Income in U.S. dollars in the y axis. ",
+      "The maximum Income in U.S. dollars 68668.0 is found at Fiscal years '18 and the minimum is found at '00 where Income in U.S. dollars is 36028.0. ",
+      "The difference of Income in U.S. dollars between the highest and lowest Fiscal years is 32640.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 19 columns on the x axis representing Fiscal years, and Income in U.S. dollars in each Fiscal years on the y axis. ",
+      "The maximum Income in U.S. dollars 68668.0 is found at Fiscal years '18 and the minimum is found at '00 where Income in U.S. dollars is 36028.0. ",
+      "There is a difference of 32640.0 between the maximum Fiscal years '18 and minimum Fiscal years '00. ",
+      "The Fiscal years '18 has the highest Income in U.S. dollars, followed by , and '16. Down to the Fiscal years '00 which is the lowest. ",
+      "The average Income in U.S. dollars in all 19 Fiscal yearss is 49234.11. ",
+      "The Income in U.S. dollars is 935448.0 if we add up values of all Fiscal yearss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 18,
+         "12": 18
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fiscal years": "'18",
+         "Income in U.S. dollars": 68668.0
+      },
+      {
+         "Fiscal years": "'17",
+         "Income in U.S. dollars": 65644.0
+      },
+      {
+         "Fiscal years": "'16",
+         "Income in U.S. dollars": 61226.0
+      },
+      {
+         "Fiscal years": "'15",
+         "Income in U.S. dollars": 59141.0
+      },
+      {
+         "Fiscal years": "'14",
+         "Income in U.S. dollars": 56743.0
+      },
+      {
+         "Fiscal years": "'13",
+         "Income in U.S. dollars": 54491.0
+      },
+      {
+         "Fiscal years": "'12",
+         "Income in U.S. dollars": 53982.0
+      },
+      {
+         "Fiscal years": "'11",
+         "Income in U.S. dollars": 51498.0
+      },
+      {
+         "Fiscal years": "'10",
+         "Income in U.S. dollars": 48972.0
+      },
+      {
+         "Fiscal years": "'09",
+         "Income in U.S. dollars": 47277.0
+      },
+      {
+         "Fiscal years": "'08",
+         "Income in U.S. dollars": 48328.0
+      },
+      {
+         "Fiscal years": "'07",
+         "Income in U.S. dollars": 47520.0
+      },
+      {
+         "Fiscal years": "'06",
+         "Income in U.S. dollars": 44179.0
+      },
+      {
+         "Fiscal years": "'05",
+         "Income in U.S. dollars": 40905.0
+      },
+      {
+         "Fiscal years": "'04",
+         "Income in U.S. dollars": 39185.0
+      },
+      {
+         "Fiscal years": "'03",
+         "Income in U.S. dollars": 37459.0
+      },
+      {
+         "Fiscal years": "'02",
+         "Income in U.S. dollars": 37008.0
+      },
+      {
+         "Fiscal years": "'01",
+         "Income in U.S. dollars": 37194.0
+      },
+      {
+         "Fiscal years": "'00",
+         "Income in U.S. dollars": 36028.0
+      }
+   ]
+}

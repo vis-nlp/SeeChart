@@ -1,0 +1,83 @@
+{
+   "title": "Cyber bullying : common types of bullying 2019 , by gender",
+   "labels": [
+      "Response",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 4 different Responses on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of students. ",
+      " For Response I have been cyber bullied (lifetime), Female had the highest Share of students 387.0 among the 2 groups and in I have cyber bullied others (previous 30 days), Female had the lowest Share of students 46.0. ",
+      " The maximum Share of students for Male that was found in Response I have been cyber bullied (lifetime) was 4.21 times larger than the minimum Share of students observed in Response I have cyber bullied others (previous 30 days). ",
+      "On average, the Response I have been cyber bullied (lifetime) had the highest Share of students for all 2 groups Male, and Female. Whereas I have cyber bullied others (previous 30 days) had the lowest average Share of students. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Share of students",
+   "min_summary": [
+      "This grouped bar chart shows Share of students on the Y-axis for 4 different Responses for 2 groups Male, and Female that are presented on the X-axis. ",
+      " Out of all 2 groups, Female had the highest Share of students for Response I have been cyber bullied (lifetime) and Female had the lowest Share of students for Response I have cyber bullied others (previous 30 days). "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 4 different Responses on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of students. ",
+      " For Response I have been cyber bullied (lifetime), Female had the highest Share of students 387.0 among the 2 groups and in I have cyber bullied others (previous 30 days), Female had the lowest Share of students 46.0. ",
+      " The maximum Share of students for Male that was found in Response I have been cyber bullied (lifetime) was 4.21 times larger than the minimum Share of students observed in Response I have cyber bullied others (previous 30 days). ",
+      "On average, the Response I have been cyber bullied (lifetime) had the highest Share of students for all 2 groups Male, and Female. Whereas I have cyber bullied others (previous 30 days) had the lowest average Share of students. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Responses on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of students. ",
+      " Response I have been cyber bullied (lifetime) had the maximum Share of students among all 2 groups, and it was for Female. The minimum Share of students was observed in Response I have cyber bullied others (previous 30 days) for Female. ",
+      " For Response I have been cyber bullied (lifetime), Male had the highest Share of students among all 4 Responses and it has the lowest Share of students in Response I have cyber bullied others (previous 30 days). ",
+      "Response I have been cyber bullied (lifetime) and I have cyber bullied others (previous 30 days) had the biggest gap of 260.0 between the highest and lowest Share of students found for Male. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share of students was found in case of Male. ",
+      "On average, the Response I have been cyber bullied (lifetime) had the highest Share of students for all 2 groups Male, and Female. Whereas I have cyber bullied others (previous 30 days) had the lowest average Share of students. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "I have been cyber bullied (previous 30 days)",
+         "Male": "17.7",
+         "Female": "17.1"
+      },
+      {
+         "Response": "I have been cyber bullied (lifetime)",
+         "Male": "34.1",
+         "Female": "38.7"
+      },
+      {
+         "Response": "I have cyber bullied others (previous 30 days)",
+         "Male": "8.1",
+         "Female": "4.6"
+      },
+      {
+         "Response": "I have cyber bullied others (lifetime)",
+         "Male": "16.1",
+         "Female": "13.4"
+      }
+   ]
+}

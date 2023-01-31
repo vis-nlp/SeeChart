@@ -1,0 +1,166 @@
+{
+   "title": "MLB all-time RBI leaders 2019",
+   "xAxis": "Players",
+   "yAxis": "Number of runs batted in",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 30 columns on the x axis representing Players, and Number of runs batted in in each Players on the y axis. ",
+      "The Number of runs batted in is appeared to be the highest at Players Hank Aaron and lowest at Players Gary Sheffield. ",
+      "The maximum Players Hank Aaron has got 1.37 times higher Number of runs batted in than the minimum Players Gary Sheffield. "
+   ],
+   "min_summary": [
+      "This bar chart has 30 columns on the x axis representing Players, and Number of runs batted in in each Players on the y axis. ",
+      "Players Hank Aaron has the highest Number of runs batted in and Gary Sheffield has the lowest Number of runs batted in. "
+   ],
+   "mid_summary": [
+      "This bar chart has 30 columns on the x axis representing Players, and Number of runs batted in in each Players on the y axis. ",
+      "The Number of runs batted in is appeared to be the highest at Players Hank Aaron and lowest at Players Gary Sheffield. ",
+      "The maximum Players Hank Aaron has got 1.37 times higher Number of runs batted in than the minimum Players Gary Sheffield. "
+   ],
+   "max_summary": [
+      "This bar chart has 30 columns on the x axis representing Players, and Number of runs batted in in each Players on the y axis. ",
+      "The Number of runs batted in is highest at Players Hank Aaron and lowest at Players Gary Sheffield. ",
+      "The second highest Number of runs batted in is appeared to be the Players . ",
+      "The difference of Number of runs batted in between the highest and lowest Players is 621.0. ",
+      "Players Hank Aaron is higher than any other Playerss with value 2297.0, followed by , and Alex Rodriguez. Down to Players Gary Sheffield with the lowest value 1676.0. ",
+      "Similar Number of runs batted in is found in Players Cap Anson, and Albert Pujols. ",
+      "The Players Hank Aaron tends to be 1.22 percent higher than average. ",
+      "The Number of runs batted in is 56270.0 if we add up values of all Playerss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 29,
+         "12": 29
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Players": "Hank Aaron",
+         "Number of runs batted in": 2297.0
+      },
+      {
+         "Players": "Babe Ruth",
+         "Number of runs batted in": 2214.0
+      },
+      {
+         "Players": "Alex Rodriguez",
+         "Number of runs batted in": 2086.0
+      },
+      {
+         "Players": "Cap Anson",
+         "Number of runs batted in": 2075.0
+      },
+      {
+         "Players": "Albert Pujols",
+         "Number of runs batted in": 2075.0
+      },
+      {
+         "Players": "Barry Bonds",
+         "Number of runs batted in": 1996.0
+      },
+      {
+         "Players": "Lou Gehrig",
+         "Number of runs batted in": 1995.0
+      },
+      {
+         "Players": "Stan Musial",
+         "Number of runs batted in": 1951.0
+      },
+      {
+         "Players": "Ty Cobb",
+         "Number of runs batted in": 1944.0
+      },
+      {
+         "Players": "Jimmie Foxx",
+         "Number of runs batted in": 1922.0
+      },
+      {
+         "Players": "Eddie Murray",
+         "Number of runs batted in": 1917.0
+      },
+      {
+         "Players": "Willie Mays",
+         "Number of runs batted in": 1903.0
+      },
+      {
+         "Players": "Mel Ott",
+         "Number of runs batted in": 1860.0
+      },
+      {
+         "Players": "Carl Yastrzemski",
+         "Number of runs batted in": 1844.0
+      },
+      {
+         "Players": "Ted Williams",
+         "Number of runs batted in": 1839.0
+      },
+      {
+         "Players": "Ken Griffey",
+         "Number of runs batted in": 1836.0
+      },
+      {
+         "Players": "Rafael Palmeiro",
+         "Number of runs batted in": 1835.0
+      },
+      {
+         "Players": "Dave Winfield",
+         "Number of runs batted in": 1833.0
+      },
+      {
+         "Players": "Manny Ramirez",
+         "Number of runs batted in": 1831.0
+      },
+      {
+         "Players": "Al Simmons",
+         "Number of runs batted in": 1828.0
+      },
+      {
+         "Players": "Frank Robinson",
+         "Number of runs batted in": 1812.0
+      },
+      {
+         "Players": "David Ortiz",
+         "Number of runs batted in": 1768.0
+      },
+      {
+         "Players": "Honus Wagner",
+         "Number of runs batted in": 1732.0
+      },
+      {
+         "Players": "Adrian Beltre",
+         "Number of runs batted in": 1707.0
+      },
+      {
+         "Players": "Frank Thomas",
+         "Number of runs batted in": 1704.0
+      },
+      {
+         "Players": "Reggie Jackson",
+         "Number of runs batted in": 1702.0
+      },
+      {
+         "Players": "Jim Thome",
+         "Number of runs batted in": 1699.0
+      },
+      {
+         "Players": "Cal Ripken",
+         "Number of runs batted in": 1695.0
+      },
+      {
+         "Players": "Miguel Cabrera",
+         "Number of runs batted in": 1694.0
+      },
+      {
+         "Players": "Gary Sheffield",
+         "Number of runs batted in": 1676.0
+      }
+   ]
+}

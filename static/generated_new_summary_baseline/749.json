@@ -1,0 +1,147 @@
+{
+   "title": "Monthly exchange rate of USD to GBP 2017 to 2019",
+   "xAxis": "Month",
+   "yAxis": "USD GBP exchange rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and USD GBP exchange rate in the y axis. ",
+      "The USD GBP exchange rate is appeared to be the highest at Month Aug 19 and lowest at Month Mar 18. ",
+      "The lowest value at Month Mar 18 is 1.15x times less than the highest value at Aug 19. "
+   ],
+   "min_summary": [
+      "This bar chart has 25 columns on the x axis representing Month, and USD GBP exchange rate in each Month on the y axis. ",
+      "Month Aug 19 has the highest USD GBP exchange rate and Mar 18 has the lowest USD GBP exchange rate. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and USD GBP exchange rate in the y axis. ",
+      "The USD GBP exchange rate is appeared to be the highest at Month Aug 19 and lowest at Month Mar 18. ",
+      "The lowest value at Month Mar 18 is 1.15x times less than the highest value at Aug 19. "
+   ],
+   "max_summary": [
+      "This bar chart has 25 columns on the x axis representing Month, and USD GBP exchange rate in each Month on the y axis. ",
+      "The USD GBP exchange rate is appeared to be the highest at Month Aug 19 and lowest at Month Mar 18. ",
+      "Month  has the second highest value for USD GBP exchange rate. ",
+      "The difference of USD GBP exchange rate between the highest and lowest Month is 0.11. ",
+      "USD GBP exchange rate at Month Aug 19 is 0.82 , second place is  at 0.82, and thirdly is Oct 18 at 0.79.",
+      "Over the past 25 Months, the USD GBP exchange rate has decreased. ",
+      "Similar USD GBP exchange rate is found in Month Jan 19, Sep 18, Jul 18, Jun 18, and Oct 17. ",
+      "The Month Aug 19 tends to be 1.07 percent higher than average. ",
+      "Summing up the values of all Months, we get total 19.07. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Aug 19",
+         "USD GBP exchange rate": 0.82
+      },
+      {
+         "Month": "Jul 19",
+         "USD GBP exchange rate": 0.82
+      },
+      {
+         "Month": "Jun 19",
+         "USD GBP exchange rate": 0.79
+      },
+      {
+         "Month": "May 19",
+         "USD GBP exchange rate": 0.79
+      },
+      {
+         "Month": "Apr 19",
+         "USD GBP exchange rate": 0.77
+      },
+      {
+         "Month": "Mar 19",
+         "USD GBP exchange rate": 0.77
+      },
+      {
+         "Month": "Feb 19",
+         "USD GBP exchange rate": 0.75
+      },
+      {
+         "Month": "Jan 19",
+         "USD GBP exchange rate": 0.76
+      },
+      {
+         "Month": "Dec 18",
+         "USD GBP exchange rate": 0.79
+      },
+      {
+         "Month": "Nov 18",
+         "USD GBP exchange rate": 0.78
+      },
+      {
+         "Month": "Oct 18",
+         "USD GBP exchange rate": 0.79
+      },
+      {
+         "Month": "Sep 18",
+         "USD GBP exchange rate": 0.76
+      },
+      {
+         "Month": "Aug 18",
+         "USD GBP exchange rate": 0.78
+      },
+      {
+         "Month": "Jul 18",
+         "USD GBP exchange rate": 0.76
+      },
+      {
+         "Month": "Jun 18",
+         "USD GBP exchange rate": 0.76
+      },
+      {
+         "Month": "May 18",
+         "USD GBP exchange rate": 0.75
+      },
+      {
+         "Month": "Apr 18",
+         "USD GBP exchange rate": 0.73
+      },
+      {
+         "Month": "Mar 18",
+         "USD GBP exchange rate": 0.71
+      },
+      {
+         "Month": "Feb 18",
+         "USD GBP exchange rate": 0.73
+      },
+      {
+         "Month": "Jan 18",
+         "USD GBP exchange rate": 0.71
+      },
+      {
+         "Month": "Dec 17",
+         "USD GBP exchange rate": 0.74
+      },
+      {
+         "Month": "Nov 17",
+         "USD GBP exchange rate": 0.74
+      },
+      {
+         "Month": "Oct 17",
+         "USD GBP exchange rate": 0.76
+      },
+      {
+         "Month": "Sep 17",
+         "USD GBP exchange rate": 0.74
+      },
+      {
+         "Month": "Aug 17",
+         "USD GBP exchange rate": 0.77
+      }
+   ]
+}

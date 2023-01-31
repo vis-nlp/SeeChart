@@ -1,0 +1,89 @@
+{
+   "title": "Canada 's biodiesel production 2007 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Production in million liters",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in million liters, containing a total of 13 data points.",
+      " Overall Production in million liters has increased over the Year.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest Production in million liters, of value 463.0 was reached at Year 2016",
+      "The lowest Production in million liters, of value 70.0 was reported at Year 2007"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in million liters, containing a total of 13 data points.",
+      " In general Production in million liters has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in million liters, containing a total of 13 data points.",
+      " Overall Production in million liters has increased over the Year.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest Production in million liters, of value 463.0 was reached at Year 2016",
+      "The lowest Production in million liters, of value 70.0 was reported at Year 2007"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in million liters. In total the number of data points it has is 13.",
+      " Overall Production in million liters has increased over the Year.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest Production in million liters, of value 463.0 was reached at Year 2016",
+      "The lowest Production in million liters, of value 70.0 was reported at Year 2007",
+      "The line significantly increased by 192.0 from Year 2013 to 2014."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Production in million liters": 375.0
+      },
+      {
+         "Year": "2018",
+         "Production in million liters": 300.0
+      },
+      {
+         "Year": "2017",
+         "Production in million liters": 397.0
+      },
+      {
+         "Year": "2016",
+         "Production in million liters": 463.0
+      },
+      {
+         "Year": "2015",
+         "Production in million liters": 307.0
+      },
+      {
+         "Year": "2014",
+         "Production in million liters": 351.0
+      },
+      {
+         "Year": "2013",
+         "Production in million liters": 159.0
+      },
+      {
+         "Year": "2012",
+         "Production in million liters": 100.0
+      },
+      {
+         "Year": "2011",
+         "Production in million liters": 120.0
+      },
+      {
+         "Year": "2010",
+         "Production in million liters": 115.0
+      },
+      {
+         "Year": "2009",
+         "Production in million liters": 110.0
+      },
+      {
+         "Year": "2008",
+         "Production in million liters": 95.0
+      },
+      {
+         "Year": "2007",
+         "Production in million liters": 70.0
+      }
+   ]
+}

@@ -1,0 +1,60 @@
+{
+   "title": "Market share of soft drink companies in South Africa 2010",
+   "xAxis": "Company",
+   "yAxis": "Market share in South Africa",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 4 columns on the x axis representing Company, and Market share in South Africa in each Company on the y axis. ",
+      "The Market share in South Africa is appeared to be the highest at Company The Coca-Cola Co and lowest at Company PepsiCo Inc. ",
+      "The highest Company The Coca-Cola Co has 44.3 more Market share in South Africa than the lowest Company PepsiCo Inc. "
+   ],
+   "min_summary": [
+      "This bar chart has 4 columns on the x axis representing Company, and Market share in South Africa in each Company on the y axis. ",
+      "Company The Coca-Cola Co has the highest Market share in South Africa and PepsiCo Inc has the lowest Market share in South Africa. "
+   ],
+   "mid_summary": [
+      "This bar chart has 4 columns on the x axis representing Company, and Market share in South Africa in each Company on the y axis. ",
+      "The Market share in South Africa is appeared to be the highest at Company The Coca-Cola Co and lowest at Company PepsiCo Inc. ",
+      "The highest Company The Coca-Cola Co has 44.3 more Market share in South Africa than the lowest Company PepsiCo Inc. "
+   ],
+   "max_summary": [
+      "This bar chart has 4 columns on the x axis representing Company, and Market share in South Africa in each Company on the y axis. ",
+      "The maximum Market share in South Africa 49.8 is found at Company The Coca-Cola Co and the minimum is found at PepsiCo Inc where Market share in South Africa is 5.5. ",
+      "Second maximum Market share in South Africa is found at Company . ",
+      "The highest Company The Coca-Cola Co has 44.3 more Market share in South Africa than the lowest Company PepsiCo Inc. ",
+      "Market share in South Africa at Company The Coca-Cola Co is 49.8 , second place is  at 5.5, and thirdly is Tiger Brands Ltd at 9.4.",
+      "The Company PepsiCo Inc has 1.99 times less Market share in South Africa than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "PepsiCo Inc",
+         "Market share in South Africa": 5.5
+      },
+      {
+         "Company": "Tiger Brands Ltd",
+         "Market share in South Africa": 9.4
+      },
+      {
+         "Company": "Other",
+         "Market share in South Africa": 35.3
+      },
+      {
+         "Company": "The Coca-Cola Co",
+         "Market share in South Africa": 49.8
+      }
+   ]
+}

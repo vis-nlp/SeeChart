@@ -1,0 +1,89 @@
+{
+   "title": "Global basketball shoe sales 2012 - 2013 , by NBA player",
+   "labels": [
+      "Quarter",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Shoe sales in million U.S. dollars on the Y-axis for 5 different Quarters for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for 2013 and 2012. In both cases, the Shoe sales in million U.S. dollars have declined. ",
+      " Quarter Michael Jordan had the maximum Shoe sales in million U.S. dollars among all 2 groups, and it was for 2013. The minimum Shoe sales in million U.S. dollars was observed in Quarter Kevin Durant for 2012. ",
+      "Quarter Michael Jordan and Derrick Rose had the biggest gap of 2460.0 between the highest and lowest Shoe sales in million U.S. dollars found for 2013. "
+   ],
+   "xAxis": "Quarter",
+   "yAxis": "Shoe sales in million U.S. dollars",
+   "min_summary": [
+      "This grouped bar chart shows Shoe sales in million U.S. dollars on the Y-axis for 5 different Quarters for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " Over the 5 Quarters, the Shoe sales in million U.S. dollars for both 2013 and 2012 have declined. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Shoe sales in million U.S. dollars on the Y-axis for 5 different Quarters for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for 2013 and 2012. In both cases, the Shoe sales in million U.S. dollars have declined. ",
+      " Quarter Michael Jordan had the maximum Shoe sales in million U.S. dollars among all 2 groups, and it was for 2013. The minimum Shoe sales in million U.S. dollars was observed in Quarter Kevin Durant for 2012. ",
+      "Quarter Michael Jordan and Derrick Rose had the biggest gap of 2460.0 between the highest and lowest Shoe sales in million U.S. dollars found for 2013. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 5 different Quarters on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding Shoe sales in million U.S. dollars. ",
+      " Over the 5 Quarters, the Shoe sales in million U.S. dollars for both 2013 and 2012 have declined. ",
+      " Out of all 2 groups, 2013 had the highest Shoe sales in million U.S. dollars for Quarter Michael Jordan and 2012 had the lowest Shoe sales in million U.S. dollars for Quarter Kevin Durant. ",
+      " Among all the Quarters, 2013 had the highest Shoe sales in million U.S. dollars 2500.0 in Quarter Michael Jordan and lowest value 40.0 in Quarter Derrick Rose. ",
+      "Quarter Michael Jordan and Derrick Rose had the biggest gap of 2460.0 between the highest and lowest Shoe sales in million U.S. dollars found for 2013. ",
+      " Among the groups, 2012 had the biggest difference in Shoe sales in million U.S. dollars. Where the maximum Shoe sales in million U.S. dollars was 57.14 times larger than the minimum Shoe sales in million U.S. dollars. ",
+      "On average, the Quarter Michael Jordan had the highest Shoe sales in million U.S. dollars for all 2 groups 2012, and 2013. Whereas Derrick Rose had the lowest average Shoe sales in million U.S. dollars. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Michael Jordan",
+         "2012": "2000",
+         "2013": "2500"
+      },
+      {
+         "Quarter": "Lebron James",
+         "2012": "300",
+         "2013": "300"
+      },
+      {
+         "Quarter": "Kevin Durant",
+         "2012": "35",
+         "2013": "175"
+      },
+      {
+         "Quarter": "Kobe Bryant",
+         "2012": "50",
+         "2013": "50"
+      },
+      {
+         "Quarter": "Derrick Rose",
+         "2012": "40",
+         "2013": "40"
+      }
+   ]
+}

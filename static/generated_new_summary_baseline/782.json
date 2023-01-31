@@ -1,0 +1,76 @@
+{
+   "title": "Revenue per employee of leading tech companies 2018",
+   "xAxis": "Company",
+   "yAxis": "Revenue per employee in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Company in the x axis and Revenue per employee in U.S. dollars in the y axis. ",
+      "Company Netflix has the highest Revenue per employee in U.S. dollars and Amazon has the lowest Revenue per employee in U.S. dollars. ",
+      "Company Netflix has 6.18 times more Revenue per employee in U.S. dollars than Company Amazon which is has the lowest. "
+   ],
+   "min_summary": [
+      "This bar chart has 8 columns on the x axis representing Company, and Revenue per employee in U.S. dollars in each Company on the y axis. ",
+      "The maximum Revenue per employee in U.S. dollars 2224555.0 is found at Company Netflix and the minimum is found at Amazon where Revenue per employee in U.S. dollars is 359671.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Company in the x axis and Revenue per employee in U.S. dollars in the y axis. ",
+      "Company Netflix has the highest Revenue per employee in U.S. dollars and Amazon has the lowest Revenue per employee in U.S. dollars. ",
+      "Company Netflix has 6.18 times more Revenue per employee in U.S. dollars than Company Amazon which is has the lowest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Revenue per employee in U.S. dollars for 8 number of Companys. ",
+      "The Revenue per employee in U.S. dollars is appeared to be the highest at Company Netflix and lowest at Company Amazon. ",
+      "The second highest Revenue per employee in U.S. dollars is appeared to be the Company . ",
+      "There is a difference of 1864884.0 between the maximum Company Netflix and minimum Company Amazon. ",
+      "Revenue per employee in U.S. dollars at Company Netflix is 2224555.0 , second place is  at 2224555.0, and thirdly is Facebook at 1569056.0.",
+      "The average Revenue per employee in U.S. dollars in all 8 Companys is 1218917.25. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Netflix",
+         "Revenue per employee in U.S. dollars": 2224555.0
+      },
+      {
+         "Company": "Apple",
+         "Revenue per employee in U.S. dollars": 2012083.0
+      },
+      {
+         "Company": "Facebook",
+         "Revenue per employee in U.S. dollars": 1569056.0
+      },
+      {
+         "Company": "Alphabet",
+         "Revenue per employee in U.S. dollars": 1385214.0
+      },
+      {
+         "Company": "Microsoft",
+         "Revenue per employee in U.S. dollars": 873910.0
+      },
+      {
+         "Company": "Twitter",
+         "Revenue per employee in U.S. dollars": 776112.0
+      },
+      {
+         "Company": "Alibaba",
+         "Revenue per employee in U.S. dollars": 550737.0
+      },
+      {
+         "Company": "Amazon",
+         "Revenue per employee in U.S. dollars": 359671.0
+      }
+   ]
+}

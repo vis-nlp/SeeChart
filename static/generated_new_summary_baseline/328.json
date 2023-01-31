@@ -1,0 +1,85 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in the Czech Republic 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " In general GDP growth compared to previous year has fallen over the Year.",
+      "GDP growth compared to previous year is slightly increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, slightly increasing from 2016 to 2017, and finally roughly constant from 2017 to 2024.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Maximum GDP growth compared to previous year, about 5.31 was reported at Year 2015",
+      "Minimum GDP growth compared to previous year about 2.45 was reached at Year 2016, and 2019"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " Overall GDP growth compared to previous year has decreased over the Year.",
+      "GDP growth compared to previous year is slightly increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, slightly increasing from 2016 to 2017, and finally roughly constant from 2017 to 2024."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " In general GDP growth compared to previous year has fallen over the Year.",
+      "GDP growth compared to previous year is slightly increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, slightly increasing from 2016 to 2017, and finally roughly constant from 2017 to 2024.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Maximum GDP growth compared to previous year, about 5.31 was reported at Year 2015",
+      "Minimum GDP growth compared to previous year about 2.45 was reached at Year 2016, and 2019"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " Overall GDP growth compared to previous year has decreased over the Year.",
+      "GDP growth compared to previous year is slightly increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, slightly increasing from 2016 to 2017, and finally roughly constant from 2017 to 2024.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Maximum GDP growth compared to previous year, about 5.31 was reported at Year 2015",
+      "Minimum GDP growth compared to previous year about 2.45 was reached at Year 2016, and 2019",
+      "The line rapidly increased by 95.22% from Year 2014 to 2015, and lastly, increased by 77.55% from Year 2016 to 2017."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 2.54
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 2.54
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 2.55
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 2.65
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 2.62
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 2.45
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 2.96
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 4.35
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 2.45
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 5.31
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 2.72
+      }
+   ]
+}

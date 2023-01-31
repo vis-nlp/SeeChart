@@ -1,0 +1,135 @@
+{
+   "title": "Average player salary in MLS by team 2018",
+   "xAxis": "Team",
+   "yAxis": "Salary in thousand U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 23 columns on the x axis representing Team, and Salary in thousand U.S. dollars in each Team on the y axis. ",
+      "Team Toronto FC has the highest Salary in thousand U.S. dollars and Houston Dynamo has the lowest Salary in thousand U.S. dollars. ",
+      "There is a difference of 706.89 between the maximum Team Toronto FC and minimum Team Houston Dynamo. "
+   ],
+   "min_summary": [
+      "This bar chart has 23 columns on the x axis representing Team, and Salary in thousand U.S. dollars in each Team on the y axis. ",
+      "Team Toronto FC has the highest Salary in thousand U.S. dollars and Houston Dynamo has the lowest Salary in thousand U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This bar chart has 23 columns on the x axis representing Team, and Salary in thousand U.S. dollars in each Team on the y axis. ",
+      "Team Toronto FC has the highest Salary in thousand U.S. dollars and Houston Dynamo has the lowest Salary in thousand U.S. dollars. ",
+      "There is a difference of 706.89 between the maximum Team Toronto FC and minimum Team Houston Dynamo. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Team in the x axis and Salary in thousand U.S. dollars in the y axis. ",
+      "The Salary in thousand U.S. dollars is highest at Team Toronto FC and lowest at Team Houston Dynamo. ",
+      "The highest Team Toronto FC has 706.89 more Salary in thousand U.S. dollars than the lowest Team Houston Dynamo. ",
+      "The Team Toronto FC has the highest Salary in thousand U.S. dollars, followed by , and New York City FC. Down to the Team Houston Dynamo which is the lowest. ",
+      "Considered together, the average Salary in thousand U.S. dollars in all 23 Teams is roughly 374.57. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 22,
+         "12": 22
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Team": "Toronto FC",
+         "Salary in thousand U.S. dollars": 902.41
+      },
+      {
+         "Team": "LA Galaxy",
+         "Salary in thousand U.S. dollars": 648.15
+      },
+      {
+         "Team": "New York City FC",
+         "Salary in thousand U.S. dollars": 544.23
+      },
+      {
+         "Team": "Chicago Fire",
+         "Salary in thousand U.S. dollars": 492.86
+      },
+      {
+         "Team": "Los Angeles FC",
+         "Salary in thousand U.S. dollars": 479.64
+      },
+      {
+         "Team": "Seattle Sounders FC",
+         "Salary in thousand U.S. dollars": 421.48
+      },
+      {
+         "Team": "Portland Timbers",
+         "Salary in thousand U.S. dollars": 417.33
+      },
+      {
+         "Team": "Montreal Impact",
+         "Salary in thousand U.S. dollars": 383.55
+      },
+      {
+         "Team": "Colorado Rapids",
+         "Salary in thousand U.S. dollars": 366.67
+      },
+      {
+         "Team": "Atlanta United",
+         "Salary in thousand U.S. dollars": 364.94
+      },
+      {
+         "Team": "Sporting Kansas City",
+         "Salary in thousand U.S. dollars": 327.86
+      },
+      {
+         "Team": "Orlando City SC",
+         "Salary in thousand U.S. dollars": 309.66
+      },
+      {
+         "Team": "Philadelphia Union",
+         "Salary in thousand U.S. dollars": 307.59
+      },
+      {
+         "Team": "FC Dallas",
+         "Salary in thousand U.S. dollars": 300.97
+      },
+      {
+         "Team": "Real Salt Lake",
+         "Salary in thousand U.S. dollars": 299.33
+      },
+      {
+         "Team": "New England Revolution",
+         "Salary in thousand U.S. dollars": 272.8
+      },
+      {
+         "Team": "Minnesota United FC",
+         "Salary in thousand U.S. dollars": 271.67
+      },
+      {
+         "Team": "San Jose Earthquakes",
+         "Salary in thousand U.S. dollars": 268.62
+      },
+      {
+         "Team": "New York Red Bulls",
+         "Salary in thousand U.S. dollars": 265.17
+      },
+      {
+         "Team": "D.C. United",
+         "Salary in thousand U.S. dollars": 259.23
+      },
+      {
+         "Team": "Columbus Crew SC",
+         "Salary in thousand U.S. dollars": 258.15
+      },
+      {
+         "Team": "Vancouver Whitecaps FC",
+         "Salary in thousand U.S. dollars": 257.19
+      },
+      {
+         "Team": "Houston Dynamo",
+         "Salary in thousand U.S. dollars": 195.52
+      }
+   ]
+}

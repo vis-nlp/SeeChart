@@ -1,0 +1,216 @@
+{
+   "title": "Crude oil export destination countries of the United Kingdom ( UK ) 2016 to 2018",
+   "labels": [
+      "Year",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the Export volume in thousand metric tons and the x axis indicates Year.",
+      "Overall 2016, 2017, and 2018 are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Export volume in thousand metric tons in descending order is: 1. 2018, 2. 2016, and lastly, 3. 2017. ",
+      "Overall across the Year, 2018 mostly maintained the highest Export volume in thousand metric tons when compared to others with a mean value of 2161.14, and it peaked at Netherlands.",
+      "After 2018, 2016 overall has the second highest values , with a mean value of 2098.9, peaking at UK_refineries. ",
+      "The botommost line, 2017,  has a mean of 2003.48, and peaked at Netherlands. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Export volume in thousand metric tons",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely 2016, 2017, and 2018. The y axis represents Export volume in thousand metric tons and the x axis represents Year.",
+      "Overall 2016, 2017, and 2018 are roughly constant,  throughout the Year",
+      "Throughout the period, 2018 generally had the highest Export volume in thousand metric tons relative to others with an average of 2161.14, and it reached its maximum at Netherlands with a value of 16797.0.",
+      "After 2018, 2016 overall has the second highest values , with a mean value of 2098.9, peaking at UK_refineries. ",
+      "2017 mostly had the least Export volume in thousand metric tons with a mean value of 2003.48, which peaked at Netherlands with a value of 13980.0. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the Export volume in thousand metric tons and the x axis indicates Year.",
+      "Overall 2016, 2017, and 2018 are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Export volume in thousand metric tons in descending order is: 1. 2018, 2. 2016, and lastly, 3. 2017. ",
+      "Overall across the Year, 2018 mostly maintained the highest Export volume in thousand metric tons when compared to others with a mean value of 2161.14, and it peaked at Netherlands.",
+      "After 2018, 2016 overall has the second highest values , with a mean value of 2098.9, peaking at UK_refineries. ",
+      "The botommost line, 2017,  has a mean of 2003.48, and peaked at Netherlands. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the Export volume in thousand metric tons and the x axis indicates Year.",
+      "Overall 2016, 2017, and 2018 are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Export volume in thousand metric tons in descending order is: 1. 2018, 2. 2016, and lastly, 3. 2017. ",
+      "Overall across the Year, 2018 mostly maintained the highest Export volume in thousand metric tons when compared to others with a mean value of 2161.14, and it peaked at Netherlands.",
+      "After 2018, 2016 overall has the second highest values , with a mean value of 2098.9, peaking at UK_refineries. ",
+      "The botommost line, 2017,  has a mean of 2003.48, and peaked at Netherlands. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "20",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "2"
+         ],
+         "9": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "20",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "19",
+            "0"
+         ],
+         "10": [
+            "19",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Canada",
+         "2016": "418",
+         "2017": "315",
+         "2018": "570"
+      },
+      {
+         "Year": "China",
+         "2016": "4685",
+         "2017": "5675",
+         "2018": "6188"
+      },
+      {
+         "Year": "Denmark",
+         "2016": "114",
+         "2017": "188",
+         "2018": "78"
+      },
+      {
+         "Year": "Finland",
+         "2016": "0",
+         "2017": "0",
+         "2018": "56"
+      },
+      {
+         "Year": "France",
+         "2016": "1204",
+         "2017": "1257",
+         "2018": "728"
+      },
+      {
+         "Year": "Germany",
+         "2016": "5146",
+         "2017": "4345",
+         "2018": "3751"
+      },
+      {
+         "Year": "Greece",
+         "2016": "0",
+         "2017": "0",
+         "2018": "130"
+      },
+      {
+         "Year": "India",
+         "2016": "80",
+         "2017": "0",
+         "2018": "91"
+      },
+      {
+         "Year": "Italy",
+         "2016": "482",
+         "2017": "76",
+         "2018": "399"
+      },
+      {
+         "Year": "Martinique",
+         "2016": "79",
+         "2017": "129",
+         "2018": "0"
+      },
+      {
+         "Year": "Netherlands",
+         "2016": "12092",
+         "2017": "13980",
+         "2018": "16797"
+      },
+      {
+         "Year": "Norway",
+         "2016": "85",
+         "2017": "158",
+         "2018": "1144"
+      },
+      {
+         "Year": "Poland",
+         "2016": "78",
+         "2017": "40",
+         "2018": "589"
+      },
+      {
+         "Year": "Republic of Ireland",
+         "2016": "54",
+         "2017": "545",
+         "2018": "583"
+      },
+      {
+         "Year": "South Korea",
+         "2016": "3055",
+         "2017": "5187",
+         "2018": "3791"
+      },
+      {
+         "Year": "Spain",
+         "2016": "1390",
+         "2017": "764",
+         "2018": "552"
+      },
+      {
+         "Year": "Sweden",
+         "2016": "323",
+         "2017": "216",
+         "2018": "447"
+      },
+      {
+         "Year": "Turkey",
+         "2016": "157",
+         "2017": "38",
+         "2018": "0"
+      },
+      {
+         "Year": "USA",
+         "2016": "709",
+         "2017": "651",
+         "2018": "1821"
+      },
+      {
+         "Year": "UK refineries",
+         "2016": "13846",
+         "2017": "8178",
+         "2018": "6761"
+      },
+      {
+         "Year": "Unknown",
+         "2016": "79",
+         "2017": "331",
+         "2018": "908"
+      }
+   ]
+}

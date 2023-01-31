@@ -1,0 +1,127 @@
+{
+   "title": "Youth unemployment rate in Italy 2018 , by region",
+   "xAxis": "Month",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Unemployment rate in each Month on the y axis. ",
+      "The Unemployment rate is highest at Month Sicily and lowest at Month Trentino-South Tyrol. ",
+      "Month Sicily has 4.5 times more Unemployment rate than Month Trentino-South Tyrol which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Unemployment rate in the y axis. ",
+      "The Unemployment rate is appeared to be the highest at Month Sicily and lowest at Month Trentino-South Tyrol. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Unemployment rate in each Month on the y axis. ",
+      "The Unemployment rate is highest at Month Sicily and lowest at Month Trentino-South Tyrol. ",
+      "Month Sicily has 4.5 times more Unemployment rate than Month Trentino-South Tyrol which is has the lowest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Unemployment rate for 20 number of Months. ",
+      "The Unemployment rate is highest at Month Sicily and lowest at Month Trentino-South Tyrol. ",
+      "Second maximum Unemployment rate is found at Month . ",
+      "The highest Month Sicily has 41.7 more Unemployment rate than the lowest Month Trentino-South Tyrol. ",
+      "Month Sicily is higher than any other Months with value 53.6, followed by , and Calabria. Down to Month Trentino-South Tyrol with the lowest value 11.9. ",
+      "The Unemployment rate has declined over the past 20 Months. ",
+      "Month Sicily, and Campania share the same value 53.6. ",
+      "The highest value 53.6 at Sicily is almost 1.67 times larger than the average value 32.08. ",
+      "The Unemployment rate is 641.7 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Sicily",
+         "Unemployment rate": 53.6
+      },
+      {
+         "Month": "Campania",
+         "Unemployment rate": 53.6
+      },
+      {
+         "Month": "Calabria",
+         "Unemployment rate": 52.7
+      },
+      {
+         "Month": "Apulia",
+         "Unemployment rate": 43.6
+      },
+      {
+         "Month": "Molise",
+         "Unemployment rate": 40.3
+      },
+      {
+         "Month": "Basilicata",
+         "Unemployment rate": 38.7
+      },
+      {
+         "Month": "Liguria",
+         "Unemployment rate": 36.3
+      },
+      {
+         "Month": "Sardinia",
+         "Unemployment rate": 35.7
+      },
+      {
+         "Month": "Lazio",
+         "Unemployment rate": 34.5
+      },
+      {
+         "Month": "Umbria",
+         "Unemployment rate": 31.1
+      },
+      {
+         "Month": "Piedmont",
+         "Unemployment rate": 30.0
+      },
+      {
+         "Month": "Abruzzo",
+         "Unemployment rate": 29.7
+      },
+      {
+         "Month": "Friuli-Venezia Giulia",
+         "Unemployment rate": 23.7
+      },
+      {
+         "Month": "Tuscany",
+         "Unemployment rate": 22.9
+      },
+      {
+         "Month": "Marche",
+         "Unemployment rate": 22.1
+      },
+      {
+         "Month": "Aosta Valley",
+         "Unemployment rate": 21.7
+      },
+      {
+         "Month": "Veneto",
+         "Unemployment rate": 21.0
+      },
+      {
+         "Month": "Lombardy",
+         "Unemployment rate": 20.8
+      },
+      {
+         "Month": "Emilia-Romagna",
+         "Unemployment rate": 17.8
+      },
+      {
+         "Month": "Trentino-South Tyrol",
+         "Unemployment rate": 11.9
+      }
+   ]
+}

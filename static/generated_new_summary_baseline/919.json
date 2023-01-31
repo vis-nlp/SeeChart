@@ -1,0 +1,61 @@
+{
+   "title": "Leading trailers in the U.S. January 2020 , by weekly TV ad spend",
+   "xAxis": "Year",
+   "yAxis": "Spending in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Spending in million U.S. dollars. In total the number of data points it has is 5.",
+      " Overall Spending in million U.S. dollars has decreased over the Year.",
+      "Spending in million U.S. dollars is slightly decreasing from 1917 to Dolittle, and lastly roughly constant from Dolittle to Like_a_Boss.",
+      "The most drastic decrease took place within the Year 1917 and Bad_Boys_for_Life.",
+      "The highest Spending in million U.S. dollars, of value 10.41 was reached at Year 1917",
+      "Minimum Spending in million U.S. dollars about 3.72 was reached at Year Just_Mercy"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Spending in million U.S. dollars. In total the number of data points it has is 5.",
+      " Overall Spending in million U.S. dollars has decreased over the Year.",
+      "Spending in million U.S. dollars is slightly decreasing from 1917 to Dolittle, and lastly roughly constant from Dolittle to Like_a_Boss."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Spending in million U.S. dollars. In total the number of data points it has is 5.",
+      " Overall Spending in million U.S. dollars has decreased over the Year.",
+      "Spending in million U.S. dollars is slightly decreasing from 1917 to Dolittle, and lastly roughly constant from Dolittle to Like_a_Boss.",
+      "The most drastic decrease took place within the Year 1917 and Bad_Boys_for_Life.",
+      "The highest Spending in million U.S. dollars, of value 10.41 was reached at Year 1917",
+      "Minimum Spending in million U.S. dollars about 3.72 was reached at Year Just_Mercy"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Spending in million U.S. dollars. In total the number of data points it has is 5.",
+      " In general Spending in million U.S. dollars has fallen over the Year.",
+      "Spending in million U.S. dollars is slightly decreasing from 1917 to Dolittle, and lastly roughly constant from Dolittle to Like_a_Boss.",
+      "The most drastic decrease took place within the Year 1917 and Bad_Boys_for_Life.",
+      "The highest Spending in million U.S. dollars, of value 10.41 was reached at Year 1917",
+      "Minimum Spending in million U.S. dollars about 3.72 was reached at Year Just_Mercy",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "1917",
+         "Spending in million U.S. dollars": 10.41
+      },
+      {
+         "Year": "Dolittle",
+         "Spending in million U.S. dollars": 5.77
+      },
+      {
+         "Year": "Bad Boys for Life",
+         "Spending in million U.S. dollars": 4.18
+      },
+      {
+         "Year": "Like a Boss",
+         "Spending in million U.S. dollars": 3.9
+      },
+      {
+         "Year": "Just Mercy",
+         "Spending in million U.S. dollars": 3.72
+      }
+   ]
+}

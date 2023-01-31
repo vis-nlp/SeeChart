@@ -1,0 +1,204 @@
+{
+   "title": "Gross domestic product ( GDP ) per capita in the United States 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP per capita in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
+      " Overall GDP per capita in U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest GDP per capita in U.S. dollars, of value 76252.11 was reached at Year 2024",
+      "The lowest GDP per capita in U.S. dollars, of value 17086.44 was reported at Year 1984"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, containing a total of 41 data points.",
+      " In general GDP per capita in U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
+      " Overall GDP per capita in U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest GDP per capita in U.S. dollars, of value 76252.11 was reached at Year 2024",
+      "The lowest GDP per capita in U.S. dollars, of value 17086.44 was reported at Year 1984"
+   ],
+   "max_summary": [
+      "The chart generally has many fluctuations.",
+      "The chart generally has many fluctuations.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
+      " Overall GDP per capita in U.S. dollars has increased over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest GDP per capita in U.S. dollars, of value 76252.11 was reached at Year 2024",
+      "The lowest GDP per capita in U.S. dollars, of value 17086.44 was reported at Year 1984",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP per capita in U.S. dollars": 76252.11
+      },
+      {
+         "Year": "2023",
+         "GDP per capita in U.S. dollars": 73953.43
+      },
+      {
+         "Year": "2022",
+         "GDP per capita in U.S. dollars": 71760.35
+      },
+      {
+         "Year": "2021",
+         "GDP per capita in U.S. dollars": 69643.84
+      },
+      {
+         "Year": "2020",
+         "GDP per capita in U.S. dollars": 67426.84
+      },
+      {
+         "Year": "2019",
+         "GDP per capita in U.S. dollars": 65111.6
+      },
+      {
+         "Year": "2018",
+         "GDP per capita in U.S. dollars": 62868.92
+      },
+      {
+         "Year": "2017",
+         "GDP per capita in U.S. dollars": 59999.51
+      },
+      {
+         "Year": "2016",
+         "GDP per capita in U.S. dollars": 57901.07
+      },
+      {
+         "Year": "2015",
+         "GDP per capita in U.S. dollars": 56787.46
+      },
+      {
+         "Year": "2014",
+         "GDP per capita in U.S. dollars": 55010.07
+      },
+      {
+         "Year": "2013",
+         "GDP per capita in U.S. dollars": 53061.24
+      },
+      {
+         "Year": "2012",
+         "GDP per capita in U.S. dollars": 51556.17
+      },
+      {
+         "Year": "2011",
+         "GDP per capita in U.S. dollars": 49825.5
+      },
+      {
+         "Year": "2010",
+         "GDP per capita in U.S. dollars": 48402.58
+      },
+      {
+         "Year": "2009",
+         "GDP per capita in U.S. dollars": 47007.67
+      },
+      {
+         "Year": "2008",
+         "GDP per capita in U.S. dollars": 48283.41
+      },
+      {
+         "Year": "2007",
+         "GDP per capita in U.S. dollars": 47869.24
+      },
+      {
+         "Year": "2006",
+         "GDP per capita in U.S. dollars": 46213.51
+      },
+      {
+         "Year": "2005",
+         "GDP per capita in U.S. dollars": 44025.56
+      },
+      {
+         "Year": "2004",
+         "GDP per capita in U.S. dollars": 41629.86
+      },
+      {
+         "Year": "2003",
+         "GDP per capita in U.S. dollars": 39411.55
+      },
+      {
+         "Year": "2002",
+         "GDP per capita in U.S. dollars": 37971.28
+      },
+      {
+         "Year": "2001",
+         "GDP per capita in U.S. dollars": 37101.1
+      },
+      {
+         "Year": "2000",
+         "GDP per capita in U.S. dollars": 36317.74
+      },
+      {
+         "Year": "1999",
+         "GDP per capita in U.S. dollars": 34494.54
+      },
+      {
+         "Year": "1998",
+         "GDP per capita in U.S. dollars": 32833.67
+      },
+      {
+         "Year": "1997",
+         "GDP per capita in U.S. dollars": 31440.09
+      },
+      {
+         "Year": "1996",
+         "GDP per capita in U.S. dollars": 29946.97
+      },
+      {
+         "Year": "1995",
+         "GDP per capita in U.S. dollars": 28671.48
+      },
+      {
+         "Year": "1994",
+         "GDP per capita in U.S. dollars": 27674.02
+      },
+      {
+         "Year": "1993",
+         "GDP per capita in U.S. dollars": 26364.19
+      },
+      {
+         "Year": "1992",
+         "GDP per capita in U.S. dollars": 25392.93
+      },
+      {
+         "Year": "1991",
+         "GDP per capita in U.S. dollars": 24302.78
+      },
+      {
+         "Year": "1990",
+         "GDP per capita in U.S. dollars": 23847.98
+      },
+      {
+         "Year": "1989",
+         "GDP per capita in U.S. dollars": 22814.08
+      },
+      {
+         "Year": "1988",
+         "GDP per capita in U.S. dollars": 21376.0
+      },
+      {
+         "Year": "1987",
+         "GDP per capita in U.S. dollars": 20000.97
+      },
+      {
+         "Year": "1986",
+         "GDP per capita in U.S. dollars": 19034.77
+      },
+      {
+         "Year": "1985",
+         "GDP per capita in U.S. dollars": 18199.32
+      },
+      {
+         "Year": "1984",
+         "GDP per capita in U.S. dollars": 17086.44
+      }
+   ]
+}

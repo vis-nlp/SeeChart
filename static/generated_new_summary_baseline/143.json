@@ -1,0 +1,126 @@
+{
+   "title": "Annual rent in the most expensive retail locations globally 2019",
+   "xAxis": "Retail Locations",
+   "yAxis": "Annual rent in U.S. dollars per square foot",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 columns on the x axis representing Retail Locations, and Annual rent in U.S. dollars per square foot in each Retail Locations on the y axis. ",
+      "The Annual rent in U.S. dollars per square foot is highest at Retail Locations Causeway Bay main street shops (Hong Kong) and lowest at Retail Locations Khan Market (New Delhi). ",
+      "There is a difference of 2502.0 between the maximum Retail Locations Causeway Bay main street shops (Hong Kong) and minimum Retail Locations Khan Market (New Delhi). "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Retail Locations in the x axis and Annual rent in U.S. dollars per square foot in the y axis. ",
+      "The maximum Annual rent in U.S. dollars per square foot 2745.0 is found at Retail Locations Causeway Bay main street shops (Hong Kong) and the minimum is found at Khan Market (New Delhi) where Annual rent in U.S. dollars per square foot is 243.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing Retail Locations, and Annual rent in U.S. dollars per square foot in each Retail Locations on the y axis. ",
+      "The Annual rent in U.S. dollars per square foot is highest at Retail Locations Causeway Bay main street shops (Hong Kong) and lowest at Retail Locations Khan Market (New Delhi). ",
+      "There is a difference of 2502.0 between the maximum Retail Locations Causeway Bay main street shops (Hong Kong) and minimum Retail Locations Khan Market (New Delhi). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Retail Locations in the x axis and Annual rent in U.S. dollars per square foot in the y axis. ",
+      "Retail Locations Causeway Bay main street shops (Hong Kong) has the highest Annual rent in U.S. dollars per square foot and Khan Market (New Delhi) has the lowest Annual rent in U.S. dollars per square foot. ",
+      "The second highest Annual rent in U.S. dollars per square foot is appeared to be the Retail Locations . ",
+      "The difference of Annual rent in U.S. dollars per square foot between the highest and lowest Retail Locations is 2502.0. ",
+      "The Retail Locations Causeway Bay main street shops (Hong Kong) has the highest Annual rent in U.S. dollars per square foot, followed by , and New Bond Street (London). Down to the Retail Locations Khan Market (New Delhi) which is the lowest. ",
+      "Similar Annual rent in U.S. dollars per square foot is found in Retail Locations Portal de L'Angel (Barcelona), and Ermou (Athens). ",
+      "The lowest value 243.0 at Khan Market (New Delhi) is almost 3.1 times smaller than the average value 885.35. ",
+      "The Annual rent in U.S. dollars per square foot is 17707.0 if we add up values of all Retail Locationss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Retail Locations": "Causeway Bay main street shops (Hong Kong)",
+         "Annual rent in U.S. dollars per square foot": 2745.0
+      },
+      {
+         "Retail Locations": "Upper 5th Avenue 49th-60th Sts (New York)",
+         "Annual rent in U.S. dollars per square foot": 2250.0
+      },
+      {
+         "Retail Locations": "New Bond Street (London)",
+         "Annual rent in U.S. dollars per square foot": 1714.0
+      },
+      {
+         "Retail Locations": "Avenue des Champs-Elysees (Paris)",
+         "Annual rent in U.S. dollars per square foot": 1478.0
+      },
+      {
+         "Retail Locations": "Via Montenapoleone (Milan)",
+         "Annual rent in U.S. dollars per square foot": 1447.0
+      },
+      {
+         "Retail Locations": "Ginza (Tokyo)",
+         "Annual rent in U.S. dollars per square foot": 1251.0
+      },
+      {
+         "Retail Locations": "Pitt Street Mall (Sydney)",
+         "Annual rent in U.S. dollars per square foot": 1076.0
+      },
+      {
+         "Retail Locations": "Bahnhofstrasse (Zurich)",
+         "Annual rent in U.S. dollars per square foot": 866.0
+      },
+      {
+         "Retail Locations": "Myeongdong (Seoul)",
+         "Annual rent in U.S. dollars per square foot": 862.0
+      },
+      {
+         "Retail Locations": "Kohlmarkt (Vienna)",
+         "Annual rent in U.S. dollars per square foot": 513.0
+      },
+      {
+         "Retail Locations": "Wangfujing (Beijing)",
+         "Annual rent in U.S. dollars per square foot": 471.0
+      },
+      {
+         "Retail Locations": "Kaufinger/Neuhauser (Munich)",
+         "Annual rent in U.S. dollars per square foot": 469.0
+      },
+      {
+         "Retail Locations": "Grafton Street (Dublin)",
+         "Annual rent in U.S. dollars per square foot": 401.0
+      },
+      {
+         "Retail Locations": "Portal de L'Angel (Barcelona)",
+         "Annual rent in U.S. dollars per square foot": 361.0
+      },
+      {
+         "Retail Locations": "Ermou (Athens)",
+         "Annual rent in U.S. dollars per square foot": 361.0
+      },
+      {
+         "Retail Locations": "Orchard Road (Singapore)",
+         "Annual rent in U.S. dollars per square foot": 312.0
+      },
+      {
+         "Retail Locations": "Kalverstraat (Amsterdam)",
+         "Annual rent in U.S. dollars per square foot": 301.0
+      },
+      {
+         "Retail Locations": "Na Prikope street (Prague)",
+         "Annual rent in U.S. dollars per square foot": 298.0
+      },
+      {
+         "Retail Locations": "Stoleshnikov (Moscow)",
+         "Annual rent in U.S. dollars per square foot": 288.0
+      },
+      {
+         "Retail Locations": "Khan Market (New Delhi)",
+         "Annual rent in U.S. dollars per square foot": 243.0
+      }
+   ]
+}

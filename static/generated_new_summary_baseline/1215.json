@@ -1,0 +1,145 @@
+{
+   "title": "Book store sales in the U.S. 1992 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 27.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2010 and 2011.",
+      "The highest Sales in billion U.S. dollars, of value 17.17 was reached at Year 2007",
+      "Minimum Sales in billion U.S. dollars about 8.33 was reached at Year 1992"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in billion U.S. dollars, containing a total of 27 data points.",
+      " Overall Sales in billion U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 27.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2010 and 2011.",
+      "The highest Sales in billion U.S. dollars, of value 17.17 was reached at Year 2007",
+      "Minimum Sales in billion U.S. dollars about 8.33 was reached at Year 1992"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in billion U.S. dollars, containing a total of 27 data points.",
+      " Overall Sales in billion U.S. dollars has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2010 and 2011.",
+      "The highest Sales in billion U.S. dollars, of value 17.17 was reached at Year 2007",
+      "Minimum Sales in billion U.S. dollars about 8.33 was reached at Year 1992",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in billion U.S. dollars": 10.28
+      },
+      {
+         "Year": "2017",
+         "Sales in billion U.S. dollars": 10.11
+      },
+      {
+         "Year": "2016",
+         "Sales in billion U.S. dollars": 11.14
+      },
+      {
+         "Year": "2015",
+         "Sales in billion U.S. dollars": 11.01
+      },
+      {
+         "Year": "2014",
+         "Sales in billion U.S. dollars": 11.33
+      },
+      {
+         "Year": "2013",
+         "Sales in billion U.S. dollars": 11.49
+      },
+      {
+         "Year": "2012",
+         "Sales in billion U.S. dollars": 12.27
+      },
+      {
+         "Year": "2011",
+         "Sales in billion U.S. dollars": 13.72
+      },
+      {
+         "Year": "2010",
+         "Sales in billion U.S. dollars": 15.24
+      },
+      {
+         "Year": "2009",
+         "Sales in billion U.S. dollars": 15.8
+      },
+      {
+         "Year": "2008",
+         "Sales in billion U.S. dollars": 16.8
+      },
+      {
+         "Year": "2007",
+         "Sales in billion U.S. dollars": 17.17
+      },
+      {
+         "Year": "2006",
+         "Sales in billion U.S. dollars": 16.98
+      },
+      {
+         "Year": "2005",
+         "Sales in billion U.S. dollars": 16.99
+      },
+      {
+         "Year": "2004",
+         "Sales in billion U.S. dollars": 16.88
+      },
+      {
+         "Year": "2003",
+         "Sales in billion U.S. dollars": 16.22
+      },
+      {
+         "Year": "2002",
+         "Sales in billion U.S. dollars": 15.44
+      },
+      {
+         "Year": "2001",
+         "Sales in billion U.S. dollars": 15.1
+      },
+      {
+         "Year": "2000",
+         "Sales in billion U.S. dollars": 14.88
+      },
+      {
+         "Year": "1999",
+         "Sales in billion U.S. dollars": 14.17
+      },
+      {
+         "Year": "1998",
+         "Sales in billion U.S. dollars": 13.28
+      },
+      {
+         "Year": "1997",
+         "Sales in billion U.S. dollars": 12.74
+      },
+      {
+         "Year": "1996",
+         "Sales in billion U.S. dollars": 11.91
+      },
+      {
+         "Year": "1995",
+         "Sales in billion U.S. dollars": 11.2
+      },
+      {
+         "Year": "1994",
+         "Sales in billion U.S. dollars": 10.11
+      },
+      {
+         "Year": "1993",
+         "Sales in billion U.S. dollars": 9.11
+      },
+      {
+         "Year": "1992",
+         "Sales in billion U.S. dollars": 8.33
+      }
+   ]
+}

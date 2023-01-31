@@ -1,0 +1,147 @@
+{
+   "title": "Major countries in bismuth mine production 2015 to 2019",
+   "labels": [
+      "Country",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 10 different Countrys on X-axis for 5 groups 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Production in metric tons. ",
+      " Country China had the maximum Production in metric tons among all 5 groups, and it was for 2018. The minimum Production in metric tons was observed in Country Laos for 2015. ",
+      "Country China and Russia had the biggest gap of 13999.0 between the highest and lowest Production in metric tons found for 2018. ",
+      "On average, the Country China had the highest Production in metric tons for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Bolivia had the lowest average Production in metric tons. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Production in metric tons",
+   "min_summary": [
+      "This grouped bar chart represents 10 different Countrys on X-axis for 5 groups 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Production in metric tons. ",
+      " Out of all 5 groups, 2018 had the highest Production in metric tons for Country China and 2015 had the lowest Production in metric tons for Country Laos. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 10 different Countrys on X-axis for 5 groups 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Production in metric tons. ",
+      " Country China had the maximum Production in metric tons among all 5 groups, and it was for 2018. The minimum Production in metric tons was observed in Country Laos for 2015. ",
+      "Country China and Russia had the biggest gap of 13999.0 between the highest and lowest Production in metric tons found for 2018. ",
+      "On average, the Country China had the highest Production in metric tons for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Bolivia had the lowest average Production in metric tons. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Production in metric tons on the Y-axis for 10 different Countrys for 5 groups 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Out of all 5 groups, 2018 had the highest Production in metric tons for Country China and 2015 had the lowest Production in metric tons for Country Laos. ",
+      " Among all the Countrys, 2018 had the highest Production in metric tons 14000.0 in Country China and lowest value 0.0 in Country Russia. ",
+      " The maximum Production in metric tons for 2018 that was found in Country China was 14000.0 times larger than the minimum Production in metric tons observed in Country Russia. ",
+      " Among all 5 groups, 2018 had the gap of 14000.0 between the maximum and minimum Production in metric tons observed in Country China and Russia respectively. ",
+      " In case of Country China, 2018 had the highest Production in metric tons 14000.0 among the 5 groups and in Laos, 2015 had the lowest Production in metric tons 0.0. The second highest Production in metric tons 7500.0 was observed for 2018 in Country China. ",
+      "On average, the Country China had the highest Production in metric tons for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Bolivia had the lowest average Production in metric tons. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "5",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "2015": "7500",
+         "2016": "7400",
+         "2017": "13500",
+         "2018": "14000",
+         "2019": "14000"
+      },
+      {
+         "Country": "Laos",
+         "2015": "0",
+         "2016": "0",
+         "2017": "2000",
+         "2018": "3010",
+         "2019": "3000"
+      },
+      {
+         "Country": "Japan",
+         "2015": "0",
+         "2016": "0",
+         "2017": "525",
+         "2018": "571",
+         "2019": "540"
+      },
+      {
+         "Country": "Mexico",
+         "2015": "700",
+         "2016": "700",
+         "2017": "513",
+         "2018": "333",
+         "2019": "400"
+      },
+      {
+         "Country": "Kazakhstan",
+         "2015": "0",
+         "2016": "0",
+         "2017": "270",
+         "2018": "290",
+         "2019": "270"
+      },
+      {
+         "Country": "Bulgaria",
+         "2015": "0",
+         "2016": "0",
+         "2017": "50",
+         "2018": "50",
+         "2019": "50"
+      },
+      {
+         "Country": "Canada",
+         "2015": "3",
+         "2016": "3",
+         "2017": "25",
+         "2018": "25",
+         "2019": "25"
+      },
+      {
+         "Country": "Russia",
+         "2015": "40",
+         "2016": "40",
+         "2017": "4",
+         "2018": "0",
+         "2019": "0"
+      },
+      {
+         "Country": "Vietnam",
+         "2015": "5000",
+         "2016": "2000",
+         "2017": "0",
+         "2018": "0",
+         "2019": "0"
+      },
+      {
+         "Country": "Bolivia",
+         "2015": "10",
+         "2016": "10",
+         "2017": "0",
+         "2018": "0",
+         "2019": "0"
+      }
+   ]
+}

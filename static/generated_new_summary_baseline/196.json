@@ -1,0 +1,89 @@
+{
+   "title": "MINI - worldwide sales volume 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales in units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in units. In total the number of data points it has is 13.",
+      " Overall Sales in units has increased over the Year.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Maximum Sales in units, about 371881.0 was reported at Year 2017",
+      "Minimum Sales in units about 188077.0 was reached at Year 2006"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in units. In total the number of data points it has is 13.",
+      " Overall Sales in units has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in units. In total the number of data points it has is 13.",
+      " Overall Sales in units has increased over the Year.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Maximum Sales in units, about 371881.0 was reported at Year 2017",
+      "Minimum Sales in units about 188077.0 was reached at Year 2006"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in units, containing a total of 13 data points.",
+      " Overall Sales in units has increased over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Sales in units, about 371881.0 was reported at Year 2017",
+      "Minimum Sales in units about 188077.0 was reached at Year 2006",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in units": 361531.0
+      },
+      {
+         "Year": "2017",
+         "Sales in units": 371881.0
+      },
+      {
+         "Year": "2016",
+         "Sales in units": 360233.0
+      },
+      {
+         "Year": "2015",
+         "Sales in units": 338466.0
+      },
+      {
+         "Year": "2014",
+         "Sales in units": 302183.0
+      },
+      {
+         "Year": "2013",
+         "Sales in units": 305030.0
+      },
+      {
+         "Year": "2012",
+         "Sales in units": 301526.0
+      },
+      {
+         "Year": "2011",
+         "Sales in units": 285060.0
+      },
+      {
+         "Year": "2010",
+         "Sales in units": 234175.0
+      },
+      {
+         "Year": "2009",
+         "Sales in units": 216538.0
+      },
+      {
+         "Year": "2008",
+         "Sales in units": 232425.0
+      },
+      {
+         "Year": "2007",
+         "Sales in units": 222875.0
+      },
+      {
+         "Year": "2006",
+         "Sales in units": 188077.0
+      }
+   ]
+}

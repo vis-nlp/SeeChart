@@ -1,0 +1,84 @@
+{
+   "title": "Leading influencers on Instagram in Sweden 2017 , by followers",
+   "xAxis": "Month",
+   "yAxis": "Instagram followers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Instagram followers in millions for 10 number of Months. ",
+      "The maximum Instagram followers in millions 4.9 is found at Month Anna Nystr\u00f6m (annanystrom) and the minimum is found at TrainForFitspo (trainforfitspo) where Instagram followers in millions is 0.51. ",
+      "There is a difference of 4.39 between the maximum Month Anna Nystr\u00f6m (annanystrom) and minimum Month TrainForFitspo (trainforfitspo). "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Instagram followers in millions in each Month on the y axis. ",
+      "The Instagram followers in millions is highest at Month Anna Nystr\u00f6m (annanystrom) and lowest at Month TrainForFitspo (trainforfitspo). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Instagram followers in millions for 10 number of Months. ",
+      "The maximum Instagram followers in millions 4.9 is found at Month Anna Nystr\u00f6m (annanystrom) and the minimum is found at TrainForFitspo (trainforfitspo) where Instagram followers in millions is 0.51. ",
+      "There is a difference of 4.39 between the maximum Month Anna Nystr\u00f6m (annanystrom) and minimum Month TrainForFitspo (trainforfitspo). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Instagram followers in millions in the y axis. ",
+      "The Instagram followers in millions is appeared to be the highest at Month Anna Nystr\u00f6m (annanystrom) and lowest at Month TrainForFitspo (trainforfitspo). ",
+      "There is a difference of 4.39 between the maximum Month Anna Nystr\u00f6m (annanystrom) and minimum Month TrainForFitspo (trainforfitspo). ",
+      "Month Anna Nystr\u00f6m (annanystrom) is higher than any other Months with value 4.9, followed by , and Kenza Zouiten (kenzas). Down to Month TrainForFitspo (trainforfitspo) with the lowest value 0.51. ",
+      "The Instagram followers in millions has declined over the past 10 Months. ",
+      "The highest value 4.9 at Anna Nystr\u00f6m (annanystrom) is almost 3.19 times larger than the average value 1.54. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Anna Nystr\u00f6m (annanystrom)",
+         "Instagram followers in millions": 4.9
+      },
+      {
+         "Month": "thisisamans.world",
+         "Instagram followers in millions": 2.1
+      },
+      {
+         "Month": "Kenza Zouiten (kenzas)",
+         "Instagram followers in millions": 1.8
+      },
+      {
+         "Month": "Christoffer Collin (wisslaren)",
+         "Instagram followers in millions": 1.4
+      },
+      {
+         "Month": "Angelica Blick (angelicablick)",
+         "Instagram followers in millions": 1.3
+      },
+      {
+         "Month": "Janni Del\u00e9r (jannid)",
+         "Instagram followers in millions": 1.2
+      },
+      {
+         "Month": "Victoria T\u00f6rnegren (victoriatornegren)",
+         "Instagram followers in millions": 0.77
+      },
+      {
+         "Month": "Mattias Klum (mattiasklumofficial)",
+         "Instagram followers in millions": 0.73
+      },
+      {
+         "Month": "Alexandra Bring (alexandrabring)",
+         "Instagram followers in millions": 0.65
+      },
+      {
+         "Month": "TrainForFitspo (trainforfitspo)",
+         "Instagram followers in millions": 0.51
+      }
+   ]
+}

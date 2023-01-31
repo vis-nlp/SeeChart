@@ -1,0 +1,115 @@
+{
+   "title": "Money spent while attending music festivals in the United Kingdom 2015 to 2016",
+   "labels": [
+      "Year",
+      "Less than 10 British pounds",
+      "10-50 British pounds",
+      "50-100 British pounds",
+      "100-150 British pounds",
+      "150-200 British pounds",
+      "250-300 British pounds",
+      "300-350 British pounds",
+      "Over 350 British pounds"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 8 lines namely Less than 10 British pounds, 10-50 British pounds, 50-100 British pounds, 100-150 British pounds, 150-200 British pounds, 250-300 British pounds, 300-350 British pounds, and Over 350 British pounds. The y axis represents Share of respondents and the x axis represents Year.",
+      "Overall 100-150 British pounds is gradually increasing, 150-200 British pounds is gradually decreasing, Less than 10 British pounds, 10-50 British pounds, 50-100 British pounds, 250-300 British pounds, 300-350 British pounds, and Over 350 British pounds are roughly constant,  throughout the Year",
+      "Overall across the Year, 50-100 British pounds mostly maintained the highest Share of respondents when compared to others with a mean value of 25.7, and it peaked at 2016.",
+      "After 50-100 British pounds, 100-150 British pounds overall has the second highest values , with a mean value of 21.6, peaking at 2016. ",
+      "The botommost line, Less than 10 British pounds,  has a mean of 2.2, and peaked at 2015. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This is a multi-line chart with 8 lines representing Less than 10 British pounds, 10-50 British pounds, 50-100 British pounds, 100-150 British pounds, 150-200 British pounds, 250-300 British pounds, 300-350 British pounds, and Over 350 British pounds. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall 100-150 British pounds is gradually increasing, 150-200 British pounds is gradually decreasing, Less than 10 British pounds, 10-50 British pounds, 50-100 British pounds, 250-300 British pounds, 300-350 British pounds, and Over 350 British pounds are roughly constant,  throughout the Year",
+      "Throughout the period, 50-100 British pounds generally had the highest Share of respondents relative to others with an average of 25.7, and it reached its maximum at 2016 with a value of 26.2.",
+      "After 50-100 British pounds, 100-150 British pounds overall has the second highest values , with a mean value of 21.6, peaking at 2016. ",
+      "The botommost line, Less than 10 British pounds,  has a mean of 2.2, and peaked at 2015. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 8 lines namely Less than 10 British pounds, 10-50 British pounds, 50-100 British pounds, 100-150 British pounds, 150-200 British pounds, 250-300 British pounds, 300-350 British pounds, and Over 350 British pounds. The y axis represents Share of respondents and the x axis represents Year.",
+      "Overall 100-150 British pounds is gradually increasing, 150-200 British pounds is gradually decreasing, Less than 10 British pounds, 10-50 British pounds, 50-100 British pounds, 250-300 British pounds, 300-350 British pounds, and Over 350 British pounds are roughly constant,  throughout the Year",
+      "Overall across the Year, 50-100 British pounds mostly maintained the highest Share of respondents when compared to others with a mean value of 25.7, and it peaked at 2016.",
+      "After 50-100 British pounds, 100-150 British pounds overall has the second highest values , with a mean value of 21.6, peaking at 2016. ",
+      "The botommost line, Less than 10 British pounds,  has a mean of 2.2, and peaked at 2015. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 8 lines denoting Less than 10 British pounds, 10-50 British pounds, 50-100 British pounds, 100-150 British pounds, 150-200 British pounds, 250-300 British pounds, 300-350 British pounds, and Over 350 British pounds. The y axis indicates the Share of respondents and the x axis indicates Year.",
+      "Overall 100-150 British pounds is gradually increasing, 150-200 British pounds is gradually decreasing, Less than 10 British pounds, 10-50 British pounds, 50-100 British pounds, 250-300 British pounds, 300-350 British pounds, and Over 350 British pounds are roughly constant,  throughout the Year",
+      "Overall across the Year, 50-100 British pounds mostly maintained the highest Share of respondents when compared to others with a mean value of 25.7, and it peaked at 2016.",
+      "After 50-100 British pounds, 100-150 British pounds overall has the second highest values , with a mean value of 21.6, peaking at 2016. ",
+      "The botommost line, Less than 10 British pounds,  has a mean of 2.2, and peaked at 2015. ",
+      "The minimum Share of respondents about 1.9, occured at 2016 by Less than 10 British pounds."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "1",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "15": [
+            "1",
+            "3"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "3"
+         ],
+         "10": [
+            "0",
+            "3"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Less than 10 British pounds": "1.9",
+         "10-50 British pounds": "18.6",
+         "50-100 British pounds": "26.2",
+         "100-150 British pounds": "22.4",
+         "150-200 British pounds": "16.1",
+         "250-300 British pounds": "8.3",
+         "300-350 British pounds": "3",
+         "Over 350 British pounds": "3.5"
+      },
+      {
+         "Year": "2015",
+         "Less than 10 British pounds": "2.5",
+         "10-50 British pounds": "18.2",
+         "50-100 British pounds": "25.2",
+         "100-150 British pounds": "20.9",
+         "150-200 British pounds": "18.1",
+         "250-300 British pounds": "8.7",
+         "300-350 British pounds": "2.9",
+         "Over 350 British pounds": "3.5"
+      }
+   ]
+}

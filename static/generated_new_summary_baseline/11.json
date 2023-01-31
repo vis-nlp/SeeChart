@@ -1,0 +1,107 @@
+{
+   "title": "U.S. Millennials : most popular social network 2016 , by age group",
+   "labels": [
+      "Platform",
+      "18-24",
+      "25-29",
+      "30-34"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 7 different Platforms on X-axis for 3 groups 18-24, 25-29, and 30-34. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Platform Facebook had the maximum Share of respondents among all 3 groups, and it was for 30-34. The minimum Share of respondents was observed in Platform Twitter for 25-29. ",
+      "Platform Facebook and Twitter had the biggest gap of 40.0 between the highest and lowest Share of respondents found for 25-29. ",
+      "On average, the Platform Facebook had the highest Share of respondents for all 3 groups 18-24, 25-29, and 30-34. Whereas Twitter had the lowest average Share of respondents. "
+   ],
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 7 different Platforms on X-axis for 3 groups 18-24, 25-29, and 30-34. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Platform Facebook had the maximum Share of respondents among all 3 groups, and it was for 30-34. The minimum Share of respondents was observed in Platform Twitter for 25-29. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 7 different Platforms on X-axis for 3 groups 18-24, 25-29, and 30-34. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Platform Facebook had the maximum Share of respondents among all 3 groups, and it was for 30-34. The minimum Share of respondents was observed in Platform Twitter for 25-29. ",
+      "Platform Facebook and Twitter had the biggest gap of 40.0 between the highest and lowest Share of respondents found for 25-29. ",
+      "On average, the Platform Facebook had the highest Share of respondents for all 3 groups 18-24, 25-29, and 30-34. Whereas Twitter had the lowest average Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 7 different Platforms on X-axis for 3 groups 18-24, 25-29, and 30-34. On the Y-axis it shows their corresponding Share of respondents. ",
+      " For Platform Facebook, 30-34 had the highest Share of respondents 50.0 among the 3 groups and in Twitter, 25-29 had the lowest Share of respondents 1.0. ",
+      " Among all the Platforms, 25-29 had the highest Share of respondents in Platform Facebook and lowest Share of respondents in Platform Twitter. ",
+      " There is a gap of 40.0 between the highest and lowest Share of respondents found for 25-29 in Platform Facebook and Twitter. ",
+      " Among all 3 groups, 25-29 had the gap of 40.0 between the maximum and minimum Share of respondents observed in Platform Facebook and Twitter respectively. ",
+      " In case of Platform Facebook, 30-34 had the highest Share of respondents 50.0 among the 3 groups and in Twitter, 25-29 had the lowest Share of respondents 1.0. The second highest Share of respondents 41.0 was observed for 30-34 in Platform Facebook. ",
+      "On average, the Platform Facebook had the highest Share of respondents for all 3 groups 18-24, 25-29, and 30-34. Whereas Twitter had the lowest average Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "18-24": "36",
+         "25-29": "41",
+         "30-34": "50"
+      },
+      {
+         "Platform": "Instagram",
+         "18-24": "24",
+         "25-29": "17",
+         "30-34": "13"
+      },
+      {
+         "Platform": "YouTube",
+         "18-24": "12",
+         "25-29": "14",
+         "30-34": "11"
+      },
+      {
+         "Platform": "LinkedIn",
+         "18-24": "7",
+         "25-29": "10",
+         "30-34": "10"
+      },
+      {
+         "Platform": "Pinterest",
+         "18-24": "9",
+         "25-29": "8",
+         "30-34": "8"
+      },
+      {
+         "Platform": "Snapchat",
+         "18-24": "9",
+         "25-29": "9",
+         "30-34": "5"
+      },
+      {
+         "Platform": "Twitter",
+         "18-24": "3",
+         "25-29": "1",
+         "30-34": "2"
+      }
+   ]
+}

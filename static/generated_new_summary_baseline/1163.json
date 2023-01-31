@@ -1,0 +1,89 @@
+{
+   "title": "Latin America : minimum monthly wages in 2019 , by country",
+   "xAxis": "Country",
+   "yAxis": "Monthly minimum wage in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Monthly minimum wage in U.S. dollars in the y axis. ",
+      "The maximum Monthly minimum wage in U.S. dollars 462.3 is found at Country Uruguay and the minimum is found at Venezuela where Monthly minimum wage in U.S. dollars is 7.0. ",
+      "The minimum Country Venezuela has got 66.04 times less Monthly minimum wage in U.S. dollars than the maximum Country Uruguay. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Monthly minimum wage in U.S. dollars in the y axis. ",
+      "The maximum Monthly minimum wage in U.S. dollars 462.3 is found at Country Uruguay and the minimum is found at Venezuela where Monthly minimum wage in U.S. dollars is 7.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Monthly minimum wage in U.S. dollars in the y axis. ",
+      "The maximum Monthly minimum wage in U.S. dollars 462.3 is found at Country Uruguay and the minimum is found at Venezuela where Monthly minimum wage in U.S. dollars is 7.0. ",
+      "The minimum Country Venezuela has got 66.04 times less Monthly minimum wage in U.S. dollars than the maximum Country Uruguay. "
+   ],
+   "max_summary": [
+      "This bar chart has 11 columns on the x axis representing Country, and Monthly minimum wage in U.S. dollars in each Country on the y axis. ",
+      "The Monthly minimum wage in U.S. dollars is highest at Country Uruguay and lowest at Country Venezuela. ",
+      "Second maximum Monthly minimum wage in U.S. dollars is found at Country . ",
+      "Country Uruguay has 66.04 times more Monthly minimum wage in U.S. dollars than Country Venezuela which is has the lowest. ",
+      "Monthly minimum wage in U.S. dollars at Country Uruguay is 462.3 , second place is  at 462.3, and thirdly is Ecuador at 394.0.",
+      "Considered together, the average Monthly minimum wage in U.S. dollars in all 11 Countrys is roughly 290.1. ",
+      "Summing up the values of all Countrys, we get total 3191.1. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Uruguay",
+         "Monthly minimum wage in U.S. dollars": 462.3
+      },
+      {
+         "Country": "Chile",
+         "Monthly minimum wage in U.S. dollars": 431.7
+      },
+      {
+         "Country": "Ecuador",
+         "Monthly minimum wage in U.S. dollars": 394.0
+      },
+      {
+         "Country": "Paraguay",
+         "Monthly minimum wage in U.S. dollars": 355.6
+      },
+      {
+         "Country": "Bolivia",
+         "Monthly minimum wage in U.S. dollars": 298.0
+      },
+      {
+         "Country": "Argentina",
+         "Monthly minimum wage in U.S. dollars": 297.9
+      },
+      {
+         "Country": "Peru",
+         "Monthly minimum wage in U.S. dollars": 275.7
+      },
+      {
+         "Country": "Brazil",
+         "Monthly minimum wage in U.S. dollars": 257.3
+      },
+      {
+         "Country": "Colombia",
+         "Monthly minimum wage in U.S. dollars": 254.7
+      },
+      {
+         "Country": "Mexico",
+         "Monthly minimum wage in U.S. dollars": 156.9
+      },
+      {
+         "Country": "Venezuela",
+         "Monthly minimum wage in U.S. dollars": 7.0
+      }
+   ]
+}

@@ -1,0 +1,126 @@
+{
+   "title": "Number of Sears stores in the United States 2011 - 2017 , by type",
+   "labels": [
+      "Year",
+      "Full-line stores",
+      "Specialty stores"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Full-line stores, and Specialty stores. The y axis denotes Number of stores and the x axis denotes Year.",
+      "Overall Specialty stores is rapidly decreasing, Full-line stores is gradually decreasing,  throughout the Year",
+      "Specialty stores has decreased by 98.28101644245142 percent.",
+      "The lines ordered according to average values of Number of stores in descending order is: 1. Full-line stores, and lastly, 2. Specialty stores. ",
+      "Overall across the Year, Full-line stores mostly maintained the highest Number of stores when compared to others with a mean value of 724.86, and it peaked at 2011.",
+      "The botommost line, Specialty stores,  has a mean of 220.71, and peaked at 2011. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of stores",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Full-line stores, and Specialty stores. The y axis indicates the Number of stores and the x axis indicates Year.",
+      "Overall Specialty stores is rapidly decreasing, Full-line stores is gradually decreasing,  throughout the Year",
+      "Throughout the period, Full-line stores generally had the highest Number of stores relative to others with an average of 724.86, and it reached its maximum at 2011 with a value of 867.0.",
+      "The botommost line, Specialty stores,  has a mean of 220.71, and peaked at 2011. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing Full-line stores, and Specialty stores. The y axis denotes Number of stores and the x axis denotes Year.",
+      "Overall Specialty stores is rapidly decreasing, Full-line stores is gradually decreasing,  throughout the Year",
+      "Specialty stores has decreased by 98.28101644245142 percent.",
+      "The lines ordered according to average values of Number of stores in descending order is: 1. Full-line stores, and lastly, 2. Specialty stores. ",
+      "Overall across the Year, Full-line stores mostly maintained the highest Number of stores when compared to others with a mean value of 724.86, and it peaked at 2011.",
+      "The botommost line, Specialty stores,  has a mean of 220.71, and peaked at 2011. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Full-line stores, and Specialty stores. The y axis indicates the Number of stores and the x axis indicates Year.",
+      "Overall Specialty stores is rapidly decreasing, Full-line stores is gradually decreasing,  throughout the Year",
+      "Specialty stores has decreased by 98.28101644245142 percent.",
+      "The lines ordered according to average values of Number of stores in descending order is: 1. Full-line stores, and lastly, 2. Specialty stores. ",
+      "Overall across the Year, Full-line stores mostly maintained the highest Number of stores when compared to others with a mean value of 724.86, and it peaked at 2011.",
+      "The botommost line, Specialty stores,  has a mean of 220.71, and peaked at 2011. ",
+      "The maximum Number of stores about 1338.0, occured at 2011 by Specialty stores.",
+      "Specialty stores reported the lowest Number of stores about 23.0 in Year 2017",
+      "The greatest difference of Number of stores between Full-line stores and Specialty stores occurs at Year 2012 and the smallest difference occurs at 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "0"
+         ],
+         "9": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "1"
+         ],
+         "10": [
+            "6",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Full-line stores": "547",
+         "Specialty stores": "23"
+      },
+      {
+         "Year": "2016",
+         "Full-line stores": "670",
+         "Specialty stores": "25"
+      },
+      {
+         "Year": "2015",
+         "Full-line stores": "705",
+         "Specialty stores": "26"
+      },
+      {
+         "Year": "2014",
+         "Full-line stores": "709",
+         "Specialty stores": "29"
+      },
+      {
+         "Year": "2013",
+         "Full-line stores": "778",
+         "Specialty stores": "50"
+      },
+      {
+         "Year": "2012",
+         "Full-line stores": "798",
+         "Specialty stores": "54"
+      },
+      {
+         "Year": "2011",
+         "Full-line stores": "867",
+         "Specialty stores": "1338"
+      }
+   ]
+}

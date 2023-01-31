@@ -1,0 +1,2143 @@
+<html lang="english">
+
+<head>
+    {{ JSGlue.include() }}
+    <!--    <script src = "js/d3.js"></script>-->
+    <!--    <script src = "js/crossfilter.js"></script>-->
+    <!--    <script src = "js/dc.js"></script>-->
+
+    <link href="static/css/stylesheet.css" rel="stylesheet">
+    <script type="text/javascript" src="static/js/script.js"></script>
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.529.0.min.js"></script>
+    <script type="text/javascript" src="static/js/text2speech.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="static/js/d3-tip.js"></script>
+    <script type="text/javascript" src="static/js/drawer.js"></script>
+    <script type="text/javascript" src="static/js/new.js"></script>
+    <link href="static/css/homeStyle.css" rel="stylesheet">
+    <link href="static/css/search.css" rel="stylesheet">
+    <script type="text/javascript" src="static/js/study.js"></script>
+
+    <title> Interactive Data Visualization </title>
+
+
+    <script type="text/javascript" src="static/js/lasso.js"></script>
+
+    <!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
+    <script src="static/js/d3-lasso.min.js"></script>
+
+    <!-- Load color palettes -->
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
+<!--<div class="topnav">-->
+<!--{#    <a href="{{ url_for('home') }}">Home</a>#}-->
+
+<script>
+    console.log(GetURLParameter('chart'));
+
+    if (GetURLParameter('chart') === "bar" || GetURLParameter('chart') === "bar1") {
+        if (sessionStorage.getItem('barChartNumber') == null) {
+            set_chart_id('{{ g.bar_chart }}');
+        }
+        set_chart_list("bar");
+
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='bar') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "bar2") {
+        if (sessionStorage.getItem('barChartNumber') == null) {
+            set_chart_id('{{ g.bar_chart2 }}');
+        } else {
+            set_chart_id('{{ g.bar_chart2 }}');
+        }
+        set_chart_list("bar");
+
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='bar') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "bar3") {
+        if (sessionStorage.getItem('barChartNumber') == null) {
+            set_chart_id('{{ g.bar_chart3 }}');
+        } else {
+            set_chart_id('{{ g.bar_chart3 }}');
+        }
+        set_chart_list("bar");
+
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='bar') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "multi_bar" || GetURLParameter('chart') === "multi_bar1") {
+        if (sessionStorage.getItem('multiBarChartNumber') == null) {
+            set_chart_id('{{ g.multi_bar_chart }}');
+        }
+        set_chart_list("multi_bar");
+
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='multi_bar') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "multi_bar2") {
+        if (sessionStorage.getItem('multiBarChartNumber') == null) {
+            set_chart_id('{{ g.multi_bar_chart2 }}');
+        } else {
+            set_chart_id('{{ g.multi_bar_chart2 }}');
+
+        }
+        set_chart_list("multi_bar");
+
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='multi_bar2') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "multi_bar3") {
+        if (sessionStorage.getItem('multiBarChartNumber') == null) {
+            set_chart_id('{{ g.multi_bar_chart3 }}');
+        } else {
+            set_chart_id('{{ g.multi_bar_chart3 }}');
+
+        }
+        set_chart_list("multi_bar");
+
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='multi_bar3') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "line" || GetURLParameter('chart') === "line1") {
+        if (sessionStorage.getItem('lineChartNumber') == null) {
+            set_chart_id('{{ g.line_chart }}');
+        }
+        set_chart_list("line");
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='line') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "line2") {
+        if (sessionStorage.getItem('lineChartNumber') == null) {
+            set_chart_id('{{ g.line_chart2 }}');
+        } else {
+            set_chart_id('{{ g.line_chart2 }}');
+
+        }
+        set_chart_list("line");
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='line2') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "line3") {
+        if (sessionStorage.getItem('lineChartNumber') == null) {
+            set_chart_id('{{ g.line_chart3 }}');
+        } else {
+            set_chart_id('{{ g.line_chart3 }}');
+
+        }
+        set_chart_list("line");
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='line3') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "multi_line" || GetURLParameter('chart') === "multi_line1") {
+        if (sessionStorage.getItem('multiLineChartNumber') == null) {
+            set_chart_id('{{ g.multi_line_chart }}');
+        }
+        set_chart_list("multi_line");
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='multi_line') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "multi_line2") {
+        if (sessionStorage.getItem('multiLineChartNumber') == null) {
+            set_chart_id('{{ g.multi_line_chart2 }}');
+        } else {
+            set_chart_id('{{ g.multi_line_chart2 }}');
+        }
+        set_chart_list("multi_line");
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='multi_line2') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "multi_line3") {
+        if (sessionStorage.getItem('multiLineChartNumber') == null) {
+            set_chart_id('{{ g.multi_line_chart3 }}');
+        } else {
+            set_chart_id('{{ g.multi_line_chart3 }}');
+        }
+        set_chart_list("multi_line");
+        // {#document.write("<a class='active' href='{{ url_for('task', chart='multi_line3') }}'>Task</a>")#}
+    } else if (GetURLParameter('chart') === "test1") {
+        set_chart_id('{{ g.test_chart1 }}');
+    } else if (GetURLParameter('chart') === "test2") {
+        set_chart_id('{{ g.test_chart2 }}');
+    } else if (GetURLParameter('chart') === "bar_158") {
+        set_chart_id('{{ g.bar_158 }}');
+    } else if (GetURLParameter('chart') === "bar_180") {
+        set_chart_id('{{ g.bar_180 }}');
+    } else if (GetURLParameter('chart') === "bar_186") {
+        set_chart_id('{{ g.bar_186 }}');
+    } else if (GetURLParameter('chart') === "bar_206") {
+        set_chart_id('{{ g.bar_206 }}');
+    } else if (GetURLParameter('chart') === "bar_775") {
+        set_chart_id('{{ g.bar_775 }}');
+    } else if (GetURLParameter('chart') === "bar_1092") {
+        set_chart_id('{{ g.bar_1092 }}');
+    } else if (GetURLParameter('chart') === "bar_308") {
+        set_chart_id('{{ g.bar_308 }}');
+    } else if (GetURLParameter('chart') === "bar_309") {
+        set_chart_id('{{ g.bar_309 }}');
+    } else if (GetURLParameter('chart') === "bar_377") {
+        set_chart_id('{{ g.bar_377 }}');
+    } else if (GetURLParameter('chart') === "bar_45") {
+        set_chart_id('{{ g.bar_45 }}');
+    } else if (GetURLParameter('chart') === "bar_669") {
+        set_chart_id('{{ g.bar_669 }}');
+    } else if (GetURLParameter('chart') === "bar_694") {
+        set_chart_id('{{ g.bar_694 }}');
+    } else if (GetURLParameter('chart') === "multi_line_170") {
+        set_chart_id('{{ g.multi_line_170 }}');
+    } else if (GetURLParameter('chart') === "multi_line_176") {
+        set_chart_id('{{ g.multi_line_176 }}');
+    } else if (GetURLParameter('chart') === "multi_line_189") {
+        set_chart_id('{{ g.multi_line_189 }}');
+    } else if (GetURLParameter('chart') === "multi_line_197") {
+        set_chart_id('{{ g.multi_line_197 }}');
+    } else if (GetURLParameter('chart') === "multi_line_205") {
+        set_chart_id('{{ g.multi_line_205 }}');
+    } else if (GetURLParameter('chart') === "multi_line_220") {
+        set_chart_id('{{ g.multi_line_220 }}');
+    } else if (GetURLParameter('chart') === "multi_line_711") {
+        set_chart_id('{{ g.multi_line_711 }}');
+    } else if (GetURLParameter('chart') === "multi_line_752") {
+        set_chart_id('{{ g.multi_line_752 }}');
+    } else if (GetURLParameter('chart') === "multi_line_245") {
+        set_chart_id('{{ g.multi_line_245 }}');
+    } else if (GetURLParameter('chart') === "multi_line_457") {
+        set_chart_id('{{ g.multi_line_457 }}');
+    } else if (GetURLParameter('chart') === "multi_line_545") {
+        set_chart_id('{{ g.multi_line_545 }}');
+    } else if (GetURLParameter('chart') === "multi_line_524") {
+        set_chart_id('{{ g.multi_line_524 }}');
+    }
+
+</script>
+
+
+<!--{#    <a href="#" onClick="(function(){#}-->
+<!--{#        if (confirm('Are you sure?') == true){#}-->
+<!--{#            window.location.replace(Flask.url_for('logout'));#}-->
+<!--{#        }#}-->
+<!--{#    })();">Log Out</a>#}-->
+
+<!--    <p> Participant ID: {{g.user.id}} </p>-->
+
+<!--</div>-->
+<!--<body bgcolor="#a9a9a9">-->
+<body>
+
+<audio src="static/asset/sound.mp3" id="my_audio" autoplay="autoplay"></audio>
+<audio src="static/asset/mic.wav" id="mic"></audio>
+
+<div id="search_div" style="height: 60px;">
+
+    <table width="100%">
+        <tr>
+            <td width="100px">
+                <input type="text" id="search_input" name="search" placeholder="Search.." size="20"
+                       style="border-radius: 5px; width: 50%; margin-left: 150px;">
+                <button onclick="search_field()"><i class="fa fa-search"></i></button>
+            </td>
+            <td width="100px">
+                <p id="search_result"
+                   style="color: #000000; background-color: #e0e0e0; font-size: 17px; padding: 10px; margin-top: -25px;">
+                    Search results
+                    will
+                    appear
+                    here.</p>
+            </td>
+        </tr>
+    </table>
+
+
+</div>
+
+
+<section id="graph" style="margin-top: 30px;">
+</section>
+<div class="grid-container">
+
+
+    <div class="Title">
+        <h1 id="title"></h1>
+        <h3 id="summaryText">Hover over a point of data to hear its caption</h3>
+        <!--        <h3 id="key_counter">NUMBER OF KEY PRESSES: 0</h3>-->
+        <!--        <h3 id="pid">PID: 0</h3>-->
+        <h3 id="chartFoundNotifier"></h3>
+    </div>
+    <div class="Chart" id="chart"></div>
+    <div class="tts">
+        <!--        <div class="forms">-->
+        <!--            <form>-->
+        <!--                <table>-->
+        <!--                    <p align="Center"><strong>Select the type of summary: </strong></p>-->
+        <!--                    <tr>-->
+        <!--                        <td align="left" id="summary_type_check">-->
+        <!--                            <label>-->
+        <!--                                <input id="summary_type" type="radio" name="choice" value="yes" onClick="template_summary();">-->
+        <!--                            </label> Template-based Summary-->
+        <!--                        </td>-->
+        <!--                    </tr>-->
+        <!--                    <tr>-->
+        <!--                        <td align="left" id="summary_type_c2t_check">-->
+        <!--                            <label>-->
+        <!--                                <input id="summary_type_c2t" type="radio" name="choice" value="no" onClick="c2t_summary();">-->
+        <!--                            </label> <a id="linkToC2T" href="https://arxiv.org/abs/2010.09142" target="_blank">Chart-to-Text</a> Summary-->
+
+
+        <!--                        </td>-->
+        <!--                    </tr>-->
+        <!--                    <tr>-->
+        <!--                        <td align="left" id="summary_type_gold_check">-->
+        <!--                            <label>-->
+        <!--                                <input id="summary_type_gold" type="radio" name="choice" value="no" onClick="gold_summary();">-->
+        <!--                            </label> Human Written Summary-->
+
+
+        <!--                        </td>-->
+        <!--                    </tr>-->
+        <!--                </table>-->
+        <!--            </form>-->
+
+        <!--        </div>-->
+        <div class="slidecontainer">
+
+            <table width="60%" id="slider_table" align="center">
+                <tr>
+                    <td colspan="2" align="center">
+                        <p style="font-weight: bold;">Use the slider to adjust the length of description</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="range" min="1" max="3" value="2" class="slider" id="summary_slider">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left" style="font-size: small">
+                        Minimum
+                    </td>
+                    <td align="right" style="font-size: small">
+                        Maximum
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+    </div>
+
+    <div class="Caption" style="padding-left: 20px">
+        <h4 id="cap_text" align="left">Template-based Summary::</h4>
+        <p id="summary" style="font-size: large"></p>
+    </div>
+
+    <div class="Selector" id="selector_id" style="color: white;">
+
+        <div class="Label">
+            <label id="numberLabel"></label>
+
+        </div>
+
+        <!--        <div class="Navigation">-->
+        <!--            <table>-->
+        <!--                <tr>-->
+        <!--                    <td>-->
+        <!--                        <button type="button" id="previous" onclick="previousSelectedChart()" style="width: 120px" title="Previous Chart"> << </button>-->
+        <!--                    </td>-->
+        <!--                    <td>-->
+        <!--                        <button type="button" id="next" onclick="nextSelectedChart()" style="width: 120px" title="Next Chart">  >> </button>-->
+        <!--                    </td>-->
+        <!--                </tr>-->
+        <!--            </table>-->
+
+        <!--        </div>-->
+
+
+        <div class="Text">
+            <input type="text" tabindex="-1" id="chartNumber" style="width: 50%; pointer-events: none; color: black;"/>
+        </div>
+    </div>
+
+    <div class="Meta" id="summary_config" align="center">
+        <div id="output" class="hide"></div>
+        <span
+                id="action"></span>
+        <p>
+            <button class="button" title="Click to ask a question" onclick="runSpeechRecognition()"><i
+                    class="fa fa-microphone"
+                    aria-hidden="true"></i>
+            </button>
+        </p>
+
+
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <button class="button" id="narrate_button" onclick="narrateSummary()">Narrate Summary</button>
+        <br>
+        <audio controls id="audioPlayback">
+            <source id="audioSource" src="" type="audio/mp3">
+        </audio>
+    </div>
+</div>
+
+
+<script>
+
+    // function runSpeechRecognition() {
+    //     document.getElementById("mic").play();
+    //
+    //     // get output div reference
+    //     var output = document.getElementById("output");
+    //     output.innerHTML = "";
+    //     // get action element reference
+    //     var action = document.getElementById("action");
+    //     // new speech recognition object
+    //     var SpeechRecognition = SpeechRecognition || webkitSpeechRecognition;
+    //     var recognition = new SpeechRecognition();
+    //
+    //     // This runs when the speech recognition service starts
+    //     recognition.onstart = function () {
+    //         action.innerHTML = "<small>Listening, please speak...</small>";
+    //     };
+    //
+    //     recognition.onspeechend = function () {
+    //         action.innerHTML = "<small>Stopped listening.</small>";
+    //         recognition.stop();
+    //     }
+    //
+    //     // This runs when the speech recognition service returns result
+    //     recognition.onresult = function (event) {
+    //         console.log(event)
+    //         var transcript = event.results[0][0].transcript;
+    //         var confidence = event.results[0][0].confidence;
+    //         output.innerHTML = "<b>Detected Text:</b> " + transcript;
+    //         output.classList.remove("hide");
+    //
+    //         if (transcript != null) {
+    //             var xmlhttp = new XMLHttpRequest();   // new HttpRequest instance
+    //             var theUrl = "https://127.0.0.1:8080/qna";
+    //             xmlhttp.open("POST", theUrl);
+    //
+    //             xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+    //             xmlhttp.send(JSON.stringify({
+    //                 "chart": "" + document.getElementById('chartNumber').value + "",
+    //                 "question": "" + transcript + "",
+    //             }));
+    //
+    //             xmlhttp.onloadend = function () {
+    //
+    //                 if (xmlhttp.status === 200) {
+    //                     // document.getElementById("search_input").value = "";
+    //                     const myObj = JSON.parse(xmlhttp.response);
+    //                     console.log(myObj.summary)
+    //
+    //                     document.getElementById("search_result").innerHTML = myObj.summary;
+    //
+    //                     speakText(myObj.summary)
+    //
+    //
+    //                 }
+    //             };
+    //         } else {
+    //             speakText("Sorry! Could not hear properly! ");
+    //         }
+    //     };
+    //
+    //     // start recognition
+    //     recognition.start();
+    // }
+
+
+    function search_field() {
+        console.log("HELLO")
+        // alert(document.getElementById("x_axis").value)
+        console.log(document.getElementById("search_input").value)
+
+        var xmlhttp = new XMLHttpRequest();   // new HttpRequest instance
+        var theUrl = "https://127.0.0.1:8080/search";
+        xmlhttp.open("POST", theUrl);
+
+        xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+        xmlhttp.send(JSON.stringify({
+            "chart": "" + document.getElementById('chartNumber').value + "",
+            "x_axis": "" + xLabel + "",
+            "y_axis": "" + yLabel + "",
+            "graphType": "" + graphType + "",
+            "columnType": "" + columnType + "",
+            "search_val": "" + document.getElementById("search_input").value + ""
+        }));
+
+        xmlhttp.onloadend = function () {
+
+            if (xmlhttp.status === 200) {
+                // document.getElementById("search_input").value = "";
+                const myObj = JSON.parse(xmlhttp.response);
+                console.log(myObj.summary)
+
+                document.getElementById("search_result").innerHTML = myObj.summary;
+
+                speakText(myObj.summary)
+
+
+            }
+        };
+
+
+    }
+
+
+    getMetaData();
+
+    var svgNodes = "";
+    var currentId = ""
+
+    var totalValue = 0;
+    var colArr = [];
+    var xAxisLabel = [];
+
+    var tempAttrRect;
+    var tempAttrLine;
+
+    var capsOn = false;
+
+    let curr = 0;
+    let now = 0;
+    let curr_help = 0;
+    let now_help = 0;
+
+    let num_selected_point = 0;
+
+    var tempStr = ""
+
+    setTimeout(function () {
+        // document.getElementById("selector_id").style.color = "white";
+
+        // document.getElementById("summary").innerHTML = "";
+
+        // set_summary_selection();
+
+        template_summary()
+
+
+        console.log("slider")
+        slider = document.getElementById("summary_slider");
+        console.log(slider)
+
+        slider.oninput = function () {
+            if (this.value === "2") {
+                console.log("2")
+                mid_summary();
+            } else if (this.value === "1") {
+                console.log("1")
+                min_summary();
+            } else if (this.value === "3") {
+                console.log("3")
+                max_summary();
+            }
+        }
+
+        // select_summary_type();
+
+
+    }, 500);
+
+
+    setTimeout(function () {
+
+
+        // console.log("group : ", group);
+
+        // document.getElementById("title").click();
+        var targLink = document.getElementById("narrate_button");
+        var clickEvent = document.createEvent('MouseEvents');
+        clickEvent.initEvent('dblclick', true, true);
+        targLink.dispatchEvent(clickEvent);
+
+        svgNodes = document.getElementsByTagName('svg');
+
+        if (svgNodes.length > 0) {
+
+
+            if (svgNodes.item(0).firstElementChild.nodeName === 'g') {
+                // console.log("A D3 chart found!")
+
+                document.getElementById("my_audio").play();
+
+                // Sometimes it does not get selected automatically that is why.
+                // template_summary()
+
+
+                // speakText("This is a "+graphType+" chart. That represents "+title+". ");
+
+                const search_el = document.getElementById("search_input");
+
+                document.addEventListener('keyup', event => {
+
+                    if (event.code === 'KeyF') {
+                        speakText("Search mode activated.")
+                        search_el.focus();
+                    } else {
+                        if (search_el !== document.activeElement) {
+                            if (event.code === 'KeyT') {
+                                // key_counter--;
+                                if (voice_speed === 6) {
+                                    voice_speed = 1;
+                                    document.cookie = voice_speed.toString();
+                                    speakText("Slowest speech is selected.")
+                                } else {
+                                    voice_speed++;
+                                    if (voice_speed === 2) {
+                                        document.cookie = voice_speed.toString();
+                                        speakText("Slower speech is selected.")
+                                    } else if (voice_speed === 3) {
+                                        document.cookie = voice_speed.toString();
+                                        speakText("Normal speech is selected.")
+                                    } else if (voice_speed === 4) {
+                                        document.cookie = voice_speed.toString();
+                                        speakText("Fast speech is selected.")
+                                    } else if (voice_speed === 5) {
+                                        document.cookie = voice_speed.toString();
+                                        speakText("Faster speech is selected.")
+                                    } else if (voice_speed === 6) {
+                                        document.cookie = voice_speed.toString();
+                                        speakText("Fastest speech is selected.")
+                                    }
+
+
+                                }
+
+
+                            }
+
+                            if (event.code === 'KeyS') {
+
+                                console.log(xAxisLabel)
+
+                                if (xAxisLabel.length === 0) {
+                                    speakText("No value is selected.")
+                                } else {
+                                    var str = ""
+                                    for (var a = 0; a < xAxisLabel.length; a++) {
+                                        str += xAxisLabel[a] + ", "
+                                    }
+                                    speakText("Selected points are " + str)
+                                }
+
+                                // if (tempStr === ""){
+                                //     speakText("No value is selected.")
+                                // } else {
+                                //     speakText("Selected points are " + tempStr)
+                                // }
+                            }
+
+
+                            if (event.code === 'Enter') {
+                                chartTypeDescriber()
+                                // speakText("A chart was found in the current page! Press Shift, + H, to hear list of keyboard shortcuts.");
+                            }
+                            if (event.code === 'KeyX') {
+                                speakText("X axis represents: " + xLabel);
+                            }
+                            if (event.code === 'KeyY') {
+                                speakText("Y axis represents: " + yLabel);
+                            }
+
+
+                            if (event.code === 'KeyL') {
+                                var elementExists = document.getElementById("temp_alert");
+
+                                if (elementExists == null) {
+                                    if (curr < dis_summary.length && curr !== -1) {
+                                        speakText(dis_summary[curr] + ". END.")
+                                        now = curr;
+                                        curr++;
+                                        console.log("Value of CURR : " + curr);
+                                    } else if (curr === dis_summary.length) {
+                                        speakText("You have reached the end of the summary. Press L again to restart.")
+                                        now = dis_summary.length - 1;
+                                        curr = 0;
+                                    } else if (curr === -1) {
+                                        speakText(dis_summary[1] + ". END.")
+                                        now = 1;
+                                        curr = 2;
+                                        console.log("Value of CURR : " + curr);
+                                    }
+                                } else {
+                                    if (curr_help < help_text.length) {
+                                        speakText(help_text[curr_help])
+                                        now_help = curr_help;
+                                        curr_help++;
+                                        console.log("Value of curr_help : " + curr_help);
+                                    } else if (curr_help === help_text.length) {
+                                        speakText("You have reached the end. Press G again to restart.")
+                                        now_help = curr_help.length - 1;
+                                        curr_help = 0;
+                                    }
+                                }
+                            }
+
+                            if (event.code === 'KeyJ') {
+                                var elementExists = document.getElementById("temp_alert");
+
+                                if (elementExists == null) {
+                                    if (curr > -1) {
+                                        speakText(dis_summary[curr] + ". END.")
+                                        now = curr;
+                                        curr--;
+                                        console.log("Value of CURR : " + curr);
+                                    } else {
+                                        speakText("You are at the beginning of the summary. Press J again to hear the last sentence.")
+                                        now = 0;
+                                        curr = dis_summary.length - 1;
+                                    }
+                                } else {
+                                    if (curr_help > -1) {
+                                        speakText(help_text[curr_help])
+                                        now_help = curr_help;
+                                        curr_help--;
+                                        console.log("Value of curr_help : " + curr_help);
+                                    } else {
+                                        speakText("Press D again to hear the last item of Help list.")
+                                        now_help = 0;
+                                        console.log("curr_help.length");
+                                        console.log(help_text.length);
+                                        curr_help = help_text.length - 1;
+                                        console.log("Value of curr_help : " + curr_help);
+                                    }
+                                }
+                            }
+
+                            if (event.code === 'KeyK') {
+                                var elementExists = document.getElementById("temp_alert");
+
+                                if (elementExists == null) {
+                                    speakText(dis_summary[now] + ". END.")
+                                } else {
+                                    speakText(help_text[now_help])
+                                }
+                            }
+
+
+                            if (event.code === 'KeyN') {
+
+                                // record_key_presses();
+                                sleep(500);
+
+                                if (GetURLParameter('chart') === "test1") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_158"
+                                } else if (GetURLParameter('chart') === "test2") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_170"
+                                } else if (GetURLParameter('chart') === "bar_158") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_180"
+                                } else if (GetURLParameter('chart') === "bar_180") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_186"
+                                } else if (GetURLParameter('chart') === "bar_186") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_206"
+                                } else if (GetURLParameter('chart') === "bar_206") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_775"
+                                } else if (GetURLParameter('chart') === "bar_775") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_1092"
+                                } else if (GetURLParameter('chart') === "bar_1092") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_308"
+                                } else if (GetURLParameter('chart') === "bar_308") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_309"
+                                } else if (GetURLParameter('chart') === "bar_309") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_377"
+                                } else if (GetURLParameter('chart') === "bar_377") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_45"
+                                } else if (GetURLParameter('chart') === "bar_45") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_669"
+                                } else if (GetURLParameter('chart') === "bar_669") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_694"
+                                } else if (GetURLParameter('chart') === "bar_694") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_170"
+                                } else if (GetURLParameter('chart') === "multi_line_170") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_176"
+                                } else if (GetURLParameter('chart') === "multi_line_176") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_189"
+                                } else if (GetURLParameter('chart') === "multi_line_189") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_197"
+                                } else if (GetURLParameter('chart') === "multi_line_197") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_205"
+                                } else if (GetURLParameter('chart') === "multi_line_205") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_220"
+                                } else if (GetURLParameter('chart') === "multi_line_220") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_711"
+                                } else if (GetURLParameter('chart') === "multi_line_711") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_752"
+                                } else if (GetURLParameter('chart') === "multi_line_752") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_245"
+                                } else if (GetURLParameter('chart') === "multi_line_245") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_457"
+                                } else if (GetURLParameter('chart') === "multi_line_457") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_545"
+                                } else if (GetURLParameter('chart') === "multi_line_545") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_524"
+                                } else if (GetURLParameter('chart') === "multi_line_524") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_158"
+                                }
+                            }
+
+                            if (event.code === 'KeyP') {
+                                if (GetURLParameter('chart') === "bar_158") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_524"
+                                } else if (GetURLParameter('chart') === "bar_180") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_158"
+                                } else if (GetURLParameter('chart') === "bar_186") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_180"
+                                } else if (GetURLParameter('chart') === "bar_206") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_186"
+                                } else if (GetURLParameter('chart') === "bar_775") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_206"
+                                } else if (GetURLParameter('chart') === "bar_1092") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_775"
+                                } else if (GetURLParameter('chart') === "bar_308") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_1092"
+                                } else if (GetURLParameter('chart') === "bar_309") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_308"
+                                } else if (GetURLParameter('chart') === "bar_377") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_309"
+                                } else if (GetURLParameter('chart') === "bar_45") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_377"
+                                } else if (GetURLParameter('chart') === "bar_669") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_45"
+                                } else if (GetURLParameter('chart') === "bar_694") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_669"
+                                } else if (GetURLParameter('chart') === "multi_line_170") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=bar_694"
+                                } else if (GetURLParameter('chart') === "multi_line_176") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_170"
+                                } else if (GetURLParameter('chart') === "multi_line_189") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_176"
+                                } else if (GetURLParameter('chart') === "multi_line_197") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_189"
+                                } else if (GetURLParameter('chart') === "multi_line_205") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_197"
+                                } else if (GetURLParameter('chart') === "multi_line_220") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_205"
+                                } else if (GetURLParameter('chart') === "multi_line_711") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_220"
+                                } else if (GetURLParameter('chart') === "multi_line_752") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_711"
+                                } else if (GetURLParameter('chart') === "multi_line_245") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_752"
+                                } else if (GetURLParameter('chart') === "multi_line_457") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_245"
+                                } else if (GetURLParameter('chart') === "multi_line_545") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_457"
+                                } else if (GetURLParameter('chart') === "multi_line_524") {
+                                    location.href = "https://127.0.0.1:8080/task?chart=multi_line_545"
+                                }
+                            }
+
+
+                            // if ((event.code === 'Digit1' || event.code === 'Numpad1') && (event.shiftKey || event.metaKey)) {
+
+                            // 1, 2, 3 for length change
+                            if ((event.code === 'Digit1' || event.code === 'Numpad1')) {
+                                // template_summary()
+                                // document.getElementById("summary_type").checked = "true"
+                                min_summary()
+                                curr = 0;
+                                document.getElementById("summary_slider").value = "1";
+                                speakText("Short length summary has been generated. Press Space to hear at once, or press J, K, L to hear line by line.")
+                                // narrateSummary()
+                            }
+                            if ((event.code === 'Digit2' || event.code === 'Numpad2')) {
+                                // c2t_summary()
+                                // document.getElementById("summary_type_c2t").checked = "true"
+                                mid_summary()
+                                curr = 0;
+                                document.getElementById("summary_slider").value = "2";
+                                speakText("Default length summary has been generated. Press Space to hear at once, or press J, K, L to hear line by line.")
+                                // narrateSummary()
+                            }
+                            if ((event.code === 'Digit3' || event.code === 'Numpad3')) {
+                                // gold_summary()
+                                // document.getElementById("summary_type_gold").checked = "true"
+                                max_summary()
+                                curr = 0;
+                                document.getElementById("summary_slider").value = "3";
+                                speakText("Maximum length summary has been generated. Press Space to hear at once, or press J, K, L to hear line by line.")
+                                // narrateSummary()
+                            }
+
+                            // 4, 5, 6 for summary type change
+                            if ((event.code === 'Digit4' || event.code === 'Numpad4')) {
+                                c2t_summary()
+                                curr = 0;
+                                document.getElementById("summary_type_c2t").checked = "true"
+                                speakText("Machine learning based summary has been selected. Press Space to hear at once, or press J, K, L to hear line by line.")
+
+                            }
+                            if ((event.code === 'Digit5' || event.code === 'Numpad5')) {
+                                gold_summary()
+                                curr = 0;
+                                document.getElementById("summary_type_gold").checked = "true"
+                                speakText("Human written summary has been selected. Press Space to hear at once, or press J, K, L to hear line by line.")
+                            }
+                            if ((event.code === 'Digit6' || event.code === 'Numpad6')) {
+                                template_summary()
+                                curr = 0;
+                                document.getElementById("summary_type").checked = "true"
+                                speakText("Template based summary has been selected. Press Space to hear at once, or press J, K, L to hear line by line.")
+                            }
+
+
+                            if (event.code === 'Space') {
+                                // narrateSummary()
+
+                                var sumtext = document.getElementById("summary").textContent;
+
+                                // console.log(sumtext)
+
+                                speakText(sumtext + ". End of summary.");
+
+
+                            }
+
+                            // if (event.code === 'KeyD') {
+                            //     chartTypeDescriber()
+                            // }
+
+                            // if (event.code === "KeyS" && (event.shiftKey || event.metaKey)){
+                            //     if (columnType === "two" && graphType === "bar"){
+                            //         console.log("SHIFT")
+                            //         sortTheBarChart()
+                            //     }
+                            // }
+
+                            if (event.code === "KeyH") {
+                                help()
+                            }
+
+
+                            if (event.code === "KeyR") {
+                                location.reload();
+                            }
+
+                            if (event.code === 'ArrowRight' && !(event.shiftKey || event.metaKey)) {
+                                // key_press_counter();
+                                if (graphType === "bar") {
+                                    if (columnType === "two") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            document.getElementById('Column0').focus();
+                                            d3PointDescriptionById('Column0', 'first')
+
+                                        } else {
+                                            col1Id++;
+                                            if (col1Id === numberOfColumn) {
+                                                col1Id = 0;
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionById(newFocus, 'first')
+
+                                            } else if (col1Id === (numberOfColumn - 1)) {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionById(newFocus, 'last')
+                                            } else {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionById(newFocus)
+                                            }
+
+                                        }
+                                    } else if (columnType === "multi") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            col2Id = 0;
+                                            var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                            console.log(eid)
+                                            document.getElementById(eid).focus();
+                                            d3PointDescriptionForMultiBarById(eid, 'first')
+
+
+                                        } else {
+                                            if (col2Id < multi_number_of_elements_in_each_group && col1Id < (multi_number_of_group - 1)) {
+                                                col1Id++;
+                                                var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                                console.log(eid)
+                                                document.getElementById(eid).focus();
+                                                d3PointDescriptionForMultiBarById(eid)
+                                            } else if (col1Id === (multi_number_of_group - 1) && col2Id < multi_number_of_elements_in_each_group) {
+                                                col2Id++;
+                                                col1Id = 0;
+                                                if (col2Id === multi_number_of_elements_in_each_group) {
+                                                    col2Id = 0;
+                                                    col1Id = 0;
+                                                    var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                                    console.log(eid)
+                                                    document.getElementById(eid).focus();
+                                                    d3PointDescriptionForMultiBarById(eid, 'first')
+                                                } else {
+                                                    var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                                    console.log(eid)
+                                                    document.getElementById(eid).focus();
+                                                    d3PointDescriptionForMultiBarById(eid)
+                                                }
+                                            }
+                                        }
+
+                                    }
+                                } else if (graphType === "line") {
+                                    if (columnType === "two") {
+                                        if (col1Id == null) {
+                                            col1Id = numberOfColumn - 1;
+                                            document.getElementById('Column' + col1Id).focus();
+                                            d3PointDescriptionById('Column' + col1Id, 'first')
+
+                                        } else {
+                                            col1Id--;
+                                            if (col1Id < 0) {
+                                                col1Id = numberOfColumn - 1;
+
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionById(newFocus, 'first')
+                                            } else if (col1Id === 0) {
+                                                col1Id = 0;
+
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionById(newFocus, 'last')
+                                            } else {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionById(newFocus)
+                                            }
+
+                                        }
+                                    } else if (columnType === "multi") {
+                                        // work needs to be done here
+                                        if (col1Id == null) {
+                                            col1Id = multi_number_of_group - 1;
+                                            col2Id = multi_number_of_elements_in_each_group - 1;
+                                            var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                            console.log(eid)
+                                            document.getElementById(eid).focus();
+                                            d3PointDescriptionForMultiGraphById(eid, 'first')
+
+
+                                        } else {
+                                            if (col1Id <= (multi_number_of_group - 1) && col2Id > 0) {
+                                                col2Id--;
+                                                var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                                console.log(eid)
+                                                document.getElementById(eid).focus();
+                                                d3PointDescriptionForMultiGraphById(eid)
+                                            } else if (col2Id === 0 && col1Id >= 0) {
+                                                col1Id--;
+                                                col2Id = multi_number_of_elements_in_each_group - 1;
+                                                if (col1Id < 0) {
+                                                    col1Id = multi_number_of_group - 1;
+                                                    col2Id = multi_number_of_elements_in_each_group - 1;
+                                                    var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                                    console.log(eid)
+                                                    document.getElementById(eid).focus();
+                                                    d3PointDescriptionForMultiGraphById(eid)
+                                                }
+                                                var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                                console.log(eid)
+                                                document.getElementById(eid).focus();
+                                                d3PointDescriptionForMultiGraphById(eid)
+                                            }
+                                        }
+                                    }
+                                } else if (graphType === "pie") {
+                                    if (columnType === "two") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            document.getElementById('Column0').focus();
+
+                                            //arc_elem= document.getElementById('Column0');
+                                            //arc_elem.style.stroke = "red";
+                                            d3PointDescriptionForPieChartById('Column0', 'first') //in script.js
+
+                                        } else {
+                                            col1Id++;
+                                            if (col1Id === numberOfColumn) {
+                                                col1Id = 0;
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus()
+                                                d3PointDescriptionForPieChartById(newFocus, 'first')
+
+                                            } else if (col1Id === (numberOfColumn - 1)) {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionForPieChartById(newFocus, 'last')
+                                            } else {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionForPieChartById(newFocus)
+                                            }
+
+                                        }
+                                    }
+
+                                } else if (graphType === "scatter") {
+                                    if (columnType === "two") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            document.getElementById('Column0').focus();
+
+                                            //arc_elem= document.getElementById('Column0');
+                                            //arc_elem.style.stroke = "red";
+                                            d3PointDescriptionByIdForScatterPlot('Column0', 'first') //in script.js
+
+                                        } else {
+                                            col1Id++;
+                                            if (col1Id === numberOfColumn) {
+                                                col1Id = 0;
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus()
+                                                d3PointDescriptionByIdForScatterPlot(newFocus, 'first')
+
+                                            } else if (col1Id === (numberOfColumn - 1)) {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionByIdForScatterPlot(newFocus, 'last')
+                                            } else {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionByIdForScatterPlot(newFocus)
+                                            }
+
+                                        }
+                                    }
+
+                                }
+                                    // else if (graphType === "heatmap"){
+                                    //     if (col1Id == null){
+                                    //         col1Id = 0;
+                                    //         col2Id = 0;
+                                    //         var eid = 'Column['+col1Id+']['+col2Id+']'
+                                    //         console.log(eid)
+                                    //         document.getElementById(eid).focus();
+                                    //         d3PointDescriptionForHeatMapById(eid, 'last')
+                                    //
+                                    //
+                                    //     }
+                                    //     else {
+                                    //         if (col1Id < multi_number_of_group && col2Id < (multi_number_of_elements_in_each_group - 1) ){
+                                    //             col2Id++;
+                                    //             var eid = 'Column['+col1Id+']['+col2Id+']'
+                                    //             console.log(eid)
+                                    //             document.getElementById(eid).focus();
+                                    //             d3PointDescriptionForHeatMapById(eid)
+                                    //         }
+                                    //         else if (col2Id === (multi_number_of_elements_in_each_group - 1) && col1Id < multi_number_of_group){
+                                    //             col1Id++;
+                                    //             col2Id=0;
+                                    //             if (col1Id === multi_number_of_group) {
+                                    //                 col1Id = 0;
+                                    //                 col2Id = 0;
+                                    //                 var eid = 'Column['+col1Id+']['+col2Id+']'
+                                    //                 console.log(eid)
+                                    //                 document.getElementById(eid).focus();
+                                    //                 d3PointDescriptionForHeatMapById(eid)
+                                    //             }
+                                    //             var eid = 'Column['+col1Id+']['+col2Id+']'
+                                    //             console.log(eid)
+                                    //             document.getElementById(eid).focus();
+                                    //             d3PointDescriptionForHeatMapById(eid)
+                                    //         }
+                                    //     }
+                                // }
+                                else if (graphType === "heatmap") {
+                                    if (columnType === "two") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            document.getElementById('Column0').focus();
+
+                                            //arc_elem= document.getElementById('Column0');
+                                            //arc_elem.style.stroke = "red";
+                                            d3PointDescriptionForHeatMapById('Column0', 'first') //in script.js
+
+                                        } else {
+                                            col1Id++;
+                                            if (col1Id === numberOfColumn) {
+                                                col1Id = 0;
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus()
+                                                d3PointDescriptionForHeatMapById(newFocus, 'first')
+
+                                            } else if (col1Id === (numberOfColumn - 1)) {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionForHeatMapById(newFocus, 'last')
+                                            } else {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionForHeatMapById(newFocus)
+                                            }
+
+                                        }
+                                    }
+
+                                }
+
+                            } else if (event.code === 'ArrowLeft' && !(event.shiftKey || event.metaKey)) {
+                                // key_press_counter();
+                                if (graphType === "bar") {
+                                    if (columnType === "two") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            document.getElementById('Column0').focus();
+                                            d3PointDescriptionById('Column0', 'first')
+
+                                        } else {
+                                            col1Id--;
+                                            if (col1Id < 0) {
+                                                col1Id = numberOfColumn - 1;
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionById(newFocus, 'last')
+                                            } else if (col1Id === 0) {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionById(newFocus, 'first')
+                                            } else {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionById(newFocus)
+                                            }
+                                        }
+                                    } else if (columnType === "multi") {
+                                        // work needs to be done here
+                                        if (col2Id == null) {
+                                            col2Id = multi_number_of_elements_in_each_group - 1;
+                                            col1Id = multi_number_of_group - 1;
+                                            var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                            console.log(eid)
+                                            document.getElementById(eid).focus();
+                                            d3PointDescriptionForMultiBarById(eid)
+
+
+                                        } else {
+                                            if (col2Id <= (multi_number_of_elements_in_each_group - 1) && col1Id > 0) {
+                                                col1Id--;
+
+
+                                                var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                                console.log(eid)
+                                                document.getElementById(eid).focus();
+                                                d3PointDescriptionForMultiBarById(eid)
+                                            } else if (col1Id === 0 && col2Id >= 0) {
+                                                col2Id--;
+                                                col1Id = multi_number_of_group - 1;
+                                                if (col2Id < 0) {
+                                                    col2Id = multi_number_of_elements_in_each_group - 1;
+                                                    col1Id = multi_number_of_group - 1;
+                                                    var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                                    console.log(eid)
+                                                    document.getElementById(eid).focus();
+                                                    d3PointDescriptionForMultiBarById(eid)
+                                                }
+                                                var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                                console.log(eid)
+                                                document.getElementById(eid).focus();
+                                                d3PointDescriptionForMultiBarById(eid)
+                                            }
+                                        }
+
+                                    }
+                                } else if (graphType === "line") {
+                                    if (columnType === "two") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            document.getElementById('Column' + col1Id).focus();
+                                            d3PointDescriptionById('Column' + col1Id, 'last')
+
+                                        } else {
+                                            col1Id++;
+                                            if (col1Id === numberOfColumn - 1) {
+                                                col1Id = numberOfColumn - 1;
+
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionById(newFocus, 'first')
+                                            } else {
+                                                if (col1Id === numberOfColumn) {
+                                                    col1Id = 0;
+
+                                                    var newFocus = 'Column' + col1Id
+                                                    document.getElementById(newFocus).focus();
+                                                    d3PointDescriptionById(newFocus, 'last')
+                                                } else {
+                                                    var newFocus = 'Column' + col1Id
+                                                    document.getElementById(newFocus).focus();
+                                                    d3PointDescriptionById(newFocus)
+                                                }
+                                            }
+
+
+                                        }
+                                    } else if (columnType === "multi") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            col2Id = 0;
+                                            var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                            console.log(eid)
+                                            document.getElementById(eid).focus();
+                                            d3PointDescriptionForMultiGraphById(eid, 'last')
+
+
+                                        } else {
+                                            if (col1Id < multi_number_of_group && col2Id < (multi_number_of_elements_in_each_group - 1)) {
+                                                col2Id++;
+                                                var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                                console.log(eid)
+                                                document.getElementById(eid).focus();
+                                                d3PointDescriptionForMultiGraphById(eid)
+                                            } else if (col2Id === (multi_number_of_elements_in_each_group - 1) && col1Id < multi_number_of_group) {
+                                                col1Id++;
+                                                col2Id = 0;
+                                                if (col1Id === multi_number_of_group) {
+                                                    col1Id = 0;
+                                                    col2Id = 0;
+                                                    var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                                    console.log(eid)
+                                                    document.getElementById(eid).focus();
+                                                    d3PointDescriptionForMultiGraphById(eid)
+                                                }
+                                                var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                                console.log(eid)
+                                                document.getElementById(eid).focus();
+                                                d3PointDescriptionForMultiGraphById(eid)
+                                            }
+                                        }
+                                    }
+                                } else if (graphType === "pie") {
+                                    if (columnType === "two") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            document.getElementById('Column' + col1Id).focus();
+                                            d3PointDescriptionForPieChartById('Column' + col1Id, 'last')
+
+                                        } else {
+                                            col1Id++;
+                                            if (col1Id === numberOfColumn - 1) {
+                                                col1Id = numberOfColumn - 1;
+
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionForPieChartById(newFocus, 'first')
+                                            } else {
+                                                if (col1Id === numberOfColumn) {
+                                                    col1Id = 0;
+
+                                                    var newFocus = 'Column' + col1Id
+                                                    document.getElementById(newFocus).focus();
+                                                    d3PointDescriptionForPieChartById(newFocus, 'last')
+                                                } else {
+                                                    var newFocus = 'Column' + col1Id
+                                                    document.getElementById(newFocus).focus();
+                                                    d3PointDescriptionForPieChartById(newFocus)
+                                                }
+                                            }
+
+
+                                        }
+                                    }
+                                } else if (graphType === "scatter") {
+                                    if (columnType === "two") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            document.getElementById('Column' + col1Id).focus();
+                                            d3PointDescriptionByIdForScatterPlot('Column' + col1Id, 'last')
+
+                                        } else {
+                                            col1Id++;
+                                            if (col1Id === numberOfColumn - 1) {
+                                                col1Id = numberOfColumn - 1;
+
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionByIdForScatterPlot(newFocus, 'first')
+                                            } else {
+                                                if (col1Id === numberOfColumn) {
+                                                    col1Id = 0;
+
+                                                    var newFocus = 'Column' + col1Id
+                                                    document.getElementById(newFocus).focus();
+                                                    d3PointDescriptionByIdForScatterPlot(newFocus, 'last')
+                                                } else {
+                                                    var newFocus = 'Column' + col1Id
+                                                    document.getElementById(newFocus).focus();
+                                                    d3PointDescriptionByIdForScatterPlot(newFocus)
+                                                }
+                                            }
+
+
+                                        }
+                                    }
+                                } else if (graphType === "heatmap") {
+                                    if (columnType === "two") {
+                                        if (col1Id == null) {
+                                            col1Id = 0;
+                                            document.getElementById('Column0').focus();
+                                            d3PointDescriptionForHeatMapById('Column0', 'first')
+
+                                        } else {
+                                            col1Id--;
+                                            if (col1Id < 0) {
+                                                col1Id = numberOfColumn - 1;
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionForHeatMapById(newFocus, 'last')
+                                            } else if (col1Id === 0) {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionForHeatMapById(newFocus, 'first')
+                                            } else {
+                                                var newFocus = 'Column' + col1Id
+                                                document.getElementById(newFocus).focus();
+                                                d3PointDescriptionForHeatMapById(newFocus)
+                                            }
+                                        }
+                                    }
+                                }
+                                // else if (graphType === "heatMap"){
+                                //     if (columnType === "two") {
+                                //         if (col1Id == null){
+                                //             col1Id = 00;
+                                //             document.getElementById('Column00').focus();
+                                //
+                                //             //arc_elem= document.getElementById('Column0');
+                                //             //arc_elem.style.stroke = "red";
+                                //
+                                //             d3PointDescriptionForHeatMapById('Column00', 'first')
+                                //
+                                //         }
+                                //         else {
+                                //             col1Id++;
+                                //             if (col1Id === numberOfColumn) {
+                                //                 col1Id = 00;
+                                //                 var newFocus = 'Column' + col1Id
+                                //                 document.getElementById(newFocus).focus()
+                                //                     d3PointDescriptionForHeatMapById(newFocus, 'first')
+                                //
+                                //             }
+                                //             else if( col1Id=== (numberOfColumn - 1)){
+                                //                 var newFocus = 'Column0' + col1Id
+                                //                 document.getElementById(newFocus).focus();
+                                //                     d3PointDescriptionForHeatMapById(newFocus, 'last')
+                                //             }
+                                //             else {
+                                //                 var newFocus = 'Column0' + col1Id
+                                //                 document.getElementById(newFocus).focus();
+                                //                     d3PointDescriptionForHeatMapById(newFocus)
+                                //
+                                //             }
+                                //
+                                //         }
+                                //     }
+                                //
+                                // }
+
+
+                            } else if (event.code === 'ArrowUp' && graphType === "line" && columnType === "multi" && !(event.shiftKey || event.metaKey)) {
+                                // key_press_counter();
+                                // else if (event.code === 'ArrowUp' && (graphType === "line" || graphType === "bar" ) && columnType === "multi" && !(event.ctrlKey || event.metaKey)){
+                                if (col1Id == null) {
+                                    col1Id = 0;
+                                    col2Id = 0;
+                                    var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                    console.log(eid)
+                                    document.getElementById(eid).focus();
+                                    d3PointDescriptionForMultiGraphById(eid)
+                                } else {
+                                    if (col1Id < multi_number_of_group - 1) {
+                                        col1Id++;
+                                        var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiGraphById(eid)
+                                    } else {
+                                        col1Id = 0;
+                                        var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiGraphById(eid)
+                                    }
+                                }
+                            } else if (event.code === 'ArrowDown' && graphType === "line" && columnType === "multi" && !(event.shiftKey || event.metaKey)) {
+                                // key_press_counter();
+                                if (col1Id == null) {
+                                    col1Id = 0;
+                                    col2Id = 0;
+                                    var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                    console.log(eid)
+                                    document.getElementById(eid).focus();
+                                    d3PointDescriptionForMultiGraphById(eid)
+                                } else {
+                                    if (col1Id > 0) {
+                                        col1Id--;
+                                        var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiGraphById(eid)
+                                    } else {
+                                        col1Id = multi_number_of_group - 1;
+                                        var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiGraphById(eid)
+                                    }
+                                }
+                            } else if (event.code === 'ArrowUp' && graphType === "bar" && columnType === "multi" && !(event.shiftKey || event.metaKey)) {
+                                // key_press_counter();
+                                // else if (event.code === 'ArrowUp' && (graphType === "line" || graphType === "bar" ) && columnType === "multi" && !(event.ctrlKey || event.metaKey)){
+                                if (col1Id == null) {
+                                    col1Id = 0;
+                                    col2Id = 0;
+                                    var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                    console.log(eid)
+                                    document.getElementById(eid).focus();
+                                    d3PointDescriptionForMultiBarById(eid)
+                                } else {
+                                    if (col2Id < multi_number_of_elements_in_each_group - 1) {
+                                        col2Id++;
+                                        var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiBarById(eid)
+                                    } else {
+                                        col2Id = 0;
+                                        var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiBarById(eid)
+                                    }
+                                }
+                            } else if (event.code === 'ArrowDown' && graphType === "bar" && columnType === "multi" && !(event.shiftKey || event.metaKey)) {
+                                // key_press_counter();
+                                if (col1Id == null) {
+                                    col1Id = 0;
+                                    col2Id = 0;
+                                    var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                    console.log(eid)
+                                    document.getElementById(eid).focus();
+                                    d3PointDescriptionForMultiBarById(eid)
+                                } else {
+                                    if (col2Id > 0) {
+                                        col2Id--;
+                                        var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiBarById(eid)
+                                    } else {
+                                        col2Id = multi_number_of_elements_in_each_group - 1;
+                                        var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiBarById(eid)
+                                    }
+                                }
+                            }
+
+                        } else {
+                            if (event.key === "Enter") {
+                                if (search_el.value !== null) {
+                                    search_field();
+                                    search_el.value = null;
+                                }
+                            } else if (event.code === 'KeyT' && (event.shiftKey || event.metaKey)) {
+                                if (search_el.value === null) {
+                                    speakText("Search box is empty.")
+                                } else {
+                                    var search_text = search_el.value;
+                                    search_text = search_text.slice(0, -1)
+                                    console.log(search_text)
+                                    search_el.value = search_text;
+                                    speakText(search_el.value);
+                                }
+                            }
+                        }
+                    }
+
+
+                    if (event.code === 'Escape') {
+                        unselectSelectedBrush();
+                        tempStr = ""
+                        xAxisLabel = []
+                        template_summary();
+                        speakText(" ");
+                        if (search_el === document.activeElement) {
+                            search_el.blur();
+                            speakText("Search mode deactivated.")
+                        }
+
+                    }
+
+
+                })
+
+                var rectColor = ""
+                var dotColor = ""
+
+                document.addEventListener('keydown', function (event2) {
+                    if (search_el !== document.activeElement) {
+                        if ((event2.shiftKey || event2.metaKey)) {
+                            // key_press_counter();
+                            console.log("SHIFT CLICKED!")
+                            speakText("Multi point selection mode activated. Keep pressing Right arrow until you select all the data points, that you are interested in.")
+                        }
+
+
+                        if (event2.code === 'ArrowRight' && (event2.shiftKey || event2.metaKey)) {
+
+                            if (graphType === "bar") {
+                                if (columnType === "two") {
+                                    if (col1Id == null) {
+                                        col1Id = 0;
+                                        var eid = 'Column' + col1Id
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+
+                                        // var newFocus = 'Column' + col1Id
+                                        xAxisLabelNameByColumnId(eid)
+
+
+                                        // d3PointDescriptionById('Column0')
+                                        var attr = document.getElementById(eid).attributes
+                                        // console.log(attr)
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+                                        console.log(attr.getNamedItem('yVal').value)
+                                        xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                        totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                        col1Id++;
+                                        num_selected_point++;
+                                    } else {
+                                        if (col1Id === numberOfColumn) {
+                                            console.log("DO NOTHING")
+                                            // xAxisLabelNameByColumnId(eid)
+                                            speakText("This is the last bar of the chart. You may release the Control key");
+                                        } else {
+                                            var eid = 'Column' + col1Id
+                                            colArr.push(eid)
+                                            document.getElementById(eid).focus();
+                                            xAxisLabelNameByColumnId(eid)
+                                            var attr = document.getElementById(eid).attributes
+                                            // document.getElementById(eid).style.opacity = ".5"
+                                            document.getElementById(eid).style.fill = "red"
+                                            console.log(attr.getNamedItem('yVal').value)
+                                            xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                            totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                            col1Id++;
+                                            num_selected_point++;
+                                        }
+
+                                    }
+                                } else if (columnType === "multi") {
+                                    if (col1Id == null) {
+                                        col1Id = 0;
+                                        col2Id = 0;
+                                        var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                        rectColor = document.getElementById(eid).style.color
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        xAxisLabelNameByColumnId(eid)
+                                        tempAttrRect = document.getElementById(eid).attributes
+                                        document.getElementById(eid).style.fill = "red"
+                                        console.log(tempAttrRect.getNamedItem('yVal').value)
+                                        xAxisLabel.push(tempAttrRect.getNamedItem('xVal').value)
+                                        totalValue += parseInt(tempAttrRect.getNamedItem('yVal').value)
+                                        col2Id++;
+                                        num_selected_point++;
+                                    } else {
+                                        if (col2Id === multi_number_of_elements_in_each_group) {
+                                            console.log("DO NOTHING")
+                                            speakText("This is the last bar of the chart. You may release the Control key");
+                                        } else {
+                                            var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                            colArr.push(eid)
+                                            document.getElementById(eid).focus();
+                                            xAxisLabelNameByColumnId(eid)
+                                            tempAttrRect = document.getElementById(eid).attributes
+                                            document.getElementById(eid).style.fill = "red"
+                                            console.log(tempAttrRect.getNamedItem('yVal').value)
+                                            xAxisLabel.push(tempAttrRect.getNamedItem('xVal').value)
+                                            totalValue += parseInt(tempAttrRect.getNamedItem('yVal').value)
+                                            col2Id++;
+                                            num_selected_point++;
+                                        }
+                                    }
+                                }
+                            } else if (graphType === "line") {
+                                if (columnType === "two") {
+                                    if (col1Id == null) {
+                                        col1Id = numberOfColumn - 1;
+                                        var eid = 'Column' + col1Id
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        xAxisLabelNameByColumnId(eid)
+                                        var attr = document.getElementById(eid).attributes
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+                                        console.log(attr.getNamedItem('yVal').value)
+                                        xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                        totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                        col1Id--;
+                                        num_selected_point++;
+
+                                    } else {
+                                        if (col1Id < 0) {
+                                            console.log("DO NOTHING")
+                                            speakText("This is the last point of the chart. You may release the Control key");
+                                        } else {
+                                            var eid = 'Column' + col1Id
+                                            colArr.push(eid)
+                                            document.getElementById(eid).focus();
+                                            xAxisLabelNameByColumnId(eid)
+                                            var attr = document.getElementById(eid).attributes
+                                            // document.getElementById(eid).style.opacity = ".5"
+                                            document.getElementById(eid).style.fill = "red"
+
+                                            console.log(attr.getNamedItem('yVal').value)
+                                            xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                            totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                            col1Id--;
+                                            num_selected_point++;
+                                        }
+                                    }
+                                } else if (columnType === "multi") {
+                                    if (col1Id == null) {
+                                        col1Id = 0;
+                                        col2Id = multi_number_of_elements_in_each_group - 1;
+                                        var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                        dotColor = document.getElementById(eid).style.color
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        xAxisLabelNameByColumnId(eid)
+                                        // d3PointDescriptionById('Column0')
+                                        tempAttrLine = document.getElementById(eid).attributes
+                                        // console.log(attr)
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+                                        console.log(tempAttrLine.getNamedItem('yVal').value)
+                                        xAxisLabel.push(tempAttrLine.getNamedItem('xVal').value)
+                                        totalValue += parseInt(tempAttrLine.getNamedItem('yVal').value)
+                                        col2Id--;
+                                        num_selected_point++;
+                                    } else {
+                                        if (col1Id < 0 || col2Id < 0) {
+                                            console.log("DO NOTHING")
+                                            speakText("This is the last point of the chart. You may release the Control key");
+                                        } else {
+                                            var eid = 'Column[' + col1Id + '][' + col2Id + ']'
+                                            colArr.push(eid)
+                                            document.getElementById(eid).focus();
+                                            xAxisLabelNameByColumnId(eid)
+                                            tempAttrLine = document.getElementById(eid).attributes
+                                            // document.getElementById(eid).style.opacity = ".5"
+                                            document.getElementById(eid).style.fill = "red"
+                                            console.log(tempAttrLine.getNamedItem('yVal').value)
+                                            xAxisLabel.push(tempAttrLine.getNamedItem('xVal').value)
+                                            totalValue += parseInt(tempAttrLine.getNamedItem('yVal').value)
+                                            col2Id--;
+                                            num_selected_point++;
+                                        }
+                                    }
+                                }
+
+                            } else if (graphType === "pie") {
+                                if (columnType === "two") {
+                                    if (col1Id == null) {
+                                        col1Id = numberOfColumn - 1;
+                                        var eid = 'Column' + col1Id
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        var attr = document.getElementById(eid).attributes
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+                                        console.log(attr.getNamedItem('percentVal').value)
+                                        xAxisLabel.push(attr.getNamedItem('nameVal').value)
+                                        totalValue += parseInt(attr.getNamedItem('percentVal').value)
+                                        col1Id--;
+                                        num_selected_point++;
+
+                                    } else {
+                                        if (col1Id < 0) {
+                                            console.log("DO NOTHING")
+                                            speakText("This is the last point of the chart. You may release the Control key");
+                                        } else {
+                                            var eid = 'Column' + col1Id
+                                            colArr.push(eid)
+                                            document.getElementById(eid).focus();
+                                            var attr = document.getElementById(eid).attributes
+                                            // document.getElementById(eid).style.opacity = ".5"
+                                            document.getElementById(eid).style.fill = "red"
+
+                                            console.log(attr.getNamedItem('percentVal').value)
+                                            xAxisLabel.push(attr.getNamedItem('nameVal').value)
+                                            totalValue += parseInt(attr.getNamedItem('percentVal').value)
+                                            col1Id--;
+                                            num_selected_point++;
+                                        }
+                                    }
+                                }
+
+                            } else if (graphType === "scatter") {
+                                if (columnType === "two") {
+                                    if (col1Id == null) {
+                                        col1Id = numberOfColumn - 1;
+                                        var eid = 'Column' + col1Id
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        var attr = document.getElementById(eid).attributes
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+                                        console.log(attr.getNamedItem('yVal').value)
+                                        xAxisLabel.push(attr.getNamedItem('classVal').value)
+                                        totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                        col1Id--;
+                                        num_selected_point++;
+
+                                    } else {
+                                        if (col1Id < 0) {
+                                            console.log("DO NOTHING")
+                                            speakText("This is the last point of the chart. You may release the Control key");
+                                        } else {
+                                            var eid = 'Column' + col1Id
+                                            colArr.push(eid)
+                                            document.getElementById(eid).focus();
+                                            var attr = document.getElementById(eid).attributes
+                                            // document.getElementById(eid).style.opacity = ".5"
+                                            document.getElementById(eid).style.fill = "red"
+
+                                            console.log(attr.getNamedItem('yVal').value)
+                                            xAxisLabel.push(attr.getNamedItem('classVal').value)
+                                            totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                            col1Id--;
+                                            num_selected_point++;
+                                        }
+                                    }
+                                }
+
+                            } else if (graphType === "heatmap") {
+                                if (columnType === "two") {
+                                    if (col1Id == null) {
+                                        col1Id = numberOfColumn - 1;
+                                        var eid = 'Column' + col1Id
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        var attr = document.getElementById(eid).attributes
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+                                        console.log(attr.getNamedItem('cellVal').value)
+                                        xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                        totalValue += parseInt(attr.getNamedItem('cellVal').value)
+                                        col1Id--;
+                                        num_selected_point++;
+
+                                    } else {
+                                        if (col1Id < 0) {
+                                            console.log("DO NOTHING")
+                                            speakText("This is the last point of the chart. You may release the Control key");
+                                        } else {
+                                            var eid = 'Column' + col1Id
+                                            colArr.push(eid)
+                                            document.getElementById(eid).focus();
+                                            var attr = document.getElementById(eid).attributes
+                                            // document.getElementById(eid).style.opacity = ".5"
+                                            document.getElementById(eid).style.fill = "red"
+
+                                            console.log(attr.getNamedItem('cellVal').value)
+                                            xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                            totalValue += parseInt(attr.getNamedItem('cellVal').value)
+                                            col1Id--;
+                                            num_selected_point++;
+                                        }
+                                    }
+                                }
+
+                            }
+
+                        }
+
+                    }
+
+                });
+
+                document.addEventListener('keyup', function (event3) {
+
+                    // if (event3.code === 'CapsLock'){
+                    //     capsOn = false;
+                    //     console.log("Caps released")
+                    // }
+
+                    if (search_el !== document.activeElement) {
+                        if ((event3.code === 'ShiftLeft' || event3.code === 'ShiftRight')) {
+
+                            // if ((col1Id == null || col1Id === 0) && columnType === "two"){
+                            //     console.log("Nothing selected.")
+                            //     speakText("No point was selected.")
+                            // }
+                            if (num_selected_point === 0) {
+                                console.log("Nothing selected.")
+                                speakText("You did not select any point.")
+
+                            } else {
+
+                                if ((graphType === "bar" && columnType === "two") || (graphType === "line" && columnType === "two")) {
+                                    for (val in xAxisLabel) {
+
+                                        if (parseInt(val) === (xAxisLabel.length - 1)) {
+                                            console.log(val)
+
+                                            tempStr += ("and " + xAxisLabel[val])
+                                        } else {
+                                            console.log(val)
+                                            tempStr += (xAxisLabel[val] + ", ")
+                                        }
+                                    }
+
+                                    var string = "Total value of " + yLabel + " is " + totalValue + ", at " + xLabel + " " + tempStr;
+
+                                    console.log(string)
+
+                                    document.getElementById("summaryText").innerText = string;
+                                    speakText(string)
+
+                                    var chartNumber = document.getElementById('chartNumber').value;
+
+                                    chartType = "single";
+                                    chart = graphType;
+
+                                    // construct an HTTP request
+
+                                    var xmlhttp = new XMLHttpRequest();   // new HttpRequest instance
+                                    // var theUrl = "https://127.0.0.1:8080/multiBarBrush";
+                                    var theUrl = "https://127.0.0.1:8080/multiBarBrush";
+                                    xmlhttp.open("POST", theUrl);
+
+                                    xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+                                    xmlhttp.send(JSON.stringify({
+                                        "chart": "" + chart + "",
+                                        "chartType": "" + chartType + "",
+                                        "barValues": "" + xAxisLabel + "",
+                                        "xLabel": "" + xLabel + "",
+                                        "yLabel": "" + yLabel + "",
+                                        "chartNumber": "" + chartNumber + ""
+                                    }));
+
+                                    xmlhttp.onloadend = function () {
+                                        console.log(xmlhttp.status)
+                                        if (xmlhttp.status === 200) {
+
+                                            const myObj = JSON.parse(xmlhttp.response);
+                                            var part_sum_arr = []
+                                            part_sum_arr = myObj.summary.split("+");
+                                            // summary = myObj.summary.split(". ");
+                                            //
+                                            // console.log("summary")
+                                            // console.log(summary)
+
+
+                                            partial_summary = part_sum_arr;
+                                            console.log(partial_summary);
+                                            set_partial_summary();
+                                            // narrateSummary();
+                                            speakText("Partial summary has been generated. Press Space to hear at once, or press J, K, L to hear line-by-line")
+                                            curr = 0;
+                                            num_selected_point = 0;
+                                        }
+                                    };
+
+
+                                    if (graphType === "bar") {
+                                        col1Id--;
+                                    } else {
+                                        col1Id++;
+                                    }
+
+                                    document.addEventListener('keydown', function (event) {
+                                        if (event.key === "Escape") {
+                                            //do something
+                                            set_summary_selection();
+                                            for (var each in colArr) {
+                                                // document.getElementById(colArr[each]).style.opacity = "1"
+                                                if (graphType === "line") {
+                                                    document.getElementById(colArr[each]).style.fill = "#2ba8fc"
+
+                                                } else if (graphType === 'bar') {
+                                                    document.getElementById(colArr[each]).style.fill = "#3093cf"
+
+                                                }
+
+                                            }
+                                            totalValue = 0;
+                                            xAxisLabel = [];
+                                        }
+                                    });
+
+                                } else if ((graphType === "bar" && columnType === "multi")) {
+
+                                    console.log("xAxisLabel")
+                                    console.log(xAxisLabel)
+
+                                    for (val in xAxisLabel) {
+
+                                        if (parseInt(val) === (xAxisLabel.length - 1)) {
+                                            console.log(val)
+
+                                            tempStr += ("and " + xAxisLabel[val])
+                                        } else {
+                                            console.log(val)
+                                            tempStr += (xAxisLabel[val] + ", ")
+                                        }
+                                    }
+
+                                    var string = "Total value of " + tempAttrRect.getNamedItem('barVal').value + " is " + totalValue + ", at " + tempAttrRect.getNamedItem('xLabel').value + " " + tempStr;
+
+                                    console.log(string)
+                                    document.getElementById("summaryText").innerText = string;
+                                    speakText(string)
+                                    col2Id--;
+
+                                    var chartNumber = document.getElementById('chartNumber').value;
+
+                                    var xmlhttp = new XMLHttpRequest();   // new HttpRequest instance
+                                    var theUrl = "https://127.0.0.1:8080/multiBarBrush";
+                                    xmlhttp.open("POST", theUrl);
+
+                                    xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+                                    xmlhttp.send(JSON.stringify({
+                                        "chart": "" + graphType + "",
+                                        "chartType": "" + columnType + "",
+                                        "barValues": "" + xAxisLabel + "",
+                                        "groupNames": "" + groupNames.join() + "",
+                                        "xLabel": "" + xLabel + "",
+                                        "yLabel": "" + yLabel + "",
+                                        "chartNumber": "" + chartNumber + ""
+                                    }));
+
+                                    xmlhttp.onloadend = function () {
+                                        console.log(xmlhttp.status)
+                                        if (xmlhttp.status === 200) {
+
+                                            const myObj = JSON.parse(xmlhttp.response);
+                                            var part_sum_arr = []
+                                            part_sum_arr = myObj.summary.split("+");
+                                            // summary = partial_summary;
+                                            // console.log(part_sum_arr);
+
+                                            partial_summary = part_sum_arr;
+                                            console.log(partial_summary);
+                                            set_partial_summary();
+                                            speakText("Partial summary has been generated. Press Space to hear at once, or press J, K, L to hear line-by-line")
+                                            curr = 0;
+                                            num_selected_point = 0;
+
+                                            // narrateSummary();
+                                        }
+                                    };
+
+                                    document.addEventListener('keydown', function (event) {
+                                        if (event.key === "Escape") {
+                                            //do something
+                                            set_summary_selection();
+                                            for (var each in colArr) {
+                                                document.getElementById(colArr[each]).style.fill = rectColor
+                                            }
+                                            totalValue = 0;
+                                            xAxisLabel = []
+                                        }
+                                    });
+
+                                } else if ((graphType === "line" && columnType === "multi")) {
+                                    console.log("xAxisLabel")
+                                    console.log(xAxisLabel)
+
+                                    for (val in xAxisLabel) {
+
+                                        if (parseInt(val) === (xAxisLabel.length - 1)) {
+                                            tempStr += ("and " + xAxisLabel[val])
+                                        } else {
+                                            tempStr += (xAxisLabel[val] + ", ")
+                                        }
+                                    }
+
+                                    var string = "Total value of " + tempAttrLine.getNamedItem('lineVal').value + " is " + totalValue + ", at " + xLabel + " " + tempStr;
+
+                                    console.log(string)
+                                    document.getElementById("summaryText").innerText = string;
+                                    speakText(string)
+                                    col2Id++;
+
+                                    var chartNumber = document.getElementById('chartNumber').value;
+
+                                    var xmlhttp = new XMLHttpRequest();   // new HttpRequest instance
+                                    var theUrl = "https://127.0.0.1:8080/multiBarBrush";
+                                    // var theUrl = "https://127.0.0.1:8080/multiBarBrush";
+                                    xmlhttp.open("POST", theUrl);
+
+                                    var a = JSON.stringify({
+                                        "chart": "" + graphType + "",
+                                        "chartType": "" + columnType + "",
+                                        "barValues": "" + xAxisLabel + "",
+                                        "groupNames": "" + groupNames.join() + "",
+                                        "xLabel": "" + xLabel + "",
+                                        "yLabel": "" + yLabel + "",
+                                        "chartNumber": "" + chartNumber + ""
+                                    })
+
+                                    console.log(a)
+
+                                    xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+                                    xmlhttp.send(JSON.stringify({
+                                        "chart": "" + graphType + "",
+                                        "chartType": "" + columnType + "",
+                                        "barValues": "" + xAxisLabel + "",
+                                        "groupNames": "" + groupNames.join() + "",
+                                        "xLabel": "" + xLabel + "",
+                                        "yLabel": "" + yLabel + "",
+                                        "chartNumber": "" + chartNumber + ""
+                                    }));
+
+                                    xmlhttp.onloadend = function () {
+                                        console.log(xmlhttp.status)
+                                        if (xmlhttp.status === 200) {
+
+                                            const myObj = JSON.parse(xmlhttp.response);
+                                            var part_sum_arr = []
+                                            part_sum_arr = myObj.summary.split("+");
+                                            // summary = partial_summary;
+                                            // console.log(part_sum_arr);
+
+                                            partial_summary = part_sum_arr;
+
+                                            console.log(partial_summary);
+                                            set_partial_summary();
+                                            speakText("Partial summary has been generated. Press Space to hear at once, or press J, K, L to hear line-by-line")
+                                            curr = 0;
+                                            num_selected_point = 0;
+
+                                            // narrateSummary();
+                                        }
+                                    };
+
+                                    document.addEventListener('keydown', function (event) {
+                                        if (event.key === "Escape") {
+                                            //do something
+                                            set_summary_selection();
+                                            for (var each in colArr) {
+                                                document.getElementById(colArr[each]).style.fill = dotColor
+                                            }
+                                            totalValue = 0;
+                                            xAxisLabel = []
+                                        }
+                                    });
+
+                                }
+
+                            }
+
+
+                        }
+                    }
+                });
+
+
+            } else {
+                console.log("No D3 chart found")
+            }
+
+
+        }
+    }, 1000);
+
+
+</script>
+
+
+</body>
+</html>

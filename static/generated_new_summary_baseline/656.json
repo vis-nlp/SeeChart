@@ -1,0 +1,125 @@
+{
+   "title": "Top U.S. states based on milk production 2016 to 2018",
+   "labels": [
+      "State",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 10 different States on X-axis for 3 groups 2016, 2017, and 2018. On the Y-axis it shows their corresponding Milk production in million pounds. ",
+      " Out of all 3 groups, 2016 had the highest Milk production in million pounds for State California and 2017 had the lowest Milk production in million pounds for State Washington. ",
+      " The maximum Milk production in million pounds for 2017 that was found in State California was 6.1 times larger than the minimum Milk production in million pounds observed in State Washington. ",
+      "On average, the State California had the highest Milk production in million pounds for all 3 groups 2016, 2017, and 2018. Whereas Washington had the lowest average Milk production in million pounds. "
+   ],
+   "xAxis": "State",
+   "yAxis": "Milk production in million pounds",
+   "min_summary": [
+      "This grouped bar chart shows Milk production in million pounds on the Y-axis for 10 different States for 3 groups 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " For State California, 2016 had the highest Milk production in million pounds 40469.0 among the 3 groups and in Washington, 2017 had the lowest Milk production in million pounds 6526.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 10 different States on X-axis for 3 groups 2016, 2017, and 2018. On the Y-axis it shows their corresponding Milk production in million pounds. ",
+      " Out of all 3 groups, 2016 had the highest Milk production in million pounds for State California and 2017 had the lowest Milk production in million pounds for State Washington. ",
+      " The maximum Milk production in million pounds for 2017 that was found in State California was 6.1 times larger than the minimum Milk production in million pounds observed in State Washington. ",
+      "On average, the State California had the highest Milk production in million pounds for all 3 groups 2016, 2017, and 2018. Whereas Washington had the lowest average Milk production in million pounds. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Milk production in million pounds on the Y-axis for 10 different States for 3 groups 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " For State California, 2016 had the highest Milk production in million pounds 40469.0 among the 3 groups and in Washington, 2017 had the lowest Milk production in million pounds 6526.0. ",
+      " Among all the States, 2017 had the highest Milk production in million pounds 39798.0 in State California and lowest value 6526.0 in State Washington. ",
+      " The maximum Milk production in million pounds for 2017 that was found in State California was 6.1 times larger than the minimum Milk production in million pounds observed in State Washington. ",
+      " Out of all 3 groups, the highest gap between the maximum and minimum Milk production in million pounds was found in case of 2016. ",
+      " 2016 had the maximum Milk production in million pounds out of all 3 groups in State California followed by 2016 in California, and the minimum Milk production in million pounds is found for 2017 in Washington. ",
+      "Averaging all 3 groups 2016, 2017, and 2018, the State California is the maximum Milk production in million pounds and Washington is the minimum Milk production in million pounds. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "California",
+         "2016": "40469",
+         "2017": "39798",
+         "2018": "40413"
+      },
+      {
+         "State": "Wisconsin",
+         "2016": "30123",
+         "2017": "30320",
+         "2018": "30579"
+      },
+      {
+         "State": "Idaho",
+         "2016": "14665",
+         "2017": "14627",
+         "2018": "15149"
+      },
+      {
+         "State": "New York",
+         "2016": "14765",
+         "2017": "14912",
+         "2018": "14882"
+      },
+      {
+         "State": "Texas",
+         "2016": "10773",
+         "2017": "12054",
+         "2018": "12852"
+      },
+      {
+         "State": "Michigan",
+         "2016": "10876",
+         "2017": "11231",
+         "2018": "11168"
+      },
+      {
+         "State": "Pennsylvania",
+         "2016": "10820",
+         "2017": "10938",
+         "2018": "10665"
+      },
+      {
+         "State": "Minnesota",
+         "2016": "9666",
+         "2017": "9864",
+         "2018": "9868"
+      },
+      {
+         "State": "New Mexico",
+         "2016": "7711",
+         "2017": "8212",
+         "2018": "8285"
+      },
+      {
+         "State": "Washington",
+         "2016": "6650",
+         "2017": "6526",
+         "2018": "6736"
+      }
+   ]
+}

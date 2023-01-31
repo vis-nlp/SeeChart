@@ -1,0 +1,61 @@
+{
+   "title": "Number of assaults by weapon U.S. 2018",
+   "xAxis": "Weapon used",
+   "yAxis": "Number of assaults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of assaults for 4 number of Weapon useds. ",
+      "Weapon used Other weapon has the highest Number of assaults and Knife or cutting instrument has the lowest Number of assaults. ",
+      "There is a difference of 100744.0 between the maximum Weapon used Other weapon and minimum Weapon used Knife or cutting instrument. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Weapon used in the x axis and Number of assaults in the y axis. ",
+      "The maximum Number of assaults 223997.0 is found at Weapon used Other weapon and the minimum is found at Knife or cutting instrument where Number of assaults is 123253.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of assaults for 4 number of Weapon useds. ",
+      "Weapon used Other weapon has the highest Number of assaults and Knife or cutting instrument has the lowest Number of assaults. ",
+      "There is a difference of 100744.0 between the maximum Weapon used Other weapon and minimum Weapon used Knife or cutting instrument. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of assaults for 4 number of Weapon useds. ",
+      "The Number of assaults is appeared to be the highest at Weapon used Other weapon and lowest at Weapon used Knife or cutting instrument. ",
+      "The second highest Number of assaults is appeared to be the Weapon used . ",
+      "There is a difference of 100744.0 between the maximum Weapon used Other weapon and minimum Weapon used Knife or cutting instrument. ",
+      "The Weapon used Other weapon has the highest Number of assaults, followed by , and Personal weapons. Down to the Weapon used Knife or cutting instrument which is the lowest. ",
+      "The Weapon used Knife or cutting instrument tends to be 1.26 percent lower than average. ",
+      "Summing up the values of all Weapon useds, we get total 711695.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Weapon used": "Other weapon",
+         "Number of assaults": 223997.0
+      },
+      {
+         "Weapon used": "Firearm",
+         "Number of assaults": 185437.0
+      },
+      {
+         "Weapon used": "Personal weapons",
+         "Number of assaults": 179008.0
+      },
+      {
+         "Weapon used": "Knife or cutting instrument",
+         "Number of assaults": 123253.0
+      }
+   ]
+}

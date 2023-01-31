@@ -1,0 +1,114 @@
+{
+   "title": "Alibaba : quarterly gross merchandise volume Q2 2012-Q2 2016",
+   "xAxis": "Quarter",
+   "yAxis": "Total GMV in billion yuan",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Quarter in the x axis and Total GMV in billion yuan in the y axis. ",
+      "The maximum Total GMV in billion yuan 964.0 is found at Quarter Q4 '15 and the minimum is found at Q2 '12 where Total GMV in billion yuan is 209.0. ",
+      "The Total GMV in billion yuan of Quarter Q4 '15 is 4.61% larger than the minimum value at Q2 '12. "
+   ],
+   "min_summary": [
+      "This bar chart has 17 columns on the x axis representing Quarter, and Total GMV in billion yuan in each Quarter on the y axis. ",
+      "The maximum Total GMV in billion yuan 964.0 is found at Quarter Q4 '15 and the minimum is found at Q2 '12 where Total GMV in billion yuan is 209.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Total GMV in billion yuan in the y axis. ",
+      "The maximum Total GMV in billion yuan 964.0 is found at Quarter Q4 '15 and the minimum is found at Q2 '12 where Total GMV in billion yuan is 209.0. ",
+      "The Total GMV in billion yuan of Quarter Q4 '15 is 4.61% larger than the minimum value at Q2 '12. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Total GMV in billion yuan for 17 number of Quarters. ",
+      "The Total GMV in billion yuan is highest at Quarter Q4 '15 and lowest at Quarter Q2 '12. ",
+      "Second maximum Total GMV in billion yuan is found at Quarter . ",
+      "The highest Quarter Q4 '15 has 755.0 more Total GMV in billion yuan than the lowest Quarter Q2 '12. ",
+      "The Quarter Q4 '15 has the highest Total GMV in billion yuan, followed by , and Q4 '14. Down to the Quarter Q2 '12 which is the lowest. ",
+      "Over the past 17 Quarters, the Total GMV in billion yuan has reduced. ",
+      "The Quarter Q2 '12 has 1.8 times less Total GMV in billion yuan than average. ",
+      "The Total GMV in billion yuan is 9127.94 if we add up values of all Quarters. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 16,
+         "12": 16
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q2 '16",
+         "Total GMV in billion yuan": 837.0
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Total GMV in billion yuan": 741.94
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Total GMV in billion yuan": 964.0
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Total GMV in billion yuan": 713.0
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Total GMV in billion yuan": 673.0
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Total GMV in billion yuan": 600.0
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Total GMV in billion yuan": 787.0
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Total GMV in billion yuan": 556.0
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Total GMV in billion yuan": 501.0
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Total GMV in billion yuan": 430.0
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Total GMV in billion yuan": 529.0
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Total GMV in billion yuan": 374.0
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Total GMV in billion yuan": 345.0
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Total GMV in billion yuan": 294.0
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Total GMV in billion yuan": 346.0
+      },
+      {
+         "Quarter": "Q3 '12",
+         "Total GMV in billion yuan": 228.0
+      },
+      {
+         "Quarter": "Q2 '12",
+         "Total GMV in billion yuan": 209.0
+      }
+   ]
+}

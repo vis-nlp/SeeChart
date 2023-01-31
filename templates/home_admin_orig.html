@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ JSGlue.include() }}
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="120; url={{ url_for('admin') }}">
+    <title>User Study Home for Admin</title>
+    <link href="static/css/homeStyle.css" rel="stylesheet">
+    <script type=text/javascript src="{{ url_for('static', filename='js/study.js') }}"></script>
+
+</head>
+
+<div class="topnav">
+    <a class="active" href="{{ url_for('home') }}">Home</a>
+    <a href="{{ url_for('config') }}">Study Config</a>
+    <a href="{{ url_for('all_charts') }}">Charts</a>
+    <a href="#" onClick="(function(){
+        if (confirm('Are you sure?') == true){
+            window.location.replace(Flask.url_for('logout'));
+        }
+
+    })();">Log Out</a>
+
+    <p> Participant ID: ADMIN </p>
+</div>
+
+<body>
+    <h1 class="main" align="center">Admin Portal</h1>
+
+    <div class="container" align="center">
+        <h2 align="center"> Progress Status </h2>
+        <table id="myTable" border="1" class="styled-table" style="width: 90%;">
+            <tr>
+                <th style="padding-right: 20px; padding-left: 20px; background: #c4e3f3; width: 70%;"> User ID </th>
+                <th style="padding-right: 20px; padding-left: 20px; background: #c4e3f3; width: 30%;"> State </th>
+                <th style="padding-right: 20px; padding-left: 20px; background: #c4e3f3; width: 30%;"> Pre-Study </th>
+                <th style="padding-right: 20px; padding-left: 20px; background: #c4e3f3; width: 30%;"> Task A </th>
+                <th style="padding-right: 20px; padding-left: 20px; background: #c4e3f3; width: 30%;"> Task B </th>
+                <th style="padding-right: 20px; padding-left: 20px; background: #c4e3f3; width: 30%;"> Task C </th>
+                <th style="padding-right: 20px; padding-left: 20px; background: #c4e3f3; width: 30%;"> Task D </th>
+                <th style="padding-right: 20px; padding-left: 20px; background: #c4e3f3; width: 30%;"> Post-Study </th>
+            </tr>
+            <script>
+                create_tab();
+
+                async function create_tab(){
+                    var tbodyRef = document.getElementById('myTable').getElementsByTagName('tbody')[0];
+
+                    for (var i=1001; i<=1005; i++){
+                        var JSONRequestURL = "static/task/data_" + i + ".json";
+                        var JSONRequest = new XMLHttpRequest();
+                        JSONRequest.open('GET', JSONRequestURL);
+                        JSONRequest.responseType = 'json';
+                        JSONRequest.send();
+
+                        JSONRequest.onload = function () {
+
+                            if (JSONRequest.status === 200){
+                                var newRow = tbodyRef.insertRow();
+                                newRow.style.height = '90px';
+                                var newCell = newRow.insertCell(0);
+                                var pid = document.createTextNode(''+ i);
+                                newCell.appendChild(pid);
+
+
+                                var jsonObj = JSONRequest.response;
+                                var newCell2 = newRow.insertCell(1);
+                                if (jsonObj['logged_in'] === "true"){
+                                    var state = document.createTextNode("Logged In");
+                                    newCell2.appendChild(state);
+                                    newCell2.style.color = "GREEN";
+                                    newCell2.style.fontWeight = "bold";
+                                }
+                                else if (jsonObj['logged_in'] === "false"){
+                                    var state = document.createTextNode("Logged Out");
+                                    newCell2.appendChild(state);
+                                    newCell2.style.color = "RED";
+                                    newCell2.style.fontWeight = "bold";
+                                }
+
+                                var newCell3 = newRow.insertCell(2)
+
+                                if (jsonObj['Pre-Study Questionnaire'] === "NOT DONE"){
+                                    var pre_study = document.createTextNode(jsonObj['Pre-Study Questionnaire']);
+                                    newCell3.appendChild(pre_study);
+                                }
+
+                                if (jsonObj['Pre-Study Questionnaire'] === "DONE"){
+                                    var a = document.createElement('a');
+                                    var linkText = document.createTextNode(jsonObj['Pre-Study Questionnaire']);
+
+                                    var name = 'pre_study_pid_' + + newCell.innerText
+
+                                    a.appendChild(linkText);
+                                    a.title = "Click to download";
+                                    a.href = "{{ url_for('download', filename= 'name') }}".replace("name", name);
+                                    newCell3.appendChild(a)
+                                    newCell3.style.fontWeight = "bold";
+
+                                    let btn = document.createElement("button");
+                                    btn.setAttribute("class", "button")
+                                    btn.innerHTML = "Reset";
+                                    {#btn.onclick = reset_task_state(i,'Pre-Study Questionnaire');#}
+                                    btn.onclick = function () {
+                                        if (confirm('Are you sure to reset?') === true){
+                                            reset_task_state(newCell.innerText,'Pre-Study Questionnaire');
+                                        }
+                                    };
+                                    btn.style.width = '70px';
+                                    btn.style.height = '30px';
+                                    newCell3.appendChild(btn);
+
+                                }
+
+                                var newCell4 = newRow.insertCell(3)
+
+                                if (jsonObj['TASK A'] === "NOT DONE"){
+                                    var taskA = document.createTextNode(jsonObj['TASK A']);
+                                    newCell4.appendChild(taskA);
+                                }
+
+                                if (jsonObj['TASK A'] === "DONE"){
+                                    var a = document.createElement('a');
+                                    var linkText = document.createTextNode(jsonObj['TASK A']);
+
+                                    var name = 'task_A_response_pid_' + + newCell.innerText
+
+                                    a.appendChild(linkText);
+                                    a.title = "Click to download";
+                                    a.href = "{{ url_for('download', filename= 'name') }}".replace("name", name);
+                                    newCell4.appendChild(a)
+                                    newCell4.style.fontWeight = "bold";
+                                    let btn = document.createElement("button");
+                                    btn.setAttribute("class", "button")
+                                    btn.innerHTML = "Reset";
+                                    {#btn.onclick = reset_task_state(i,'TASK A');#}
+                                    btn.onclick = function () {
+                                        if (confirm('Are you sure to reset?') === true){
+                                            reset_task_state(newCell.innerText,'TASK A');
+                                        }
+                                    };
+                                    btn.style.width = '70px';
+                                    btn.style.height = '30px';
+                                    newCell4.appendChild(btn);
+                                }
+
+                                var newCell5 = newRow.insertCell(4)
+
+                                if (jsonObj['TASK B'] === "NOT DONE"){
+                                    var taskB = document.createTextNode(jsonObj['TASK B']);
+                                    newCell5.appendChild(taskB);
+                                }
+
+
+                                if (jsonObj['TASK B'] === "DONE"){
+                                    var a = document.createElement('a');
+                                    var linkText = document.createTextNode(jsonObj['TASK B']);
+
+                                    var name = 'task_B_response_pid_' + + newCell.innerText
+
+                                    a.appendChild(linkText);
+                                    a.title = "Click to download";
+                                    a.href = "{{ url_for('download', filename= 'name') }}".replace("name", name);
+                                    newCell5.appendChild(a)
+                                    newCell5.style.fontWeight = "bold";
+
+                                    let btn = document.createElement("button");
+                                    btn.setAttribute("class", "button")
+                                    btn.innerHTML = "Reset";
+                                    {#btn.onclick = reset_task_state(i,'TASK B');#}
+                                    btn.onclick = function () {
+                                        if (confirm('Are you sure to reset?') === true){
+                                            reset_task_state(newCell.innerText,'TASK B');
+                                        }
+                                    };
+                                    btn.style.width = '70px';
+                                    btn.style.height = '30px';
+                                    newCell5.appendChild(btn);
+                                }
+
+                                var newCell6 = newRow.insertCell(5)
+
+                                if (jsonObj['TASK C'] === "NOT DONE"){
+                                    var taskC = document.createTextNode(jsonObj['TASK C']);
+                                    newCell6.appendChild(taskC);
+                                }
+
+                                if (jsonObj['TASK C'] === "DONE"){
+                                    var a = document.createElement('a');
+                                    var linkText = document.createTextNode(jsonObj['TASK C']);
+
+                                    var name = 'task_C_response_pid_' + + newCell.innerText
+
+                                    a.appendChild(linkText);
+                                    a.title = "Click to download";
+                                    a.href = "{{ url_for('download', filename= 'name') }}".replace("name", name);
+                                    newCell6.appendChild(a)
+                                    newCell6.style.fontWeight = "bold";
+                                    let btn = document.createElement("button");
+                                    btn.setAttribute("class", "button")
+                                    btn.innerHTML = "Reset";
+                                    {#btn.onclick = reset_task_state(i,'TASK C');#}
+                                    btn.onclick = function () {
+                                        if (confirm('Are you sure to reset?') === true){
+                                            reset_task_state(newCell.innerText,'TASK C');
+                                        }
+                                    };
+                                    btn.style.width = '70px';
+                                    btn.style.height = '30px';
+                                    newCell6.appendChild(btn);
+                                }
+
+                                var newCell7 = newRow.insertCell(6)
+
+                                if (jsonObj['TASK D'] === "NOT DONE"){
+                                    var taskD = document.createTextNode(jsonObj['TASK D']);
+                                    newCell7.appendChild(taskD);
+                                }
+
+
+                                if (jsonObj['TASK D'] === "DONE"){
+                                    var a = document.createElement('a');
+                                    var linkText = document.createTextNode(jsonObj['TASK D']);
+
+                                    var name = 'task_D_response_pid_' + + newCell.innerText
+
+                                    a.appendChild(linkText);
+                                    a.title = "Click to download";
+                                    a.href = "{{ url_for('download', filename= 'name') }}".replace("name", name);
+                                    newCell7.appendChild(a)
+                                    newCell7.style.fontWeight = "bold";
+                                    let btn = document.createElement("button");
+                                    btn.setAttribute("class", "button")
+                                    btn.innerHTML = "Reset";
+                                    {#btn.onclick = reset_task_state(i,'TASK D');#}
+                                    btn.onclick = function () {
+                                        if (confirm('Are you sure to reset?') === true){
+                                            reset_task_state(newCell.innerText,'TASK D');
+                                        }
+                                    };
+                                    btn.style.width = '70px';
+                                    btn.style.height = '30px';
+                                    newCell7.appendChild(btn);
+                                }
+
+                                var newCell8 = newRow.insertCell(7)
+
+                                if (jsonObj['Post-Study Questionnaire'] === "NOT DONE"){
+                                    var post_study = document.createTextNode(jsonObj['Post-Study Questionnaire']);
+                                    newCell8.appendChild(post_study);
+                                }
+
+                                if (jsonObj['Post-Study Questionnaire'] === "DONE"){
+                                    var a = document.createElement('a');
+                                    var linkText = document.createTextNode(jsonObj['Post-Study Questionnaire']);
+
+                                    var name = 'post_study_pid_' + + newCell.innerText
+
+                                    a.appendChild(linkText);
+                                    a.title = "Click to download";
+                                    a.href = "{{ url_for('download', filename= 'name') }}".replace("name", name);
+                                    newCell8.appendChild(a)
+                                    newCell8.style.fontWeight = "bold";
+                                    let btn = document.createElement("button");
+                                    btn.setAttribute("class", "button")
+                                    btn.innerHTML = "Reset";
+                                    {#btn.onclick = reset_task_state(i,'Post-Study Questionnaire');#}
+                                    btn.onclick = function () {
+                                        if (confirm('Are you sure to reset?') === true){
+                                            reset_task_state(newCell.innerText,'Post-Study Questionnaire');
+                                        }
+                                    };
+                                    btn.style.width = '70px';
+                                    btn.style.height = '30px';
+                                    newCell8.appendChild(btn);
+                                }
+                            }
+                            else {
+                                var newRow = tbodyRef.insertRow();
+                                newRow.style.height = '90px';
+
+                                var newCell = newRow.insertCell(0);
+                                var uid = document.createTextNode(''+ i);
+                                newCell.appendChild(uid);
+
+                                var newCell1 = newRow.insertCell(1);
+                                newCell1.appendChild(document.createTextNode('Not Found'));
+                                newCell1.style.color = "VIOLET";
+                                newCell1.style.fontWeight = "bold";
+                                var newCell2 = newRow.insertCell(2);
+                                newCell2.appendChild(document.createTextNode('N/A'));
+                                var newCell3 = newRow.insertCell(3);
+                                newCell3.appendChild(document.createTextNode('N/A'));
+                                var newCell4 = newRow.insertCell(4);
+                                newCell4.appendChild(document.createTextNode('N/A'));
+                                var newCell5 = newRow.insertCell(5);
+                                newCell5.appendChild(document.createTextNode('N/A'));
+                                var newCell6 = newRow.insertCell(6);
+                                newCell6.appendChild(document.createTextNode('N/A'));
+                                var newCell7 = newRow.insertCell(7);
+                                newCell7.appendChild(document.createTextNode('N/A'));
+                            }
+
+
+                        }
+                        await sleep(100);
+                    }
+
+                }
+
+            </script>
+        </table>
+
+        <br>
+
+{#        <button class="button" id="downloadAll" onclick="location.href='{{ url_for("downloadAll") }}';">Download All</button>#}
+
+
+    </div>
+
+
+
+<!--    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQJrgsHjxPt5bSmy7y-pc9TQJ_dYWol86aP7Pie1XfKipOtQ/viewform?embedded=true" width="1080" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>-->
+
+</body>
+
+
+
+</html>

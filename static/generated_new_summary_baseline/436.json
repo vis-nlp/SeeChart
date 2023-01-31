@@ -1,0 +1,82 @@
+{
+   "title": "Preferred online retail payment methods worldwide 2017",
+   "xAxis": "Payment Method",
+   "yAxis": "Share of online shoppers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 columns on the x axis representing Payment Method, and Share of online shoppers in each Payment Method on the y axis. ",
+      "Payment Method Credit cards has the highest Share of online shoppers and Cryptocurrencies (Bitcoin) has the lowest Share of online shoppers. ",
+      "The difference of Share of online shoppers between the highest and lowest Payment Method is 39.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Payment Method, and Share of online shoppers in each Payment Method on the y axis. ",
+      "Payment Method Credit cards has the highest Share of online shoppers and Cryptocurrencies (Bitcoin) has the lowest Share of online shoppers. "
+   ],
+   "mid_summary": [
+      "This bar chart has 9 columns on the x axis representing Payment Method, and Share of online shoppers in each Payment Method on the y axis. ",
+      "Payment Method Credit cards has the highest Share of online shoppers and Cryptocurrencies (Bitcoin) has the lowest Share of online shoppers. ",
+      "The difference of Share of online shoppers between the highest and lowest Payment Method is 39.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Payment Method in the x axis and Share of online shoppers in the y axis. ",
+      "The Share of online shoppers is highest at Payment Method Credit cards and lowest at Payment Method Cryptocurrencies (Bitcoin). ",
+      "Second maximum Share of online shoppers is found at Payment Method . ",
+      "The difference of Share of online shoppers between the highest and lowest Payment Method is 39.0. ",
+      "Payment Method Credit cards is higher than any other Payment Methods with value 42.0, followed by , and Debit cards. Down to Payment Method Cryptocurrencies (Bitcoin) with the lowest value 3.0. ",
+      "Payment Method Cryptocurrencies (Bitcoin), and Other have the same Share of online shoppers. ",
+      "Considered together, the average Share of online shoppers in all 9 Payment Methods is roughly 20.78. ",
+      "The Share of online shoppers is 187.0 if we add up values of all Payment Methods. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Payment Method": "Credit cards",
+         "Share of online shoppers": 42.0
+      },
+      {
+         "Payment Method": "Electronic payment (PayPal if available)",
+         "Share of online shoppers": 39.0
+      },
+      {
+         "Payment Method": "Debit cards",
+         "Share of online shoppers": 28.0
+      },
+      {
+         "Payment Method": "Cash on delivery",
+         "Share of online shoppers": 23.0
+      },
+      {
+         "Payment Method": "Bank transfers",
+         "Share of online shoppers": 20.0
+      },
+      {
+         "Payment Method": "Gift cards or vouchers",
+         "Share of online shoppers": 15.0
+      },
+      {
+         "Payment Method": "Mobile payment",
+         "Share of online shoppers": 14.0
+      },
+      {
+         "Payment Method": "Cryptocurrencies (Bitcoin)",
+         "Share of online shoppers": 3.0
+      },
+      {
+         "Payment Method": "Other",
+         "Share of online shoppers": 3.0
+      }
+   ]
+}

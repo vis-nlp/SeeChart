@@ -1,0 +1,139 @@
+{
+   "title": "UEFA Europa League all-time top goalscorers 1971 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Goals scored",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Goals scored in the y axis. ",
+      "The Goals scored is highest at Month Henrik Larsson and lowest at Month J\u00fcrgen Klinsmann. ",
+      "There is a difference of 18.0 between the maximum Month Henrik Larsson and minimum Month J\u00fcrgen Klinsmann. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Goals scored for 23 number of Months. ",
+      "The maximum Goals scored 40.0 is found at Month Henrik Larsson and the minimum is found at J\u00fcrgen Klinsmann where Goals scored is 22.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Goals scored in the y axis. ",
+      "The Goals scored is highest at Month Henrik Larsson and lowest at Month J\u00fcrgen Klinsmann. ",
+      "There is a difference of 18.0 between the maximum Month Henrik Larsson and minimum Month J\u00fcrgen Klinsmann. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Goals scored for 23 number of Months. ",
+      "The Goals scored is highest at Month Henrik Larsson and lowest at Month J\u00fcrgen Klinsmann. ",
+      "The second highest Goals scored is appeared to be the Month . ",
+      "There is a difference of 18.0 between the maximum Month Henrik Larsson and minimum Month J\u00fcrgen Klinsmann. ",
+      "Month Henrik Larsson is higher than any other Months with value 40.0, followed by , and Radamel Falcao. Down to Month J\u00fcrgen Klinsmann with the lowest value 22.0. ",
+      "Overall Goals scored has reduced over the Months. ",
+      "Similar Goals scored is found in Month J\u00fcrgen Klinsmann, Dennis Bergkamp, Aleksandr Kerzhakov, Martin Chivers, Karl-Heinz Rummenigge, and Manuel Fernandes. ",
+      "The Month Henrik Larsson has 1.57 times more Goals scored than average. ",
+      "Summing up the values of all Months, we get total 587.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Henrik Larsson",
+         "Goals scored": 40.0
+      },
+      {
+         "Month": "Klaas Jan Huntelaar",
+         "Goals scored": 34.0
+      },
+      {
+         "Month": "Aritz Aduriz",
+         "Goals scored": 31.0
+      },
+      {
+         "Month": "Radamel Falcao",
+         "Goals scored": 31.0
+      },
+      {
+         "Month": "Dieter M\u00fcller",
+         "Goals scored": 29.0
+      },
+      {
+         "Month": "Shota Arveladze",
+         "Goals scored": 27.0
+      },
+      {
+         "Month": "Kevin Gameiro",
+         "Goals scored": 26.0
+      },
+      {
+         "Month": "Mladen Petri\u0107",
+         "Goals scored": 25.0
+      },
+      {
+         "Month": "Alessandro Altobelli",
+         "Goals scored": 25.0
+      },
+      {
+         "Month": "V\u00e1gner Love",
+         "Goals scored": 24.0
+      },
+      {
+         "Month": "Claudio Pizarro",
+         "Goals scored": 24.0
+      },
+      {
+         "Month": "Jermain Defoe",
+         "Goals scored": 24.0
+      },
+      {
+         "Month": "Alan",
+         "Goals scored": 23.0
+      },
+      {
+         "Month": "\u00d3scar Cardozo",
+         "Goals scored": 23.0
+      },
+      {
+         "Month": "Dimitris Salpingidis",
+         "Goals scored": 23.0
+      },
+      {
+         "Month": "Jupp Heynckes",
+         "Goals scored": 23.0
+      },
+      {
+         "Month": "Ivan Tri\u010dkovski",
+         "Goals scored": 23.0
+      },
+      {
+         "Month": "J\u00fcrgen Klinsmann",
+         "Goals scored": 22.0
+      },
+      {
+         "Month": "Dennis Bergkamp",
+         "Goals scored": 22.0
+      },
+      {
+         "Month": "Aleksandr Kerzhakov",
+         "Goals scored": 22.0
+      },
+      {
+         "Month": "Martin Chivers",
+         "Goals scored": 22.0
+      },
+      {
+         "Month": "Karl-Heinz Rummenigge",
+         "Goals scored": 22.0
+      },
+      {
+         "Month": "Manuel Fernandes",
+         "Goals scored": 22.0
+      }
+   ]
+}

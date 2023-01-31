@@ -1,0 +1,138 @@
+{
+   "title": "British soccer teams with most League Cup titles 2019",
+   "xAxis": "Club Name",
+   "yAxis": "Number of titles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 23 columns on the x axis representing Club Name, and Number of titles in each Club Name on the y axis. ",
+      "The Number of titles is highest at Club Name Liverpool FC and lowest at Club Name Blackburn Rovers. ",
+      "The Number of titles of Club Name Liverpool FC is 8.0% larger than the minimum value at Blackburn Rovers. "
+   ],
+   "min_summary": [
+      "This bar chart has 23 columns on the x axis representing Club Name, and Number of titles in each Club Name on the y axis. ",
+      "The Number of titles is appeared to be the highest at Club Name Liverpool FC and lowest at Club Name Blackburn Rovers. "
+   ],
+   "mid_summary": [
+      "This bar chart has 23 columns on the x axis representing Club Name, and Number of titles in each Club Name on the y axis. ",
+      "The Number of titles is highest at Club Name Liverpool FC and lowest at Club Name Blackburn Rovers. ",
+      "The Number of titles of Club Name Liverpool FC is 8.0% larger than the minimum value at Blackburn Rovers. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Club Name in the x axis and Number of titles in the y axis. ",
+      "The Number of titles is appeared to be the highest at Club Name Liverpool FC and lowest at Club Name Blackburn Rovers. ",
+      "Second maximum Number of titles is found at Club Name . ",
+      "The difference of Number of titles between the highest and lowest Club Name is 7.0. ",
+      "Number of titles at Club Name Liverpool FC is 8.0 , second place is  at 8.0, and thirdly is Manchester United at 5.0.",
+      "Similar Number of titles is found in Club Name Blackburn Rovers, Leeds United, Luton Town, Middlesbrough FC, Oxford United, Queens Park Rangers, Sheffield Wednesday, Stoke City, Swansea City, Swindon Town, and West Bromwich Albion. ",
+      "The Club Name Blackburn Rovers has 3.12 times less Number of titles than average. ",
+      "The Number of titles is 59.0 if we add up values of all Club Names. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Club Name": "Liverpool FC",
+         "Number of titles": 8.0
+      },
+      {
+         "Club Name": "Manchester City",
+         "Number of titles": 6.0
+      },
+      {
+         "Club Name": "Aston Villa",
+         "Number of titles": 5.0
+      },
+      {
+         "Club Name": "Chelsea FC",
+         "Number of titles": 5.0
+      },
+      {
+         "Club Name": "Manchester United",
+         "Number of titles": 5.0
+      },
+      {
+         "Club Name": "Nottingham Forest",
+         "Number of titles": 4.0
+      },
+      {
+         "Club Name": "Tottenham Hotspur",
+         "Number of titles": 4.0
+      },
+      {
+         "Club Name": "Leicester City",
+         "Number of titles": 3.0
+      },
+      {
+         "Club Name": "Arsenal FC",
+         "Number of titles": 2.0
+      },
+      {
+         "Club Name": "Birmingham City",
+         "Number of titles": 2.0
+      },
+      {
+         "Club Name": "Norwich City",
+         "Number of titles": 2.0
+      },
+      {
+         "Club Name": "Wolverhampton Wanderers",
+         "Number of titles": 2.0
+      },
+      {
+         "Club Name": "Blackburn Rovers",
+         "Number of titles": 1.0
+      },
+      {
+         "Club Name": "Leeds United",
+         "Number of titles": 1.0
+      },
+      {
+         "Club Name": "Luton Town",
+         "Number of titles": 1.0
+      },
+      {
+         "Club Name": "Middlesbrough FC",
+         "Number of titles": 1.0
+      },
+      {
+         "Club Name": "Oxford United",
+         "Number of titles": 1.0
+      },
+      {
+         "Club Name": "Queens Park Rangers",
+         "Number of titles": 1.0
+      },
+      {
+         "Club Name": "Sheffield Wednesday",
+         "Number of titles": 1.0
+      },
+      {
+         "Club Name": "Stoke City",
+         "Number of titles": 1.0
+      },
+      {
+         "Club Name": "Swansea City",
+         "Number of titles": 1.0
+      },
+      {
+         "Club Name": "Swindon Town",
+         "Number of titles": 1.0
+      },
+      {
+         "Club Name": "West Bromwich Albion",
+         "Number of titles": 1.0
+      }
+   ]
+}

@@ -1,0 +1,101 @@
+{
+   "title": "Volvo Group - global number of employees 2003 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 16.",
+      " In general Number of employees has rose over the Year.",
+      "The most drastic increase took place within the Year 2006 and 2007.",
+      "Maximum Number of employees, about 105175.0 was reported at Year 2018",
+      "The lowest Number of employees, of value 75740.0 was reported at Year 2003"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 16 data points.",
+      " In general Number of employees has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 16.",
+      " In general Number of employees has rose over the Year.",
+      "The most drastic increase took place within the Year 2006 and 2007.",
+      "Maximum Number of employees, about 105175.0 was reported at Year 2018",
+      "The lowest Number of employees, of value 75740.0 was reported at Year 2003"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 16 data points.",
+      " Overall Number of employees has increased over the Year.",
+      "The steepest increase occurs in between the Year 2006 and 2007.",
+      "Maximum Number of employees, about 105175.0 was reported at Year 2018",
+      "The lowest Number of employees, of value 75740.0 was reported at Year 2003",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees": 105175.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees": 99488.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 94914.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 99501.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 92828.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 95533.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees": 98717.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 98162.0
+      },
+      {
+         "Year": "2010",
+         "Number of employees": 90409.0
+      },
+      {
+         "Year": "2009",
+         "Number of employees": 90208.0
+      },
+      {
+         "Year": "2008",
+         "Number of employees": 101380.0
+      },
+      {
+         "Year": "2007",
+         "Number of employees": 101700.0
+      },
+      {
+         "Year": "2006",
+         "Number of employees": 83190.0
+      },
+      {
+         "Year": "2005",
+         "Number of employees": 81860.0
+      },
+      {
+         "Year": "2004",
+         "Number of employees": 81080.0
+      },
+      {
+         "Year": "2003",
+         "Number of employees": 75740.0
+      }
+   ]
+}

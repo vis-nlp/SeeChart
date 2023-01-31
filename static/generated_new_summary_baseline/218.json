@@ -1,0 +1,97 @@
+{
+   "title": "Countries with the lowest prevalence of condom use among its male population 2013",
+   "xAxis": "Country",
+   "yAxis": "Percentage of males aged 15-49",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Percentage of males aged 15-49 for 13 number of Countrys. ",
+      "The maximum Percentage of males aged 15-49 24.0 is found at Country Liberia and the minimum is found at Niger where Percentage of males aged 15-49 is 4.0. ",
+      "The highest Country Liberia has 20.0 more Percentage of males aged 15-49 than the lowest Country Niger. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Percentage of males aged 15-49 for 13 number of Countrys. ",
+      "The Percentage of males aged 15-49 is appeared to be the highest at Country Liberia and lowest at Country Niger. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Percentage of males aged 15-49 for 13 number of Countrys. ",
+      "The maximum Percentage of males aged 15-49 24.0 is found at Country Liberia and the minimum is found at Niger where Percentage of males aged 15-49 is 4.0. ",
+      "The highest Country Liberia has 20.0 more Percentage of males aged 15-49 than the lowest Country Niger. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Percentage of males aged 15-49 in the y axis. ",
+      "The maximum Percentage of males aged 15-49 24.0 is found at Country Liberia and the minimum is found at Niger where Percentage of males aged 15-49 is 4.0. ",
+      "Second maximum Percentage of males aged 15-49 is found at Country . ",
+      "The highest Country Liberia has 20.0 more Percentage of males aged 15-49 than the lowest Country Niger. ",
+      "The Country Liberia has the highest Percentage of males aged 15-49, followed by , and Senegal. Down to the Country Niger which is the lowest. ",
+      "Country Ethiopia, and DC Congo have a similar Percentage of males aged 15-49 that is 16.0. ",
+      "The Country Liberia tends to be 1.52 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 12,
+         "12": 12
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Niger",
+         "Percentage of males aged 15-49": 4.0
+      },
+      {
+         "Country": "Madagascar",
+         "Percentage of males aged 15-49": 7.0
+      },
+      {
+         "Country": "Mali",
+         "Percentage of males aged 15-49": 10.0
+      },
+      {
+         "Country": "Sierra Leone",
+         "Percentage of males aged 15-49": 13.0
+      },
+      {
+         "Country": "Burundi",
+         "Percentage of males aged 15-49": 14.0
+      },
+      {
+         "Country": "Ethiopia",
+         "Percentage of males aged 15-49": 16.0
+      },
+      {
+         "Country": "DC Congo",
+         "Percentage of males aged 15-49": 16.0
+      },
+      {
+         "Country": "East Timor",
+         "Percentage of males aged 15-49": 19.0
+      },
+      {
+         "Country": "Uganda",
+         "Percentage of males aged 15-49": 19.0
+      },
+      {
+         "Country": "Nigeria",
+         "Percentage of males aged 15-49": 20.0
+      },
+      {
+         "Country": "Senegal",
+         "Percentage of males aged 15-49": 21.0
+      },
+      {
+         "Country": "Benin",
+         "Percentage of males aged 15-49": 22.0
+      },
+      {
+         "Country": "Liberia",
+         "Percentage of males aged 15-49": 24.0
+      }
+   ]
+}

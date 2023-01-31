@@ -1,0 +1,105 @@
+{
+   "title": "Music genres preferred by consumers in the U.S. 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Rock and lowest at Response Other. ",
+      "The difference of Share of respondents between the highest and lowest Response is 47.5. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 56.8 is found at Response Rock and the minimum is found at Other where Share of respondents is 9.3. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Rock and lowest at Response Other. ",
+      "The difference of Share of respondents between the highest and lowest Response is 47.5. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Rock and lowest at Response Other. ",
+      "Response  has the second highest value for Share of respondents. ",
+      "The minimum Response Other has got 6.11 times less Share of respondents than the maximum Response Rock. ",
+      "The Response Rock has the highest Share of respondents, followed by , and Country. Down to the Response Other which is the lowest. ",
+      "Considered together, the average Share of respondents in all 15 Responses is roughly 27.83. ",
+      "The Share of respondents is 417.4 if we add up values of all Responses. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Rock",
+         "Share of respondents": 56.8
+      },
+      {
+         "Response": "Pop",
+         "Share of respondents": 56.1
+      },
+      {
+         "Response": "Country",
+         "Share of respondents": 49.9
+      },
+      {
+         "Response": "R&B and Soul",
+         "Share of respondents": 38.9
+      },
+      {
+         "Response": "Hip Hop",
+         "Share of respondents": 37.4
+      },
+      {
+         "Response": "Easy Listening",
+         "Share of respondents": 32.7
+      },
+      {
+         "Response": "Electronic/dance",
+         "Share of respondents": 20.6
+      },
+      {
+         "Response": "Jazz",
+         "Share of respondents": 20.2
+      },
+      {
+         "Response": "Blues",
+         "Share of respondents": 20.0
+      },
+      {
+         "Response": "Classical and Opera",
+         "Share of respondents": 17.4
+      },
+      {
+         "Response": "Heavy metal",
+         "Share of respondents": 16.9
+      },
+      {
+         "Response": "Reggae",
+         "Share of respondents": 16.1
+      },
+      {
+         "Response": "Folk",
+         "Share of respondents": 14.1
+      },
+      {
+         "Response": "Latin",
+         "Share of respondents": 11.0
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 9.3
+      }
+   ]
+}

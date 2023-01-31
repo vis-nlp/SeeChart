@@ -1,0 +1,93 @@
+{
+   "title": "General Electric : number of employees 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees in thousands. In total the number of data points it has is 14.",
+      " In general Number of employees in thousands has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "The highest Number of employees in thousands, of value 333.0 was reached at Year 2015",
+      "The lowest Number of employees in thousands, of value 283.0 was reported at Year 2018"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees in thousands. In total the number of data points it has is 14.",
+      " In general Number of employees in thousands has fallen over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees in thousands. In total the number of data points it has is 14.",
+      " In general Number of employees in thousands has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "The highest Number of employees in thousands, of value 333.0 was reached at Year 2015",
+      "The lowest Number of employees in thousands, of value 283.0 was reported at Year 2018"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees in thousands, containing a total of 14 data points.",
+      " Overall Number of employees in thousands has decreased over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "The highest Number of employees in thousands, of value 333.0 was reached at Year 2015",
+      "The lowest Number of employees in thousands, of value 283.0 was reported at Year 2018",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees in thousands": 283.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees in thousands": 313.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees in thousands": 295.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees in thousands": 333.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees in thousands": 305.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees in thousands": 307.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees in thousands": 305.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees in thousands": 301.0
+      },
+      {
+         "Year": "2010",
+         "Number of employees in thousands": 287.0
+      },
+      {
+         "Year": "2009",
+         "Number of employees in thousands": 304.0
+      },
+      {
+         "Year": "2008",
+         "Number of employees in thousands": 323.0
+      },
+      {
+         "Year": "2007",
+         "Number of employees in thousands": 327.0
+      },
+      {
+         "Year": "2006",
+         "Number of employees in thousands": 319.0
+      },
+      {
+         "Year": "2005",
+         "Number of employees in thousands": 316.0
+      }
+   ]
+}

@@ -1,0 +1,113 @@
+{
+   "title": "Estimated U.S. clothing and clothing accessories per capita sales 2000 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Per capita sales in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita sales in U.S. dollars, containing a total of 18 data points.",
+      " Overall Per capita sales in U.S. dollars has increased over the Year.",
+      "Per capita sales in U.S. dollars is roughly constant from 2000 to 2001, gradually increasing from 2001 to 2006, slightly decreasing from 2006 to 2009, slightly increasing from 2009 to 2012, and lastly roughly constant from 2012 to 2017.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "The highest Per capita sales in U.S. dollars, of value 804.0 was reached at Year 2016",
+      "The lowest Per capita sales in U.S. dollars, of value 587.0 was reported at Year 2001"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita sales in U.S. dollars, containing a total of 18 data points.",
+      " In general Per capita sales in U.S. dollars has rose over the Year.",
+      "Per capita sales in U.S. dollars is roughly constant from 2000 to 2001, gradually increasing from 2001 to 2006, slightly decreasing from 2006 to 2009, slightly increasing from 2009 to 2012, and lastly roughly constant from 2012 to 2017."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita sales in U.S. dollars, containing a total of 18 data points.",
+      " Overall Per capita sales in U.S. dollars has increased over the Year.",
+      "Per capita sales in U.S. dollars is roughly constant from 2000 to 2001, gradually increasing from 2001 to 2006, slightly decreasing from 2006 to 2009, slightly increasing from 2009 to 2012, and lastly roughly constant from 2012 to 2017.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "The highest Per capita sales in U.S. dollars, of value 804.0 was reached at Year 2016",
+      "The lowest Per capita sales in U.S. dollars, of value 587.0 was reported at Year 2001"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita sales in U.S. dollars, containing a total of 18 data points.",
+      " Overall Per capita sales in U.S. dollars has increased over the Year.",
+      "Per capita sales in U.S. dollars is roughly constant from 2000 to 2001, gradually increasing from 2001 to 2006, slightly decreasing from 2006 to 2009, slightly increasing from 2009 to 2012, and lastly roughly constant from 2012 to 2017.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Per capita sales in U.S. dollars, of value 804.0 was reached at Year 2016",
+      "The lowest Per capita sales in U.S. dollars, of value 587.0 was reported at Year 2001",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Per capita sales in U.S. dollars": 795.0
+      },
+      {
+         "Year": "2016",
+         "Per capita sales in U.S. dollars": 804.0
+      },
+      {
+         "Year": "2015",
+         "Per capita sales in U.S. dollars": 797.0
+      },
+      {
+         "Year": "2014",
+         "Per capita sales in U.S. dollars": 786.0
+      },
+      {
+         "Year": "2013",
+         "Per capita sales in U.S. dollars": 774.0
+      },
+      {
+         "Year": "2012",
+         "Per capita sales in U.S. dollars": 763.0
+      },
+      {
+         "Year": "2011",
+         "Per capita sales in U.S. dollars": 734.0
+      },
+      {
+         "Year": "2010",
+         "Per capita sales in U.S. dollars": 689.0
+      },
+      {
+         "Year": "2009",
+         "Per capita sales in U.S. dollars": 667.0
+      },
+      {
+         "Year": "2008",
+         "Per capita sales in U.S. dollars": 709.0
+      },
+      {
+         "Year": "2007",
+         "Per capita sales in U.S. dollars": 734.0
+      },
+      {
+         "Year": "2006",
+         "Per capita sales in U.S. dollars": 714.0
+      },
+      {
+         "Year": "2005",
+         "Per capita sales in U.S. dollars": 680.0
+      },
+      {
+         "Year": "2004",
+         "Per capita sales in U.S. dollars": 650.0
+      },
+      {
+         "Year": "2003",
+         "Per capita sales in U.S. dollars": 616.0
+      },
+      {
+         "Year": "2002",
+         "Per capita sales in U.S. dollars": 599.0
+      },
+      {
+         "Year": "2001",
+         "Per capita sales in U.S. dollars": 587.0
+      },
+      {
+         "Year": "2000",
+         "Per capita sales in U.S. dollars": 594.0
+      }
+   ]
+}

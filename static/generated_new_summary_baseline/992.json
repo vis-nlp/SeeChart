@@ -1,0 +1,76 @@
+{
+   "title": "Gasoline price per liter in selected countries - December 2019",
+   "xAxis": "Country",
+   "yAxis": "Price per liter in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Price per liter in U.S. dollars in the y axis. ",
+      "Country Italy has the highest Price per liter in U.S. dollars and United States has the lowest Price per liter in U.S. dollars. ",
+      "The difference of Price per liter in U.S. dollars between the highest and lowest Country is 1.08. "
+   ],
+   "min_summary": [
+      "This bar chart has 8 columns on the x axis representing Country, and Price per liter in U.S. dollars in each Country on the y axis. ",
+      "The Price per liter in U.S. dollars is appeared to be the highest at Country Italy and lowest at Country United States. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Price per liter in U.S. dollars in the y axis. ",
+      "Country Italy has the highest Price per liter in U.S. dollars and United States has the lowest Price per liter in U.S. dollars. ",
+      "The difference of Price per liter in U.S. dollars between the highest and lowest Country is 1.08. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Price per liter in U.S. dollars in the y axis. ",
+      "The Price per liter in U.S. dollars is appeared to be the highest at Country Italy and lowest at Country United States. ",
+      "Country  has the second highest value for Price per liter in U.S. dollars. ",
+      "The difference of Price per liter in U.S. dollars between the highest and lowest Country is 1.08. ",
+      "The Country Italy has the highest Price per liter in U.S. dollars, followed by , and United Kingdom. Down to the Country United States which is the lowest. ",
+      "The highest value 1.76 at Italy is almost 1.28 times larger than the average value 1.38. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Italy",
+         "Price per liter in U.S. dollars": 1.76
+      },
+      {
+         "Country": "France",
+         "Price per liter in U.S. dollars": 1.69
+      },
+      {
+         "Country": "United Kingdom",
+         "Price per liter in U.S. dollars": 1.64
+      },
+      {
+         "Country": "Germany",
+         "Price per liter in U.S. dollars": 1.54
+      },
+      {
+         "Country": "Spain",
+         "Price per liter in U.S. dollars": 1.45
+      },
+      {
+         "Country": "Japan",
+         "Price per liter in U.S. dollars": 1.36
+      },
+      {
+         "Country": "Canada",
+         "Price per liter in U.S. dollars": 0.89
+      },
+      {
+         "Country": "United States",
+         "Price per liter in U.S. dollars": 0.68
+      }
+   ]
+}

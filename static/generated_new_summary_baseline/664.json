@@ -1,0 +1,68 @@
+{
+   "title": "Deaths per day in West African countries with 2014 Ebola outbreak by disease",
+   "xAxis": "Diseases",
+   "yAxis": "Number of deaths per day",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 columns on the x axis representing Diseases, and Number of deaths per day in each Diseases on the y axis. ",
+      "The maximum Number of deaths per day 685.0 is found at Diseases HIV/AIDS and the minimum is found at Ebola where Number of deaths per day is 4.0. ",
+      "There is a difference of 681.0 between the maximum Diseases HIV/AIDS and minimum Diseases Ebola. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Diseases in the x axis and Number of deaths per day in the y axis. ",
+      "Diseases HIV/AIDS has the highest Number of deaths per day and Ebola has the lowest Number of deaths per day. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Diseases, and Number of deaths per day in each Diseases on the y axis. ",
+      "The maximum Number of deaths per day 685.0 is found at Diseases HIV/AIDS and the minimum is found at Ebola where Number of deaths per day is 4.0. ",
+      "There is a difference of 681.0 between the maximum Diseases HIV/AIDS and minimum Diseases Ebola. "
+   ],
+   "max_summary": [
+      "This bar chart has 6 columns on the x axis representing Diseases, and Number of deaths per day in each Diseases on the y axis. ",
+      "Diseases HIV/AIDS has the highest Number of deaths per day and Ebola has the lowest Number of deaths per day. ",
+      "The second highest Number of deaths per day is appeared to be the Diseases . ",
+      "The difference of Number of deaths per day between the highest and lowest Diseases is 681.0. ",
+      "Diseases HIV/AIDS is higher than any other Diseasess with value 685.0, followed by , and Diarrhoea. Down to Diseases Ebola with the lowest value 4.0. ",
+      "The Diseases Ebola has 2.32 times less Number of deaths per day than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 5,
+         "12": 5
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Diseases": "Ebola",
+         "Number of deaths per day": 4.0
+      },
+      {
+         "Diseases": "Lassa fever",
+         "Number of deaths per day": 14.0
+      },
+      {
+         "Diseases": "Tuberculosis",
+         "Number of deaths per day": 110.0
+      },
+      {
+         "Diseases": "Diarrhoea",
+         "Number of deaths per day": 404.0
+      },
+      {
+         "Diseases": "Malaria",
+         "Number of deaths per day": 552.0
+      },
+      {
+         "Diseases": "HIV/AIDS",
+         "Number of deaths per day": 685.0
+      }
+   ]
+}

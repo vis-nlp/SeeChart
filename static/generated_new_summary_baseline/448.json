@@ -1,0 +1,114 @@
+{
+   "title": "Political stability - countries",
+   "xAxis": "Country",
+   "yAxis": "Index Value",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Index Value for 17 number of Countrys. ",
+      "The Index Value is appeared to be the highest at Country Oman and lowest at Country Norway. ",
+      "There is a difference of 2.7 between the maximum Country Oman and minimum Country Norway. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Index Value in the y axis. ",
+      "The maximum Index Value 3.9 is found at Country Oman and the minimum is found at Norway where Index Value is 1.2. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Index Value for 17 number of Countrys. ",
+      "The Index Value is appeared to be the highest at Country Oman and lowest at Country Norway. ",
+      "There is a difference of 2.7 between the maximum Country Oman and minimum Country Norway. "
+   ],
+   "max_summary": [
+      "This bar chart has 17 columns on the x axis representing Country, and Index Value in each Country on the y axis. ",
+      "The Index Value is appeared to be the highest at Country Oman and lowest at Country Norway. ",
+      "Country  has the second highest value for Index Value. ",
+      "There is a difference of 2.7 between the maximum Country Oman and minimum Country Norway. ",
+      "Country Oman is higher than any other Countrys with value 3.9, followed by , and Slovenia. Down to Country Norway with the lowest value 1.2. ",
+      "Similar Index Value is found in Country Australia, Austria, Luxembourg, and New Zealand. ",
+      "The Country Norway tends to be 1.18 percent lower than average. ",
+      "Summing up the values of all Countrys, we get total 56.4. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 13,
+         "12": 13
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Australia",
+         "Index Value": 3.6
+      },
+      {
+         "Country": "Austria",
+         "Index Value": 3.6
+      },
+      {
+         "Country": "Canada",
+         "Index Value": 2.8
+      },
+      {
+         "Country": "Costa Rica",
+         "Index Value": 3.5
+      },
+      {
+         "Country": "Czech Republic",
+         "Index Value": 3.7
+      },
+      {
+         "Country": "Denmark",
+         "Index Value": 2.2
+      },
+      {
+         "Country": "Finland",
+         "Index Value": 3.2
+      },
+      {
+         "Country": "Germany",
+         "Index Value": 3.8
+      },
+      {
+         "Country": "Japan",
+         "Index Value": 3.8
+      },
+      {
+         "Country": "Luxembourg",
+         "Index Value": 3.6
+      },
+      {
+         "Country": "Mauritius",
+         "Index Value": 3.5
+      },
+      {
+         "Country": "New Zealand",
+         "Index Value": 3.6
+      },
+      {
+         "Country": "Norway",
+         "Index Value": 1.2
+      },
+      {
+         "Country": "Oman",
+         "Index Value": 3.9
+      },
+      {
+         "Country": "Slovenia",
+         "Index Value": 3.8
+      },
+      {
+         "Country": "Sweden",
+         "Index Value": 3.2
+      },
+      {
+         "Country": "Switzerland",
+         "Index Value": 3.4
+      }
+   ]
+}

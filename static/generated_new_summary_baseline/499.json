@@ -1,0 +1,93 @@
+{
+   "title": "Boston Bruins ' revenue 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 14 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2012/13 and 2013/14.",
+      "The highest Revenue in million U.S. dollars, of value 228.0 was reached at Year 2018/19",
+      "Minimum Revenue in million U.S. dollars about 86.0 was reached at Year 2005/06"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 14 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 14 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2012/13 and 2013/14.",
+      "The highest Revenue in million U.S. dollars, of value 228.0 was reached at Year 2018/19",
+      "Minimum Revenue in million U.S. dollars about 86.0 was reached at Year 2005/06"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 14 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2012/13 and 2013/14.",
+      "The highest Revenue in million U.S. dollars, of value 228.0 was reached at Year 2018/19",
+      "Minimum Revenue in million U.S. dollars about 86.0 was reached at Year 2005/06",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 228.0
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 191.0
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 176.0
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 169.0
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 158.0
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": 164.0
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": 114.0
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": 129.0
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": 125.0
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": 110.0
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": 108.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": 97.0
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": 87.0
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": 86.0
+      }
+   ]
+}

@@ -1,0 +1,113 @@
+{
+   "title": "American imports of corn 2001 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Imports in million bushels",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Imports in million bushels, containing a total of 19 data points.",
+      " Overall Imports in million bushels has increased over the Year.",
+      "The steepest increase occurs in between the Year 2011 and 2012.",
+      "The highest Imports in million bushels, of value 160.0 was reached at Year 2012",
+      "Minimum Imports in million bushels about 8.0 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Imports in million bushels. In total the number of data points it has is 19.",
+      " In general Imports in million bushels has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Imports in million bushels, containing a total of 19 data points.",
+      " Overall Imports in million bushels has increased over the Year.",
+      "The steepest increase occurs in between the Year 2011 and 2012.",
+      "The highest Imports in million bushels, of value 160.0 was reached at Year 2012",
+      "Minimum Imports in million bushels about 8.0 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Imports in million bushels. In total the number of data points it has is 19.",
+      " Overall Imports in million bushels has increased over the Year.",
+      "The steepest increase occurs in between the Year 2011 and 2012.",
+      "The highest Imports in million bushels, of value 160.0 was reached at Year 2012",
+      "Minimum Imports in million bushels about 8.0 was reached at Year 2009",
+      "The line drastically increased by 3.5 times from Year 2009 to 2010,increased by 5.5 times from Year 2011 to 2012,decreased by 4.4 times from Year 2012 to 2013, and lastly, increased by 2.1 times from Year 2014 to 2015."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Imports in million bushels": 28.0
+      },
+      {
+         "Year": "2018",
+         "Imports in million bushels": 36.0
+      },
+      {
+         "Year": "2017",
+         "Imports in million bushels": 57.0
+      },
+      {
+         "Year": "2016",
+         "Imports in million bushels": 57.0
+      },
+      {
+         "Year": "2015",
+         "Imports in million bushels": 68.0
+      },
+      {
+         "Year": "2014",
+         "Imports in million bushels": 32.0
+      },
+      {
+         "Year": "2013",
+         "Imports in million bushels": 36.0
+      },
+      {
+         "Year": "2012",
+         "Imports in million bushels": 160.0
+      },
+      {
+         "Year": "2011",
+         "Imports in million bushels": 29.0
+      },
+      {
+         "Year": "2010",
+         "Imports in million bushels": 28.0
+      },
+      {
+         "Year": "2009",
+         "Imports in million bushels": 8.0
+      },
+      {
+         "Year": "2008",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2007",
+         "Imports in million bushels": 20.0
+      },
+      {
+         "Year": "2006",
+         "Imports in million bushels": 12.0
+      },
+      {
+         "Year": "2005",
+         "Imports in million bushels": 9.0
+      },
+      {
+         "Year": "2004",
+         "Imports in million bushels": 11.0
+      },
+      {
+         "Year": "2003",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2002",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2001",
+         "Imports in million bushels": 10.0
+      }
+   ]
+}

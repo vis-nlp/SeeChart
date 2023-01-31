@@ -1,0 +1,109 @@
+{
+   "title": "Franchise value of the New York Knicks ( NBA ) 2003 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Franchise value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Franchise value in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Franchise value in million U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Franchise value in million U.S. dollars, of value 4600.0 was reached at Year 2020",
+      "Minimum Franchise value in million U.S. dollars about 398.0 was reached at Year 2003"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, containing a total of 18 data points.",
+      " In general Franchise value in million U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Franchise value in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Franchise value in million U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Franchise value in million U.S. dollars, of value 4600.0 was reached at Year 2020",
+      "Minimum Franchise value in million U.S. dollars about 398.0 was reached at Year 2003"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, containing a total of 18 data points.",
+      " Overall Franchise value in million U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Franchise value in million U.S. dollars, of value 4600.0 was reached at Year 2020",
+      "Minimum Franchise value in million U.S. dollars about 398.0 was reached at Year 2003",
+      "The line drastically increased by 1.8 times from Year 2014 to 2015."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2020",
+         "Franchise value in million U.S. dollars": 4600.0
+      },
+      {
+         "Year": "2019",
+         "Franchise value in million U.S. dollars": 4000.0
+      },
+      {
+         "Year": "2018",
+         "Franchise value in million U.S. dollars": 3600.0
+      },
+      {
+         "Year": "2017",
+         "Franchise value in million U.S. dollars": 3300.0
+      },
+      {
+         "Year": "2016",
+         "Franchise value in million U.S. dollars": 3000.0
+      },
+      {
+         "Year": "2015",
+         "Franchise value in million U.S. dollars": 2500.0
+      },
+      {
+         "Year": "2014",
+         "Franchise value in million U.S. dollars": 1400.0
+      },
+      {
+         "Year": "2013",
+         "Franchise value in million U.S. dollars": 1100.0
+      },
+      {
+         "Year": "2012",
+         "Franchise value in million U.S. dollars": 780.0
+      },
+      {
+         "Year": "2011",
+         "Franchise value in million U.S. dollars": 655.0
+      },
+      {
+         "Year": "2010",
+         "Franchise value in million U.S. dollars": 586.0
+      },
+      {
+         "Year": "2009",
+         "Franchise value in million U.S. dollars": 613.0
+      },
+      {
+         "Year": "2008",
+         "Franchise value in million U.S. dollars": 608.0
+      },
+      {
+         "Year": "2007",
+         "Franchise value in million U.S. dollars": 592.0
+      },
+      {
+         "Year": "2006",
+         "Franchise value in million U.S. dollars": 543.0
+      },
+      {
+         "Year": "2005",
+         "Franchise value in million U.S. dollars": 494.0
+      },
+      {
+         "Year": "2004",
+         "Franchise value in million U.S. dollars": 401.0
+      },
+      {
+         "Year": "2003",
+         "Franchise value in million U.S. dollars": 398.0
+      }
+   ]
+}

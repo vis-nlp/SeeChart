@@ -1,0 +1,109 @@
+{
+   "title": "Global papaya production 2000 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Million metric tons. In total the number of data points it has is 18.",
+      " Overall Million metric tons has increased over the Year.",
+      "The steepest increase occurs in between the Year 2000 and 2001.",
+      "Maximum Million metric tons, about 13.05 was reported at Year 2016",
+      "Minimum Million metric tons about 7.25 was reached at Year 2000"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Million metric tons. In total the number of data points it has is 18.",
+      " Overall Million metric tons has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Million metric tons. In total the number of data points it has is 18.",
+      " Overall Million metric tons has increased over the Year.",
+      "The steepest increase occurs in between the Year 2000 and 2001.",
+      "Maximum Million metric tons, about 13.05 was reported at Year 2016",
+      "Minimum Million metric tons about 7.25 was reached at Year 2000"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Million metric tons, containing a total of 18 data points.",
+      " Overall Million metric tons has increased over the Year.",
+      "The steepest increase occurs in between the Year 2000 and 2001.",
+      "Maximum Million metric tons, about 13.05 was reported at Year 2016",
+      "Minimum Million metric tons about 7.25 was reached at Year 2000",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Million metric tons": 13.02
+      },
+      {
+         "Year": "2016",
+         "Million metric tons": 13.05
+      },
+      {
+         "Year": "2015",
+         "Million metric tons": 12.08
+      },
+      {
+         "Year": "2014",
+         "Million metric tons": 12.67
+      },
+      {
+         "Year": "2013",
+         "Million metric tons": 12.36
+      },
+      {
+         "Year": "2012",
+         "Million metric tons": 12.01
+      },
+      {
+         "Year": "2011",
+         "Million metric tons": 11.3
+      },
+      {
+         "Year": "2010",
+         "Million metric tons": 11.19
+      },
+      {
+         "Year": "2009",
+         "Million metric tons": 10.73
+      },
+      {
+         "Year": "2008",
+         "Million metric tons": 10.02
+      },
+      {
+         "Year": "2007",
+         "Million metric tons": 9.53
+      },
+      {
+         "Year": "2006",
+         "Million metric tons": 8.91
+      },
+      {
+         "Year": "2005",
+         "Million metric tons": 8.03
+      },
+      {
+         "Year": "2004",
+         "Million metric tons": 8.67
+      },
+      {
+         "Year": "2003",
+         "Million metric tons": 8.16
+      },
+      {
+         "Year": "2002",
+         "Million metric tons": 8.42
+      },
+      {
+         "Year": "2001",
+         "Million metric tons": 8.55
+      },
+      {
+         "Year": "2000",
+         "Million metric tons": 7.25
+      }
+   ]
+}

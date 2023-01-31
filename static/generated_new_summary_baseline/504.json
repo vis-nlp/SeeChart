@@ -1,0 +1,109 @@
+{
+   "title": "Miami Heat 's revenue 2001 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2015/16 and 2016/17.",
+      "Maximum Revenue in million U.S. dollars, about 294.0 was reported at Year 2018/19",
+      "Minimum Revenue in million U.S. dollars about 91.0 was reached at Year 2002/03"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
+      " In general Revenue in million U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2015/16 and 2016/17.",
+      "Maximum Revenue in million U.S. dollars, about 294.0 was reported at Year 2018/19",
+      "Minimum Revenue in million U.S. dollars about 91.0 was reached at Year 2002/03"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The most drastic increase took place within the Year 2015/16 and 2016/17.",
+      "Maximum Revenue in million U.S. dollars, about 294.0 was reported at Year 2018/19",
+      "Minimum Revenue in million U.S. dollars about 91.0 was reached at Year 2002/03",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 294.0
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 259.0
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 253.0
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 210.0
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 180.0
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": 188.0
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": 188.0
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": 150.0
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": 158.0
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": 124.0
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": 126.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": 131.0
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": 131.0
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": 132.0
+      },
+      {
+         "Year": "2004/05",
+         "Revenue in million U.S. dollars": 119.0
+      },
+      {
+         "Year": "2003/04",
+         "Revenue in million U.S. dollars": 93.0
+      },
+      {
+         "Year": "2002/03",
+         "Revenue in million U.S. dollars": 91.0
+      },
+      {
+         "Year": "2001/02",
+         "Revenue in million U.S. dollars": 96.0
+      }
+   ]
+}

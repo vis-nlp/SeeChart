@@ -1,0 +1,117 @@
+{
+   "title": "U.S. sulfur dioxide emissions 1970 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Volume of emissions in thousand tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Volume of emissions in thousand tons, containing a total of 20 data points.",
+      " In general Volume of emissions in thousand tons has fallen over the Year.",
+      "The most drastic decrease took place within the Year 1990 and 1995.",
+      "Maximum Volume of emissions in thousand tons, about 31218.0 was reported at Year 1970",
+      "The lowest Volume of emissions in thousand tons, of value 2815.0 was reported at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Volume of emissions in thousand tons. In total the number of data points it has is 20.",
+      " Overall Volume of emissions in thousand tons has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Volume of emissions in thousand tons, containing a total of 20 data points.",
+      " In general Volume of emissions in thousand tons has fallen over the Year.",
+      "The most drastic decrease took place within the Year 1990 and 1995.",
+      "Maximum Volume of emissions in thousand tons, about 31218.0 was reported at Year 1970",
+      "The lowest Volume of emissions in thousand tons, of value 2815.0 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Volume of emissions in thousand tons, containing a total of 20 data points.",
+      " In general Volume of emissions in thousand tons has fallen over the Year.",
+      "The most drastic decrease took place within the Year 1990 and 1995.",
+      "Maximum Volume of emissions in thousand tons, about 31218.0 was reported at Year 1970",
+      "The lowest Volume of emissions in thousand tons, of value 2815.0 was reported at Year 2017",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Volume of emissions in thousand tons": 2815.0
+      },
+      {
+         "Year": "2016",
+         "Volume of emissions in thousand tons": 2960.0
+      },
+      {
+         "Year": "2015",
+         "Volume of emissions in thousand tons": 3685.0
+      },
+      {
+         "Year": "2014",
+         "Volume of emissions in thousand tons": 4674.0
+      },
+      {
+         "Year": "2013",
+         "Volume of emissions in thousand tons": 4873.0
+      },
+      {
+         "Year": "2012",
+         "Volume of emissions in thousand tons": 5079.0
+      },
+      {
+         "Year": "2011",
+         "Volume of emissions in thousand tons": 6479.0
+      },
+      {
+         "Year": "2010",
+         "Volume of emissions in thousand tons": 7732.0
+      },
+      {
+         "Year": "2009",
+         "Volume of emissions in thousand tons": 9089.0
+      },
+      {
+         "Year": "2008",
+         "Volume of emissions in thousand tons": 10324.0
+      },
+      {
+         "Year": "2007",
+         "Volume of emissions in thousand tons": 11699.0
+      },
+      {
+         "Year": "2006",
+         "Volume of emissions in thousand tons": 13123.0
+      },
+      {
+         "Year": "2005",
+         "Volume of emissions in thousand tons": 14546.0
+      },
+      {
+         "Year": "2000",
+         "Volume of emissions in thousand tons": 16347.0
+      },
+      {
+         "Year": "1995",
+         "Volume of emissions in thousand tons": 18619.0
+      },
+      {
+         "Year": "1990",
+         "Volume of emissions in thousand tons": 23077.0
+      },
+      {
+         "Year": "1985",
+         "Volume of emissions in thousand tons": 23307.0
+      },
+      {
+         "Year": "1980",
+         "Volume of emissions in thousand tons": 25926.0
+      },
+      {
+         "Year": "1975",
+         "Volume of emissions in thousand tons": 28044.0
+      },
+      {
+         "Year": "1970",
+         "Volume of emissions in thousand tons": 31218.0
+      }
+   ]
+}

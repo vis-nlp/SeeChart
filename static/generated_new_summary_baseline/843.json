@@ -1,0 +1,86 @@
+{
+   "title": "UFC : most knockdowns landed by fighters worldwide as of March 2020",
+   "xAxis": "Month",
+   "yAxis": "Number of knockdowns landed",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of knockdowns landed for 10 number of Months. ",
+      "Month Donald Cerrone has the highest Number of knockdowns landed and Thiago Alves has the lowest Number of knockdowns landed. ",
+      "The Number of knockdowns landed of Month Thiago Alves is 1.54% smaller than the maximum value at Donald Cerrone. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Number of knockdowns landed in each Month on the y axis. ",
+      "The Number of knockdowns landed is appeared to be the highest at Month Donald Cerrone and lowest at Month Thiago Alves. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of knockdowns landed for 10 number of Months. ",
+      "Month Donald Cerrone has the highest Number of knockdowns landed and Thiago Alves has the lowest Number of knockdowns landed. ",
+      "The Number of knockdowns landed of Month Thiago Alves is 1.54% smaller than the maximum value at Donald Cerrone. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Number of knockdowns landed in the y axis. ",
+      "The Number of knockdowns landed is appeared to be the highest at Month Donald Cerrone and lowest at Month Thiago Alves. ",
+      "The second highest Number of knockdowns landed is appeared to be the Month . ",
+      "The difference of Number of knockdowns landed between the highest and lowest Month is 7.0. ",
+      "Number of knockdowns landed at Month Donald Cerrone is 20.0 , second place is  at 20.0, and thirdly is Jeremy Stephens at 18.0.",
+      "Overall Number of knockdowns landed has reduced over the Months. ",
+      "Month Junior Dos Santos, Chuck Liddell, Lyoto Machida, and Mauricio Rua have the same Number of knockdowns landed. ",
+      "The highest value 20.0 at Donald Cerrone is almost 1.32 times larger than the average value 15.1. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Donald Cerrone",
+         "Number of knockdowns landed": 20.0
+      },
+      {
+         "Month": "Anderson Silva",
+         "Number of knockdowns landed": 18.0
+      },
+      {
+         "Month": "Jeremy Stephens",
+         "Number of knockdowns landed": 18.0
+      },
+      {
+         "Month": "Junior Dos Santos",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Chuck Liddell",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Lyoto Machida",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Mauricio Rua",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Thiago Alves",
+         "Number of knockdowns landed": 13.0
+      },
+      {
+         "Month": "Melvin Guillard",
+         "Number of knockdowns landed": 13.0
+      },
+      {
+         "Month": "Anthony Johnson",
+         "Number of knockdowns landed": 13.0
+      }
+   ]
+}

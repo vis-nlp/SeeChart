@@ -1,0 +1,103 @@
+{
+   "title": "U.S. advanced flat glass prices in 1999 and 2019 by glass type",
+   "labels": [
+      "Glass Type",
+      "1999",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Flat glass Prices on the Y-axis for 8 different Glass Types for 2 groups 1999, and 2019 that are presented on the X-axis. ",
+      " Out of all 2 groups, 1999 had the highest Flat glass Prices for Glass Type Smart glass and 2019 had the lowest Flat glass Prices for Glass Type Safety glass. ",
+      " The maximum Flat glass Prices for 2019 that was found in Glass Type Low-emissivity glass was 20.37 times larger than the minimum Flat glass Prices observed in Glass Type Safety glass. ",
+      "Averaging all 2 groups 1999, and 2019, the Glass Type Smart glass is the maximum Flat glass Prices and Safety glass is the minimum Flat glass Prices. "
+   ],
+   "xAxis": "Glass Type",
+   "yAxis": "Flat glass Prices",
+   "min_summary": [
+      "This grouped bar chart represents 8 different Glass Types on X-axis for 2 groups 1999, and 2019. On the Y-axis it shows their corresponding Flat glass Prices. ",
+      " For Glass Type Smart glass, 1999 had the highest Flat glass Prices 3805.0 among the 2 groups and in Safety glass, 2019 had the lowest Flat glass Prices 68.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Flat glass Prices on the Y-axis for 8 different Glass Types for 2 groups 1999, and 2019 that are presented on the X-axis. ",
+      " Out of all 2 groups, 1999 had the highest Flat glass Prices for Glass Type Smart glass and 2019 had the lowest Flat glass Prices for Glass Type Safety glass. ",
+      " The maximum Flat glass Prices for 2019 that was found in Glass Type Low-emissivity glass was 20.37 times larger than the minimum Flat glass Prices observed in Glass Type Safety glass. ",
+      "Averaging all 2 groups 1999, and 2019, the Glass Type Smart glass is the maximum Flat glass Prices and Safety glass is the minimum Flat glass Prices. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 8 different Glass Types on X-axis for 2 groups 1999, and 2019. On the Y-axis it shows their corresponding Flat glass Prices. ",
+      " Glass Type Smart glass had the maximum Flat glass Prices among all 2 groups, and it was for 1999. The minimum Flat glass Prices was observed in Glass Type Safety glass for 2019. ",
+      " Among all the Glass Types, 2019 had the highest Flat glass Prices 1385.0 in Glass Type Low-emissivity glass and lowest value 68.0 in Glass Type Safety glass. ",
+      " There is a gap of 1317.0 between the highest and lowest Flat glass Prices found for 2019 in Glass Type Low-emissivity glass and Safety glass. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Flat glass Prices was found in case of 1999. ",
+      "On average, the Glass Type Smart glass had the highest Flat glass Prices for all 2 groups 1999, and 2019. Whereas Safety glass had the lowest average Flat glass Prices. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Glass Type": "Smart glass",
+         "1999": "38.05",
+         "2019": "63.5"
+      },
+      {
+         "Glass Type": "Ballistic glass",
+         "1999": "27.65",
+         "2019": "62.0"
+      },
+      {
+         "Glass Type": "Fire-rated glass",
+         "1999": "11.55",
+         "2019": "18.9"
+      },
+      {
+         "Glass Type": "Burglary resistant glass",
+         "1999": "7.7",
+         "2019": "18.6"
+      },
+      {
+         "Glass Type": "Hurricane glass",
+         "1999": "8.85",
+         "2019": "17.1"
+      },
+      {
+         "Glass Type": "Low-emissivity glass",
+         "1999": "5.89",
+         "2019": "13.85"
+      },
+      {
+         "Glass Type": "Reflective glass",
+         "1999": "5.81",
+         "2019": "13.0"
+      },
+      {
+         "Glass Type": "Safety glass",
+         "1999": "4.08",
+         "2019": "6.8"
+      }
+   ]
+}

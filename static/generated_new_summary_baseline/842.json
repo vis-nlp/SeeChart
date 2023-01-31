@@ -1,0 +1,77 @@
+{
+   "title": "Miami-Fort Lauderdale-West Palm Beach metro area population U.S. 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of residents. In total the number of data points it has is 9.",
+      " In general Number of residents has rose over the Year.",
+      "Number of residents is slightly increasing from 2010 to 2018.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Number of residents, of value 6198782.0 was reached at Year 2018",
+      "The lowest Number of residents, of value 5583547.0 was reported at Year 2010"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of residents, containing a total of 9 data points.",
+      " Overall Number of residents has increased over the Year.",
+      "Number of residents is slightly increasing from 2010 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of residents. In total the number of data points it has is 9.",
+      " In general Number of residents has rose over the Year.",
+      "Number of residents is slightly increasing from 2010 to 2018.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Number of residents, of value 6198782.0 was reached at Year 2018",
+      "The lowest Number of residents, of value 5583547.0 was reported at Year 2010"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of residents. In total the number of data points it has is 9.",
+      " In general Number of residents has rose over the Year.",
+      "Number of residents is slightly increasing from 2010 to 2018.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Number of residents, of value 6198782.0 was reached at Year 2018",
+      "The lowest Number of residents, of value 5583547.0 was reported at Year 2010",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2010",
+         "Number of residents": 5583547.0
+      },
+      {
+         "Year": "2011",
+         "Number of residents": 5693531.0
+      },
+      {
+         "Year": "2012",
+         "Number of residents": 5771731.0
+      },
+      {
+         "Year": "2013",
+         "Number of residents": 5849411.0
+      },
+      {
+         "Year": "2014",
+         "Number of residents": 5921030.0
+      },
+      {
+         "Year": "2015",
+         "Number of residents": 5998284.0
+      },
+      {
+         "Year": "2016",
+         "Number of residents": 6086935.0
+      },
+      {
+         "Year": "2017",
+         "Number of residents": 6149687.0
+      },
+      {
+         "Year": "2018",
+         "Number of residents": 6198782.0
+      }
+   ]
+}

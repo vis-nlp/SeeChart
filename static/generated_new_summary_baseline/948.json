@@ -1,0 +1,93 @@
+{
+   "title": "Average price for a full set of acrylics at nail salons in the U.S. 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average price in U.S. dollars. In total the number of data points it has is 14.",
+      " In general Average price in U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Maximum Average price in U.S. dollars, about 50.1 was reported at Year 2008",
+      "The lowest Average price in U.S. dollars, of value 38.41 was reported at Year 2016"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average price in U.S. dollars, containing a total of 14 data points.",
+      " Overall Average price in U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average price in U.S. dollars. In total the number of data points it has is 14.",
+      " In general Average price in U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Maximum Average price in U.S. dollars, about 50.1 was reported at Year 2008",
+      "The lowest Average price in U.S. dollars, of value 38.41 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average price in U.S. dollars, containing a total of 14 data points.",
+      " In general Average price in U.S. dollars has rose over the Year.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum Average price in U.S. dollars, about 50.1 was reported at Year 2008",
+      "The lowest Average price in U.S. dollars, of value 38.41 was reported at Year 2016",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Average price in U.S. dollars": 46.01
+      },
+      {
+         "Year": "2018",
+         "Average price in U.S. dollars": 46.31
+      },
+      {
+         "Year": "2017",
+         "Average price in U.S. dollars": 45.56
+      },
+      {
+         "Year": "2016",
+         "Average price in U.S. dollars": 38.41
+      },
+      {
+         "Year": "2015",
+         "Average price in U.S. dollars": 43.84
+      },
+      {
+         "Year": "2014",
+         "Average price in U.S. dollars": 45.29
+      },
+      {
+         "Year": "2013",
+         "Average price in U.S. dollars": 44.07
+      },
+      {
+         "Year": "2012",
+         "Average price in U.S. dollars": 43.58
+      },
+      {
+         "Year": "2011",
+         "Average price in U.S. dollars": 43.9
+      },
+      {
+         "Year": "2010",
+         "Average price in U.S. dollars": 42.92
+      },
+      {
+         "Year": "2009",
+         "Average price in U.S. dollars": 42.95
+      },
+      {
+         "Year": "2008",
+         "Average price in U.S. dollars": 50.1
+      },
+      {
+         "Year": "2007",
+         "Average price in U.S. dollars": 43.75
+      },
+      {
+         "Year": "2006",
+         "Average price in U.S. dollars": 43.71
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Under Armour 's total workforce worldwide from 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 11.",
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is slightly increasing from 2009 to 2011, roughly constant from 2011 to 2012, gradually increasing from 2012 to 2015, and finally roughly constant from 2015 to 2019.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest Number of employees, of value 16400.0 was reached at Year 2019",
+      "The lowest Number of employees, of value 3000.0 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 11.",
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is slightly increasing from 2009 to 2011, roughly constant from 2011 to 2012, gradually increasing from 2012 to 2015, and finally roughly constant from 2015 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 11.",
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is slightly increasing from 2009 to 2011, roughly constant from 2011 to 2012, gradually increasing from 2012 to 2015, and finally roughly constant from 2015 to 2019.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest Number of employees, of value 16400.0 was reached at Year 2019",
+      "The lowest Number of employees, of value 3000.0 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 11.",
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is slightly increasing from 2009 to 2011, roughly constant from 2011 to 2012, gradually increasing from 2012 to 2015, and finally roughly constant from 2015 to 2019.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "The highest Number of employees, of value 16400.0 was reached at Year 2019",
+      "The lowest Number of employees, of value 3000.0 was reported at Year 2009",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of employees": 16400.0
+      },
+      {
+         "Year": "2018",
+         "Number of employees": 15000.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees": 15800.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees": 15200.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees": 13400.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees": 10700.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees": 7800.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees": 5900.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees": 5400.0
+      },
+      {
+         "Year": "2010",
+         "Number of employees": 3900.0
+      },
+      {
+         "Year": "2009",
+         "Number of employees": 3000.0
+      }
+   ]
+}

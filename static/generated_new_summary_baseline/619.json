@@ -1,0 +1,85 @@
+{
+   "title": "Forbes ranking of the 10 richest people in Italy 2019",
+   "xAxis": "Month",
+   "yAxis": "Wealth in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Wealth in billion U.S. dollars in each Month on the y axis. ",
+      "The Wealth in billion U.S. dollars is highest at Month Leonardo Del Vecchio and lowest at Month Ennio Doris. ",
+      "The difference of Wealth in billion U.S. dollars between the highest and lowest Month is 21.1. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Wealth in billion U.S. dollars in the y axis. ",
+      "The Wealth in billion U.S. dollars is highest at Month Leonardo Del Vecchio and lowest at Month Ennio Doris. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Wealth in billion U.S. dollars in each Month on the y axis. ",
+      "The Wealth in billion U.S. dollars is highest at Month Leonardo Del Vecchio and lowest at Month Ennio Doris. ",
+      "The difference of Wealth in billion U.S. dollars between the highest and lowest Month is 21.1. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Wealth in billion U.S. dollars for 10 number of Months. ",
+      "Month Leonardo Del Vecchio has the highest Wealth in billion U.S. dollars and Ennio Doris has the lowest Wealth in billion U.S. dollars. ",
+      "There is a difference of 21.1 between the maximum Month Leonardo Del Vecchio and minimum Month Ennio Doris. ",
+      "Wealth in billion U.S. dollars at Month Leonardo Del Vecchio is 24.4 , second place is  at 24.4, and thirdly is Giorgio Armani at 11.2.",
+      "Overall Wealth in billion U.S. dollars has lowered over the Months. ",
+      "The Month Ennio Doris tends to be 2.43 percent lower than average. ",
+      "The Wealth in billion U.S. dollars is 100.3 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Leonardo Del Vecchio",
+         "Wealth in billion U.S. dollars": 24.4
+      },
+      {
+         "Month": "Giovanni Ferrero",
+         "Wealth in billion U.S. dollars": 21.9
+      },
+      {
+         "Month": "Giorgio Armani",
+         "Wealth in billion U.S. dollars": 11.2
+      },
+      {
+         "Month": "Stefano Pessina",
+         "Wealth in billion U.S. dollars": 10.4
+      },
+      {
+         "Month": "Massimiliana Landini Aleotti",
+         "Wealth in billion U.S. dollars": 8.1
+      },
+      {
+         "Month": "Silvio Berlusconi",
+         "Wealth in billion U.S. dollars": 7.0
+      },
+      {
+         "Month": "Augusto e Giorgio Perfetti",
+         "Wealth in billion U.S. dollars": 6.9
+      },
+      {
+         "Month": "Paolo and Gianfelice Rocca",
+         "Wealth in billion U.S. dollars": 3.7
+      },
+      {
+         "Month": "Piero Ferrari",
+         "Wealth in billion U.S. dollars": 3.4
+      },
+      {
+         "Month": "Ennio Doris",
+         "Wealth in billion U.S. dollars": 3.3
+      }
+   ]
+}

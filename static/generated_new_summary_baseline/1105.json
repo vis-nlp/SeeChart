@@ -1,0 +1,121 @@
+{
+   "title": "Unemployment rate in Fiji 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has stayed the same over the Year.",
+      "The steepest increase occurs in between the Year 2008 and 2009.",
+      "The highest Unemployment rate, of value 4.55 was reached at Year 2015",
+      "The lowest Unemployment rate, of value 3.62 was reported at Year 2008"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " Overall Unemployment rate has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has stayed the same over the Year.",
+      "The steepest increase occurs in between the Year 2008 and 2009.",
+      "The highest Unemployment rate, of value 4.55 was reached at Year 2015",
+      "The lowest Unemployment rate, of value 3.62 was reported at Year 2008"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has stayed the same over the Year.",
+      "The steepest increase occurs in between the Year 2008 and 2009.",
+      "The highest Unemployment rate, of value 4.55 was reached at Year 2015",
+      "The lowest Unemployment rate, of value 3.62 was reported at Year 2008",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 4.14
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 4.32
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 4.55
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 4.53
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 4.36
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 4.52
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 4.41
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 4.35
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 4.16
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 3.62
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 3.76
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 3.83
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 3.89
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 4.06
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 4.07
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 4.16
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 4.12
+      }
+   ]
+}

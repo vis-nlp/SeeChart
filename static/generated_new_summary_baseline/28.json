@@ -1,0 +1,122 @@
+{
+   "title": "Projected total revenue of Amazon 2002 to 2022",
+   "xAxis": "Year",
+   "yAxis": "Net revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars, containing a total of 21 data points.",
+      " Overall Net revenue in billion U.S. dollars has increased over the Year.",
+      "Net revenue in billion U.S. dollars is roughly increasing from 2002 to 2004, roughly constant from 2004 to 2005, rapidly increasing from 2005 to 2019, and finally roughly constant from 2019 to 2022.",
+      "Maximum Net revenue in billion U.S. dollars, about 356.0 was reported at Year 2022",
+      "Minimum Net revenue in billion U.S. dollars about 4.0 was reached at Year 2002"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net revenue in billion U.S. dollars. In total the number of data points it has is 21.",
+      " In general Net revenue in billion U.S. dollars has rose over the Year.",
+      "Net revenue in billion U.S. dollars is roughly increasing from 2002 to 2004, roughly constant from 2004 to 2005, rapidly increasing from 2005 to 2019, and finally roughly constant from 2019 to 2022."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars, containing a total of 21 data points.",
+      " Overall Net revenue in billion U.S. dollars has increased over the Year.",
+      "Net revenue in billion U.S. dollars is roughly increasing from 2002 to 2004, roughly constant from 2004 to 2005, rapidly increasing from 2005 to 2019, and finally roughly constant from 2019 to 2022.",
+      "Maximum Net revenue in billion U.S. dollars, about 356.0 was reported at Year 2022",
+      "Minimum Net revenue in billion U.S. dollars about 4.0 was reached at Year 2002"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net revenue in billion U.S. dollars. In total the number of data points it has is 21.",
+      " Overall Net revenue in billion U.S. dollars has increased over the Year.",
+      "Net revenue in billion U.S. dollars is roughly increasing from 2002 to 2004, roughly constant from 2004 to 2005, rapidly increasing from 2005 to 2019, and finally roughly constant from 2019 to 2022.",
+      "Maximum Net revenue in billion U.S. dollars, about 356.0 was reported at Year 2022",
+      "Minimum Net revenue in billion U.S. dollars about 4.0 was reached at Year 2002",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2022",
+         "Net revenue in billion U.S. dollars": 356.0
+      },
+      {
+         "Year": "2021",
+         "Net revenue in billion U.S. dollars": 316.0
+      },
+      {
+         "Year": "2020",
+         "Net revenue in billion U.S. dollars": 276.0
+      },
+      {
+         "Year": "2019",
+         "Net revenue in billion U.S. dollars": 238.0
+      },
+      {
+         "Year": "2018",
+         "Net revenue in billion U.S. dollars": 201.0
+      },
+      {
+         "Year": "2017",
+         "Net revenue in billion U.S. dollars": 166.0
+      },
+      {
+         "Year": "2016",
+         "Net revenue in billion U.S. dollars": 136.0
+      },
+      {
+         "Year": "2015",
+         "Net revenue in billion U.S. dollars": 107.0
+      },
+      {
+         "Year": "2014",
+         "Net revenue in billion U.S. dollars": 89.0
+      },
+      {
+         "Year": "2013",
+         "Net revenue in billion U.S. dollars": 74.0
+      },
+      {
+         "Year": "2012",
+         "Net revenue in billion U.S. dollars": 61.0
+      },
+      {
+         "Year": "2011",
+         "Net revenue in billion U.S. dollars": 48.0
+      },
+      {
+         "Year": "2010",
+         "Net revenue in billion U.S. dollars": 34.0
+      },
+      {
+         "Year": "2009",
+         "Net revenue in billion U.S. dollars": 25.0
+      },
+      {
+         "Year": "2008",
+         "Net revenue in billion U.S. dollars": 19.0
+      },
+      {
+         "Year": "2007",
+         "Net revenue in billion U.S. dollars": 15.0
+      },
+      {
+         "Year": "2006",
+         "Net revenue in billion U.S. dollars": 11.0
+      },
+      {
+         "Year": "2005",
+         "Net revenue in billion U.S. dollars": 8.0
+      },
+      {
+         "Year": "2004",
+         "Net revenue in billion U.S. dollars": 7.0
+      },
+      {
+         "Year": "2003",
+         "Net revenue in billion U.S. dollars": 5.0
+      },
+      {
+         "Year": "2002",
+         "Net revenue in billion U.S. dollars": 4.0
+      }
+   ]
+}

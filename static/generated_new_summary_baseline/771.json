@@ -1,0 +1,56 @@
+{
+   "title": "Population of Greece 2016 , by gender",
+   "xAxis": "Gender",
+   "yAxis": "Total population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Gender in the x axis and Total population in the y axis. ",
+      "The Total population is appeared to be the highest at Gender Total and lowest at Gender Males. ",
+      "The minimum Gender Males has got 2.06 times less Total population than the maximum Gender Total. "
+   ],
+   "min_summary": [
+      "This bar chart has 3 columns on the x axis representing Gender, and Total population in each Gender on the y axis. ",
+      "Gender Total has the highest Total population and Males has the lowest Total population. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Gender in the x axis and Total population in the y axis. ",
+      "The Total population is appeared to be the highest at Gender Total and lowest at Gender Males. ",
+      "The minimum Gender Males has got 2.06 times less Total population than the maximum Gender Total. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Gender in the x axis and Total population in the y axis. ",
+      "The maximum Total population 10783748.0 is found at Gender Total and the minimum is found at Males where Total population is 5224210.0. ",
+      "The second highest Total population is appeared to be the Gender . ",
+      "Gender Males has 2.06 times less Total population than Gender Total which is the highest. ",
+      "The highest value 10783748.0 at Total is almost 1.5 times larger than the average value 7189165.33. ",
+      "The Total population is 21567496.0 if we add up values of all Genders. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Gender": "Females",
+         "Total population": 5559538.0
+      },
+      {
+         "Gender": "Males",
+         "Total population": 5224210.0
+      },
+      {
+         "Gender": "Total",
+         "Total population": 10783748.0
+      }
+   ]
+}

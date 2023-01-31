@@ -1,0 +1,61 @@
+{
+   "title": "Net profits/loss of Italian company Dolce & Gabbana in 2014 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Net profits/loss in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net profits/loss in million euros. In total the number of data points it has is 5.",
+      " In general Net profits/loss in million euros has rose over the Year.",
+      "Net profits/loss in million euros is roughly constant from 2014 to 2016, gradually increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Net profits/loss in million euros, of value 27.55 was reached at Year 2017",
+      "Minimum Net profits/loss in million euros about 3.73 was reached at Year 2016"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net profits/loss in million euros. In total the number of data points it has is 5.",
+      " Overall Net profits/loss in million euros has increased over the Year.",
+      "Net profits/loss in million euros is roughly constant from 2014 to 2016, gradually increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net profits/loss in million euros. In total the number of data points it has is 5.",
+      " In general Net profits/loss in million euros has rose over the Year.",
+      "Net profits/loss in million euros is roughly constant from 2014 to 2016, gradually increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Net profits/loss in million euros, of value 27.55 was reached at Year 2017",
+      "Minimum Net profits/loss in million euros about 3.73 was reached at Year 2016"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net profits/loss in million euros. In total the number of data points it has is 5.",
+      " Overall Net profits/loss in million euros has increased over the Year.",
+      "Net profits/loss in million euros is roughly constant from 2014 to 2016, gradually increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "The highest Net profits/loss in million euros, of value 27.55 was reached at Year 2017",
+      "Minimum Net profits/loss in million euros about 3.73 was reached at Year 2016",
+      "The line rapidly remained stable by 82.14% from Year 2015 to 2016, and lastly, increased by 638.61% from Year 2016 to 2017."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Net profits/loss in million euros": 24.11
+      },
+      {
+         "Year": "2017",
+         "Net profits/loss in million euros": 27.55
+      },
+      {
+         "Year": "2016",
+         "Net profits/loss in million euros": 3.73
+      },
+      {
+         "Year": "2015",
+         "Net profits/loss in million euros": 20.89
+      },
+      {
+         "Year": "2014",
+         "Net profits/loss in million euros": 13.71
+      }
+   ]
+}

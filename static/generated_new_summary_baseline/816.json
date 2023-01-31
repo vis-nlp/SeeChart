@@ -1,0 +1,115 @@
+{
+   "title": "Output gap forecast comparison UK from 2019 to 2023",
+   "labels": [
+      "Year",
+      "OBR",
+      "IMF"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting OBR, and IMF. The y axis indicates the Output gap and the x axis indicates Year.",
+      "Overall OBR is rapidly increasing, IMF is rapidly decreasing,  throughout the Year",
+      "OBR has increased by 100.00000001000001 percent.IMF has decreased by 0.0 percent.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. OBR, and lastly, 2. IMF. ",
+      "Overall across the Year, OBR mostly maintained the highest Output gap when compared to others with a mean value of -0.08, and it peaked at 2022, and 2023.",
+      "IMF mostly had the least Output gap with a mean value of 0.0, which peaked at 2019, 2020, 2021, 2022, and 2023 with a value of 0.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Output gap",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing OBR, and IMF. The y axis denotes Output gap and the x axis denotes Year.",
+      "Overall OBR is rapidly increasing, IMF is rapidly decreasing,  throughout the Year",
+      "Overall across the Year, OBR mostly maintained the highest Output gap when compared to others with a mean value of -0.08, and it peaked at 2022, and 2023.",
+      "The botommost line, IMF,  has a mean of 0.0, and peaked at 2019, 2020, 2021, 2022, and 2023. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting OBR, and IMF. The y axis indicates the Output gap and the x axis indicates Year.",
+      "Overall OBR is rapidly increasing, IMF is rapidly decreasing,  throughout the Year",
+      "OBR has increased by 100.00000001000001 percent.IMF has decreased by 0.0 percent.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. OBR, and lastly, 2. IMF. ",
+      "Overall across the Year, OBR mostly maintained the highest Output gap when compared to others with a mean value of -0.08, and it peaked at 2022, and 2023.",
+      "IMF mostly had the least Output gap with a mean value of 0.0, which peaked at 2019, 2020, 2021, 2022, and 2023 with a value of 0.0. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely OBR, and IMF. The y axis represents Output gap and the x axis represents Year.",
+      "Overall OBR is rapidly increasing, IMF is rapidly decreasing,  throughout the Year",
+      "OBR has increased by 100.00000001000001 percent.IMF has decreased by 0.0 percent.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. OBR, and lastly, 2. IMF. ",
+      "Overall across the Year, OBR mostly maintained the highest Output gap when compared to others with a mean value of -0.08, and it peaked at 2022, and 2023.",
+      "The botommost line, IMF,  has a mean of 0.0, and peaked at 2019, 2020, 2021, 2022, and 2023. ",
+      "OBR reported the lowest Output gap about -0.2 in Year 2020",
+      "The difference of Output gap between OBR and IMF is smaller at Year 2023 compared to the Year 2019."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "0"
+         ],
+         "9": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "OBR": "0",
+         "IMF": "0"
+      },
+      {
+         "Year": "2022",
+         "OBR": "0",
+         "IMF": "0"
+      },
+      {
+         "Year": "2021",
+         "OBR": "-0.1",
+         "IMF": "0"
+      },
+      {
+         "Year": "2020",
+         "OBR": "-0.2",
+         "IMF": "0"
+      },
+      {
+         "Year": "2019",
+         "OBR": "-0.1",
+         "IMF": "0"
+      }
+   ]
+}

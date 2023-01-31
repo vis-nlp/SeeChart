@@ -1,0 +1,81 @@
+{
+   "title": "Average ticket price Miami Heat ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 10.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2009/10, gradually increasing from 2009/10 to 2013/14, and finally roughly constant from 2013/14 to 2015/16.",
+      "The most drastic increase took place within the Year 2010/11 and 2011/12.",
+      "Maximum Average ticket price in U.S. dollars, about 78.3 was reported at Year 2013/14, and 2014/15",
+      "The lowest Average ticket price in U.S. dollars, of value 56.55 was reported at Year 2006/07"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 10 data points.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2009/10, gradually increasing from 2009/10 to 2013/14, and finally roughly constant from 2013/14 to 2015/16."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 10.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2009/10, gradually increasing from 2009/10 to 2013/14, and finally roughly constant from 2013/14 to 2015/16.",
+      "The most drastic increase took place within the Year 2010/11 and 2011/12.",
+      "Maximum Average ticket price in U.S. dollars, about 78.3 was reported at Year 2013/14, and 2014/15",
+      "The lowest Average ticket price in U.S. dollars, of value 56.55 was reported at Year 2006/07"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 10.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2009/10, gradually increasing from 2009/10 to 2013/14, and finally roughly constant from 2013/14 to 2015/16.",
+      "The steepest increase occurs in between the Year 2010/11 and 2011/12.",
+      "Maximum Average ticket price in U.S. dollars, about 78.3 was reported at Year 2013/14, and 2014/15",
+      "The lowest Average ticket price in U.S. dollars, of value 56.55 was reported at Year 2006/07",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": 76.73
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 78.3
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 78.3
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 72.5
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 67.0
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 60.5
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 58.55
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 58.55
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 58.55
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 56.55
+      }
+   ]
+}

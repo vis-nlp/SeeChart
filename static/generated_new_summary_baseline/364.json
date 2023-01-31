@@ -1,0 +1,69 @@
+{
+   "title": "U.S. opinion poll : sexiest musical instrument 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 26.0 is found at Response Guitar and the minimum is found at Flute where Share of respondents is 5.0. ",
+      "The highest Response Guitar has 21.0 more Share of respondents than the lowest Response Flute. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 26.0 is found at Response Guitar and the minimum is found at Flute where Share of respondents is 5.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 26.0 is found at Response Guitar and the minimum is found at Flute where Share of respondents is 5.0. ",
+      "The highest Response Guitar has 21.0 more Share of respondents than the lowest Response Flute. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response Guitar has the highest Share of respondents and Flute has the lowest Share of respondents. ",
+      "The second highest Share of respondents is appeared to be the Response . ",
+      "The highest Response Guitar has 21.0 more Share of respondents than the lowest Response Flute. ",
+      "Response Guitar is higher than any other Responses with value 26.0, followed by , and Piano. Down to Response Flute with the lowest value 5.0. ",
+      "Considered together, the average Share of respondents in all 6 Responses is roughly 16.33. ",
+      "Summing up the values of all Responses, we get total 98.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Guitar",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Saxophone",
+         "Share of respondents": 25.0
+      },
+      {
+         "Response": "Piano",
+         "Share of respondents": 21.0
+      },
+      {
+         "Response": "Violin",
+         "Share of respondents": 14.0
+      },
+      {
+         "Response": "Drums",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Flute",
+         "Share of respondents": 5.0
+      }
+   ]
+}

@@ -1,0 +1,70 @@
+{
+   "title": "Number of Crunchyroll subscribers 2012 to 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of users in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Number of users in thousands in the y axis. ",
+      "Month November 2018 has the highest Number of users in thousands and September 2012 has the lowest Number of users in thousands. ",
+      "There is a difference of 1900.0 between the maximum Month November 2018 and minimum Month September 2012. "
+   ],
+   "min_summary": [
+      "This bar chart has 6 columns on the x axis representing Month, and Number of users in thousands in each Month on the y axis. ",
+      "The Number of users in thousands is highest at Month November 2018 and lowest at Month September 2012. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Number of users in thousands in the y axis. ",
+      "Month November 2018 has the highest Number of users in thousands and September 2012 has the lowest Number of users in thousands. ",
+      "There is a difference of 1900.0 between the maximum Month November 2018 and minimum Month September 2012. "
+   ],
+   "max_summary": [
+      "This bar chart has 6 columns on the x axis representing Month, and Number of users in thousands in each Month on the y axis. ",
+      "Month November 2018 has the highest Number of users in thousands and September 2012 has the lowest Number of users in thousands. ",
+      "Month  has the second highest value for Number of users in thousands. ",
+      "The highest Month November 2018 has 1900.0 more Number of users in thousands than the lowest Month September 2012. ",
+      "The Month November 2018 has the highest Number of users in thousands, followed by , and November 2015. Down to the Month September 2012 which is the lowest. ",
+      "Over the past 6 Months, the Number of users in thousands has decreased. ",
+      "The Month September 2012 has 2.7 times less Number of users in thousands than average. ",
+      "Summing up the values of all Months, we get total 4450.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "November 2018",
+         "Number of users in thousands": 2000.0
+      },
+      {
+         "Month": "February 2017",
+         "Number of users in thousands": 1000.0
+      },
+      {
+         "Month": "November 2015",
+         "Number of users in thousands": 750.0
+      },
+      {
+         "Month": "November 2014",
+         "Number of users in thousands": 400.0
+      },
+      {
+         "Month": "March 2013",
+         "Number of users in thousands": 200.0
+      },
+      {
+         "Month": "September 2012",
+         "Number of users in thousands": 100.0
+      }
+   ]
+}

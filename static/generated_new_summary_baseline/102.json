@@ -1,0 +1,78 @@
+{
+   "title": "Most popular multi-purpose cleaning products in the United Kingdom ( UK ) 2013",
+   "xAxis": "Product Type",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents currently purchasing for 8 number of Product Types. ",
+      "The maximum Share of respondents currently purchasing 38.0 is found at Product Type Flash and the minimum is found at Cilit bang where Share of respondents currently purchasing is 20.0. ",
+      "Product Type Flash has 1.9 times more Share of respondents currently purchasing than Product Type Cilit bang which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Product Type in the x axis and Share of respondents currently purchasing in the y axis. ",
+      "The Share of respondents currently purchasing is appeared to be the highest at Product Type Flash and lowest at Product Type Cilit bang. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents currently purchasing for 8 number of Product Types. ",
+      "The maximum Share of respondents currently purchasing 38.0 is found at Product Type Flash and the minimum is found at Cilit bang where Share of respondents currently purchasing is 20.0. ",
+      "Product Type Flash has 1.9 times more Share of respondents currently purchasing than Product Type Cilit bang which is has the lowest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents currently purchasing for 8 number of Product Types. ",
+      "The Share of respondents currently purchasing is highest at Product Type Flash and lowest at Product Type Cilit bang. ",
+      "Product Type  has the second highest value for Share of respondents currently purchasing. ",
+      "There is a difference of 18.0 between the maximum Product Type Flash and minimum Product Type Cilit bang. ",
+      "Share of respondents currently purchasing at Product Type Flash is 38.0 , second place is  at 38.0, and thirdly is Dettol at 30.0.",
+      "Product Type Cif, and Cif (cream) have a similar Share of respondents currently purchasing that is 22.0. ",
+      "Considered together, the average Share of respondents currently purchasing in all 8 Product Types is roughly 26.5. ",
+      "Summing up the values of all Product Types, we get total 212.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Product Type": "Flash",
+         "Share of respondents currently purchasing": 38.0
+      },
+      {
+         "Product Type": "Mr Muscle",
+         "Share of respondents currently purchasing": 31.0
+      },
+      {
+         "Product Type": "Dettol",
+         "Share of respondents currently purchasing": 30.0
+      },
+      {
+         "Product Type": "Supermarket's own spray cleaner",
+         "Share of respondents currently purchasing": 28.0
+      },
+      {
+         "Product Type": "Cif",
+         "Share of respondents currently purchasing": 22.0
+      },
+      {
+         "Product Type": "Cif (cream)",
+         "Share of respondents currently purchasing": 22.0
+      },
+      {
+         "Product Type": "Dettol (wipes)",
+         "Share of respondents currently purchasing": 21.0
+      },
+      {
+         "Product Type": "Cilit bang",
+         "Share of respondents currently purchasing": 20.0
+      }
+   ]
+}

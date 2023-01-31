@@ -1,0 +1,125 @@
+{
+   "title": "World ranking of professional golf players 2020",
+   "xAxis": "Golfer",
+   "yAxis": "Average points",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 columns on the x axis representing Golfer, and Average points in each Golfer on the y axis. ",
+      "Golfer Rory McIlroy (NIR) has the highest Average points and Hideki Matsuyama (JPN) has the lowest Average points. ",
+      "The highest Golfer Rory McIlroy (NIR) has 5.17 more Average points than the lowest Golfer Hideki Matsuyama (JPN). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Average points for 20 number of Golfers. ",
+      "Golfer Rory McIlroy (NIR) has the highest Average points and Hideki Matsuyama (JPN) has the lowest Average points. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing Golfer, and Average points in each Golfer on the y axis. ",
+      "Golfer Rory McIlroy (NIR) has the highest Average points and Hideki Matsuyama (JPN) has the lowest Average points. ",
+      "The highest Golfer Rory McIlroy (NIR) has 5.17 more Average points than the lowest Golfer Hideki Matsuyama (JPN). "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Average points for 20 number of Golfers. ",
+      "The maximum Average points 9.48 is found at Golfer Rory McIlroy (NIR) and the minimum is found at Hideki Matsuyama (JPN) where Average points is 4.31. ",
+      "The second highest Average points is appeared to be the Golfer . ",
+      "There is a difference of 5.17 between the maximum Golfer Rory McIlroy (NIR) and minimum Golfer Hideki Matsuyama (JPN). ",
+      "The Golfer Rory McIlroy (NIR) has the highest Average points, followed by , and Brooks Koepka (USA). Down to the Golfer Hideki Matsuyama (JPN) which is the lowest. ",
+      "The Golfer Rory McIlroy (NIR) has 1.59 times more Average points than average. ",
+      "Summing up the values of all Golfers, we get total 119.27. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Golfer": "Rory McIlroy (NIR)",
+         "Average points": 9.48
+      },
+      {
+         "Golfer": "Jon Rahm (ESP)",
+         "Average points": 8.68
+      },
+      {
+         "Golfer": "Brooks Koepka (USA)",
+         "Average points": 8.62
+      },
+      {
+         "Golfer": "Justin Thomas (USA)",
+         "Average points": 7.62
+      },
+      {
+         "Golfer": "Dustin Johnson (USA)",
+         "Average points": 6.72
+      },
+      {
+         "Golfer": "Adam Scott (AUS)",
+         "Average points": 6.06
+      },
+      {
+         "Golfer": "Patrick Cantley (USA)",
+         "Average points": 6.04
+      },
+      {
+         "Golfer": "Patrick Reed (USA)",
+         "Average points": 5.93
+      },
+      {
+         "Golfer": "Webb Simpson (USA)",
+         "Average points": 5.88
+      },
+      {
+         "Golfer": "Tiger Woods (USA)",
+         "Average points": 5.81
+      },
+      {
+         "Golfer": "Xander Schauffele (USA)",
+         "Average points": 5.62
+      },
+      {
+         "Golfer": "Tommy Fleetwood (ENG)",
+         "Average points": 5.52
+      },
+      {
+         "Golfer": "Justin Rose (ENG)",
+         "Average points": 5.3
+      },
+      {
+         "Golfer": "Bryson DeChambeau (USA)",
+         "Average points": 5.1
+      },
+      {
+         "Golfer": "Tony Finau (USA)",
+         "Average points": 4.88
+      },
+      {
+         "Golfer": "Matt Kuchar (USA)",
+         "Average points": 4.63
+      },
+      {
+         "Golfer": "Louis Oosthuizen (RSA)",
+         "Average points": 4.38
+      },
+      {
+         "Golfer": "Gary Woodland (USA)",
+         "Average points": 4.36
+      },
+      {
+         "Golfer": "Shane Lowry (IRE)",
+         "Average points": 4.33
+      },
+      {
+         "Golfer": "Hideki Matsuyama (JPN)",
+         "Average points": 4.31
+      }
+   ]
+}

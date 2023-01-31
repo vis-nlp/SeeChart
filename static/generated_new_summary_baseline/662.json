@@ -1,0 +1,77 @@
+{
+   "title": "International visitor spending in Paris 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "International visitor spending in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes International visitor spending in billion U.S. dollars. In total the number of data points it has is 9.",
+      " Overall International visitor spending in billion U.S. dollars has increased over the Year.",
+      "International visitor spending in billion U.S. dollars is slightly increasing from 2010 to 2012, slightly decreasing from 2012 to 2015, and lastly roughly increasing from 2015 to 2018.",
+      "The steepest decrease occurs in between the Year 2013 and 2014.",
+      "The highest International visitor spending in billion U.S. dollars, of value 19.5 was reached at Year 2013",
+      "The lowest International visitor spending in billion U.S. dollars, of value 12.03 was reported at Year 2016"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes International visitor spending in billion U.S. dollars. In total the number of data points it has is 9.",
+      " In general International visitor spending in billion U.S. dollars has rose over the Year.",
+      "International visitor spending in billion U.S. dollars is slightly increasing from 2010 to 2012, slightly decreasing from 2012 to 2015, and lastly roughly increasing from 2015 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes International visitor spending in billion U.S. dollars. In total the number of data points it has is 9.",
+      " Overall International visitor spending in billion U.S. dollars has increased over the Year.",
+      "International visitor spending in billion U.S. dollars is slightly increasing from 2010 to 2012, slightly decreasing from 2012 to 2015, and lastly roughly increasing from 2015 to 2018.",
+      "The steepest decrease occurs in between the Year 2013 and 2014.",
+      "The highest International visitor spending in billion U.S. dollars, of value 19.5 was reached at Year 2013",
+      "The lowest International visitor spending in billion U.S. dollars, of value 12.03 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing International visitor spending in billion U.S. dollars, containing a total of 9 data points.",
+      " In general International visitor spending in billion U.S. dollars has rose over the Year.",
+      "International visitor spending in billion U.S. dollars is slightly increasing from 2010 to 2012, slightly decreasing from 2012 to 2015, and lastly roughly increasing from 2015 to 2018.",
+      "The most drastic decrease took place within the Year 2013 and 2014.",
+      "The highest International visitor spending in billion U.S. dollars, of value 19.5 was reached at Year 2013",
+      "The lowest International visitor spending in billion U.S. dollars, of value 12.03 was reported at Year 2016",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "International visitor spending in billion U.S. dollars": 14.06
+      },
+      {
+         "Year": "2017",
+         "International visitor spending in billion U.S. dollars": 13.05
+      },
+      {
+         "Year": "2016",
+         "International visitor spending in billion U.S. dollars": 12.03
+      },
+      {
+         "Year": "2015",
+         "International visitor spending in billion U.S. dollars": 13.41
+      },
+      {
+         "Year": "2014",
+         "International visitor spending in billion U.S. dollars": 16.42
+      },
+      {
+         "Year": "2013",
+         "International visitor spending in billion U.S. dollars": 19.5
+      },
+      {
+         "Year": "2012",
+         "International visitor spending in billion U.S. dollars": 17.25
+      },
+      {
+         "Year": "2011",
+         "International visitor spending in billion U.S. dollars": 14.95
+      },
+      {
+         "Year": "2010",
+         "International visitor spending in billion U.S. dollars": 13.1
+      }
+   ]
+}

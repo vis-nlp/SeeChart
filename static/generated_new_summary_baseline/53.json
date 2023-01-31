@@ -1,0 +1,93 @@
+{
+   "title": "World nuclear power consumption by country 2018",
+   "xAxis": "Country",
+   "yAxis": "Share of nuclear power consumption",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 columns on the x axis representing Country, and Share of nuclear power consumption in each Country on the y axis. ",
+      "The Share of nuclear power consumption is highest at Country United States and lowest at Country Japan. ",
+      "The highest Country United States has 29.6 more Share of nuclear power consumption than the lowest Country Japan. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of nuclear power consumption for 12 number of Countrys. ",
+      "The maximum Share of nuclear power consumption 31.4 is found at Country United States and the minimum is found at Japan where Share of nuclear power consumption is 1.8. "
+   ],
+   "mid_summary": [
+      "This bar chart has 12 columns on the x axis representing Country, and Share of nuclear power consumption in each Country on the y axis. ",
+      "The Share of nuclear power consumption is highest at Country United States and lowest at Country Japan. ",
+      "The highest Country United States has 29.6 more Share of nuclear power consumption than the lowest Country Japan. "
+   ],
+   "max_summary": [
+      "This bar chart has 12 columns on the x axis representing Country, and Share of nuclear power consumption in each Country on the y axis. ",
+      "Country United States has the highest Share of nuclear power consumption and Japan has the lowest Share of nuclear power consumption. ",
+      "Second maximum Share of nuclear power consumption is found at Country . ",
+      "The minimum Country Japan has got 17.44 times less Share of nuclear power consumption than the maximum Country United States. ",
+      "The Country United States has the highest Share of nuclear power consumption, followed by , and China. Down to the Country Japan which is the lowest. ",
+      "The lowest value 1.8 at Japan is almost 4.26 times smaller than the average value 7.38. ",
+      "The Share of nuclear power consumption is 88.5 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 11,
+         "12": 11
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of nuclear power consumption": 31.4
+      },
+      {
+         "Country": "France",
+         "Share of nuclear power consumption": 15.3
+      },
+      {
+         "Country": "China",
+         "Share of nuclear power consumption": 10.9
+      },
+      {
+         "Country": "Russian Federation",
+         "Share of nuclear power consumption": 7.6
+      },
+      {
+         "Country": "South Korea",
+         "Share of nuclear power consumption": 4.9
+      },
+      {
+         "Country": "Canada",
+         "Share of nuclear power consumption": 3.7
+      },
+      {
+         "Country": "Ukraine",
+         "Share of nuclear power consumption": 3.1
+      },
+      {
+         "Country": "Germany",
+         "Share of nuclear power consumption": 2.8
+      },
+      {
+         "Country": "UK",
+         "Share of nuclear power consumption": 2.4
+      },
+      {
+         "Country": "Sweden",
+         "Share of nuclear power consumption": 2.5
+      },
+      {
+         "Country": "Spain",
+         "Share of nuclear power consumption": 2.1
+      },
+      {
+         "Country": "Japan",
+         "Share of nuclear power consumption": 1.8
+      }
+   ]
+}

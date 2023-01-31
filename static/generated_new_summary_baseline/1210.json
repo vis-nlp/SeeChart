@@ -1,0 +1,65 @@
+{
+   "title": "Share of the population who gave to charity in England 2019 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 6 data points.",
+      " In general Share of respondents has rose over the Year.",
+      "Share of respondents is slightly increasing from 16_to_24 to 35_to_49, and finally roughly constant from 35_to_49 to 75_and_over.",
+      "The steepest increase occurs in between the Year 16_to_24 and 25_to_34.",
+      "The highest Share of respondents, of value 83.0 was reached at Year 75_and_over",
+      "The lowest Share of respondents, of value 59.0 was reported at Year 16_to_24"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 6 data points.",
+      " In general Share of respondents has rose over the Year.",
+      "Share of respondents is slightly increasing from 16_to_24 to 35_to_49, and finally roughly constant from 35_to_49 to 75_and_over."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 6 data points.",
+      " In general Share of respondents has rose over the Year.",
+      "Share of respondents is slightly increasing from 16_to_24 to 35_to_49, and finally roughly constant from 35_to_49 to 75_and_over.",
+      "The steepest increase occurs in between the Year 16_to_24 and 25_to_34.",
+      "The highest Share of respondents, of value 83.0 was reached at Year 75_and_over",
+      "The lowest Share of respondents, of value 59.0 was reported at Year 16_to_24"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 6 data points.",
+      " Overall Share of respondents has increased over the Year.",
+      "Share of respondents is slightly increasing from 16_to_24 to 35_to_49, and finally roughly constant from 35_to_49 to 75_and_over.",
+      "The steepest increase occurs in between the Year 16_to_24 and 25_to_34.",
+      "The highest Share of respondents, of value 83.0 was reached at Year 75_and_over",
+      "The lowest Share of respondents, of value 59.0 was reported at Year 16_to_24",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "16 to 24",
+         "Share of respondents": 59.0
+      },
+      {
+         "Year": "25 to 34",
+         "Share of respondents": 69.0
+      },
+      {
+         "Year": "35 to 49",
+         "Share of respondents": 76.0
+      },
+      {
+         "Year": "50 to 64",
+         "Share of respondents": 79.0
+      },
+      {
+         "Year": "65 to 74",
+         "Share of respondents": 82.0
+      },
+      {
+         "Year": "75 and over",
+         "Share of respondents": 83.0
+      }
+   ]
+}

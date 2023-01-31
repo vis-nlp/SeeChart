@@ -1,0 +1,113 @@
+{
+   "title": "U.S. air conditioners shipments 2001 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of shipments in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of shipments in millions, containing a total of 19 data points.",
+      " In general Number of shipments in millions has rose over the Year.",
+      "The most drastic decrease took place within the Year 2005 and 2006.",
+      "Maximum Number of shipments in millions, about 6.47 was reported at Year 2005",
+      "The lowest Number of shipments in millions, of value 3.42 was reported at Year 2010"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of shipments in millions, containing a total of 19 data points.",
+      " In general Number of shipments in millions has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of shipments in millions, containing a total of 19 data points.",
+      " In general Number of shipments in millions has rose over the Year.",
+      "The most drastic decrease took place within the Year 2005 and 2006.",
+      "Maximum Number of shipments in millions, about 6.47 was reported at Year 2005",
+      "The lowest Number of shipments in millions, of value 3.42 was reported at Year 2010"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of shipments in millions, containing a total of 19 data points.",
+      " Overall Number of shipments in millions has increased over the Year.",
+      "The most drastic decrease took place within the Year 2005 and 2006.",
+      "Maximum Number of shipments in millions, about 6.47 was reported at Year 2005",
+      "The lowest Number of shipments in millions, of value 3.42 was reported at Year 2010",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of shipments in millions": 5.36
+      },
+      {
+         "Year": "2018",
+         "Number of shipments in millions": 5.4
+      },
+      {
+         "Year": "2017",
+         "Number of shipments in millions": 5.19
+      },
+      {
+         "Year": "2016",
+         "Number of shipments in millions": 4.9
+      },
+      {
+         "Year": "2015",
+         "Number of shipments in millions": 4.55
+      },
+      {
+         "Year": "2014",
+         "Number of shipments in millions": 4.5
+      },
+      {
+         "Year": "2013",
+         "Number of shipments in millions": 4.2
+      },
+      {
+         "Year": "2012",
+         "Number of shipments in millions": 3.92
+      },
+      {
+         "Year": "2011",
+         "Number of shipments in millions": 3.75
+      },
+      {
+         "Year": "2010",
+         "Number of shipments in millions": 3.42
+      },
+      {
+         "Year": "2009",
+         "Number of shipments in millions": 3.52
+      },
+      {
+         "Year": "2008",
+         "Number of shipments in millions": 3.97
+      },
+      {
+         "Year": "2007",
+         "Number of shipments in millions": 4.51
+      },
+      {
+         "Year": "2006",
+         "Number of shipments in millions": 4.95
+      },
+      {
+         "Year": "2005",
+         "Number of shipments in millions": 6.47
+      },
+      {
+         "Year": "2004",
+         "Number of shipments in millions": 5.52
+      },
+      {
+         "Year": "2003",
+         "Number of shipments in millions": 5.18
+      },
+      {
+         "Year": "2002",
+         "Number of shipments in millions": 5.26
+      },
+      {
+         "Year": "2001",
+         "Number of shipments in millions": 4.84
+      }
+   ]
+}

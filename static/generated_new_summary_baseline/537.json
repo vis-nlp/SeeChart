@@ -1,0 +1,126 @@
+{
+   "title": "Highest grossing Hollywood actors of all time in the U.S. 2019",
+   "xAxis": "Month",
+   "yAxis": "Box office grosses in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Box office grosses in million U.S. dollars for 20 number of Months. ",
+      "Month Samuel L. Jackson has the highest Box office grosses in million U.S. dollars and Mark Ruffalo has the lowest Box office grosses in million U.S. dollars. ",
+      "The highest Month Samuel L. Jackson has 3343.1 more Box office grosses in million U.S. dollars than the lowest Month Mark Ruffalo. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Box office grosses in million U.S. dollars in the y axis. ",
+      "Month Samuel L. Jackson has the highest Box office grosses in million U.S. dollars and Mark Ruffalo has the lowest Box office grosses in million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Box office grosses in million U.S. dollars for 20 number of Months. ",
+      "Month Samuel L. Jackson has the highest Box office grosses in million U.S. dollars and Mark Ruffalo has the lowest Box office grosses in million U.S. dollars. ",
+      "The highest Month Samuel L. Jackson has 3343.1 more Box office grosses in million U.S. dollars than the lowest Month Mark Ruffalo. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Box office grosses in million U.S. dollars for 20 number of Months. ",
+      "The Box office grosses in million U.S. dollars is appeared to be the highest at Month Samuel L. Jackson and lowest at Month Mark Ruffalo. ",
+      "Month  has the second highest value for Box office grosses in million U.S. dollars. ",
+      "There is a difference of 3343.1 between the maximum Month Samuel L. Jackson and minimum Month Mark Ruffalo. ",
+      "The Month Samuel L. Jackson has the highest Box office grosses in million U.S. dollars, followed by , and Scarlett Johannsson. Down to the Month Mark Ruffalo which is the lowest. ",
+      "Overall Box office grosses in million U.S. dollars has reduced over the Months. ",
+      "Considered together, the average Box office grosses in million U.S. dollars in all 20 Months is roughly 4500.83. ",
+      "Summing up the values of all Months, we get total 90016.5. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Samuel L. Jackson",
+         "Box office grosses in million U.S. dollars": 7107.8
+      },
+      {
+         "Month": "Robert Downey Jr.",
+         "Box office grosses in million U.S. dollars": 5818.8
+      },
+      {
+         "Month": "Scarlett Johannsson",
+         "Box office grosses in million U.S. dollars": 5244.1
+      },
+      {
+         "Month": "Harrison Ford",
+         "Box office grosses in million U.S. dollars": 5121.8
+      },
+      {
+         "Month": "Tom Hanks",
+         "Box office grosses in million U.S. dollars": 5039.3
+      },
+      {
+         "Month": "Bradley Cooper",
+         "Box office grosses in million U.S. dollars": 4803.8
+      },
+      {
+         "Month": "Morgan Freeman",
+         "Box office grosses in million U.S. dollars": 4631.0
+      },
+      {
+         "Month": "Don Cheadle",
+         "Box office grosses in million U.S. dollars": 4422.7
+      },
+      {
+         "Month": "Andy Serkis",
+         "Box office grosses in million U.S. dollars": 4357.7
+      },
+      {
+         "Month": "Zoe Saldana",
+         "Box office grosses in million U.S. dollars": 4193.6
+      },
+      {
+         "Month": "Chris Pratt",
+         "Box office grosses in million U.S. dollars": 4145.4
+      },
+      {
+         "Month": "Anthony Daniels",
+         "Box office grosses in million U.S. dollars": 4040.9
+      },
+      {
+         "Month": "Chris Evans",
+         "Box office grosses in million U.S. dollars": 4019.8
+      },
+      {
+         "Month": "Chris Hemsworth",
+         "Box office grosses in million U.S. dollars": 4018.8
+      },
+      {
+         "Month": "Tom Cruise",
+         "Box office grosses in million U.S. dollars": 3997.6
+      },
+      {
+         "Month": "Idris Elba",
+         "Box office grosses in million U.S. dollars": 3852.6
+      },
+      {
+         "Month": "Johnny Depp",
+         "Box office grosses in million U.S. dollars": 3846.8
+      },
+      {
+         "Month": "Eddie Murphy",
+         "Box office grosses in million U.S. dollars": 3811.1
+      },
+      {
+         "Month": "Stanley Tucci",
+         "Box office grosses in million U.S. dollars": 3778.2
+      },
+      {
+         "Month": "Mark Ruffalo",
+         "Box office grosses in million U.S. dollars": 3764.7
+      }
+   ]
+}

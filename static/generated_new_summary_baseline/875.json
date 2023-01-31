@@ -1,0 +1,97 @@
+{
+   "title": "Concussion rate in the U.S. 2010 to 2015 , by age",
+   "xAxis": "Year",
+   "yAxis": "Rate per 1,000 members",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 1,000 members, containing a total of 15 data points.",
+      " Overall Rate per 1,000 members has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 15-17_years and 18-19_years.",
+      "Maximum Rate per 1,000 members, about 18.8 was reported at Year 15-17_years",
+      "Minimum Rate per 1,000 members about 1.0 was reached at Year <1_year"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 1,000 members, containing a total of 15 data points.",
+      " In general Rate per 1,000 members has fallen over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 1,000 members, containing a total of 15 data points.",
+      " Overall Rate per 1,000 members has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 15-17_years and 18-19_years.",
+      "Maximum Rate per 1,000 members, about 18.8 was reported at Year 15-17_years",
+      "Minimum Rate per 1,000 members about 1.0 was reached at Year <1_year"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 1,000 members, containing a total of 15 data points.",
+      " Overall Rate per 1,000 members has decreased over the Year.",
+      "The most drastic decrease took place within the Year 15-17_years and 18-19_years.",
+      "Maximum Rate per 1,000 members, about 18.8 was reported at Year 15-17_years",
+      "Minimum Rate per 1,000 members about 1.0 was reached at Year <1_year",
+      "The line rapidly increased by 296.3% from Year 1-4_years to 10-14_years,increased by 75.7% from Year 10-14_years to 15-17_years, and lastly, increased by 84.21% from Year 45-49_years to 5-9_years."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "<1 year",
+         "Rate per 1,000 members": 1.0
+      },
+      {
+         "Year": "1-4 years",
+         "Rate per 1,000 members": 2.7
+      },
+      {
+         "Year": "5-9 years",
+         "Rate per 1,000 members": 3.5
+      },
+      {
+         "Year": "10-14 years",
+         "Rate per 1,000 members": 10.7
+      },
+      {
+         "Year": "15-17 years",
+         "Rate per 1,000 members": 18.8
+      },
+      {
+         "Year": "18-19 years",
+         "Rate per 1,000 members": 10.1
+      },
+      {
+         "Year": "20-24 years",
+         "Rate per 1,000 members": 4.5
+      },
+      {
+         "Year": "25-29 years",
+         "Rate per 1,000 members": 2.5
+      },
+      {
+         "Year": "30-34 years",
+         "Rate per 1,000 members": 2.0
+      },
+      {
+         "Year": "35-39 years",
+         "Rate per 1,000 members": 2.0
+      },
+      {
+         "Year": "40-44 years",
+         "Rate per 1,000 members": 1.9
+      },
+      {
+         "Year": "45-49 years",
+         "Rate per 1,000 members": 1.9
+      },
+      {
+         "Year": "50-54 years",
+         "Rate per 1,000 members": 1.8
+      },
+      {
+         "Year": "55-59 years",
+         "Rate per 1,000 members": 1.8
+      },
+      {
+         "Year": "60-64 years",
+         "Rate per 1,000 members": 1.8
+      }
+   ]
+}

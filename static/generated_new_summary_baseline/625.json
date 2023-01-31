@@ -1,0 +1,85 @@
+{
+   "title": "U.S. household expenditure on slipcovers and decorative pillows 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average annual expenditure in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average annual expenditure in U.S. dollars, containing a total of 12 data points.",
+      " Overall Average annual expenditure in U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "Maximum Average annual expenditure in U.S. dollars, about 5.01 was reported at Year 2018",
+      "Minimum Average annual expenditure in U.S. dollars about 2.93 was reached at Year 2008"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average annual expenditure in U.S. dollars. In total the number of data points it has is 12.",
+      " Overall Average annual expenditure in U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average annual expenditure in U.S. dollars, containing a total of 12 data points.",
+      " Overall Average annual expenditure in U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "Maximum Average annual expenditure in U.S. dollars, about 5.01 was reported at Year 2018",
+      "Minimum Average annual expenditure in U.S. dollars about 2.93 was reached at Year 2008"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average annual expenditure in U.S. dollars, containing a total of 12 data points.",
+      " Overall Average annual expenditure in U.S. dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "Maximum Average annual expenditure in U.S. dollars, about 5.01 was reported at Year 2018",
+      "Minimum Average annual expenditure in U.S. dollars about 2.93 was reached at Year 2008",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Average annual expenditure in U.S. dollars": 5.01
+      },
+      {
+         "Year": "2017",
+         "Average annual expenditure in U.S. dollars": 4.52
+      },
+      {
+         "Year": "2016",
+         "Average annual expenditure in U.S. dollars": 3.65
+      },
+      {
+         "Year": "2015",
+         "Average annual expenditure in U.S. dollars": 4.32
+      },
+      {
+         "Year": "2014",
+         "Average annual expenditure in U.S. dollars": 4.21
+      },
+      {
+         "Year": "2013",
+         "Average annual expenditure in U.S. dollars": 3.16
+      },
+      {
+         "Year": "2012",
+         "Average annual expenditure in U.S. dollars": 3.94
+      },
+      {
+         "Year": "2011",
+         "Average annual expenditure in U.S. dollars": 3.52
+      },
+      {
+         "Year": "2010",
+         "Average annual expenditure in U.S. dollars": 3.71
+      },
+      {
+         "Year": "2009",
+         "Average annual expenditure in U.S. dollars": 3.49
+      },
+      {
+         "Year": "2008",
+         "Average annual expenditure in U.S. dollars": 2.93
+      },
+      {
+         "Year": "2007",
+         "Average annual expenditure in U.S. dollars": 3.39
+      }
+   ]
+}

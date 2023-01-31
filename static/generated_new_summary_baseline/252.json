@@ -1,0 +1,84 @@
+{
+   "title": "Tin - leading companies worldwide based on production output 2017",
+   "xAxis": "Largest Tin Producers",
+   "yAxis": "Production output in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Largest Tin Producers, and Production output in thousand metric tons in each Largest Tin Producers on the y axis. ",
+      "The Production output in thousand metric tons is appeared to be the highest at Largest Tin Producers Yunnan Tin (China) and lowest at Largest Tin Producers Gejiu Zi-Li (China). ",
+      "The highest Largest Tin Producers Yunnan Tin (China) has 65.8 more Production output in thousand metric tons than the lowest Largest Tin Producers Gejiu Zi-Li (China). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Production output in thousand metric tons for 10 number of Largest Tin Producerss. ",
+      "The maximum Production output in thousand metric tons 74.5 is found at Largest Tin Producers Yunnan Tin (China) and the minimum is found at Gejiu Zi-Li (China) where Production output in thousand metric tons is 8.7. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Largest Tin Producers, and Production output in thousand metric tons in each Largest Tin Producers on the y axis. ",
+      "The Production output in thousand metric tons is appeared to be the highest at Largest Tin Producers Yunnan Tin (China) and lowest at Largest Tin Producers Gejiu Zi-Li (China). ",
+      "The highest Largest Tin Producers Yunnan Tin (China) has 65.8 more Production output in thousand metric tons than the lowest Largest Tin Producers Gejiu Zi-Li (China). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Largest Tin Producers in the x axis and Production output in thousand metric tons in the y axis. ",
+      "The maximum Production output in thousand metric tons 74.5 is found at Largest Tin Producers Yunnan Tin (China) and the minimum is found at Gejiu Zi-Li (China) where Production output in thousand metric tons is 8.7. ",
+      "The minimum Largest Tin Producers Gejiu Zi-Li (China) has got 8.56 times less Production output in thousand metric tons than the maximum Largest Tin Producers Yunnan Tin (China). ",
+      "Production output in thousand metric tons at Largest Tin Producers Yunnan Tin (China) is 74.5 , second place is  at 74.5, and thirdly is Malaysia Smelting Corporation (Malaysia) at 27.2.",
+      "The Largest Tin Producers Gejiu Zi-Li (China) tends to be 3.24 percent lower than average. ",
+      "The Production output in thousand metric tons is 229.8 if we add up values of all Largest Tin Producerss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Largest Tin Producers": "Yunnan Tin (China)",
+         "Production output in thousand metric tons": 74.5
+      },
+      {
+         "Largest Tin Producers": "PT Timah (Indonesia)",
+         "Production output in thousand metric tons": 30.2
+      },
+      {
+         "Largest Tin Producers": "Malaysia Smelting Corporation (Malaysia)",
+         "Production output in thousand metric tons": 27.2
+      },
+      {
+         "Largest Tin Producers": "Yunnan Chengfeng (China)",
+         "Production output in thousand metric tons": 26.8
+      },
+      {
+         "Largest Tin Producers": "Minsur (Peru)",
+         "Production output in thousand metric tons": 18.0
+      },
+      {
+         "Largest Tin Producers": "EM Vinto (Bolivia)",
+         "Production output in thousand metric tons": 12.6
+      },
+      {
+         "Largest Tin Producers": "Guangxi China Tin (China)",
+         "Production output in thousand metric tons": 11.5
+      },
+      {
+         "Largest Tin Producers": "Thaisarco (Thailand)",
+         "Production output in thousand metric tons": 10.6
+      },
+      {
+         "Largest Tin Producers": "Metallo Chimique (Belgium)",
+         "Production output in thousand metric tons": 9.7
+      },
+      {
+         "Largest Tin Producers": "Gejiu Zi-Li (China)",
+         "Production output in thousand metric tons": 8.7
+      }
+   ]
+}

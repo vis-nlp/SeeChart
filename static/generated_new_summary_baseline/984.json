@@ -1,0 +1,63 @@
+{
+   "title": "Market share of streaming devices in the United States 2014",
+   "xAxis": "Streaming Device",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Streaming Device in the x axis and Market share in the y axis. ",
+      "The Market share is highest at Streaming Device Apple TV and lowest at Streaming Device Tivo. ",
+      "The difference of Market share between the highest and lowest Streaming Device is 37.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Market share for 5 number of Streaming Devices. ",
+      "The Market share is appeared to be the highest at Streaming Device Apple TV and lowest at Streaming Device Tivo. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Streaming Device in the x axis and Market share in the y axis. ",
+      "The Market share is highest at Streaming Device Apple TV and lowest at Streaming Device Tivo. ",
+      "The difference of Market share between the highest and lowest Streaming Device is 37.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Market share for 5 number of Streaming Devices. ",
+      "The Market share is appeared to be the highest at Streaming Device Apple TV and lowest at Streaming Device Tivo. ",
+      "There is a difference of 37.0 between the maximum Streaming Device Apple TV and minimum Streaming Device Tivo. ",
+      "Market share at Streaming Device Apple TV is 43.0 , second place is  at 43.0, and thirdly is Chromecast at 14.0.",
+      "The highest value 43.0 at Apple TV is almost 2.15 times larger than the average value 20.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Streaming Device": "Apple TV",
+         "Market share": 43.0
+      },
+      {
+         "Streaming Device": "Roku",
+         "Market share": 24.0
+      },
+      {
+         "Streaming Device": "Chromecast",
+         "Market share": 14.0
+      },
+      {
+         "Streaming Device": "Tivo",
+         "Market share": 6.0
+      },
+      {
+         "Streaming Device": "Other",
+         "Market share": 13.0
+      }
+   ]
+}

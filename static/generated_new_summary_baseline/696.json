@@ -1,0 +1,81 @@
+{
+   "title": "Amadeus : distribution market share 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market share. In total the number of data points it has is 10.",
+      " In general Market share has rose over the Year.",
+      "Market share is slightly increasing from 2010 to 2016, and finally roughly constant from 2016 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Market share, about 44.0 was reported at Year 2019",
+      "The lowest Market share, of value 36.7 was reported at Year 2010"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market share. In total the number of data points it has is 10.",
+      " In general Market share has rose over the Year.",
+      "Market share is slightly increasing from 2010 to 2016, and finally roughly constant from 2016 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market share. In total the number of data points it has is 10.",
+      " In general Market share has rose over the Year.",
+      "Market share is slightly increasing from 2010 to 2016, and finally roughly constant from 2016 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Market share, about 44.0 was reported at Year 2019",
+      "The lowest Market share, of value 36.7 was reported at Year 2010"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market share, containing a total of 10 data points.",
+      " Overall Market share has increased over the Year.",
+      "Market share is slightly increasing from 2010 to 2016, and finally roughly constant from 2016 to 2019.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Market share, about 44.0 was reported at Year 2019",
+      "The lowest Market share, of value 36.7 was reported at Year 2010",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Market share": 44.0
+      },
+      {
+         "Year": "2018",
+         "Market share": 43.7
+      },
+      {
+         "Year": "2017",
+         "Market share": 43.9
+      },
+      {
+         "Year": "2016",
+         "Market share": 43.2
+      },
+      {
+         "Year": "2015",
+         "Market share": 42.5
+      },
+      {
+         "Year": "2014",
+         "Market share": 40.7
+      },
+      {
+         "Year": "2013",
+         "Market share": 40.1
+      },
+      {
+         "Year": "2012",
+         "Market share": 38.6
+      },
+      {
+         "Year": "2011",
+         "Market share": 37.7
+      },
+      {
+         "Year": "2010",
+         "Market share": 36.7
+      }
+   ]
+}

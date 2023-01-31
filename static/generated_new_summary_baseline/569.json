@@ -1,0 +1,89 @@
+{
+   "title": "Croatia : Number of road deaths 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of fatalities",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of fatalities. In total the number of data points it has is 13.",
+      " In general Number of fatalities has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2009 and 2010.",
+      "The highest Number of fatalities, of value 664.0 was reached at Year 2008",
+      "Minimum Number of fatalities about 307.0 was reached at Year 2016"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of fatalities, containing a total of 13 data points.",
+      " In general Number of fatalities has fallen over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of fatalities. In total the number of data points it has is 13.",
+      " In general Number of fatalities has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2009 and 2010.",
+      "The highest Number of fatalities, of value 664.0 was reached at Year 2008",
+      "Minimum Number of fatalities about 307.0 was reached at Year 2016"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of fatalities, containing a total of 13 data points.",
+      " In general Number of fatalities has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 2009 and 2010.",
+      "The highest Number of fatalities, of value 664.0 was reached at Year 2008",
+      "Minimum Number of fatalities about 307.0 was reached at Year 2016",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of fatalities": 317.0
+      },
+      {
+         "Year": "2017",
+         "Number of fatalities": 331.0
+      },
+      {
+         "Year": "2016",
+         "Number of fatalities": 307.0
+      },
+      {
+         "Year": "2015",
+         "Number of fatalities": 348.0
+      },
+      {
+         "Year": "2014",
+         "Number of fatalities": 308.0
+      },
+      {
+         "Year": "2013",
+         "Number of fatalities": 368.0
+      },
+      {
+         "Year": "2012",
+         "Number of fatalities": 393.0
+      },
+      {
+         "Year": "2011",
+         "Number of fatalities": 418.0
+      },
+      {
+         "Year": "2010",
+         "Number of fatalities": 426.0
+      },
+      {
+         "Year": "2009",
+         "Number of fatalities": 548.0
+      },
+      {
+         "Year": "2008",
+         "Number of fatalities": 664.0
+      },
+      {
+         "Year": "2007",
+         "Number of fatalities": 619.0
+      },
+      {
+         "Year": "2006",
+         "Number of fatalities": 614.0
+      }
+   ]
+}

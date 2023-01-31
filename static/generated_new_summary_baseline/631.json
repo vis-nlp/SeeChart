@@ -1,0 +1,167 @@
+{
+   "title": "UFC : leading fighter earning totals as of May 2019",
+   "xAxis": "Month",
+   "yAxis": "Total earnings in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Total earnings in million U.S. dollars in the y axis. ",
+      "The Total earnings in million U.S. dollars is appeared to be the highest at Month Conor McGregor and lowest at Month Frank Mir. ",
+      "Month Conor McGregor has 3.42 times more Total earnings in million U.S. dollars than Month Frank Mir which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Total earnings in million U.S. dollars in the y axis. ",
+      "The Total earnings in million U.S. dollars is highest at Month Conor McGregor and lowest at Month Frank Mir. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Total earnings in million U.S. dollars in the y axis. ",
+      "The Total earnings in million U.S. dollars is appeared to be the highest at Month Conor McGregor and lowest at Month Frank Mir. ",
+      "Month Conor McGregor has 3.42 times more Total earnings in million U.S. dollars than Month Frank Mir which is has the lowest. "
+   ],
+   "max_summary": [
+      "This bar chart has 30 columns on the x axis representing Month, and Total earnings in million U.S. dollars in each Month on the y axis. ",
+      "The maximum Total earnings in million U.S. dollars 12.02 is found at Month Conor McGregor and the minimum is found at Frank Mir where Total earnings in million U.S. dollars is 3.51. ",
+      "Month  has the second highest value for Total earnings in million U.S. dollars. ",
+      "The highest Month Conor McGregor has 8.51 more Total earnings in million U.S. dollars than the lowest Month Frank Mir. ",
+      "Total earnings in million U.S. dollars at Month Conor McGregor is 12.02 , second place is  at 12.02, and thirdly is Anderson Silva at 8.11.",
+      "The Total earnings in million U.S. dollars has declined over the past 30 Months. ",
+      "Month Stipe Miocic, and Chris Weidman have the same Total earnings in million U.S. dollars. ",
+      "The average Total earnings in million U.S. dollars in all 30 Months is 5.18. ",
+      "Summing up the values of all Months, we get total 155.34. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 29,
+         "12": 29
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Conor McGregor",
+         "Total earnings in million U.S. dollars": 12.02
+      },
+      {
+         "Month": "Alistair Overeem",
+         "Total earnings in million U.S. dollars": 8.7
+      },
+      {
+         "Month": "Anderson Silva",
+         "Total earnings in million U.S. dollars": 8.11
+      },
+      {
+         "Month": "Michael Bisping",
+         "Total earnings in million U.S. dollars": 7.14
+      },
+      {
+         "Month": "Georges St-Pierre",
+         "Total earnings in million U.S. dollars": 7.04
+      },
+      {
+         "Month": "Mark Hunt",
+         "Total earnings in million U.S. dollars": 6.3
+      },
+      {
+         "Month": "Jon Jones",
+         "Total earnings in million U.S. dollars": 5.95
+      },
+      {
+         "Month": "Donald Cerrone",
+         "Total earnings in million U.S. dollars": 5.5
+      },
+      {
+         "Month": "Vitor Belfort",
+         "Total earnings in million U.S. dollars": 5.46
+      },
+      {
+         "Month": "Daniel Cormier",
+         "Total earnings in million U.S. dollars": 5.29
+      },
+      {
+         "Month": "Junior dos Santos",
+         "Total earnings in million U.S. dollars": 5.14
+      },
+      {
+         "Month": "Brock Lesnar",
+         "Total earnings in million U.S. dollars": 5.08
+      },
+      {
+         "Month": "Andrei Arlovski",
+         "Total earnings in million U.S. dollars": 4.77
+      },
+      {
+         "Month": "Rashad Evans",
+         "Total earnings in million U.S. dollars": 4.74
+      },
+      {
+         "Month": "Lyoto Machida",
+         "Total earnings in million U.S. dollars": 4.59
+      },
+      {
+         "Month": "Mauricio 'Shogun' Rua",
+         "Total earnings in million U.S. dollars": 4.54
+      },
+      {
+         "Month": "Dan Henderson",
+         "Total earnings in million U.S. dollars": 4.4
+      },
+      {
+         "Month": "Chuck Liddell",
+         "Total earnings in million U.S. dollars": 4.38
+      },
+      {
+         "Month": "Ronda Rousey",
+         "Total earnings in million U.S. dollars": 4.28
+      },
+      {
+         "Month": "Tito Ortiz",
+         "Total earnings in million U.S. dollars": 4.14
+      },
+      {
+         "Month": "Nate Diaz",
+         "Total earnings in million U.S. dollars": 4.1
+      },
+      {
+         "Month": "Frankie Edgar",
+         "Total earnings in million U.S. dollars": 4.06
+      },
+      {
+         "Month": "Tyron Woodley",
+         "Total earnings in million U.S. dollars": 3.97
+      },
+      {
+         "Month": "Fabricio Werdum",
+         "Total earnings in million U.S. dollars": 3.88
+      },
+      {
+         "Month": "Jose Aldo",
+         "Total earnings in million U.S. dollars": 3.81
+      },
+      {
+         "Month": "Stipe Miocic",
+         "Total earnings in million U.S. dollars": 3.65
+      },
+      {
+         "Month": "Chris Weidman",
+         "Total earnings in million U.S. dollars": 3.65
+      },
+      {
+         "Month": "Robbie Lawler",
+         "Total earnings in million U.S. dollars": 3.6
+      },
+      {
+         "Month": "Demetrious Johnson",
+         "Total earnings in million U.S. dollars": 3.54
+      },
+      {
+         "Month": "Frank Mir",
+         "Total earnings in million U.S. dollars": 3.51
+      }
+   ]
+}

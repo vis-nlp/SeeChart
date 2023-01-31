@@ -1,0 +1,126 @@
+{
+   "title": "Average price of cut flowers sold in auctions in the Netherlands 2018 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Average price per flower in eurocent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Average price per flower in eurocent in each Month on the y axis. ",
+      "The Average price per flower in eurocent is appeared to be the highest at Month Nov '19 and lowest at Month Jul '18. ",
+      "The difference of Average price per flower in eurocent between the highest and lowest Month is 15.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Average price per flower in eurocent in each Month on the y axis. ",
+      "The maximum Average price per flower in eurocent 36.0 is found at Month Nov '19 and the minimum is found at Jul '18 where Average price per flower in eurocent is 21.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Average price per flower in eurocent in each Month on the y axis. ",
+      "The Average price per flower in eurocent is appeared to be the highest at Month Nov '19 and lowest at Month Jul '18. ",
+      "The difference of Average price per flower in eurocent between the highest and lowest Month is 15.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Average price per flower in eurocent for 20 number of Months. ",
+      "The Average price per flower in eurocent is appeared to be the highest at Month Nov '19 and lowest at Month Jul '18. ",
+      "The highest Month Nov '19 has 15.0 more Average price per flower in eurocent than the lowest Month Jul '18. ",
+      "Month Nov '19 is higher than any other Months with value 36.0, followed by , and Dec '18. Down to Month Jul '18 with the lowest value 21.0. ",
+      "The Average price per flower in eurocent has declined over the past 20 Months. ",
+      "Month Sep '19, Feb '19, Sep '18, and Jun '18 have a similar Average price per flower in eurocent that is 28.0. ",
+      "The Month Jul '18 has 1.25 times less Average price per flower in eurocent than average. ",
+      "The Average price per flower in eurocent is 575.0 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec '19",
+         "Average price per flower in eurocent": 35.0
+      },
+      {
+         "Month": "Nov '19",
+         "Average price per flower in eurocent": 36.0
+      },
+      {
+         "Month": "Oct '19",
+         "Average price per flower in eurocent": 33.0
+      },
+      {
+         "Month": "Sep '19",
+         "Average price per flower in eurocent": 28.0
+      },
+      {
+         "Month": "Aug '19",
+         "Average price per flower in eurocent": 25.0
+      },
+      {
+         "Month": "Jul '19",
+         "Average price per flower in eurocent": 22.0
+      },
+      {
+         "Month": "Jun '19",
+         "Average price per flower in eurocent": 25.0
+      },
+      {
+         "Month": "May '19",
+         "Average price per flower in eurocent": 35.0
+      },
+      {
+         "Month": "Apr '19",
+         "Average price per flower in eurocent": 24.0
+      },
+      {
+         "Month": "Mar '19",
+         "Average price per flower in eurocent": 24.0
+      },
+      {
+         "Month": "Feb '19",
+         "Average price per flower in eurocent": 28.0
+      },
+      {
+         "Month": "Jan '19",
+         "Average price per flower in eurocent": 26.0
+      },
+      {
+         "Month": "Dec '18",
+         "Average price per flower in eurocent": 35.0
+      },
+      {
+         "Month": "Nov '18",
+         "Average price per flower in eurocent": 34.0
+      },
+      {
+         "Month": "Oct '18",
+         "Average price per flower in eurocent": 31.0
+      },
+      {
+         "Month": "Sep '18",
+         "Average price per flower in eurocent": 28.0
+      },
+      {
+         "Month": "Aug '18",
+         "Average price per flower in eurocent": 27.0
+      },
+      {
+         "Month": "Jul '18",
+         "Average price per flower in eurocent": 21.0
+      },
+      {
+         "Month": "Jun '18",
+         "Average price per flower in eurocent": 28.0
+      },
+      {
+         "Month": "May '18",
+         "Average price per flower in eurocent": 30.0
+      }
+   ]
+}

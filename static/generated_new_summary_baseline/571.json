@@ -1,0 +1,50 @@
+{
+   "title": "Number of U.S. Pinterest users 2017 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of users in millions for 2 number of Sexs. ",
+      "The maximum Number of users in millions 58.9 is found at Sex Female and the minimum is found at Male where Number of users in millions is 32.6. ",
+      "There is a difference of 26.3 between the maximum Sex Female and minimum Sex Male. "
+   ],
+   "min_summary": [
+      "This bar chart has 2 columns on the x axis representing Sex, and Number of users in millions in each Sex on the y axis. ",
+      "The maximum Number of users in millions 58.9 is found at Sex Female and the minimum is found at Male where Number of users in millions is 32.6. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of users in millions for 2 number of Sexs. ",
+      "The maximum Number of users in millions 58.9 is found at Sex Female and the minimum is found at Male where Number of users in millions is 32.6. ",
+      "There is a difference of 26.3 between the maximum Sex Female and minimum Sex Male. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Sex in the x axis and Number of users in millions in the y axis. ",
+      "The Number of users in millions is appeared to be the highest at Sex Female and lowest at Sex Male. ",
+      "The minimum Sex Male has got 1.81 times less Number of users in millions than the maximum Sex Female. ",
+      "The lowest value 32.6 at Male is almost 1.29 times smaller than the average value 45.75. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Number of users in millions": 58.9
+      },
+      {
+         "Sex": "Male",
+         "Number of users in millions": 32.6
+      }
+   ]
+}

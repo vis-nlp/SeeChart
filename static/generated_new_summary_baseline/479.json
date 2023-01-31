@@ -1,0 +1,85 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Venezuela 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2011 to 2012, gradually increasing from 2012 to 2016, roughly constant from 2016 to 2018, slightly increasing from 2018 to 2019, and lastly slightly decreasing from 2019 to 2021.",
+      "The steepest decrease occurs in between the Year 2019 and 2020.",
+      "Maximum GDP growth compared to previous year, about 35.0 was reported at Year 2019",
+      "Minimum GDP growth compared to previous year about 1.34 was reached at Year 2013"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2011 to 2012, gradually increasing from 2012 to 2016, roughly constant from 2016 to 2018, slightly increasing from 2018 to 2019, and lastly slightly decreasing from 2019 to 2021."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2011 to 2012, gradually increasing from 2012 to 2016, roughly constant from 2016 to 2018, slightly increasing from 2018 to 2019, and lastly slightly decreasing from 2019 to 2021.",
+      "The steepest decrease occurs in between the Year 2019 and 2020.",
+      "Maximum GDP growth compared to previous year, about 35.0 was reported at Year 2019",
+      "Minimum GDP growth compared to previous year about 1.34 was reached at Year 2013"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth compared to previous year has rose over the Year.",
+      "GDP growth compared to previous year is roughly constant from 2011 to 2012, gradually increasing from 2012 to 2016, roughly constant from 2016 to 2018, slightly increasing from 2018 to 2019, and lastly slightly decreasing from 2019 to 2021.",
+      "The most drastic decrease took place within the Year 2019 and 2020.",
+      "Maximum GDP growth compared to previous year, about 35.0 was reported at Year 2019",
+      "Minimum GDP growth compared to previous year about 1.34 was reached at Year 2013",
+      "The line drastically decreased by 4.2 times from Year 2012 to 2013,increased by 2.9 times from Year 2013 to 2014,increased by 2.7 times from Year 2015 to 2016,increased by 1.9 times from Year 2018 to 2019, and lastly, decreased by 3.5 times from Year 2019 to 2020."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 5.0
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 10.0
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 35.0
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 18.0
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 15.67
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 17.04
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 6.22
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 3.89
+      },
+      {
+         "Year": "2013",
+         "GDP growth compared to previous year": 1.34
+      },
+      {
+         "Year": "2012",
+         "GDP growth compared to previous year": 5.63
+      },
+      {
+         "Year": "2011",
+         "GDP growth compared to previous year": 4.18
+      }
+   ]
+}

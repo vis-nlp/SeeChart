@@ -1,0 +1,98 @@
+{
+   "title": "Number of hospitals in Canada by province 2016",
+   "xAxis": "Month",
+   "yAxis": "Number of establishments",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Number of establishments in the y axis. ",
+      "The Number of establishments is appeared to be the highest at Month Ontario and lowest at Month Yukon. ",
+      "The minimum Month Yukon has got 492.0 times less Number of establishments than the maximum Month Ontario. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of establishments for 13 number of Months. ",
+      "The Number of establishments is appeared to be the highest at Month Ontario and lowest at Month Yukon. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Number of establishments in the y axis. ",
+      "The Number of establishments is appeared to be the highest at Month Ontario and lowest at Month Yukon. ",
+      "The minimum Month Yukon has got 492.0 times less Number of establishments than the maximum Month Ontario. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Number of establishments in the y axis. ",
+      "The Number of establishments is appeared to be the highest at Month Ontario and lowest at Month Yukon. ",
+      "Month  has the second highest value for Number of establishments. ",
+      "The maximum Month Ontario has got 492.0 times higher Number of establishments than the minimum Month Yukon. ",
+      "Month Ontario is higher than any other Months with value 492.0, followed by , and British Columbia. Down to Month Yukon with the lowest value 1.0. ",
+      "Over the past 13 Months, the Number of establishments has lowered. ",
+      "Month Northwest Territories, and Nunavut have a similar Number of establishments that is 19.0. ",
+      "The lowest value 1.0 at Yukon is almost 4.36 times smaller than the average value 112.77. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of establishments": 492.0
+      },
+      {
+         "Month": "Quebec",
+         "Number of establishments": 267.0
+      },
+      {
+         "Month": "British Columbia",
+         "Number of establishments": 206.0
+      },
+      {
+         "Month": "Alberta",
+         "Number of establishments": 169.0
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of establishments": 77.0
+      },
+      {
+         "Month": "Manitoba",
+         "Number of establishments": 73.0
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of establishments": 54.0
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of establishments": 46.0
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of establishments": 39.0
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of establishments": 19.0
+      },
+      {
+         "Month": "Nunavut",
+         "Number of establishments": 19.0
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of establishments": 4.0
+      },
+      {
+         "Month": "Yukon",
+         "Number of establishments": 1.0
+      }
+   ]
+}

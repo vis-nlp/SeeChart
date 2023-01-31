@@ -1,0 +1,100 @@
+{
+   "title": "Breakdown of the Department of Homeland Security budget by organization 2020",
+   "xAxis": "Organisation",
+   "yAxis": "Budget authority in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Organisation in the x axis and Budget authority in million U.S. dollars in the y axis. ",
+      "Organisation Federal Emergency Management Agency has the highest Budget authority in million U.S. dollars and Office of Inspector General has the lowest Budget authority in million U.S. dollars. ",
+      "There is a difference of 28538.63 between the maximum Organisation Federal Emergency Management Agency and minimum Organisation Office of Inspector General. "
+   ],
+   "min_summary": [
+      "This bar chart has 14 columns on the x axis representing Organisation, and Budget authority in million U.S. dollars in each Organisation on the y axis. ",
+      "The maximum Budget authority in million U.S. dollars 28708.82 is found at Organisation Federal Emergency Management Agency and the minimum is found at Office of Inspector General where Budget authority in million U.S. dollars is 170.19. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Organisation in the x axis and Budget authority in million U.S. dollars in the y axis. ",
+      "Organisation Federal Emergency Management Agency has the highest Budget authority in million U.S. dollars and Office of Inspector General has the lowest Budget authority in million U.S. dollars. ",
+      "There is a difference of 28538.63 between the maximum Organisation Federal Emergency Management Agency and minimum Organisation Office of Inspector General. "
+   ],
+   "max_summary": [
+      "This bar chart has 14 columns on the x axis representing Organisation, and Budget authority in million U.S. dollars in each Organisation on the y axis. ",
+      "Organisation Federal Emergency Management Agency has the highest Budget authority in million U.S. dollars and Office of Inspector General has the lowest Budget authority in million U.S. dollars. ",
+      "The second highest Budget authority in million U.S. dollars is appeared to be the Organisation . ",
+      "The difference of Budget authority in million U.S. dollars between the highest and lowest Organisation is 28538.63. ",
+      "The Organisation Federal Emergency Management Agency has the highest Budget authority in million U.S. dollars, followed by , and U.S. Coast Guard. Down to the Organisation Office of Inspector General which is the lowest. ",
+      "The Organisation Office of Inspector General has 4.37 times less Budget authority in million U.S. dollars than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Organisation": "Federal Emergency Management Agency",
+         "Budget authority in million U.S. dollars": 28708.82
+      },
+      {
+         "Organisation": "U.S. Customs and Border Protection",
+         "Budget authority in million U.S. dollars": 20850.39
+      },
+      {
+         "Organisation": "U.S. Coast Guard",
+         "Budget authority in million U.S. dollars": 11339.98
+      },
+      {
+         "Organisation": "U.S. Immigration and Customs Enforcement",
+         "Budget authority in million U.S. dollars": 9308.59
+      },
+      {
+         "Organisation": "Transportation Security Administration",
+         "Budget authority in million U.S. dollars": 7785.63
+      },
+      {
+         "Organisation": "United States Citizenship and Immigration Services",
+         "Budget authority in million U.S. dollars": 4840.41
+      },
+      {
+         "Organisation": "Cybersecurity and Infrastructure Security Agency",
+         "Budget authority in million U.S. dollars": 3168.08
+      },
+      {
+         "Organisation": "U.S. Secret Service",
+         "Budget authority in million U.S. dollars": 2573.98
+      },
+      {
+         "Organisation": "Management Directorate",
+         "Budget authority in million U.S. dollars": 1698.6
+      },
+      {
+         "Organisation": "Science and Technology Directorate",
+         "Budget authority in million U.S. dollars": 582.12
+      },
+      {
+         "Organisation": "Countering Weapons of Mass Destruction",
+         "Budget authority in million U.S. dollars": 423.16
+      },
+      {
+         "Organisation": "Federal Law Enforcement Training Centers",
+         "Budget authority in million U.S. dollars": 350.94
+      },
+      {
+         "Organisation": "Analysis and Operations",
+         "Budget authority in million U.S. dollars": 276.64
+      },
+      {
+         "Organisation": "Office of Inspector General",
+         "Budget authority in million U.S. dollars": 170.19
+      }
+   ]
+}

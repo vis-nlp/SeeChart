@@ -1,0 +1,57 @@
+{
+   "title": "Football participation England 2016 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of participants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of participants. In total the number of data points it has is 4.",
+      " In general Number of participants has fallen over the Year.",
+      "Number of participants is roughly constant from 2016 to 2017, gradually decreasing from 2017 to 2018, and lastly roughly constant from 2018 to 2019.",
+      "The most drastic decrease took place within the Year 2017 and 2018.",
+      "Maximum Number of participants, about 2299700.0 was reported at Year 2017",
+      "The lowest Number of participants, of value 2056900.0 was reported at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of participants. In total the number of data points it has is 4.",
+      " In general Number of participants has fallen over the Year.",
+      "Number of participants is roughly constant from 2016 to 2017, gradually decreasing from 2017 to 2018, and lastly roughly constant from 2018 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of participants. In total the number of data points it has is 4.",
+      " In general Number of participants has fallen over the Year.",
+      "Number of participants is roughly constant from 2016 to 2017, gradually decreasing from 2017 to 2018, and lastly roughly constant from 2018 to 2019.",
+      "The most drastic decrease took place within the Year 2017 and 2018.",
+      "Maximum Number of participants, about 2299700.0 was reported at Year 2017",
+      "The lowest Number of participants, of value 2056900.0 was reported at Year 2019"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of participants. In total the number of data points it has is 4.",
+      " Overall Number of participants has decreased over the Year.",
+      "Number of participants is roughly constant from 2016 to 2017, gradually decreasing from 2017 to 2018, and lastly roughly constant from 2018 to 2019.",
+      "The most drastic decrease took place within the Year 2017 and 2018.",
+      "Maximum Number of participants, about 2299700.0 was reported at Year 2017",
+      "The lowest Number of participants, of value 2056900.0 was reported at Year 2019",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of participants": 2056900.0
+      },
+      {
+         "Year": "2018",
+         "Number of participants": 2095900.0
+      },
+      {
+         "Year": "2017",
+         "Number of participants": 2299700.0
+      },
+      {
+         "Year": "2016",
+         "Number of participants": 2299000.0
+      }
+   ]
+}

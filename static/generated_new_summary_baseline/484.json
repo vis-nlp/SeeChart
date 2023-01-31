@@ -1,0 +1,97 @@
+{
+   "title": "Share of IT budgets spent on IT security FY2005-FY2016",
+   "xAxis": "Fiscal Year",
+   "yAxis": "Share of total IT budget",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of total IT budget for 13 number of Fiscal Years. ",
+      "The Share of total IT budget is highest at Fiscal Year FY2017 and lowest at Fiscal Year FY2006. ",
+      "There is a difference of 3.4 between the maximum Fiscal Year FY2017 and minimum Fiscal Year FY2006. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Fiscal Year in the x axis and Share of total IT budget in the y axis. ",
+      "Fiscal Year FY2017 has the highest Share of total IT budget and FY2006 has the lowest Share of total IT budget. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of total IT budget for 13 number of Fiscal Years. ",
+      "The Share of total IT budget is highest at Fiscal Year FY2017 and lowest at Fiscal Year FY2006. ",
+      "There is a difference of 3.4 between the maximum Fiscal Year FY2017 and minimum Fiscal Year FY2006. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Fiscal Year in the x axis and Share of total IT budget in the y axis. ",
+      "Fiscal Year FY2017 has the highest Share of total IT budget and FY2006 has the lowest Share of total IT budget. ",
+      "Second maximum Share of total IT budget is found at Fiscal Year . ",
+      "The difference of Share of total IT budget between the highest and lowest Fiscal Year is 3.4. ",
+      "Fiscal Year FY2017 is higher than any other Fiscal Years with value 10.6, followed by , and FY2015. Down to Fiscal Year FY2006 with the lowest value 7.2. ",
+      "Fiscal Year FY2005, and FY2007 have the same Share of total IT budget. ",
+      "The average Share of total IT budget in all 13 Fiscal Years is 8.89. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 12,
+         "12": 12
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fiscal Year": "FY2005",
+         "Share of total IT budget": 7.5
+      },
+      {
+         "Fiscal Year": "FY2006",
+         "Share of total IT budget": 7.2
+      },
+      {
+         "Fiscal Year": "FY2007",
+         "Share of total IT budget": 7.5
+      },
+      {
+         "Fiscal Year": "FY2008",
+         "Share of total IT budget": 7.9
+      },
+      {
+         "Fiscal Year": "FY2009",
+         "Share of total IT budget": 9.1
+      },
+      {
+         "Fiscal Year": "FY2010",
+         "Share of total IT budget": 8.6
+      },
+      {
+         "Fiscal Year": "FY2011",
+         "Share of total IT budget": 8.8
+      },
+      {
+         "Fiscal Year": "FY2012",
+         "Share of total IT budget": 9.1
+      },
+      {
+         "Fiscal Year": "FY2013",
+         "Share of total IT budget": 9.9
+      },
+      {
+         "Fiscal Year": "FY2014",
+         "Share of total IT budget": 9.2
+      },
+      {
+         "Fiscal Year": "FY2015",
+         "Share of total IT budget": 10.0
+      },
+      {
+         "Fiscal Year": "FY2016",
+         "Share of total IT budget": 10.2
+      },
+      {
+         "Fiscal Year": "FY2017",
+         "Share of total IT budget": 10.6
+      }
+   ]
+}

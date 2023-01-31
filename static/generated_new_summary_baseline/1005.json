@@ -1,0 +1,124 @@
+{
+   "title": "The largest lakes in the U.S. in 2003 , by area",
+   "xAxis": "Lakes In The Us",
+   "yAxis": "Area in square miles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Lakes In The Us in the x axis and Area in square miles in the y axis. ",
+      "The Area in square miles is appeared to be the highest at Lakes In The Us Lake Superior and lowest at Lakes In The Us Rainy Lake. ",
+      "There is a difference of 31355.0 between the maximum Lakes In The Us Lake Superior and minimum Lakes In The Us Rainy Lake. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Area in square miles for 20 number of Lakes In The Uss. ",
+      "The Area in square miles is highest at Lakes In The Us Lake Superior and lowest at Lakes In The Us Rainy Lake. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Lakes In The Us in the x axis and Area in square miles in the y axis. ",
+      "The Area in square miles is appeared to be the highest at Lakes In The Us Lake Superior and lowest at Lakes In The Us Rainy Lake. ",
+      "There is a difference of 31355.0 between the maximum Lakes In The Us Lake Superior and minimum Lakes In The Us Rainy Lake. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Lakes In The Us, and Area in square miles in each Lakes In The Us on the y axis. ",
+      "The maximum Area in square miles 31700.0 is found at Lakes In The Us Lake Superior and the minimum is found at Rainy Lake where Area in square miles is 345.0. ",
+      "Second maximum Area in square miles is found at Lakes In The Us . ",
+      "There is a difference of 31355.0 between the maximum Lakes In The Us Lake Superior and minimum Lakes In The Us Rainy Lake. ",
+      "The Lakes In The Us Lake Superior has the highest Area in square miles, followed by , and Lake Michigan. Down to the Lakes In The Us Rainy Lake which is the lowest. ",
+      "The Lakes In The Us Rainy Lake tends to be 6.06 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Lakes In The Us": "Lake Superior",
+         "Area in square miles": 31700.0
+      },
+      {
+         "Lakes In The Us": "Lake Huron",
+         "Area in square miles": 23000.0
+      },
+      {
+         "Lakes In The Us": "Lake Michigan",
+         "Area in square miles": 22300.0
+      },
+      {
+         "Lakes In The Us": "Lake Erie",
+         "Area in square miles": 9910.0
+      },
+      {
+         "Lakes In The Us": "Lake Ontario",
+         "Area in square miles": 7340.0
+      },
+      {
+         "Lakes In The Us": "Great Salt Lake",
+         "Area in square miles": 2117.0
+      },
+      {
+         "Lakes In The Us": "Lake of the Woods",
+         "Area in square miles": 1485.0
+      },
+      {
+         "Lakes In The Us": "Iliamna Lake",
+         "Area in square miles": 1014.0
+      },
+      {
+         "Lakes In The Us": "Lake Oahe ",
+         "Area in square miles": 685.0
+      },
+      {
+         "Lakes In The Us": "Lake Okeechobee",
+         "Area in square miles": 662.0
+      },
+      {
+         "Lakes In The Us": "Lake Pontchartrain",
+         "Area in square miles": 631.0
+      },
+      {
+         "Lakes In The Us": "Lake Sakakawea ",
+         "Area in square miles": 520.0
+      },
+      {
+         "Lakes In The Us": "Lake Champlain",
+         "Area in square miles": 490.0
+      },
+      {
+         "Lakes In The Us": "Becharof Lake",
+         "Area in square miles": 453.0
+      },
+      {
+         "Lakes In The Us": "Lake St. Clair",
+         "Area in square miles": 430.0
+      },
+      {
+         "Lakes In The Us": "Red Lake",
+         "Area in square miles": 427.0
+      },
+      {
+         "Lakes In The Us": "Selawik Lake",
+         "Area in square miles": 404.0
+      },
+      {
+         "Lakes In The Us": "Fort Peck Lake ",
+         "Area in square miles": 393.0
+      },
+      {
+         "Lakes In The Us": "Salton Sea",
+         "Area in square miles": 347.0
+      },
+      {
+         "Lakes In The Us": "Rainy Lake",
+         "Area in square miles": 345.0
+      }
+   ]
+}

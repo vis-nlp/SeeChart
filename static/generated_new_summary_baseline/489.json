@@ -1,0 +1,85 @@
+{
+   "title": "Car rental in the U.S. - total cars in service 2002 to 2012",
+   "xAxis": "Year",
+   "yAxis": "Cars in service in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Cars in service in thousands. In total the number of data points it has is 11.",
+      " In general Cars in service in thousands has rose over the Year.",
+      "Cars in service in thousands is roughly constant from 2002 to 2003, slightly increasing from 2003 to 2007, slightly decreasing from 2007 to 2009, roughly constant from 2009 to 2010, and finally slightly increasing from 2010 to 2012.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Cars in service in thousands, about 1861.0 was reported at Year 2007",
+      "Minimum Cars in service in thousands about 1617.0 was reached at Year 2003"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Cars in service in thousands. In total the number of data points it has is 11.",
+      " Overall Cars in service in thousands has increased over the Year.",
+      "Cars in service in thousands is roughly constant from 2002 to 2003, slightly increasing from 2003 to 2007, slightly decreasing from 2007 to 2009, roughly constant from 2009 to 2010, and finally slightly increasing from 2010 to 2012."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Cars in service in thousands. In total the number of data points it has is 11.",
+      " In general Cars in service in thousands has rose over the Year.",
+      "Cars in service in thousands is roughly constant from 2002 to 2003, slightly increasing from 2003 to 2007, slightly decreasing from 2007 to 2009, roughly constant from 2009 to 2010, and finally slightly increasing from 2010 to 2012.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Cars in service in thousands, about 1861.0 was reported at Year 2007",
+      "Minimum Cars in service in thousands about 1617.0 was reached at Year 2003"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Cars in service in thousands, containing a total of 11 data points.",
+      " In general Cars in service in thousands has rose over the Year.",
+      "Cars in service in thousands is roughly constant from 2002 to 2003, slightly increasing from 2003 to 2007, slightly decreasing from 2007 to 2009, roughly constant from 2009 to 2010, and finally slightly increasing from 2010 to 2012.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Maximum Cars in service in thousands, about 1861.0 was reported at Year 2007",
+      "Minimum Cars in service in thousands about 1617.0 was reached at Year 2003",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2002",
+         "Cars in service in thousands": 1643.0
+      },
+      {
+         "Year": "2003",
+         "Cars in service in thousands": 1617.0
+      },
+      {
+         "Year": "2004",
+         "Cars in service in thousands": 1665.0
+      },
+      {
+         "Year": "2005",
+         "Cars in service in thousands": 1714.0
+      },
+      {
+         "Year": "2006",
+         "Cars in service in thousands": 1768.0
+      },
+      {
+         "Year": "2007",
+         "Cars in service in thousands": 1861.0
+      },
+      {
+         "Year": "2008",
+         "Cars in service in thousands": 1813.0
+      },
+      {
+         "Year": "2009",
+         "Cars in service in thousands": 1637.0
+      },
+      {
+         "Year": "2010",
+         "Cars in service in thousands": 1629.0
+      },
+      {
+         "Year": "2011",
+         "Cars in service in thousands": 1761.0
+      },
+      {
+         "Year": "2012",
+         "Cars in service in thousands": 1857.0
+      }
+   ]
+}

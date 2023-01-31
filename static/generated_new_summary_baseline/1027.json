@@ -1,0 +1,73 @@
+{
+   "title": "Italy : natural gas imports 2018 , by country of origin",
+   "xAxis": "Country",
+   "yAxis": "Natural gas imports in million cubic meters",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Natural gas imports in million cubic meters in the y axis. ",
+      "The maximum Natural gas imports in million cubic meters 32321.0 is found at Country Russia and the minimum is found at Holland where Natural gas imports in million cubic meters is 1003.0. ",
+      "The highest Country Russia has 31318.0 more Natural gas imports in million cubic meters than the lowest Country Holland. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Natural gas imports in million cubic meters for 7 number of Countrys. ",
+      "The Natural gas imports in million cubic meters is highest at Country Russia and lowest at Country Holland. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Natural gas imports in million cubic meters in the y axis. ",
+      "The maximum Natural gas imports in million cubic meters 32321.0 is found at Country Russia and the minimum is found at Holland where Natural gas imports in million cubic meters is 1003.0. ",
+      "The highest Country Russia has 31318.0 more Natural gas imports in million cubic meters than the lowest Country Holland. "
+   ],
+   "max_summary": [
+      "This bar chart has 7 columns on the x axis representing Country, and Natural gas imports in million cubic meters in each Country on the y axis. ",
+      "The Natural gas imports in million cubic meters is appeared to be the highest at Country Russia and lowest at Country Holland. ",
+      "Country  has the second highest value for Natural gas imports in million cubic meters. ",
+      "The difference of Natural gas imports in million cubic meters between the highest and lowest Country is 31318.0. ",
+      "Natural gas imports in million cubic meters at Country Russia is 32321.0 , second place is  at 32321.0, and thirdly is Qatar at 6535.0.",
+      "Considered together, the average Natural gas imports in million cubic meters in all 7 Countrys is roughly 9696.14. ",
+      "Summing up the values of all Countrys, we get total 67873.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Russia",
+         "Natural gas imports in million cubic meters": 32321.0
+      },
+      {
+         "Country": "Algeria",
+         "Natural gas imports in million cubic meters": 17970.0
+      },
+      {
+         "Country": "Qatar",
+         "Natural gas imports in million cubic meters": 6535.0
+      },
+      {
+         "Country": "Libya",
+         "Natural gas imports in million cubic meters": 4466.0
+      },
+      {
+         "Country": "Norway",
+         "Natural gas imports in million cubic meters": 3159.0
+      },
+      {
+         "Country": "Holland",
+         "Natural gas imports in million cubic meters": 1003.0
+      },
+      {
+         "Country": "Others",
+         "Natural gas imports in million cubic meters": 2419.0
+      }
+   ]
+}

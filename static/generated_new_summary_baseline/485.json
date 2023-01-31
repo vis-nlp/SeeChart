@@ -1,0 +1,85 @@
+{
+   "title": "Global PND and car navigation market size forecast 2005 to 2015",
+   "xAxis": "Year",
+   "yAxis": "Market size in thousand units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market size in thousand units, containing a total of 11 data points.",
+      " In general Market size in thousand units has rose over the Year.",
+      "Market size in thousand units is slightly increasing from 2005 to 2008, and lastly roughly constant from 2008 to 2015.",
+      "The most drastic increase took place within the Year 2006 and 2007.",
+      "The highest Market size in thousand units, of value 51600.0 was reached at Year 2014",
+      "The lowest Market size in thousand units, of value 12963.0 was reported at Year 2005"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market size in thousand units. In total the number of data points it has is 11.",
+      " Overall Market size in thousand units has increased over the Year.",
+      "Market size in thousand units is slightly increasing from 2005 to 2008, and lastly roughly constant from 2008 to 2015."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market size in thousand units, containing a total of 11 data points.",
+      " In general Market size in thousand units has rose over the Year.",
+      "Market size in thousand units is slightly increasing from 2005 to 2008, and lastly roughly constant from 2008 to 2015.",
+      "The most drastic increase took place within the Year 2006 and 2007.",
+      "The highest Market size in thousand units, of value 51600.0 was reached at Year 2014",
+      "The lowest Market size in thousand units, of value 12963.0 was reported at Year 2005"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market size in thousand units. In total the number of data points it has is 11.",
+      " In general Market size in thousand units has rose over the Year.",
+      "Market size in thousand units is slightly increasing from 2005 to 2008, and lastly roughly constant from 2008 to 2015.",
+      "The steepest increase occurs in between the Year 2006 and 2007.",
+      "The highest Market size in thousand units, of value 51600.0 was reached at Year 2014",
+      "The lowest Market size in thousand units, of value 12963.0 was reported at Year 2005",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2015",
+         "Market size in thousand units": 51420.0
+      },
+      {
+         "Year": "2014",
+         "Market size in thousand units": 51600.0
+      },
+      {
+         "Year": "2013",
+         "Market size in thousand units": 51510.0
+      },
+      {
+         "Year": "2012",
+         "Market size in thousand units": 50485.0
+      },
+      {
+         "Year": "2011",
+         "Market size in thousand units": 49361.0
+      },
+      {
+         "Year": "2010",
+         "Market size in thousand units": 48306.0
+      },
+      {
+         "Year": "2009",
+         "Market size in thousand units": 44449.0
+      },
+      {
+         "Year": "2008",
+         "Market size in thousand units": 45502.0
+      },
+      {
+         "Year": "2007",
+         "Market size in thousand units": 34905.0
+      },
+      {
+         "Year": "2006",
+         "Market size in thousand units": 21103.0
+      },
+      {
+         "Year": "2005",
+         "Market size in thousand units": 12963.0
+      }
+   ]
+}

@@ -1,0 +1,66 @@
+{
+   "title": "Reach of fashion blog websites in Great Britain as of August 2013 , by age and gender",
+   "xAxis": "Sex",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Sex in the x axis and Share of respondents in the y axis. ",
+      "Sex Under 35 has the highest Share of respondents and Male has the lowest Share of respondents. ",
+      "Sex Male has 3.5 times less Share of respondents than Sex Under 35 which is the highest. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Sexs. ",
+      "The maximum Share of respondents 7.0 is found at Sex Under 35 and the minimum is found at Male where Share of respondents is 2.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Sex in the x axis and Share of respondents in the y axis. ",
+      "Sex Under 35 has the highest Share of respondents and Male has the lowest Share of respondents. ",
+      "Sex Male has 3.5 times less Share of respondents than Sex Under 35 which is the highest. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Sex in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Sex Under 35 and lowest at Sex Male. ",
+      "The second highest Share of respondents is appeared to be the Sex . ",
+      "The Share of respondents of Sex Male is 3.5% smaller than the maximum value at Under 35. ",
+      "Sex Under 35 is higher than any other Sexs with value 7.0, followed by , and 35 to 49. Down to Sex Male with the lowest value 2.0. ",
+      "Similar Share of respondents is found in Sex Male, and 50 to 64. ",
+      "The Sex Under 35 tends to be 1.75 percent higher than average. ",
+      "The Share of respondents is 20.0 if we add up values of all Sexs. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Share of respondents": 2.0
+      },
+      {
+         "Sex": "Female",
+         "Share of respondents": 6.0
+      },
+      {
+         "Sex": "Under 35",
+         "Share of respondents": 7.0
+      },
+      {
+         "Sex": "35 to 49",
+         "Share of respondents": 3.0
+      },
+      {
+         "Sex": "50 to 64",
+         "Share of respondents": 2.0
+      }
+   ]
+}

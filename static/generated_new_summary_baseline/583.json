@@ -1,0 +1,67 @@
+{
+   "title": "Facebook : monthly brand profile follower growth 2017",
+   "xAxis": "Month",
+   "yAxis": "Growth rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Growth rate in the y axis. ",
+      "The Growth rate is appeared to be the highest at Month Sep '17 and lowest at Month Nov '17. ",
+      "The difference of Growth rate between the highest and lowest Month is 3.18. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Month, and Growth rate in each Month on the y axis. ",
+      "Month Sep '17 has the highest Growth rate and Nov '17 has the lowest Growth rate. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Growth rate in the y axis. ",
+      "The Growth rate is appeared to be the highest at Month Sep '17 and lowest at Month Nov '17. ",
+      "The difference of Growth rate between the highest and lowest Month is 3.18. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Growth rate for 5 number of Months. ",
+      "The Growth rate is appeared to be the highest at Month Sep '17 and lowest at Month Nov '17. ",
+      "Month  has the second highest value for Growth rate. ",
+      "The highest Month Sep '17 has 3.18 more Growth rate than the lowest Month Nov '17. ",
+      "Growth rate at Month Sep '17 is 3.28 , second place is  at 0.61, and thirdly is Dec '17 at 0.61.",
+      "Overall Growth rate has grew over the Months. ",
+      "Month Nov '17, and Oct '17 have the same Growth rate. ",
+      "The Month Nov '17 tends to be 3.34 percent lower than average. ",
+      "Summing up the values of all Months, we get total 4.91. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec '17",
+         "Growth rate": 0.61
+      },
+      {
+         "Month": "Nov '17",
+         "Growth rate": 0.1
+      },
+      {
+         "Month": "Oct '17",
+         "Growth rate": 0.1
+      },
+      {
+         "Month": "Sep '17",
+         "Growth rate": 3.28
+      },
+      {
+         "Month": "Aug '17",
+         "Growth rate": 0.82
+      }
+   ]
+}

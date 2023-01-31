@@ -1,0 +1,87 @@
+{
+   "title": "Brazil : most valuable soccer players at the 2018 FIFA World Cup",
+   "xAxis": "Month",
+   "yAxis": "Market value in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Market value in million euros for 10 number of Months. ",
+      "The Market value in million euros is appeared to be the highest at Month Neymar and lowest at Month Ederson. ",
+      "The lowest value at Month Ederson is 3.6x times less than the highest value at Neymar. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Market value in million euros for 10 number of Months. ",
+      "Month Neymar has the highest Market value in million euros and Ederson has the lowest Market value in million euros. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Market value in million euros for 10 number of Months. ",
+      "The Market value in million euros is appeared to be the highest at Month Neymar and lowest at Month Ederson. ",
+      "The lowest value at Month Ederson is 3.6x times less than the highest value at Neymar. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Market value in million euros in the y axis. ",
+      "The maximum Market value in million euros 180.0 is found at Month Neymar and the minimum is found at Ederson where Market value in million euros is 50.0. ",
+      "Month  has the second highest value for Market value in million euros. ",
+      "The highest Month Neymar has 130.0 more Market value in million euros than the lowest Month Ederson. ",
+      "Month Neymar is higher than any other Months with value 180.0, followed by , and Gabriel Jesus. Down to Month Ederson with the lowest value 50.0. ",
+      "The Market value in million euros has decreased over the past 10 Months. ",
+      "Month Casemiro, Marcelo, and Alisson have a similar Market value in million euros that is 60.0. ",
+      "The Month Ederson tends to be 2.31 percent lower than average. ",
+      "Summing up the values of all Months, we get total 780.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Neymar",
+         "Market value in million euros": 180.0
+      },
+      {
+         "Month": "Philippe Coutinho",
+         "Market value in million euros": 100.0
+      },
+      {
+         "Month": "Roberto Firmino",
+         "Market value in million euros": 80.0
+      },
+      {
+         "Month": "Gabriel Jesus",
+         "Market value in million euros": 80.0
+      },
+      {
+         "Month": "Casemiro",
+         "Market value in million euros": 60.0
+      },
+      {
+         "Month": "Marcelo",
+         "Market value in million euros": 60.0
+      },
+      {
+         "Month": "Alisson",
+         "Market value in million euros": 60.0
+      },
+      {
+         "Month": "Douglas Costa",
+         "Market value in million euros": 55.0
+      },
+      {
+         "Month": "Marquinhos",
+         "Market value in million euros": 55.0
+      },
+      {
+         "Month": "Ederson",
+         "Market value in million euros": 50.0
+      }
+   ]
+}

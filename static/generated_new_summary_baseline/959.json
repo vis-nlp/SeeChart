@@ -1,0 +1,136 @@
+{
+   "title": "Super Bowl - monetary compensation for players playing in the game 2011 to 2020",
+   "labels": [
+      "Year",
+      "Winning team",
+      "Loosing team"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Winning team, and Loosing team. The y axis indicates the Pay in thousand U.S. dollars and the x axis indicates Year.",
+      "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Winning team, and lastly, 2. Loosing team. ",
+      "Overall across the Year, Winning team mostly maintained the highest Pay in thousand U.S. dollars when compared to others with a mean value of 105.8, and it peaked at 2020.",
+      "Loosing team mostly had the least Pay in thousand U.S. dollars with a mean value of 52.9, which peaked at 2020 with a value of 65.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Pay in thousand U.S. dollars",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Winning team, and Loosing team. The y axis indicates the Pay in thousand U.S. dollars and the x axis indicates Year.",
+      "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year",
+      "Throughout the period, Winning team generally had the highest Pay in thousand U.S. dollars relative to others with an average of 105.8, and it reached its maximum at 2020 with a value of 130.0.",
+      "The botommost line, Loosing team,  has a mean of 52.9, and peaked at 2020. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Winning team, and Loosing team. The y axis indicates the Pay in thousand U.S. dollars and the x axis indicates Year.",
+      "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Winning team, and lastly, 2. Loosing team. ",
+      "Overall across the Year, Winning team mostly maintained the highest Pay in thousand U.S. dollars when compared to others with a mean value of 105.8, and it peaked at 2020.",
+      "Loosing team mostly had the least Pay in thousand U.S. dollars with a mean value of 52.9, which peaked at 2020 with a value of 65.0. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Winning team, and Loosing team. The y axis indicates the Pay in thousand U.S. dollars and the x axis indicates Year.",
+      "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Winning team, and lastly, 2. Loosing team. ",
+      "Throughout the period, Winning team generally had the highest Pay in thousand U.S. dollars relative to others with an average of 105.8, and it reached its maximum at 2020 with a value of 130.0.",
+      "The botommost line, Loosing team,  has a mean of 52.9, and peaked at 2020. ",
+      "The difference of Pay in thousand U.S. dollars between Winning team and Loosing team is greater at Year 2020 compared to the Year 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "9",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "9",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Winning team": "130",
+         "Loosing team": "65"
+      },
+      {
+         "Year": "2019",
+         "Winning team": "124",
+         "Loosing team": "62"
+      },
+      {
+         "Year": "2018",
+         "Winning team": "118",
+         "Loosing team": "59"
+      },
+      {
+         "Year": "2017",
+         "Winning team": "112",
+         "Loosing team": "56"
+      },
+      {
+         "Year": "2016",
+         "Winning team": "107",
+         "Loosing team": "53"
+      },
+      {
+         "Year": "2015",
+         "Winning team": "102",
+         "Loosing team": "51"
+      },
+      {
+         "Year": "2014",
+         "Winning team": "97",
+         "Loosing team": "49"
+      },
+      {
+         "Year": "2013",
+         "Winning team": "92",
+         "Loosing team": "46"
+      },
+      {
+         "Year": "2012",
+         "Winning team": "88",
+         "Loosing team": "44"
+      },
+      {
+         "Year": "2011",
+         "Winning team": "88",
+         "Loosing team": "44"
+      }
+   ]
+}

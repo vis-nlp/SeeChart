@@ -1,0 +1,56 @@
+{
+   "title": "MSC - number of TEUs 2020",
+   "xAxis": "Ownership Type",
+   "yAxis": "Number of TEUs",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Ownership Type in the x axis and Number of TEUs in the y axis. ",
+      "The Number of TEUs is highest at Ownership Type Chartered and lowest at Ownership Type Orderbook. ",
+      "Ownership Type Chartered has 12.74 times more Number of TEUs than Ownership Type Orderbook which is has the lowest. "
+   ],
+   "min_summary": [
+      "This bar chart has 3 columns on the x axis representing Ownership Type, and Number of TEUs in each Ownership Type on the y axis. ",
+      "The maximum Number of TEUs 2771795.0 is found at Ownership Type Chartered and the minimum is found at Orderbook where Number of TEUs is 217500.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Ownership Type in the x axis and Number of TEUs in the y axis. ",
+      "The Number of TEUs is highest at Ownership Type Chartered and lowest at Ownership Type Orderbook. ",
+      "Ownership Type Chartered has 12.74 times more Number of TEUs than Ownership Type Orderbook which is has the lowest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of TEUs for 3 number of Ownership Types. ",
+      "The maximum Number of TEUs 2771795.0 is found at Ownership Type Chartered and the minimum is found at Orderbook where Number of TEUs is 217500.0. ",
+      "Second maximum Number of TEUs is found at Ownership Type . ",
+      "The highest Ownership Type Chartered has 2554295.0 more Number of TEUs than the lowest Ownership Type Orderbook. ",
+      "The Ownership Type Chartered has 2.06 times more Number of TEUs than average. ",
+      "Summing up the values of all Ownership Types, we get total 4034095.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Ownership Type": "Chartered",
+         "Number of TEUs": 2771795.0
+      },
+      {
+         "Ownership Type": "Owned",
+         "Number of TEUs": 1044800.0
+      },
+      {
+         "Ownership Type": "Orderbook",
+         "Number of TEUs": 217500.0
+      }
+   ]
+}

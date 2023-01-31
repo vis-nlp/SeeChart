@@ -1,0 +1,171 @@
+{
+   "title": "Home mortgage debt of households and nonprofit organizations in the U.S. 2012 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Debt in trillion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Quarter in the x axis and Debt in trillion U.S. dollars in the y axis. ",
+      "The Debt in trillion U.S. dollars is highest at Quarter Q3 2019 and lowest at Quarter Q3 2014. ",
+      "There is a difference of 1.08 between the maximum Quarter Q3 2019 and minimum Quarter Q3 2014. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Debt in trillion U.S. dollars for 31 number of Quarters. ",
+      "The Debt in trillion U.S. dollars is appeared to be the highest at Quarter Q3 2019 and lowest at Quarter Q3 2014. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Debt in trillion U.S. dollars in the y axis. ",
+      "The Debt in trillion U.S. dollars is highest at Quarter Q3 2019 and lowest at Quarter Q3 2014. ",
+      "There is a difference of 1.08 between the maximum Quarter Q3 2019 and minimum Quarter Q3 2014. "
+   ],
+   "max_summary": [
+      "This bar chart has 31 columns on the x axis representing Quarter, and Debt in trillion U.S. dollars in each Quarter on the y axis. ",
+      "The maximum Debt in trillion U.S. dollars 10.52 is found at Quarter Q3 2019 and the minimum is found at Q3 2014 where Debt in trillion U.S. dollars is 9.44. ",
+      "Quarter  has the second highest value for Debt in trillion U.S. dollars. ",
+      "Quarter Q3 2019 has 1.11 times more Debt in trillion U.S. dollars than Quarter Q3 2014 which is has the lowest. ",
+      "Debt in trillion U.S. dollars at Quarter Q3 2019 is 10.52 , second place is  at 10.52, and thirdly is Q1 2019 at 10.37.",
+      "Overall Debt in trillion U.S. dollars has decreased over the Quarters. ",
+      "Quarter Q2 2015, Q3 2013, and Q2 2013 have a similar Debt in trillion U.S. dollars that is 9.49. ",
+      "The average Debt in trillion U.S. dollars in all 31 Quarters is 9.78. ",
+      "Summing up the values of all Quarters, we get total 303.21. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 20,
+         "12": 20
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 2019",
+         "Debt in trillion U.S. dollars": 10.52
+      },
+      {
+         "Quarter": "Q2 2019",
+         "Debt in trillion U.S. dollars": 10.46
+      },
+      {
+         "Quarter": "Q1 2019",
+         "Debt in trillion U.S. dollars": 10.37
+      },
+      {
+         "Quarter": "Q4 2018",
+         "Debt in trillion U.S. dollars": 10.32
+      },
+      {
+         "Quarter": "Q3 2018",
+         "Debt in trillion U.S. dollars": 10.26
+      },
+      {
+         "Quarter": "Q2 2018",
+         "Debt in trillion U.S. dollars": 10.19
+      },
+      {
+         "Quarter": "Q1 2018",
+         "Debt in trillion U.S. dollars": 10.1
+      },
+      {
+         "Quarter": "Q4 2017",
+         "Debt in trillion U.S. dollars": 10.04
+      },
+      {
+         "Quarter": "Q3 2017",
+         "Debt in trillion U.S. dollars": 9.97
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Debt in trillion U.S. dollars": 9.9
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Debt in trillion U.S. dollars": 9.88
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Debt in trillion U.S. dollars": 9.79
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Debt in trillion U.S. dollars": 9.73
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Debt in trillion U.S. dollars": 9.67
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Debt in trillion U.S. dollars": 9.62
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Debt in trillion U.S. dollars": 9.59
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Debt in trillion U.S. dollars": 9.52
+      },
+      {
+         "Quarter": "Q2 2015",
+         "Debt in trillion U.S. dollars": 9.49
+      },
+      {
+         "Quarter": "Q1 2015",
+         "Debt in trillion U.S. dollars": 9.45
+      },
+      {
+         "Quarter": "Q4 2014",
+         "Debt in trillion U.S. dollars": 9.46
+      },
+      {
+         "Quarter": "Q3 2014",
+         "Debt in trillion U.S. dollars": 9.44
+      },
+      {
+         "Quarter": "Q2 2014",
+         "Debt in trillion U.S. dollars": 9.45
+      },
+      {
+         "Quarter": "Q1 2014",
+         "Debt in trillion U.S. dollars": 9.46
+      },
+      {
+         "Quarter": "Q4 2013",
+         "Debt in trillion U.S. dollars": 9.47
+      },
+      {
+         "Quarter": "Q3 2013",
+         "Debt in trillion U.S. dollars": 9.49
+      },
+      {
+         "Quarter": "Q2 2013",
+         "Debt in trillion U.S. dollars": 9.49
+      },
+      {
+         "Quarter": "Q1 2013",
+         "Debt in trillion U.S. dollars": 9.53
+      },
+      {
+         "Quarter": "Q4 2012",
+         "Debt in trillion U.S. dollars": 9.56
+      },
+      {
+         "Quarter": "Q3 2012",
+         "Debt in trillion U.S. dollars": 9.61
+      },
+      {
+         "Quarter": "Q2 2012",
+         "Debt in trillion U.S. dollars": 9.66
+      },
+      {
+         "Quarter": "Q1 2012",
+         "Debt in trillion U.S. dollars": 9.72
+      }
+   ]
+}

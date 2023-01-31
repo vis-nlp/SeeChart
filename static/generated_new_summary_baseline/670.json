@@ -1,0 +1,85 @@
+{
+   "title": "Total population of Iraq 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inhabitants in millions. In total the number of data points it has is 11.",
+      " Overall Inhabitants in millions has increased over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and lastly slightly increasing from 2015 to 2024.",
+      "The most drastic increase took place within the Year 2023 and 2024.",
+      "The highest Inhabitants in millions, of value 44.47 was reached at Year 2024",
+      "The lowest Inhabitants in millions, of value 35.0 was reported at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inhabitants in millions. In total the number of data points it has is 11.",
+      " In general Inhabitants in millions has rose over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and lastly slightly increasing from 2015 to 2024."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inhabitants in millions. In total the number of data points it has is 11.",
+      " Overall Inhabitants in millions has increased over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and lastly slightly increasing from 2015 to 2024.",
+      "The most drastic increase took place within the Year 2023 and 2024.",
+      "The highest Inhabitants in millions, of value 44.47 was reached at Year 2024",
+      "The lowest Inhabitants in millions, of value 35.0 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inhabitants in millions, containing a total of 11 data points.",
+      " In general Inhabitants in millions has rose over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and lastly slightly increasing from 2015 to 2024.",
+      "The most drastic increase took place within the Year 2023 and 2024.",
+      "The highest Inhabitants in millions, of value 44.47 was reached at Year 2024",
+      "The lowest Inhabitants in millions, of value 35.0 was reported at Year 2014",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": 44.47
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": 43.35
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": 42.25
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": 41.18
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": 40.13
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": 39.12
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": 38.12
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": 37.14
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": 36.17
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": 35.21
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": 35.0
+      }
+   ]
+}

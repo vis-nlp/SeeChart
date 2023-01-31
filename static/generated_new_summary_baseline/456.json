@@ -1,0 +1,130 @@
+{
+   "title": "Alibaba : cumulative active online buyers Q4 2014-Q4 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Active Alibaba online buyers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 21 columns on the x axis representing Quarter, and Active Alibaba online buyers in millions in each Quarter on the y axis. ",
+      "The Active Alibaba online buyers in millions is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '14. ",
+      "There is a difference of 377.0 between the maximum Quarter Q4 '19 and minimum Quarter Q4 '14. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Active Alibaba online buyers in millions for 21 number of Quarters. ",
+      "The Active Alibaba online buyers in millions is highest at Quarter Q4 '19 and lowest at Quarter Q4 '14. "
+   ],
+   "mid_summary": [
+      "This bar chart has 21 columns on the x axis representing Quarter, and Active Alibaba online buyers in millions in each Quarter on the y axis. ",
+      "The Active Alibaba online buyers in millions is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '14. ",
+      "There is a difference of 377.0 between the maximum Quarter Q4 '19 and minimum Quarter Q4 '14. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Quarter in the x axis and Active Alibaba online buyers in millions in the y axis. ",
+      "The Active Alibaba online buyers in millions is highest at Quarter Q4 '19 and lowest at Quarter Q4 '14. ",
+      "Second maximum Active Alibaba online buyers in millions is found at Quarter . ",
+      "The difference of Active Alibaba online buyers in millions between the highest and lowest Quarter is 377.0. ",
+      "Quarter Q4 '19 is higher than any other Quarters with value 711.0, followed by , and Q2 '19. Down to Quarter Q4 '14 with the lowest value 334.0. ",
+      "Over the past 21 Quarters, the Active Alibaba online buyers in millions has decreased. ",
+      "The highest value 711.0 at Q4 '19 is almost 1.41 times larger than the average value 504.9. ",
+      "The Active Alibaba online buyers in millions is 10603.0 if we add up values of all Quarters. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 20,
+         "12": 20
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Active Alibaba online buyers in millions": 711.0
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Active Alibaba online buyers in millions": 693.0
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Active Alibaba online buyers in millions": 674.0
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Active Alibaba online buyers in millions": 654.0
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Active Alibaba online buyers in millions": 636.0
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Active Alibaba online buyers in millions": 601.0
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Active Alibaba online buyers in millions": 576.0
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Active Alibaba online buyers in millions": 552.0
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Active Alibaba online buyers in millions": 515.0
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Active Alibaba online buyers in millions": 488.0
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Active Alibaba online buyers in millions": 466.0
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Active Alibaba online buyers in millions": 454.0
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Active Alibaba online buyers in millions": 443.0
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Active Alibaba online buyers in millions": 439.0
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Active Alibaba online buyers in millions": 434.0
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Active Alibaba online buyers in millions": 423.0
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Active Alibaba online buyers in millions": 407.0
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Active Alibaba online buyers in millions": 386.0
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Active Alibaba online buyers in millions": 367.0
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Active Alibaba online buyers in millions": 350.0
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Active Alibaba online buyers in millions": 334.0
+      }
+   ]
+}

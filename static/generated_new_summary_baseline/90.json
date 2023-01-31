@@ -1,0 +1,57 @@
+{
+   "title": "Peak online shopping hours of U.S. consumers 2015",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 4 data points.",
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is slightly decreasing from 11_AM_-_4_PM to 7-11_AM, and finally slightly increasing from 7-11_AM to 9_PM_-_2_AM.",
+      "The steepest decrease occurs in between the Year 4-9_PM and 7-11_AM.",
+      "The highest Share of respondents, of value 48.0 was reached at Year 4-9_PM",
+      "Minimum Share of respondents about 10.0 was reached at Year 7-11_AM"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 4.",
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is slightly decreasing from 11_AM_-_4_PM to 7-11_AM, and finally slightly increasing from 7-11_AM to 9_PM_-_2_AM."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 4 data points.",
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is slightly decreasing from 11_AM_-_4_PM to 7-11_AM, and finally slightly increasing from 7-11_AM to 9_PM_-_2_AM.",
+      "The steepest decrease occurs in between the Year 4-9_PM and 7-11_AM.",
+      "The highest Share of respondents, of value 48.0 was reached at Year 4-9_PM",
+      "Minimum Share of respondents about 10.0 was reached at Year 7-11_AM"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 4 data points.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is slightly decreasing from 11_AM_-_4_PM to 7-11_AM, and finally slightly increasing from 7-11_AM to 9_PM_-_2_AM.",
+      "The most drastic decrease took place within the Year 4-9_PM and 7-11_AM.",
+      "The highest Share of respondents, of value 48.0 was reached at Year 4-9_PM",
+      "Minimum Share of respondents about 10.0 was reached at Year 7-11_AM",
+      "The line rapidly increased by 71.43% from Year 11_AM_-_4_PM to 4-9_PM, and lastly, decreased by 79.17% from Year 4-9_PM to 7-11_AM."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "7-11 AM",
+         "Share of respondents": 10.0
+      },
+      {
+         "Year": "11 AM - 4 PM",
+         "Share of respondents": 28.0
+      },
+      {
+         "Year": "4-9 PM",
+         "Share of respondents": 48.0
+      },
+      {
+         "Year": "9 PM - 2 AM",
+         "Share of respondents": 14.0
+      }
+   ]
+}

@@ -1,0 +1,115 @@
+{
+   "title": "2018 FIFA World Cup Russia ticket prices by category",
+   "labels": [
+      "Ticket Type",
+      "Cat 1",
+      "Cat 2",
+      "Cat 3",
+      "Cat 4"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 7 different Ticket Types on X-axis for 4 groups Cat 1, Cat 2, Cat 3, and Cat 4. On the Y-axis it shows their corresponding World Cup Ticket Prices. ",
+      " Ticket Type Final (64) had the maximum World Cup Ticket Prices among all 4 groups, and it was for Cat 1. The minimum World Cup Ticket Prices was observed in Ticket Type Group matches (2 to 48) for Cat 4. ",
+      " The maximum World Cup Ticket Prices for Cat 1 that was found in Ticket Type Final (64) was 5.24 times larger than the minimum World Cup Ticket Prices observed in Ticket Type Group matches (2 to 48). ",
+      "Averaging all 4 groups Cat 1, Cat 2, Cat 3, and Cat 4, the Ticket Type Final (64) is the maximum World Cup Ticket Prices and Group matches (2 to 48) is the minimum World Cup Ticket Prices. "
+   ],
+   "xAxis": "Ticket Type",
+   "yAxis": "World Cup Ticket Prices",
+   "min_summary": [
+      "This grouped bar chart shows World Cup Ticket Prices on the Y-axis for 7 different Ticket Types for 4 groups Cat 1, Cat 2, Cat 3, and Cat 4 that are presented on the X-axis. ",
+      " Ticket Type Final (64) had the maximum World Cup Ticket Prices among all 4 groups, and it was for Cat 1. The minimum World Cup Ticket Prices was observed in Ticket Type Group matches (2 to 48) for Cat 4. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 7 different Ticket Types on X-axis for 4 groups Cat 1, Cat 2, Cat 3, and Cat 4. On the Y-axis it shows their corresponding World Cup Ticket Prices. ",
+      " Ticket Type Final (64) had the maximum World Cup Ticket Prices among all 4 groups, and it was for Cat 1. The minimum World Cup Ticket Prices was observed in Ticket Type Group matches (2 to 48) for Cat 4. ",
+      " The maximum World Cup Ticket Prices for Cat 1 that was found in Ticket Type Final (64) was 5.24 times larger than the minimum World Cup Ticket Prices observed in Ticket Type Group matches (2 to 48). ",
+      "Averaging all 4 groups Cat 1, Cat 2, Cat 3, and Cat 4, the Ticket Type Final (64) is the maximum World Cup Ticket Prices and Group matches (2 to 48) is the minimum World Cup Ticket Prices. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows World Cup Ticket Prices on the Y-axis for 7 different Ticket Types for 4 groups Cat 1, Cat 2, Cat 3, and Cat 4 that are presented on the X-axis. ",
+      " Out of all 4 groups, Cat 1 had the highest World Cup Ticket Prices for Ticket Type Final (64) and Cat 4 had the lowest World Cup Ticket Prices for Ticket Type Group matches (2 to 48). ",
+      " Among all the Ticket Types, Cat 1 had the highest World Cup Ticket Prices 1100.0 in Ticket Type Final (64) and lowest value 210.0 in Ticket Type Group matches (2 to 48). ",
+      "Ticket Type Final (64) and Group matches (2 to 48) had the biggest gap of 890.0 between the highest and lowest World Cup Ticket Prices found for Cat 1. ",
+      " Out of all 4 groups, the highest gap between the maximum and minimum World Cup Ticket Prices was found in case of Cat 1. ",
+      " In case of Ticket Type Final (64), Cat 1 had the highest World Cup Ticket Prices 1100.0 among the 4 groups and in Group matches (2 to 48), Cat 4 had the lowest World Cup Ticket Prices 20.0. The second highest World Cup Ticket Prices 455.0 was observed for Cat 1 in Ticket Type Final (64). ",
+      "Averaging all 4 groups Cat 1, Cat 2, Cat 3, and Cat 4, the Ticket Type Final (64) is the maximum World Cup Ticket Prices and Group matches (2 to 48) is the minimum World Cup Ticket Prices. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "6"
+         ],
+         "13": [
+            "4",
+            "6"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "4",
+            "4"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Ticket Type": "Opening match (1)",
+         "Cat 1": "550",
+         "Cat 2": "390",
+         "Cat 3": "220",
+         "Cat 4": "50"
+      },
+      {
+         "Ticket Type": "Group matches (2 to 48)",
+         "Cat 1": "210",
+         "Cat 2": "165",
+         "Cat 3": "105",
+         "Cat 4": "20"
+      },
+      {
+         "Ticket Type": "Round of 16 (49 to 56)",
+         "Cat 1": "245",
+         "Cat 2": "185",
+         "Cat 3": "115",
+         "Cat 4": "35"
+      },
+      {
+         "Ticket Type": "Quarter-finals (57 to 60)",
+         "Cat 1": "365",
+         "Cat 2": "255",
+         "Cat 3": "175",
+         "Cat 4": "60"
+      },
+      {
+         "Ticket Type": "Semi-finals (61 to 62)",
+         "Cat 1": "750",
+         "Cat 2": "480",
+         "Cat 3": "285",
+         "Cat 4": "70"
+      },
+      {
+         "Ticket Type": "3rd/4th place match (63)",
+         "Cat 1": "365",
+         "Cat 2": "255",
+         "Cat 3": "175",
+         "Cat 4": "60"
+      },
+      {
+         "Ticket Type": "Final (64)",
+         "Cat 1": "1100",
+         "Cat 2": "710",
+         "Cat 3": "455",
+         "Cat 4": "110"
+      }
+   ]
+}

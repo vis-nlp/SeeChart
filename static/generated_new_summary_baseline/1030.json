@@ -1,0 +1,65 @@
+{
+   "title": "U.S. states with state cyber bullying laws as of November 2018",
+   "xAxis": "Category Of Cyber Bullying Law",
+   "yAxis": "State totals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Category Of Cyber Bullying Law in the x axis and State totals in the y axis. ",
+      "The State totals is appeared to be the highest at Category Of Cyber Bullying Law School policy and lowest at Category Of Cyber Bullying Law Includes off-campus. ",
+      "There is a difference of 32.0 between the maximum Category Of Cyber Bullying Law School policy and minimum Category Of Cyber Bullying Law Includes off-campus. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows State totals for 5 number of Category Of Cyber Bullying Laws. ",
+      "The State totals is appeared to be the highest at Category Of Cyber Bullying Law School policy and lowest at Category Of Cyber Bullying Law Includes off-campus. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Category Of Cyber Bullying Law in the x axis and State totals in the y axis. ",
+      "The State totals is appeared to be the highest at Category Of Cyber Bullying Law School policy and lowest at Category Of Cyber Bullying Law Includes off-campus. ",
+      "There is a difference of 32.0 between the maximum Category Of Cyber Bullying Law School policy and minimum Category Of Cyber Bullying Law Includes off-campus. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Category Of Cyber Bullying Law in the x axis and State totals in the y axis. ",
+      "The maximum State totals 49.0 is found at Category Of Cyber Bullying Law School policy and the minimum is found at Includes off-campus where State totals is 17.0. ",
+      "Category Of Cyber Bullying Law  has the second highest value for State totals. ",
+      "The difference of State totals between the highest and lowest Category Of Cyber Bullying Law is 32.0. ",
+      "Category Of Cyber Bullying Law School policy is higher than any other Category Of Cyber Bullying Laws with value 49.0, followed by , and School sanction for cyber bullying. Down to Category Of Cyber Bullying Law Includes off-campus with the lowest value 17.0. ",
+      "The Category Of Cyber Bullying Law Includes off-campus tends to be 1.21 percent lower than average. ",
+      "The State totals is 203.0 if we add up values of all Category Of Cyber Bullying Laws. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category Of Cyber Bullying Law": "Includes cyber bullying or online harassment",
+         "State totals": 48.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "Criminal Sanction for cyber bullying or electronic harassment",
+         "State totals": 44.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "School sanction for cyber bullying",
+         "State totals": 45.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "School policy",
+         "State totals": 49.0
+      },
+      {
+         "Category Of Cyber Bullying Law": "Includes off-campus",
+         "State totals": 17.0
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Leading cigarette brands in the United Kingdom ( UK ) 2016 , by sales value",
+   "xAxis": "Brand",
+   "yAxis": "Sales value in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Brand in the x axis and Sales value in million GBP in the y axis. ",
+      "The Sales value in million GBP is appeared to be the highest at Brand Sterling and lowest at Brand Windsor. ",
+      "The highest value at Brand Sterling is 3.27x times more than the lowest value at Windsor. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales value in million GBP in each Brand on the y axis. ",
+      "The maximum Sales value in million GBP 1511.3 is found at Brand Sterling and the minimum is found at Windsor where Sales value in million GBP is 461.9. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Brand in the x axis and Sales value in million GBP in the y axis. ",
+      "The Sales value in million GBP is appeared to be the highest at Brand Sterling and lowest at Brand Windsor. ",
+      "The highest value at Brand Sterling is 3.27x times more than the lowest value at Windsor. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Sales value in million GBP for 10 number of Brands. ",
+      "The Sales value in million GBP is highest at Brand Sterling and lowest at Brand Windsor. ",
+      "Second maximum Sales value in million GBP is found at Brand . ",
+      "The highest Brand Sterling has 1049.4 more Sales value in million GBP than the lowest Brand Windsor. ",
+      "The Brand Sterling has the highest Sales value in million GBP, followed by , and Lambert and Butler. Down to the Brand Windsor which is the lowest. ",
+      "Over the past 10 Brands, the Sales value in million GBP has decreased. ",
+      "The highest value 1511.3 at Sterling is almost 1.95 times larger than the average value 775.37. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Sterling",
+         "Sales value in million GBP": 1511.3
+      },
+      {
+         "Brand": "Mayfair",
+         "Sales value in million GBP": 1046.1
+      },
+      {
+         "Brand": "Lambert and Butler",
+         "Sales value in million GBP": 787.7
+      },
+      {
+         "Brand": "Marlboro",
+         "Sales value in million GBP": 782.2
+      },
+      {
+         "Brand": "Richmond",
+         "Sales value in million GBP": 724.3
+      },
+      {
+         "Brand": "Players",
+         "Sales value in million GBP": 718.9
+      },
+      {
+         "Brand": "John Player Special",
+         "Sales value in million GBP": 677.2
+      },
+      {
+         "Brand": "Carlton",
+         "Sales value in million GBP": 540.6
+      },
+      {
+         "Brand": "Silk Cut",
+         "Sales value in million GBP": 503.5
+      },
+      {
+         "Brand": "Windsor",
+         "Sales value in million GBP": 461.9
+      }
+   ]
+}

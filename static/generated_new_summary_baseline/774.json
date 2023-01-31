@@ -1,0 +1,114 @@
+{
+   "title": "Percentage of U.S. population who are veterans in 2018 , by age and gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Percentage of population and the x axis indicates Year.",
+      "Overall Male is rapidly increasing, Female is roughly constant,  throughout the Year",
+      "Male has increased by 1189.2351274787534 percent.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
+      "Throughout the period, Male generally had the highest Percentage of population relative to others with an average of 20.65, and it reached its maximum at 75_years_and_over with a value of 45.51.",
+      "The botommost line, Female,  has a mean of 1.27, and peaked at 55_to_64_years. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Percentage of population and the x axis indicates Year.",
+      "Overall Male is rapidly increasing, Female is roughly constant,  throughout the Year",
+      "Overall across the Year, Male mostly maintained the highest Percentage of population when compared to others with a mean value of 20.65, and it peaked at 75_years_and_over.",
+      "The botommost line, Female,  has a mean of 1.27, and peaked at 55_to_64_years. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Percentage of population and the x axis indicates Year.",
+      "Overall Male is rapidly increasing, Female is roughly constant,  throughout the Year",
+      "Male has increased by 1189.2351274787534 percent.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
+      "Throughout the period, Male generally had the highest Percentage of population relative to others with an average of 20.65, and it reached its maximum at 75_years_and_over with a value of 45.51.",
+      "The botommost line, Female,  has a mean of 1.27, and peaked at 55_to_64_years. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Percentage of population and the x axis indicates Year.",
+      "Overall Male is rapidly increasing, Female is roughly constant,  throughout the Year",
+      "Male has increased by 1189.2351274787534 percent.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
+      "Throughout the period, Male generally had the highest Percentage of population relative to others with an average of 20.65, and it reached its maximum at 75_years_and_over with a value of 45.51.",
+      "Female mostly had the least Percentage of population with a mean value of 1.27, which peaked at 55_to_64_years with a value of 1.75. ",
+      "The difference of Percentage of population between Male and Female is greater at Year 75_years_and_over compared to the Year 18_to_34_years."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "4",
+            "0"
+         ],
+         "9": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "1"
+         ],
+         "10": [
+            "2",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "18 to 34 years",
+         "Male": "3.53",
+         "Female": "0.77"
+      },
+      {
+         "Year": "35 to 54 years",
+         "Male": "8.57",
+         "Female": "1.54"
+      },
+      {
+         "Year": "55 to 64 years",
+         "Male": "13.73",
+         "Female": "1.75"
+      },
+      {
+         "Year": "65 to 74 years",
+         "Male": "31.89",
+         "Female": "1.22"
+      },
+      {
+         "Year": "75 years and over",
+         "Male": "45.51",
+         "Female": "1.06"
+      }
+   ]
+}

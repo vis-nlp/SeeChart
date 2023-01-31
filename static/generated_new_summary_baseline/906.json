@@ -1,0 +1,133 @@
+{
+   "title": "Red list : threatened species 2019",
+   "xAxis": "Threatened Species",
+   "yAxis": "Number of species",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 22 columns on the x axis representing Threatened Species, and Number of species in each Threatened Species on the y axis. ",
+      "The Number of species is appeared to be the highest at Threatened Species Flowering Plants and lowest at Threatened Species Green Algae. ",
+      "The Number of species of Threatened Species Green Algae is 1493800000000000.0% smaller than the maximum value at Flowering Plants. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Threatened Species in the x axis and Number of species in the y axis. ",
+      "Threatened Species Flowering Plants has the highest Number of species and Green Algae has the lowest Number of species. "
+   ],
+   "mid_summary": [
+      "This bar chart has 22 columns on the x axis representing Threatened Species, and Number of species in each Threatened Species on the y axis. ",
+      "The Number of species is appeared to be the highest at Threatened Species Flowering Plants and lowest at Threatened Species Green Algae. ",
+      "The Number of species of Threatened Species Green Algae is 1493800000000000.0% smaller than the maximum value at Flowering Plants. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of species for 22 number of Threatened Speciess. ",
+      "Threatened Species Flowering Plants has the highest Number of species and Green Algae has the lowest Number of species. ",
+      "The difference of Number of species between the highest and lowest Threatened Species is 14938.0. ",
+      "The Threatened Species Flowering Plants has the highest Number of species, followed by , and Molluscs. Down to the Threatened Species Green Algae which is the lowest. ",
+      "Threatened Species Velvet Worms, and Red Algae share the same value 9.0. ",
+      "The Threatened Species Green Algae tends to be 10.89 percent lower than average. ",
+      "The Number of species is 30178.0 if we add up values of all Threatened Speciess. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 21,
+         "12": 21
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Threatened Species": "Flowering Plants",
+         "Number of species": 14938.0
+      },
+      {
+         "Threatened Species": "Fishes",
+         "Number of species": 2674.0
+      },
+      {
+         "Threatened Species": "Molluscs",
+         "Number of species": 2250.0
+      },
+      {
+         "Threatened Species": "Amphibians",
+         "Number of species": 2200.0
+      },
+      {
+         "Threatened Species": "Insects",
+         "Number of species": 1647.0
+      },
+      {
+         "Threatened Species": "Birds",
+         "Number of species": 1486.0
+      },
+      {
+         "Threatened Species": "Reptiles",
+         "Number of species": 1409.0
+      },
+      {
+         "Threatened Species": "Mammals",
+         "Number of species": 1244.0
+      },
+      {
+         "Threatened Species": "Crustaceans",
+         "Number of species": 733.0
+      },
+      {
+         "Threatened Species": "Gymnosperms",
+         "Number of species": 402.0
+      },
+      {
+         "Threatened Species": "Ferns and Allies",
+         "Number of species": 261.0
+      },
+      {
+         "Threatened Species": "Corals",
+         "Number of species": 237.0
+      },
+      {
+         "Threatened Species": "Arachnids",
+         "Number of species": 197.0
+      },
+      {
+         "Threatened Species": "Mosses",
+         "Number of species": 164.0
+      },
+      {
+         "Threatened Species": "Other invertebrates",
+         "Number of species": 146.0
+      },
+      {
+         "Threatened Species": "Mushrooms",
+         "Number of species": 140.0
+      },
+      {
+         "Threatened Species": "Lichens",
+         "Number of species": 24.0
+      },
+      {
+         "Threatened Species": "Velvet Worms",
+         "Number of species": 9.0
+      },
+      {
+         "Threatened Species": "Red Algae",
+         "Number of species": 9.0
+      },
+      {
+         "Threatened Species": "Brown Algae",
+         "Number of species": 6.0
+      },
+      {
+         "Threatened Species": "Horseshoe Crabs",
+         "Number of species": 2.0
+      },
+      {
+         "Threatened Species": "Green Algae",
+         "Number of species": 0.0
+      }
+   ]
+}

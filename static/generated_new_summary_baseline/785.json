@@ -1,0 +1,137 @@
+{
+   "title": "eBay : gross merchandise volume 2014 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Gross merchandise volume in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 23 columns on the x axis representing Quarter, and Gross merchandise volume in billion U.S. dollars in each Quarter on the y axis. ",
+      "The Gross merchandise volume in billion U.S. dollars is appeared to be the highest at Quarter Q4 '18 and lowest at Quarter Q3 '15. ",
+      "The highest Quarter Q4 '18 has 5.04 more Gross merchandise volume in billion U.S. dollars than the lowest Quarter Q3 '15. "
+   ],
+   "min_summary": [
+      "This bar chart has 23 columns on the x axis representing Quarter, and Gross merchandise volume in billion U.S. dollars in each Quarter on the y axis. ",
+      "The Gross merchandise volume in billion U.S. dollars is appeared to be the highest at Quarter Q4 '18 and lowest at Quarter Q3 '15. "
+   ],
+   "mid_summary": [
+      "This bar chart has 23 columns on the x axis representing Quarter, and Gross merchandise volume in billion U.S. dollars in each Quarter on the y axis. ",
+      "The Gross merchandise volume in billion U.S. dollars is appeared to be the highest at Quarter Q4 '18 and lowest at Quarter Q3 '15. ",
+      "The highest Quarter Q4 '18 has 5.04 more Gross merchandise volume in billion U.S. dollars than the lowest Quarter Q3 '15. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Gross merchandise volume in billion U.S. dollars for 23 number of Quarters. ",
+      "Quarter Q4 '18 has the highest Gross merchandise volume in billion U.S. dollars and Q3 '15 has the lowest Gross merchandise volume in billion U.S. dollars. ",
+      "The highest Quarter Q4 '18 has 5.04 more Gross merchandise volume in billion U.S. dollars than the lowest Quarter Q3 '15. ",
+      "Quarter Q4 '18 is higher than any other Quarters with value 24.64, followed by , and Q2 '18. Down to Quarter Q3 '15 with the lowest value 19.6. ",
+      "The Gross merchandise volume in billion U.S. dollars has decreased over the past 23 Quarters. ",
+      "Considered together, the average Gross merchandise volume in billion U.S. dollars in all 23 Quarters is roughly 21.77. ",
+      "The Gross merchandise volume in billion U.S. dollars is 500.7 if we add up values of all Quarters. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Gross merchandise volume in billion U.S. dollars": 23.3
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Gross merchandise volume in billion U.S. dollars": 21.72
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Gross merchandise volume in billion U.S. dollars": 22.6
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Gross merchandise volume in billion U.S. dollars": 22.59
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Gross merchandise volume in billion U.S. dollars": 24.64
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Gross merchandise volume in billion U.S. dollars": 22.72
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Gross merchandise volume in billion U.S. dollars": 23.63
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Gross merchandise volume in billion U.S. dollars": 23.59
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Gross merchandise volume in billion U.S. dollars": 24.43
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Gross merchandise volume in billion U.S. dollars": 21.68
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Gross merchandise volume in billion U.S. dollars": 21.4
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Gross merchandise volume in billion U.S. dollars": 20.9
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Gross merchandise volume in billion U.S. dollars": 22.28
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Gross merchandise volume in billion U.S. dollars": 20.05
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Gross merchandise volume in billion U.S. dollars": 20.79
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Gross merchandise volume in billion U.S. dollars": 20.45
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Gross merchandise volume in billion U.S. dollars": 21.86
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Gross merchandise volume in billion U.S. dollars": 19.6
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Gross merchandise volume in billion U.S. dollars": 20.06
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Gross merchandise volume in billion U.S. dollars": 20.15
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Gross merchandise volume in billion U.S. dollars": 21.79
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Gross merchandise volume in billion U.S. dollars": 20.03
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Gross merchandise volume in billion U.S. dollars": 20.44
+      }
+   ]
+}

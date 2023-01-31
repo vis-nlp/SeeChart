@@ -1,0 +1,51 @@
+{
+   "title": "Rocket League sales revenue worldwide 2016",
+   "xAxis": "Month",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 2 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
+      "The Revenue in million U.S. dollars is highest at Month June 2016 and lowest at Month December 2015. ",
+      "The highest value at Month June 2016 is 1.57x times more than the lowest value at December 2015. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 2 number of Months. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Month June 2016 and lowest at Month December 2015. "
+   ],
+   "mid_summary": [
+      "This bar chart has 2 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
+      "The Revenue in million U.S. dollars is highest at Month June 2016 and lowest at Month December 2015. ",
+      "The highest value at Month June 2016 is 1.57x times more than the lowest value at December 2015. "
+   ],
+   "max_summary": [
+      "This bar chart has 2 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
+      "Month June 2016 has the highest Revenue in million U.S. dollars and December 2015 has the lowest Revenue in million U.S. dollars. ",
+      "The lowest value at Month December 2015 is 1.57x times less than the highest value at June 2016. ",
+      "The Revenue in million U.S. dollars has declined over the past 2 Months. ",
+      "The Month December 2015 tends to be 1.22 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "June 2016",
+         "Revenue in million U.S. dollars": 110.0
+      },
+      {
+         "Month": "December 2015",
+         "Revenue in million U.S. dollars": 70.0
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Ethnicity distribution of acting winners at the Academy Awards 1928 to 2015",
+   "labels": [
+      "Award",
+      "White",
+      "Other Ethnicities"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 2 different Awards on X-axis for 2 groups White, and Other Ethnicities. On the Y-axis it shows their corresponding Share. ",
+      " For Award Best Actress, White had the highest Share 989.0 among the 2 groups and in Best Actress, Other Ethnicities had the lowest Share 11.0. ",
+      " There is a gap of 57.0 between the highest and lowest Share found for White in Award Best Actress and Best Actor. ",
+      "On average, the Award Best Actor had the highest Share for all 2 groups White, and Other Ethnicities. Whereas Best Actress had the lowest average Share. "
+   ],
+   "xAxis": "Award",
+   "yAxis": "Share",
+   "min_summary": [
+      "This grouped bar chart shows Share on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
+      " For Award Best Actress, White had the highest Share 989.0 among the 2 groups and in Best Actress, Other Ethnicities had the lowest Share 11.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 2 different Awards on X-axis for 2 groups White, and Other Ethnicities. On the Y-axis it shows their corresponding Share. ",
+      " For Award Best Actress, White had the highest Share 989.0 among the 2 groups and in Best Actress, Other Ethnicities had the lowest Share 11.0. ",
+      " There is a gap of 57.0 between the highest and lowest Share found for White in Award Best Actress and Best Actor. ",
+      "On average, the Award Best Actor had the highest Share for all 2 groups White, and Other Ethnicities. Whereas Best Actress had the lowest average Share. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 2 different Awards on X-axis for 2 groups White, and Other Ethnicities. On the Y-axis it shows their corresponding Share. ",
+      " For Award Best Actress, White had the highest Share 989.0 among the 2 groups and in Best Actress, Other Ethnicities had the lowest Share 11.0. ",
+      " For Award Best Actress, White had the maximum Share and it saw the lowest in Award Best Actor out of all 2 Awards. ",
+      " The maximum Share for White that was found in Award Best Actress was 1.06 times larger than the minimum Share observed in Award Best Actor. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share was found in case of White. ",
+      "Averaging all 2 groups White, and Other Ethnicities, the Award Best Actor is the maximum Share and Best Actress is the minimum Share. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Award": "Best Actress",
+         "White": "98.9",
+         "Other Ethnicities": "1.1"
+      },
+      {
+         "Award": "Best Actor",
+         "White": "93.2",
+         "Other Ethnicities": "6.8"
+      }
+   ]
+}

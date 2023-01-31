@@ -1,0 +1,83 @@
+{
+   "title": "Countries with the largest number of cosmetic procedures 2018",
+   "xAxis": "Country",
+   "yAxis": "Number of procedures",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Number of procedures in the y axis. ",
+      "The Number of procedures is highest at Country United States and lowest at Country Thailand. ",
+      "The highest Country United States has 4221744.0 more Number of procedures than the lowest Country Thailand. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
+      "The Number of procedures is highest at Country United States and lowest at Country Thailand. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Number of procedures in the y axis. ",
+      "The Number of procedures is highest at Country United States and lowest at Country Thailand. ",
+      "The highest Country United States has 4221744.0 more Number of procedures than the lowest Country Thailand. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Number of procedures in the y axis. ",
+      "The Number of procedures is highest at Country United States and lowest at Country Thailand. ",
+      "The difference of Number of procedures between the highest and lowest Country is 4221744.0. ",
+      "The Country United States has the highest Number of procedures, followed by , and Mexico. Down to the Country Thailand which is the lowest. ",
+      "The highest value 4361867.0 at United States is almost 3.73 times larger than the average value 1170519.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Number of procedures": 4361867.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of procedures": 2267405.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of procedures": 1043247.0
+      },
+      {
+         "Country": "Germany",
+         "Number of procedures": 922056.0
+      },
+      {
+         "Country": "India",
+         "Number of procedures": 895896.0
+      },
+      {
+         "Country": "Italy",
+         "Number of procedures": 854208.0
+      },
+      {
+         "Country": "Argentina",
+         "Number of procedures": 608960.0
+      },
+      {
+         "Country": "Colombia",
+         "Number of procedures": 408789.0
+      },
+      {
+         "Country": "Australia",
+         "Number of procedures": 202642.0
+      },
+      {
+         "Country": "Thailand",
+         "Number of procedures": 140123.0
+      }
+   ]
+}

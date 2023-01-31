@@ -1,0 +1,83 @@
+{
+   "title": "Leading airlines worldwide - based on total number of passengers 2018",
+   "xAxis": "Airlines",
+   "yAxis": "Number of passengers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of passengers in millions for 10 number of Airliness. ",
+      "The maximum Number of passengers in millions 203.7 is found at Airlines American and the minimum is found at Air China where Number of passengers in millions is 110.0. ",
+      "The highest Airlines American has 93.7 more Number of passengers in millions than the lowest Airlines Air China. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Airlines, and Number of passengers in millions in each Airlines on the y axis. ",
+      "The maximum Number of passengers in millions 203.7 is found at Airlines American and the minimum is found at Air China where Number of passengers in millions is 110.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of passengers in millions for 10 number of Airliness. ",
+      "The maximum Number of passengers in millions 203.7 is found at Airlines American and the minimum is found at Air China where Number of passengers in millions is 110.0. ",
+      "The highest Airlines American has 93.7 more Number of passengers in millions than the lowest Airlines Air China. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Airlines in the x axis and Number of passengers in millions in the y axis. ",
+      "The Number of passengers in millions is appeared to be the highest at Airlines American and lowest at Airlines Air China. ",
+      "The difference of Number of passengers in millions between the highest and lowest Airlines is 93.7. ",
+      "Airlines American is higher than any other Airliness with value 203.7, followed by , and Southwest. Down to Airlines Air China with the lowest value 110.0. ",
+      "The highest value 203.7 at American is almost 1.37 times larger than the average value 148.8. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Airlines": "American",
+         "Number of passengers in millions": 203.7
+      },
+      {
+         "Airlines": "Delta",
+         "Number of passengers in millions": 192.5
+      },
+      {
+         "Airlines": "Southwest",
+         "Number of passengers in millions": 163.6
+      },
+      {
+         "Airlines": "United Continental",
+         "Number of passengers in millions": 158.3
+      },
+      {
+         "Airlines": "Lufthansa",
+         "Number of passengers in millions": 142.3
+      },
+      {
+         "Airlines": "Ryanair",
+         "Number of passengers in millions": 142.1
+      },
+      {
+         "Airlines": "China Southern",
+         "Number of passengers in millions": 140.0
+      },
+      {
+         "Airlines": "China Eastern",
+         "Number of passengers in millions": 122.5
+      },
+      {
+         "Airlines": "IAG",
+         "Number of passengers in millions": 113.0
+      },
+      {
+         "Airlines": "Air China",
+         "Number of passengers in millions": 110.0
+      }
+   ]
+}

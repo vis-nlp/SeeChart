@@ -1,0 +1,126 @@
+{
+   "title": "Children participating in cricket in England 2010 to 2018",
+   "labels": [
+      "Year",
+      "5-10 years",
+      "11-15 years"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing 5-10 years, and 11-15 years. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall 5-10 years, and 11-15 years are gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 11-15 years, and lastly, 2. 5-10 years. ",
+      "Overall across the Year, 11-15 years mostly maintained the highest Share of respondents when compared to others with a mean value of 17.7, and it peaked at 2012.",
+      "5-10 years mostly had the least Share of respondents with a mean value of 5.46, which peaked at 2011 with a value of 6.9. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing 5-10 years, and 11-15 years. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall 5-10 years, and 11-15 years are gradually decreasing,  throughout the Year",
+      "Throughout the period, 11-15 years generally had the highest Share of respondents relative to others with an average of 17.7, and it reached its maximum at 2012 with a value of 22.5.",
+      "5-10 years mostly had the least Share of respondents with a mean value of 5.46, which peaked at 2011 with a value of 6.9. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing 5-10 years, and 11-15 years. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall 5-10 years, and 11-15 years are gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 11-15 years, and lastly, 2. 5-10 years. ",
+      "Overall across the Year, 11-15 years mostly maintained the highest Share of respondents when compared to others with a mean value of 17.7, and it peaked at 2012.",
+      "5-10 years mostly had the least Share of respondents with a mean value of 5.46, which peaked at 2011 with a value of 6.9. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting 5-10 years, and 11-15 years. The y axis indicates the Share of respondents and the x axis indicates Year.",
+      "Overall 5-10 years, and 11-15 years are gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 11-15 years, and lastly, 2. 5-10 years. ",
+      "Throughout the period, 11-15 years generally had the highest Share of respondents relative to others with an average of 17.7, and it reached its maximum at 2012 with a value of 22.5.",
+      "5-10 years mostly had the least Share of respondents with a mean value of 5.46, which peaked at 2011 with a value of 6.9. ",
+      "The greatest difference of Share of respondents between 5-10 years and 11-15 years occurs at Year 2012 and the smallest difference occurs at 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "9": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "0"
+         ],
+         "10": [
+            "6",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "5-10 years": "5.3",
+         "11-15 years": "12.6"
+      },
+      {
+         "Year": "2016",
+         "5-10 years": "5.2",
+         "11-15 years": "13.4"
+      },
+      {
+         "Year": "2015",
+         "5-10 years": "4",
+         "11-15 years": "18.8"
+      },
+      {
+         "Year": "2014",
+         "5-10 years": "4.6",
+         "11-15 years": "18.1"
+      },
+      {
+         "Year": "2013",
+         "5-10 years": "6.4",
+         "11-15 years": "21.3"
+      },
+      {
+         "Year": "2012",
+         "5-10 years": "4.7",
+         "11-15 years": "22.5"
+      },
+      {
+         "Year": "2011",
+         "5-10 years": "6.9",
+         "11-15 years": "17.6"
+      },
+      {
+         "Year": "2010",
+         "5-10 years": "6.6",
+         "11-15 years": "17.3"
+      }
+   ]
+}

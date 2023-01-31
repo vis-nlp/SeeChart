@@ -1,0 +1,97 @@
+{
+   "title": "Medium term forecast for global fertilizer demand by nutrient to 2023",
+   "labels": [
+      "Year",
+      "Urea (CH4N2O)",
+      "Phosphorus pentoxide (P2O5)",
+      "Potassium oxide (K2O)"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Urea (CH4N2O), Phosphorus pentoxide (P2O5), and Potassium oxide (K2O). The y axis indicates the Demand in million metric tons and the x axis indicates Year.",
+      "Overall Urea (CH4N2O), Phosphorus pentoxide (P2O5), and Potassium oxide (K2O) are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Urea (CH4N2O), 2. Phosphorus pentoxide (P2O5), and lastly, 3. Potassium oxide (K2O). ",
+      "Overall across the Year, Urea (CH4N2O) mostly maintained the highest Demand in million metric tons when compared to others with a mean value of 184.0, and it peaked at 2023.",
+      "Followed by Phosphorus pentoxide (P2O5) which ranks as the second topmpost line , with an average of 63.9 Demand in million metric tons,reaching its highest point  at 2023 with a value of 63.9. ",
+      "The botommost line, Potassium oxide (K2O),  has a mean of 45.7, and peaked at 2023. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Demand in million metric tons",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely Urea (CH4N2O), Phosphorus pentoxide (P2O5), and Potassium oxide (K2O). The y axis represents Demand in million metric tons and the x axis represents Year.",
+      "Overall Urea (CH4N2O), Phosphorus pentoxide (P2O5), and Potassium oxide (K2O) are roughly constant,  throughout the Year",
+      "Throughout the period, Urea (CH4N2O) generally had the highest Demand in million metric tons relative to others with an average of 184.0, and it reached its maximum at 2023 with a value of 184.0.",
+      "Followed by Phosphorus pentoxide (P2O5) which ranks as the second topmpost line , with an average of 63.9 Demand in million metric tons,reaching its highest point  at 2023 with a value of 63.9. ",
+      "The botommost line, Potassium oxide (K2O),  has a mean of 45.7, and peaked at 2023. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Urea (CH4N2O), Phosphorus pentoxide (P2O5), and Potassium oxide (K2O). The y axis indicates the Demand in million metric tons and the x axis indicates Year.",
+      "Overall Urea (CH4N2O), Phosphorus pentoxide (P2O5), and Potassium oxide (K2O) are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Urea (CH4N2O), 2. Phosphorus pentoxide (P2O5), and lastly, 3. Potassium oxide (K2O). ",
+      "Overall across the Year, Urea (CH4N2O) mostly maintained the highest Demand in million metric tons when compared to others with a mean value of 184.0, and it peaked at 2023.",
+      "Followed by Phosphorus pentoxide (P2O5) which ranks as the second topmpost line , with an average of 63.9 Demand in million metric tons,reaching its highest point  at 2023 with a value of 63.9. ",
+      "The botommost line, Potassium oxide (K2O),  has a mean of 45.7, and peaked at 2023. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 3 lines namely Urea (CH4N2O), Phosphorus pentoxide (P2O5), and Potassium oxide (K2O). The y axis represents Demand in million metric tons and the x axis represents Year.",
+      "Overall Urea (CH4N2O), Phosphorus pentoxide (P2O5), and Potassium oxide (K2O) are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Demand in million metric tons in descending order is: 1. Urea (CH4N2O), 2. Phosphorus pentoxide (P2O5), and lastly, 3. Potassium oxide (K2O). ",
+      "Overall across the Year, Urea (CH4N2O) mostly maintained the highest Demand in million metric tons when compared to others with a mean value of 184.0, and it peaked at 2023.",
+      "After Urea (CH4N2O), Phosphorus pentoxide (P2O5) overall has the second highest values , with a mean value of 63.9, peaking at 2023. ",
+      "The botommost line, Potassium oxide (K2O),  has a mean of 45.7, and peaked at 2023. ",
+      "The minimum Demand in million metric tons about 45.7, occured at 2023 by Potassium oxide (K2O)."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Urea (CH4N2O)": "184",
+         "Phosphorus pentoxide (P2O5)": "63.9",
+         "Potassium oxide (K2O)": "45.7"
+      }
+   ]
+}

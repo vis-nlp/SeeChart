@@ -1,0 +1,82 @@
+{
+   "title": "Number of eSports games players worldwide 2017",
+   "xAxis": "Sport",
+   "yAxis": "Number of players in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Sport in the x axis and Number of players in millions in the y axis. ",
+      "The Number of players in millions is appeared to be the highest at Sport League of Legends and lowest at Sport StarCraft II. ",
+      "The highest Sport League of Legends has 97.6 more Number of players in millions than the lowest Sport StarCraft II. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Sport, and Number of players in millions in each Sport on the y axis. ",
+      "The Number of players in millions is highest at Sport League of Legends and lowest at Sport StarCraft II. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Sport in the x axis and Number of players in millions in the y axis. ",
+      "The Number of players in millions is appeared to be the highest at Sport League of Legends and lowest at Sport StarCraft II. ",
+      "The highest Sport League of Legends has 97.6 more Number of players in millions than the lowest Sport StarCraft II. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of players in millions for 9 number of Sports. ",
+      "Sport League of Legends has the highest Number of players in millions and StarCraft II has the lowest Number of players in millions. ",
+      "Sport  has the second highest value for Number of players in millions. ",
+      "There is a difference of 97.6 between the maximum Sport League of Legends and minimum Sport StarCraft II. ",
+      "The Sport League of Legends has the highest Number of players in millions, followed by , and Hearthstone. Down to the Sport StarCraft II which is the lowest. ",
+      "Sport World of Tanks, and FIFA 17 share the same value 12.3. ",
+      "The Sport StarCraft II has 4.28 times less Number of players in millions than average. ",
+      "Summing up the values of all Sports, we get total 210.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sport": "League of Legends",
+         "Number of players in millions": 100.0
+      },
+      {
+         "Sport": "Call of Duty",
+         "Number of players in millions": 28.1
+      },
+      {
+         "Sport": "Hearthstone",
+         "Number of players in millions": 23.9
+      },
+      {
+         "Sport": "DOTA 2",
+         "Number of players in millions": 12.6
+      },
+      {
+         "Sport": "World of Tanks",
+         "Number of players in millions": 12.3
+      },
+      {
+         "Sport": "FIFA 17",
+         "Number of players in millions": 12.3
+      },
+      {
+         "Sport": "Counter-Strike: Global Offensive",
+         "Number of players in millions": 11.9
+      },
+      {
+         "Sport": "PlayerUnknown's Battlegrounds",
+         "Number of players in millions": 6.8
+      },
+      {
+         "Sport": "StarCraft II",
+         "Number of players in millions": 2.4
+      }
+   ]
+}

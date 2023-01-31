@@ -1,0 +1,77 @@
+{
+   "title": "Migration balance in Belgium 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Migration balance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Migration balance. In total the number of data points it has is 9.",
+      " In general Migration balance has fallen over the Year.",
+      "Migration balance is gradually decreasing from 2010 to 2013, slightly increasing from 2013 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly roughly increasing from 2017 to 2018.",
+      "The steepest decrease occurs in between the Year 2011 and 2012.",
+      "The highest Migration balance, of value 79446.0 was reached at Year 2010",
+      "Minimum Migration balance about 34843.0 was reached at Year 2013"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Migration balance, containing a total of 9 data points.",
+      " In general Migration balance has fallen over the Year.",
+      "Migration balance is gradually decreasing from 2010 to 2013, slightly increasing from 2013 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly roughly increasing from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Migration balance. In total the number of data points it has is 9.",
+      " In general Migration balance has fallen over the Year.",
+      "Migration balance is gradually decreasing from 2010 to 2013, slightly increasing from 2013 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly roughly increasing from 2017 to 2018.",
+      "The steepest decrease occurs in between the Year 2011 and 2012.",
+      "The highest Migration balance, of value 79446.0 was reached at Year 2010",
+      "Minimum Migration balance about 34843.0 was reached at Year 2013"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Migration balance, containing a total of 9 data points.",
+      " Overall Migration balance has decreased over the Year.",
+      "Migration balance is gradually decreasing from 2010 to 2013, slightly increasing from 2013 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly roughly increasing from 2017 to 2018.",
+      "The most drastic decrease took place within the Year 2011 and 2012.",
+      "The highest Migration balance, of value 79446.0 was reached at Year 2010",
+      "Minimum Migration balance about 34843.0 was reached at Year 2013",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Migration balance": 50180.0
+      },
+      {
+         "Year": "2017",
+         "Migration balance": 44536.0
+      },
+      {
+         "Year": "2016",
+         "Migration balance": 42239.0
+      },
+      {
+         "Year": "2015",
+         "Migration balance": 47682.0
+      },
+      {
+         "Year": "2014",
+         "Migration balance": 39954.0
+      },
+      {
+         "Year": "2013",
+         "Migration balance": 34843.0
+      },
+      {
+         "Year": "2012",
+         "Migration balance": 44365.0
+      },
+      {
+         "Year": "2011",
+         "Migration balance": 62157.0
+      },
+      {
+         "Year": "2010",
+         "Migration balance": 79446.0
+      }
+   ]
+}

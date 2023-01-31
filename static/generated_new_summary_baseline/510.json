@@ -1,0 +1,77 @@
+{
+   "title": "Leading industries targeted by DDoS attack traffic 2017",
+   "xAxis": "Industry",
+   "yAxis": "Percentage of attack traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Percentage of attack traffic for 8 number of Industrys. ",
+      "The maximum Percentage of attack traffic 79.0 is found at Industry Gaming and the minimum is found at Media and entertainment where Percentage of attack traffic is 1.0. ",
+      "There is a difference of 78.0 between the maximum Industry Gaming and minimum Industry Media and entertainment. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Industry in the x axis and Percentage of attack traffic in the y axis. ",
+      "Industry Gaming has the highest Percentage of attack traffic and Media and entertainment has the lowest Percentage of attack traffic. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Percentage of attack traffic for 8 number of Industrys. ",
+      "The maximum Percentage of attack traffic 79.0 is found at Industry Gaming and the minimum is found at Media and entertainment where Percentage of attack traffic is 1.0. ",
+      "There is a difference of 78.0 between the maximum Industry Gaming and minimum Industry Media and entertainment. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Percentage of attack traffic for 8 number of Industrys. ",
+      "The Percentage of attack traffic is highest at Industry Gaming and lowest at Industry Media and entertainment. ",
+      "The highest Industry Gaming has 78.0 more Percentage of attack traffic than the lowest Industry Media and entertainment. ",
+      "Industry Gaming is higher than any other Industrys with value 79.0, followed by , and Software and technology. Down to Industry Media and entertainment with the lowest value 1.0. ",
+      "Industry Financial services, and Software and technology have a similar Percentage of attack traffic that is 4.0. ",
+      "The lowest value 1.0 at Media and entertainment is almost 6.26 times smaller than the average value 12.62. ",
+      "Summing up the values of all Industrys, we get total 101.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Gaming",
+         "Percentage of attack traffic": 79.0
+      },
+      {
+         "Industry": "Internet and telecom",
+         "Percentage of attack traffic": 6.0
+      },
+      {
+         "Industry": "Financial services",
+         "Percentage of attack traffic": 4.0
+      },
+      {
+         "Industry": "Software and technology",
+         "Percentage of attack traffic": 4.0
+      },
+      {
+         "Industry": "Education",
+         "Percentage of attack traffic": 3.0
+      },
+      {
+         "Industry": "Retail and consumer goods",
+         "Percentage of attack traffic": 3.0
+      },
+      {
+         "Industry": "Media and entertainment",
+         "Percentage of attack traffic": 1.0
+      },
+      {
+         "Industry": "Other",
+         "Percentage of attack traffic": 1.0
+      }
+   ]
+}

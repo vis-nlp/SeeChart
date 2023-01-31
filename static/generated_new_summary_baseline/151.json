@@ -1,0 +1,85 @@
+{
+   "title": "Number of visitors to Grand Teton National Park in the U.S. 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of visitors in millions. In total the number of data points it has is 12.",
+      " In general Number of visitors in millions has rose over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Number of visitors in millions, about 3.49 was reported at Year 2018",
+      "Minimum Number of visitors in millions about 2.49 was reached at Year 2008"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of visitors in millions. In total the number of data points it has is 12.",
+      " Overall Number of visitors in millions has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of visitors in millions. In total the number of data points it has is 12.",
+      " In general Number of visitors in millions has rose over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Number of visitors in millions, about 3.49 was reported at Year 2018",
+      "Minimum Number of visitors in millions about 2.49 was reached at Year 2008"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of visitors in millions. In total the number of data points it has is 12.",
+      " Overall Number of visitors in millions has increased over the Year.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Number of visitors in millions, about 3.49 was reported at Year 2018",
+      "Minimum Number of visitors in millions about 2.49 was reached at Year 2008",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": 3.41
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": 3.49
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": 3.32
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": 3.27
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": 3.15
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": 2.79
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": 2.69
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": 2.71
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": 2.59
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": 2.67
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": 2.58
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": 2.49
+      }
+   ]
+}

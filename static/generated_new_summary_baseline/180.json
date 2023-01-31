@@ -1,0 +1,83 @@
+{
+   "title": "Desktop/laptop ownership among U.S. adults 2008 to 2019",
+   "xAxis": "Month",
+   "yAxis": "Share of U.S. adults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of U.S. adults for 9 number of Months. ",
+      "The Share of U.S. adults is highest at Month November 2016 and lowest at Month January 2018. ",
+      "The difference of Share of U.S. adults between the highest and lowest Month is 5.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Month, and Share of U.S. adults in each Month on the y axis. ",
+      "Month November 2016 has the highest Share of U.S. adults and January 2018 has the lowest Share of U.S. adults. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of U.S. adults for 9 number of Months. ",
+      "The Share of U.S. adults is highest at Month November 2016 and lowest at Month January 2018. ",
+      "The difference of Share of U.S. adults between the highest and lowest Month is 5.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 9 columns on the x axis representing Month, and Share of U.S. adults in each Month on the y axis. ",
+      "The Share of U.S. adults is highest at Month November 2016 and lowest at Month January 2018. ",
+      "The second highest Share of U.S. adults is appeared to be the Month . ",
+      "The highest Month November 2016 has 5.0 more Share of U.S. adults than the lowest Month January 2018. ",
+      "The Month November 2016 has the highest Share of U.S. adults, followed by , and June 2010. Down to the Month January 2018 which is the lowest. ",
+      "The Share of U.S. adults has remained stable over the past 9 Months. ",
+      "Month February 2019, April 2016, and January 2008 share the same value 74.0. ",
+      "The lowest value 73.0 at January 2018 is almost 1.04 times smaller than the average value 75.22. ",
+      "The Share of U.S. adults is 677.0 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "February 2019",
+         "Share of U.S. adults": 74.0
+      },
+      {
+         "Month": "January 2018",
+         "Share of U.S. adults": 73.0
+      },
+      {
+         "Month": "November 2016",
+         "Share of U.S. adults": 78.0
+      },
+      {
+         "Month": "April 2016",
+         "Share of U.S. adults": 74.0
+      },
+      {
+         "Month": "April 2015",
+         "Share of U.S. adults": 73.0
+      },
+      {
+         "Month": "January 2012",
+         "Share of U.S. adults": 78.0
+      },
+      {
+         "Month": "December 2011",
+         "Share of U.S. adults": 75.0
+      },
+      {
+         "Month": "June 2010",
+         "Share of U.S. adults": 78.0
+      },
+      {
+         "Month": "January 2008",
+         "Share of U.S. adults": 74.0
+      }
+   ]
+}

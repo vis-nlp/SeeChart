@@ -1,0 +1,65 @@
+{
+   "title": "Total assets of Royal Bank of Canada 2014 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Total assets in billion Canadian dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Total assets in billion Canadian dollars, containing a total of 6 data points.",
+      " In general Total assets in billion Canadian dollars has rose over the Year.",
+      "Total assets in billion Canadian dollars is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Total assets in billion Canadian dollars, about 1428.94 was reported at Year 2019",
+      "Minimum Total assets in billion Canadian dollars about 940.55 was reached at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Total assets in billion Canadian dollars. In total the number of data points it has is 6.",
+      " Overall Total assets in billion Canadian dollars has increased over the Year.",
+      "Total assets in billion Canadian dollars is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Total assets in billion Canadian dollars, containing a total of 6 data points.",
+      " In general Total assets in billion Canadian dollars has rose over the Year.",
+      "Total assets in billion Canadian dollars is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Total assets in billion Canadian dollars, about 1428.94 was reported at Year 2019",
+      "Minimum Total assets in billion Canadian dollars about 940.55 was reached at Year 2014"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Total assets in billion Canadian dollars. In total the number of data points it has is 6.",
+      " In general Total assets in billion Canadian dollars has rose over the Year.",
+      "Total assets in billion Canadian dollars is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Total assets in billion Canadian dollars, about 1428.94 was reported at Year 2019",
+      "Minimum Total assets in billion Canadian dollars about 940.55 was reached at Year 2014",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Total assets in billion Canadian dollars": 1428.94
+      },
+      {
+         "Year": "2018",
+         "Total assets in billion Canadian dollars": 1334.73
+      },
+      {
+         "Year": "2017",
+         "Total assets in billion Canadian dollars": 1212.85
+      },
+      {
+         "Year": "2016",
+         "Total assets in billion Canadian dollars": 1180.26
+      },
+      {
+         "Year": "2015",
+         "Total assets in billion Canadian dollars": 1074.21
+      },
+      {
+         "Year": "2014",
+         "Total assets in billion Canadian dollars": 940.55
+      }
+   ]
+}

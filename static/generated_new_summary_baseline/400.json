@@ -1,0 +1,85 @@
+{
+   "title": "National debt of Nigeria in relation to gross domestic product ( GDP ) 2024 ",
+   "xAxis": "Year",
+   "yAxis": "National debt in relation to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in relation to GDP, containing a total of 11 data points.",
+      " In general National debt in relation to GDP has rose over the Year.",
+      "National debt in relation to GDP is slightly increasing from 2014 to 2019, and finally roughly constant from 2019 to 2024.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum National debt in relation to GDP, about 35.98 was reported at Year 2024",
+      "The lowest National debt in relation to GDP, of value 17.54 was reported at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes National debt in relation to GDP. In total the number of data points it has is 11.",
+      " Overall National debt in relation to GDP has increased over the Year.",
+      "National debt in relation to GDP is slightly increasing from 2014 to 2019, and finally roughly constant from 2019 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in relation to GDP, containing a total of 11 data points.",
+      " In general National debt in relation to GDP has rose over the Year.",
+      "National debt in relation to GDP is slightly increasing from 2014 to 2019, and finally roughly constant from 2019 to 2024.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum National debt in relation to GDP, about 35.98 was reported at Year 2024",
+      "The lowest National debt in relation to GDP, of value 17.54 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing National debt in relation to GDP, containing a total of 11 data points.",
+      " In general National debt in relation to GDP has rose over the Year.",
+      "National debt in relation to GDP is slightly increasing from 2014 to 2019, and finally roughly constant from 2019 to 2024.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum National debt in relation to GDP, about 35.98 was reported at Year 2024",
+      "The lowest National debt in relation to GDP, of value 17.54 was reported at Year 2014",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "National debt in relation to GDP": 35.98
+      },
+      {
+         "Year": "2023",
+         "National debt in relation to GDP": 35.06
+      },
+      {
+         "Year": "2022",
+         "National debt in relation to GDP": 33.88
+      },
+      {
+         "Year": "2021",
+         "National debt in relation to GDP": 32.64
+      },
+      {
+         "Year": "2020",
+         "National debt in relation to GDP": 31.35
+      },
+      {
+         "Year": "2019",
+         "National debt in relation to GDP": 29.78
+      },
+      {
+         "Year": "2018",
+         "National debt in relation to GDP": 27.26
+      },
+      {
+         "Year": "2017",
+         "National debt in relation to GDP": 25.34
+      },
+      {
+         "Year": "2016",
+         "National debt in relation to GDP": 23.41
+      },
+      {
+         "Year": "2015",
+         "National debt in relation to GDP": 20.33
+      },
+      {
+         "Year": "2014",
+         "National debt in relation to GDP": 17.54
+      }
+   ]
+}

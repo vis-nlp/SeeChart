@@ -1,0 +1,77 @@
+{
+   "title": "Number of registered voters in the United States 1996 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of registered voters in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of registered voters in millions. In total the number of data points it has is 9.",
+      " In general Number of registered voters in millions has rose over the Year.",
+      "Number of registered voters in millions is roughly constant from 1996 to 2000, slightly increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2010 and 2012.",
+      "Maximum Number of registered voters in millions, about 157.6 was reported at Year 2016",
+      "The lowest Number of registered voters in millions, of value 127.66 was reported at Year 1996"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of registered voters in millions. In total the number of data points it has is 9.",
+      " Overall Number of registered voters in millions has increased over the Year.",
+      "Number of registered voters in millions is roughly constant from 1996 to 2000, slightly increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2016, and lastly roughly constant from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of registered voters in millions. In total the number of data points it has is 9.",
+      " In general Number of registered voters in millions has rose over the Year.",
+      "Number of registered voters in millions is roughly constant from 1996 to 2000, slightly increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2010 and 2012.",
+      "Maximum Number of registered voters in millions, about 157.6 was reported at Year 2016",
+      "The lowest Number of registered voters in millions, of value 127.66 was reported at Year 1996"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of registered voters in millions. In total the number of data points it has is 9.",
+      " Overall Number of registered voters in millions has increased over the Year.",
+      "Number of registered voters in millions is roughly constant from 1996 to 2000, slightly increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The steepest increase occurs in between the Year 2010 and 2012.",
+      "Maximum Number of registered voters in millions, about 157.6 was reported at Year 2016",
+      "The lowest Number of registered voters in millions, of value 127.66 was reported at Year 1996",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of registered voters in millions": 153.07
+      },
+      {
+         "Year": "2016",
+         "Number of registered voters in millions": 157.6
+      },
+      {
+         "Year": "2014",
+         "Number of registered voters in millions": 142.17
+      },
+      {
+         "Year": "2012",
+         "Number of registered voters in millions": 153.16
+      },
+      {
+         "Year": "2010",
+         "Number of registered voters in millions": 137.26
+      },
+      {
+         "Year": "2008",
+         "Number of registered voters in millions": 146.31
+      },
+      {
+         "Year": "2004",
+         "Number of registered voters in millions": 142.07
+      },
+      {
+         "Year": "2000",
+         "Number of registered voters in millions": 129.55
+      },
+      {
+         "Year": "1996",
+         "Number of registered voters in millions": 127.66
+      }
+   ]
+}

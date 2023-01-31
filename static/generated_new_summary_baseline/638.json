@@ -1,0 +1,71 @@
+{
+   "title": "Global pork exports 2020 , by country",
+   "xAxis": "Country",
+   "yAxis": "Export volume in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Export volume in thousand metric tons in the y axis. ",
+      "The maximum Export volume in thousand metric tons 3900.0 is found at Country EU and the minimum is found at China where Export volume in thousand metric tons is 100.0. ",
+      "The Export volume in thousand metric tons of Country China is 39.0% smaller than the maximum value at EU. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Export volume in thousand metric tons for 7 number of Countrys. ",
+      "The Export volume in thousand metric tons is appeared to be the highest at Country EU and lowest at Country China. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Export volume in thousand metric tons in the y axis. ",
+      "The maximum Export volume in thousand metric tons 3900.0 is found at Country EU and the minimum is found at China where Export volume in thousand metric tons is 100.0. ",
+      "The Export volume in thousand metric tons of Country China is 39.0% smaller than the maximum value at EU. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Export volume in thousand metric tons in the y axis. ",
+      "The Export volume in thousand metric tons is highest at Country EU and lowest at Country China. ",
+      "The highest Country EU has 3800.0 more Export volume in thousand metric tons than the lowest Country China. ",
+      "Country EU is higher than any other Countrys with value 3900.0, followed by , and Canada. Down to Country China with the lowest value 100.0. ",
+      "Considered together, the average Export volume in thousand metric tons in all 7 Countrys is roughly 1478.14. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "EU",
+         "Export volume in thousand metric tons": 3900.0
+      },
+      {
+         "Country": "United States",
+         "Export volume in thousand metric tons": 3221.0
+      },
+      {
+         "Country": "Canada",
+         "Export volume in thousand metric tons": 1400.0
+      },
+      {
+         "Country": "Brazil",
+         "Export volume in thousand metric tons": 1000.0
+      },
+      {
+         "Country": "Mexico",
+         "Export volume in thousand metric tons": 250.0
+      },
+      {
+         "Country": "China",
+         "Export volume in thousand metric tons": 100.0
+      },
+      {
+         "Country": "Others",
+         "Export volume in thousand metric tons": 476.0
+      }
+   ]
+}

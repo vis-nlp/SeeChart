@@ -1,0 +1,89 @@
+{
+   "title": "Global rum market : leading brands based on sales volume 2018",
+   "xAxis": "Alcohol ",
+   "yAxis": "Million 9 liter cases",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 columns on the x axis representing Alcohol , and Million 9 liter cases in each Alcohol  on the y axis. ",
+      "The Million 9 liter cases is appeared to be the highest at Alcohol  Tanduay and lowest at Alcohol  Montilla. ",
+      "The highest Alcohol  Tanduay has 19.1 more Million 9 liter cases than the lowest Alcohol  Montilla. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Million 9 liter cases for 11 number of Alcohol s. ",
+      "The maximum Million 9 liter cases 20.1 is found at Alcohol  Tanduay and the minimum is found at Montilla where Million 9 liter cases is 1.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 11 columns on the x axis representing Alcohol , and Million 9 liter cases in each Alcohol  on the y axis. ",
+      "The Million 9 liter cases is appeared to be the highest at Alcohol  Tanduay and lowest at Alcohol  Montilla. ",
+      "The highest Alcohol  Tanduay has 19.1 more Million 9 liter cases than the lowest Alcohol  Montilla. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Million 9 liter cases for 11 number of Alcohol s. ",
+      "The maximum Million 9 liter cases 20.1 is found at Alcohol  Tanduay and the minimum is found at Montilla where Million 9 liter cases is 1.0. ",
+      "The Million 9 liter cases of Alcohol  Montilla is 20.1% smaller than the maximum value at Tanduay. ",
+      "Million 9 liter cases at Alcohol  Tanduay is 20.1 , second place is  at 20.1, and thirdly is Captain Morgan at 11.7.",
+      "Alcohol  Montilla, and Negrita have a similar Million 9 liter cases that is 1.0. ",
+      "Considered together, the average Million 9 liter cases in all 11 Alcohol s is roughly 6.64. ",
+      "The Million 9 liter cases is 73.0 if we add up values of all Alcohol s. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Alcohol ": "Tanduay",
+         "Million 9 liter cases": 20.1
+      },
+      {
+         "Alcohol ": "Bacardi",
+         "Million 9 liter cases": 17.1
+      },
+      {
+         "Alcohol ": "Captain Morgan",
+         "Million 9 liter cases": 11.7
+      },
+      {
+         "Alcohol ": "McDowell's No. 1 Celebration",
+         "Million 9 liter cases": 11.2
+      },
+      {
+         "Alcohol ": "Havana Club",
+         "Million 9 liter cases": 4.6
+      },
+      {
+         "Alcohol ": "Barcel\u00f3",
+         "Million 9 liter cases": 2.2
+      },
+      {
+         "Alcohol ": "Bozkov",
+         "Million 9 liter cases": 1.7
+      },
+      {
+         "Alcohol ": "Old Port",
+         "Million 9 liter cases": 1.3
+      },
+      {
+         "Alcohol ": "Appleton Estate",
+         "Million 9 liter cases": 1.1
+      },
+      {
+         "Alcohol ": "Montilla",
+         "Million 9 liter cases": 1.0
+      },
+      {
+         "Alcohol ": "Negrita",
+         "Million 9 liter cases": 1.0
+      }
+   ]
+}

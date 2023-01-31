@@ -1,0 +1,77 @@
+{
+   "title": "Premier League total broadcasting payments to clubs 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Broadcasting payments in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Broadcasting payments in million GBP, containing a total of 9 data points.",
+      " Overall Broadcasting payments in million GBP has increased over the Year.",
+      "Broadcasting payments in million GBP is roughly constant from 2010/11 to 2012/13, gradually increasing from 2012/13 to 2013/14, roughly constant from 2013/14 to 2015/16, gradually increasing from 2015/16 to 2016/17, and finally roughly constant from 2016/17 to 2018/19.",
+      "The most drastic increase took place within the Year 2015/16 and 2016/17.",
+      "The highest Broadcasting payments in million GBP, of value 2456.01 was reached at Year 2018/19",
+      "Minimum Broadcasting payments in million GBP about 953.0 was reached at Year 2010/11"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Broadcasting payments in million GBP. In total the number of data points it has is 9.",
+      " In general Broadcasting payments in million GBP has rose over the Year.",
+      "Broadcasting payments in million GBP is roughly constant from 2010/11 to 2012/13, gradually increasing from 2012/13 to 2013/14, roughly constant from 2013/14 to 2015/16, gradually increasing from 2015/16 to 2016/17, and finally roughly constant from 2016/17 to 2018/19."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Broadcasting payments in million GBP, containing a total of 9 data points.",
+      " Overall Broadcasting payments in million GBP has increased over the Year.",
+      "Broadcasting payments in million GBP is roughly constant from 2010/11 to 2012/13, gradually increasing from 2012/13 to 2013/14, roughly constant from 2013/14 to 2015/16, gradually increasing from 2015/16 to 2016/17, and finally roughly constant from 2016/17 to 2018/19.",
+      "The most drastic increase took place within the Year 2015/16 and 2016/17.",
+      "The highest Broadcasting payments in million GBP, of value 2456.01 was reached at Year 2018/19",
+      "Minimum Broadcasting payments in million GBP about 953.0 was reached at Year 2010/11"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Broadcasting payments in million GBP, containing a total of 9 data points.",
+      " Overall Broadcasting payments in million GBP has increased over the Year.",
+      "Broadcasting payments in million GBP is roughly constant from 2010/11 to 2012/13, gradually increasing from 2012/13 to 2013/14, roughly constant from 2013/14 to 2015/16, gradually increasing from 2015/16 to 2016/17, and finally roughly constant from 2016/17 to 2018/19.",
+      "The most drastic increase took place within the Year 2015/16 and 2016/17.",
+      "The highest Broadcasting payments in million GBP, of value 2456.01 was reached at Year 2018/19",
+      "Minimum Broadcasting payments in million GBP about 953.0 was reached at Year 2010/11",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Broadcasting payments in million GBP": 2456.01
+      },
+      {
+         "Year": "2017/18",
+         "Broadcasting payments in million GBP": 2419.6
+      },
+      {
+         "Year": "2016/17",
+         "Broadcasting payments in million GBP": 2398.5
+      },
+      {
+         "Year": "2015/16",
+         "Broadcasting payments in million GBP": 1633.9
+      },
+      {
+         "Year": "2014/15",
+         "Broadcasting payments in million GBP": 1605.3
+      },
+      {
+         "Year": "2013/14",
+         "Broadcasting payments in million GBP": 1563.0
+      },
+      {
+         "Year": "2012/13",
+         "Broadcasting payments in million GBP": 1061.0
+      },
+      {
+         "Year": "2011/12",
+         "Broadcasting payments in million GBP": 1055.0
+      },
+      {
+         "Year": "2010/11",
+         "Broadcasting payments in million GBP": 953.0
+      }
+   ]
+}

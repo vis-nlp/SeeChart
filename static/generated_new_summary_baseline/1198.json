@@ -1,0 +1,93 @@
+{
+   "title": "Edmonton Oilers ' revenue 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 14 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2012/13 and 2013/14.",
+      "The highest Revenue in million U.S. dollars, of value 154.0 was reached at Year 2018/19",
+      "The lowest Revenue in million U.S. dollars, of value 71.0 was reported at Year 2006/07"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 14.",
+      " Overall Revenue in million U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 14 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2012/13 and 2013/14.",
+      "The highest Revenue in million U.S. dollars, of value 154.0 was reached at Year 2018/19",
+      "The lowest Revenue in million U.S. dollars, of value 71.0 was reported at Year 2006/07"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 14.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2012/13 and 2013/14.",
+      "The highest Revenue in million U.S. dollars, of value 154.0 was reached at Year 2018/19",
+      "The lowest Revenue in million U.S. dollars, of value 71.0 was reported at Year 2006/07",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 154.0
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 145.0
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 151.0
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 117.0
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 119.0
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": 119.0
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": 80.0
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": 106.0
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": 96.0
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": 87.0
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": 83.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": 85.0
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": 71.0
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": 75.0
+      }
+   ]
+}

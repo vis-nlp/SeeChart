@@ -1,0 +1,158 @@
+{
+   "title": "Alphabet : number of full-time employees 2016 , by department",
+   "labels": [
+      "Year",
+      "Research and development",
+      "Sales and marketing",
+      "General and administrative",
+      "Operations"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 4 lines namely Research and development, Sales and marketing, General and administrative, and Operations. The y axis represents Number of employees and the x axis represents Year.",
+      "Overall Research and development is rapidly increasing, Sales and marketing, General and administrative, and Operations are gradually increasing,  throughout the Year",
+      "Research and development has increased by 3.7 times.",
+      "The lines ordered according to average values of Number of employees in descending order is: 1. Research and development, 2. Sales and marketing, 3. Operations, and lastly, 4. General and administrative. ",
+      "Throughout the period, Research and development generally had the highest Number of employees relative to others with an average of 16171.78, and it reached its maximum at 2016 with a value of 27169.0.",
+      "Followed by Sales and marketing which ranks as the second topmpost line , with an average of 13812.2 Number of employees,reaching its highest point  at 2016 with a value of 20902.0. ",
+      "The botommost line, General and administrative,  has a mean of 5831.22, and peaked at 2016. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 4 lines denoting Research and development, Sales and marketing, General and administrative, and Operations. The y axis indicates the Number of employees and the x axis indicates Year.",
+      "Overall Research and development is rapidly increasing, Sales and marketing, General and administrative, and Operations are gradually increasing,  throughout the Year",
+      "Overall across the Year, Research and development mostly maintained the highest Number of employees when compared to others with a mean value of 16171.78, and it peaked at 2016.",
+      "Followed by Sales and marketing which ranks as the second topmpost line , with an average of 13812.2 Number of employees,reaching its highest point  at 2016 with a value of 20902.0. ",
+      "General and administrative mostly had the least Number of employees with a mean value of 5831.22, which peaked at 2016 with a value of 9695.0. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 4 lines namely Research and development, Sales and marketing, General and administrative, and Operations. The y axis represents Number of employees and the x axis represents Year.",
+      "Overall Research and development is rapidly increasing, Sales and marketing, General and administrative, and Operations are gradually increasing,  throughout the Year",
+      "Research and development has increased by 3.7 times.",
+      "The lines ordered according to average values of Number of employees in descending order is: 1. Research and development, 2. Sales and marketing, 3. Operations, and lastly, 4. General and administrative. ",
+      "Throughout the period, Research and development generally had the highest Number of employees relative to others with an average of 16171.78, and it reached its maximum at 2016 with a value of 27169.0.",
+      "Followed by Sales and marketing which ranks as the second topmpost line , with an average of 13812.2 Number of employees,reaching its highest point  at 2016 with a value of 20902.0. ",
+      "The botommost line, General and administrative,  has a mean of 5831.22, and peaked at 2016. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 4 lines namely Research and development, Sales and marketing, General and administrative, and Operations. The y axis represents Number of employees and the x axis represents Year.",
+      "Overall Research and development is rapidly increasing, Sales and marketing, General and administrative, and Operations are gradually increasing,  throughout the Year",
+      "Research and development has increased by 3.7 times.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Research and development, 2. Sales and marketing, 3. Operations, and lastly, 4. General and administrative. ",
+      "Throughout the period, Research and development generally had the highest Number of employees relative to others with an average of 16171.78, and it reached its maximum at 2016 with a value of 27169.0.",
+      "Followed by Sales and marketing which ranks as the second topmpost line , with an average of 13812.2 Number of employees,reaching its highest point  at 2016 with a value of 20902.0. ",
+      "The botommost line, General and administrative,  has a mean of 5831.22, and peaked at 2016. ",
+      "The minimum Number of employees about 1857.0, occured at 2008 by Operations."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "8",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "8",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Research and development": "27169",
+         "Sales and marketing": "20902",
+         "General and administrative": "9695",
+         "Operations": "14287"
+      },
+      {
+         "Year": "2015",
+         "Research and development": "23336",
+         "Sales and marketing": "19082",
+         "General and administrative": "8452",
+         "Operations": "10944"
+      },
+      {
+         "Year": "2014",
+         "Research and development": "20832",
+         "Sales and marketing": "17621",
+         "General and administrative": "7510",
+         "Operations": "7637"
+      },
+      {
+         "Year": "2013",
+         "Research and development": "18593",
+         "Sales and marketing": "15348",
+         "General and administrative": "6563",
+         "Operations": "7252"
+      },
+      {
+         "Year": "2012",
+         "Research and development": "19746",
+         "Sales and marketing": "15306",
+         "General and administrative": "6214",
+         "Operations": "12595"
+      },
+      {
+         "Year": "2011",
+         "Research and development": "11665",
+         "Sales and marketing": "11933",
+         "General and administrative": "4651",
+         "Operations": "4218"
+      },
+      {
+         "Year": "2010",
+         "Research and development": "9508",
+         "Sales and marketing": "8778",
+         "General and administrative": "3346",
+         "Operations": "2768"
+      },
+      {
+         "Year": "2009",
+         "Research and development": "7443",
+         "Sales and marketing": "7338",
+         "General and administrative": "2941",
+         "Operations": "2113"
+      },
+      {
+         "Year": "2008",
+         "Research and development": "7254",
+         "Sales and marketing": "8002",
+         "General and administrative": "3109",
+         "Operations": "1857"
+      }
+   ]
+}

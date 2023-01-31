@@ -1,0 +1,144 @@
+{
+   "title": "European football clubs average attendance 2013/14",
+   "xAxis": "Club Name",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 25 columns on the x axis representing Club Name, and Average attendance in each Club Name on the y axis. ",
+      "The maximum Average attendance 80295.0 is found at Club Name Boussia Dortmund and the minimum is found at Rangers FC where Average attendance is 42935.0. ",
+      "The maximum Club Name Boussia Dortmund has got 1.87 times higher Average attendance than the minimum Club Name Rangers FC. "
+   ],
+   "min_summary": [
+      "This bar chart has 25 columns on the x axis representing Club Name, and Average attendance in each Club Name on the y axis. ",
+      "Club Name Boussia Dortmund has the highest Average attendance and Rangers FC has the lowest Average attendance. "
+   ],
+   "mid_summary": [
+      "This bar chart has 25 columns on the x axis representing Club Name, and Average attendance in each Club Name on the y axis. ",
+      "The maximum Average attendance 80295.0 is found at Club Name Boussia Dortmund and the minimum is found at Rangers FC where Average attendance is 42935.0. ",
+      "The maximum Club Name Boussia Dortmund has got 1.87 times higher Average attendance than the minimum Club Name Rangers FC. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Club Name in the x axis and Average attendance in the y axis. ",
+      "The maximum Average attendance 80295.0 is found at Club Name Boussia Dortmund and the minimum is found at Rangers FC where Average attendance is 42935.0. ",
+      "The difference of Average attendance between the highest and lowest Club Name is 37360.0. ",
+      "Average attendance at Club Name Boussia Dortmund is 80295.0 , second place is  at 80295.0, and thirdly is Barcelona at 72115.0.",
+      "Club Name FC Internazionale, and Atletico Madrid have a similar Average attendance that is 46245.0. ",
+      "Considered together, the average Average attendance in all 25 Club Names is roughly 53895.8. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 24,
+         "12": 24
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Club Name": "Boussia Dortmund",
+         "Average attendance": 80295.0
+      },
+      {
+         "Club Name": "Manchester United",
+         "Average attendance": 75205.0
+      },
+      {
+         "Club Name": "Barcelona",
+         "Average attendance": 72115.0
+      },
+      {
+         "Club Name": "Real Madrid",
+         "Average attendance": 71565.0
+      },
+      {
+         "Club Name": "Bayern Munich",
+         "Average attendance": 71000.0
+      },
+      {
+         "Club Name": "Schalke 04",
+         "Average attendance": 61750.0
+      },
+      {
+         "Club Name": "Arsenal",
+         "Average attendance": 60015.0
+      },
+      {
+         "Club Name": "Borussia M\u00f6nchengladbach",
+         "Average attendance": 52240.0
+      },
+      {
+         "Club Name": "Hertha BSC",
+         "Average attendance": 51890.0
+      },
+      {
+         "Club Name": "Hamburger SV",
+         "Average attendance": 51825.0
+      },
+      {
+         "Club Name": "Ajax Amsterdam",
+         "Average attendance": 50905.0
+      },
+      {
+         "Club Name": "VfB Stuttgart",
+         "Average attendance": 50500.0
+      },
+      {
+         "Club Name": "Newcastle United",
+         "Average attendance": 50395.0
+      },
+      {
+         "Club Name": "Manchester City",
+         "Average attendance": 47075.0
+      },
+      {
+         "Club Name": "Eintracht Frankfurt",
+         "Average attendance": 47055.0
+      },
+      {
+         "Club Name": "Celtic FC",
+         "Average attendance": 46810.0
+      },
+      {
+         "Club Name": "FC Internazionale",
+         "Average attendance": 46245.0
+      },
+      {
+         "Club Name": "Atletico Madrid",
+         "Average attendance": 46245.0
+      },
+      {
+         "Club Name": "FC K\u00f6ln",
+         "Average attendance": 46235.0
+      },
+      {
+         "Club Name": "Feyenoord",
+         "Average attendance": 45755.0
+      },
+      {
+         "Club Name": "Hannover 96",
+         "Average attendance": 45635.0
+      },
+      {
+         "Club Name": "Paris Saint Germain",
+         "Average attendance": 45420.0
+      },
+      {
+         "Club Name": "Liverpool",
+         "Average attendance": 44670.0
+      },
+      {
+         "Club Name": "SL Benfica",
+         "Average attendance": 43615.0
+      },
+      {
+         "Club Name": "Rangers FC",
+         "Average attendance": 42935.0
+      }
+   ]
+}

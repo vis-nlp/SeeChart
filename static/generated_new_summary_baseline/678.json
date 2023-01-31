@@ -1,0 +1,65 @@
+{
+   "title": "Annual median salary in financial , insurance and real estate services in the UK 2019",
+   "xAxis": "Service In Uk",
+   "yAxis": "Median annual salary in GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 columns on the x axis representing Service In Uk, and Median annual salary in GBP in each Service In Uk on the y axis. ",
+      "The Median annual salary in GBP is appeared to be the highest at Service In Uk Financial services activities and lowest at Service In Uk Real estate. ",
+      "The highest Service In Uk Financial services activities has 16142.0 more Median annual salary in GBP than the lowest Service In Uk Real estate. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Service In Uk, and Median annual salary in GBP in each Service In Uk on the y axis. ",
+      "The Median annual salary in GBP is highest at Service In Uk Financial services activities and lowest at Service In Uk Real estate. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Service In Uk, and Median annual salary in GBP in each Service In Uk on the y axis. ",
+      "The Median annual salary in GBP is appeared to be the highest at Service In Uk Financial services activities and lowest at Service In Uk Real estate. ",
+      "The highest Service In Uk Financial services activities has 16142.0 more Median annual salary in GBP than the lowest Service In Uk Real estate. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Service In Uk, and Median annual salary in GBP in each Service In Uk on the y axis. ",
+      "Service In Uk Financial services activities has the highest Median annual salary in GBP and Real estate has the lowest Median annual salary in GBP. ",
+      "Second maximum Median annual salary in GBP is found at Service In Uk . ",
+      "Service In Uk Real estate has 1.62 times less Median annual salary in GBP than Service In Uk Financial services activities which is the highest. ",
+      "Median annual salary in GBP at Service In Uk Financial services activities is 42066.0 , second place is  at 42066.0, and thirdly is Activities auxiliary to financial at 36973.0.",
+      "Considered together, the average Median annual salary in GBP in all 5 Service In Uks is roughly 35541.2. ",
+      "Summing up the values of all Service In Uks, we get total 177706.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Service In Uk": "Financial services activities",
+         "Median annual salary in GBP": 42066.0
+      },
+      {
+         "Service In Uk": "Financial & insurance average all categories",
+         "Median annual salary in GBP": 38921.0
+      },
+      {
+         "Service In Uk": "Insurance reinsurance pension funding",
+         "Median annual salary in GBP": 33822.0
+      },
+      {
+         "Service In Uk": "Activities auxiliary to financial",
+         "Median annual salary in GBP": 36973.0
+      },
+      {
+         "Service In Uk": "Real estate",
+         "Median annual salary in GBP": 25924.0
+      }
+   ]
+}

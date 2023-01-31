@@ -1,0 +1,84 @@
+{
+   "title": "Quarterly average daily rate of hotels in New York 2016 to 2017",
+   "labels": [
+      "Quarter",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 4 different Quarters on X-axis for 2 groups 2016, and 2017. On the Y-axis it shows their corresponding Average daily rate in USD. ",
+      " Over the 4 Quarters, the Average daily rate in USD for 2017 have been climbed whereas reduced for 2016. ",
+      " Out of all 2 groups, 2016 had the highest Average daily rate in USD for Quarter Q4 and 2017 had the lowest Average daily rate in USD for Quarter Q4. ",
+      " The maximum Average daily rate in USD for 2017 that was found in Quarter Q1 was 0 times larger than the minimum Average daily rate in USD observed in Quarter Q4. "
+   ],
+   "xAxis": "Quarter",
+   "yAxis": "Average daily rate in USD",
+   "min_summary": [
+      "This grouped bar chart represents 4 different Quarters on X-axis for 2 groups 2016, and 2017. On the Y-axis it shows their corresponding Average daily rate in USD. ",
+      " Over the 4 Quarters, the Average daily rate in USD for 2017 have been climbed whereas reduced for 2016. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 4 different Quarters on X-axis for 2 groups 2016, and 2017. On the Y-axis it shows their corresponding Average daily rate in USD. ",
+      " Over the 4 Quarters, the Average daily rate in USD for 2017 have been climbed whereas reduced for 2016. ",
+      " Out of all 2 groups, 2016 had the highest Average daily rate in USD for Quarter Q4 and 2017 had the lowest Average daily rate in USD for Quarter Q4. ",
+      " The maximum Average daily rate in USD for 2017 that was found in Quarter Q1 was 0 times larger than the minimum Average daily rate in USD observed in Quarter Q4. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Quarters on X-axis for 2 groups 2016, and 2017. On the Y-axis it shows their corresponding Average daily rate in USD. ",
+      " Over the 4 Quarters, the Average daily rate in USD for 2017 have been climbed whereas reduced for 2016. ",
+      " Quarter Q4 had the maximum Average daily rate in USD among all 2 groups, and it was for 2016. The minimum Average daily rate in USD was observed in Quarter Q4 for 2017. ",
+      " For Quarter Q1, 2017 had the maximum Average daily rate in USD and it saw the lowest in Quarter Q4 out of all 4 Quarters. ",
+      " The maximum Average daily rate in USD for 2017 that was found in Quarter Q1 was 0 times larger than the minimum Average daily rate in USD observed in Quarter Q4. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Average daily rate in USD was found in case of 2016. ",
+      "Averaging all 2 groups 2016, and 2017, the Quarter Q1 is the maximum Average daily rate in USD and Q3 is the minimum Average daily rate in USD. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "2",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4",
+         "2016": "389",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q3",
+         "2016": "350",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q2",
+         "2016": "351",
+         "2017": "0"
+      },
+      {
+         "Quarter": "Q1",
+         "2016": "260",
+         "2017": "257"
+      }
+   ]
+}

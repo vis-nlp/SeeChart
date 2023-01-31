@@ -1,0 +1,128 @@
+{
+   "title": "Champions and finalists of UEFA EURO championship 1960 to 2016",
+   "labels": [
+      "Country",
+      "Winner",
+      "Runner-up"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Number of titles/final appearances on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      " For Country Spain, Winner had the highest Number of titles/final appearances 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest Number of titles/final appearances 0.0. ",
+      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest Number of titles/final appearances found for Runner-up. ",
+      "Averaging all 2 groups Winner, and Runner-up, the Country Germany is the maximum Number of titles/final appearances and Czechoslovakia is the minimum Number of titles/final appearances. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Number of titles/final appearances",
+   "min_summary": [
+      "This grouped bar chart shows Number of titles/final appearances on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      " Out of all 2 groups, Winner had the highest Number of titles/final appearances for Country Spain and Winner had the lowest Number of titles/final appearances for Country Yugoslavia. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of titles/final appearances on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      " For Country Spain, Winner had the highest Number of titles/final appearances 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest Number of titles/final appearances 0.0. ",
+      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest Number of titles/final appearances found for Runner-up. ",
+      "Averaging all 2 groups Winner, and Runner-up, the Country Germany is the maximum Number of titles/final appearances and Czechoslovakia is the minimum Number of titles/final appearances. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Number of titles/final appearances on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      " Out of all 2 groups, Winner had the highest Number of titles/final appearances for Country Spain and Winner had the lowest Number of titles/final appearances for Country Yugoslavia. ",
+      " Among all the Countrys, Runner-up had the highest Number of titles/final appearances in Country USSR and lowest Number of titles/final appearances in Country Czechoslovakia. ",
+      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest Number of titles/final appearances found for Runner-up. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Number of titles/final appearances was found in case of Winner. ",
+      "Averaging all 2 groups Winner, and Runner-up, the Country Germany is the maximum Number of titles/final appearances and Czechoslovakia is the minimum Number of titles/final appearances. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "2",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Winner": "3",
+         "Runner-up": "3"
+      },
+      {
+         "Country": "Spain",
+         "Winner": "3",
+         "Runner-up": "1"
+      },
+      {
+         "Country": "France",
+         "Winner": "2",
+         "Runner-up": "1"
+      },
+      {
+         "Country": "USSR",
+         "Winner": "1",
+         "Runner-up": "3"
+      },
+      {
+         "Country": "Italy",
+         "Winner": "1",
+         "Runner-up": "2"
+      },
+      {
+         "Country": "Portugal",
+         "Winner": "1",
+         "Runner-up": "1"
+      },
+      {
+         "Country": "Czechoslovakia",
+         "Winner": "1",
+         "Runner-up": "0"
+      },
+      {
+         "Country": "Greece",
+         "Winner": "1",
+         "Runner-up": "0"
+      },
+      {
+         "Country": "Netherlands",
+         "Winner": "1",
+         "Runner-up": "0"
+      },
+      {
+         "Country": "Denmark",
+         "Winner": "1",
+         "Runner-up": "0"
+      },
+      {
+         "Country": "Yugoslavia",
+         "Winner": "0",
+         "Runner-up": "2"
+      },
+      {
+         "Country": "Belgium",
+         "Winner": "0",
+         "Runner-up": "1"
+      },
+      {
+         "Country": "Czech Republic",
+         "Winner": "0",
+         "Runner-up": "1"
+      }
+   ]
+}

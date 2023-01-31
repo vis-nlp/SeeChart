@@ -1,0 +1,77 @@
+{
+   "title": "India : number of internet users 2015 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Number of internet users in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of internet users in millions. In total the number of data points it has is 9.",
+      " Overall Number of internet users in millions has increased over the Year.",
+      "Number of internet users in millions is slightly increasing from 2015 to 2018, and lastly roughly constant from 2018 to 2023.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum Number of internet users in millions, about 666.4 was reported at Year 2023",
+      "The lowest Number of internet users in millions, of value 259.88 was reported at Year 2015"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of internet users in millions, containing a total of 9 data points.",
+      " In general Number of internet users in millions has rose over the Year.",
+      "Number of internet users in millions is slightly increasing from 2015 to 2018, and lastly roughly constant from 2018 to 2023."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of internet users in millions. In total the number of data points it has is 9.",
+      " Overall Number of internet users in millions has increased over the Year.",
+      "Number of internet users in millions is slightly increasing from 2015 to 2018, and lastly roughly constant from 2018 to 2023.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum Number of internet users in millions, about 666.4 was reported at Year 2023",
+      "The lowest Number of internet users in millions, of value 259.88 was reported at Year 2015"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of internet users in millions, containing a total of 9 data points.",
+      " Overall Number of internet users in millions has increased over the Year.",
+      "Number of internet users in millions is slightly increasing from 2015 to 2018, and lastly roughly constant from 2018 to 2023.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum Number of internet users in millions, about 666.4 was reported at Year 2023",
+      "The lowest Number of internet users in millions, of value 259.88 was reported at Year 2015",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2023",
+         "Number of internet users in millions": 666.4
+      },
+      {
+         "Year": "2022",
+         "Number of internet users in millions": 634.9
+      },
+      {
+         "Year": "2021",
+         "Number of internet users in millions": 601.0
+      },
+      {
+         "Year": "2020",
+         "Number of internet users in millions": 564.5
+      },
+      {
+         "Year": "2019",
+         "Number of internet users in millions": 525.3
+      },
+      {
+         "Year": "2018",
+         "Number of internet users in millions": 483.0
+      },
+      {
+         "Year": "2017",
+         "Number of internet users in millions": 437.4
+      },
+      {
+         "Year": "2016",
+         "Number of internet users in millions": 295.39
+      },
+      {
+         "Year": "2015",
+         "Number of internet users in millions": 259.88
+      }
+   ]
+}

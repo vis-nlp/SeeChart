@@ -1,0 +1,84 @@
+{
+   "title": "Symbol groups ranked by number of convenience stores in the United Kingdom ( UK ) 2014",
+   "xAxis": "Symbol Groups",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of stores for 10 number of Symbol Groupss. ",
+      "The Number of stores is highest at Symbol Groups Premier and lowest at Symbol Groups McColl's. ",
+      "The highest value at Symbol Groups Premier is 4.1x times more than the lowest value at McColl's. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of stores for 10 number of Symbol Groupss. ",
+      "The maximum Number of stores 2950.0 is found at Symbol Groups Premier and the minimum is found at McColl's where Number of stores is 719.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of stores for 10 number of Symbol Groupss. ",
+      "The Number of stores is highest at Symbol Groups Premier and lowest at Symbol Groups McColl's. ",
+      "The highest value at Symbol Groups Premier is 4.1x times more than the lowest value at McColl's. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Symbol Groups, and Number of stores in each Symbol Groups on the y axis. ",
+      "The Number of stores is highest at Symbol Groups Premier and lowest at Symbol Groups McColl's. ",
+      "The difference of Number of stores between the highest and lowest Symbol Groups is 2231.0. ",
+      "The Symbol Groups Premier has the highest Number of stores, followed by , and Costcutter. Down to the Symbol Groups McColl's which is the lowest. ",
+      "Considered together, the average Number of stores in all 10 Symbol Groupss is roughly 1967.6. ",
+      "Summing up the values of all Symbol Groupss, we get total 19676.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Symbol Groups": "Premier",
+         "Number of stores": 2950.0
+      },
+      {
+         "Symbol Groups": "Best-one",
+         "Number of stores": 2904.0
+      },
+      {
+         "Symbol Groups": "Costcutter",
+         "Number of stores": 2547.0
+      },
+      {
+         "Symbol Groups": "Spar",
+         "Number of stores": 2312.0
+      },
+      {
+         "Symbol Groups": "Londis",
+         "Number of stores": 2018.0
+      },
+      {
+         "Symbol Groups": "Lifestyle express",
+         "Number of stores": 1976.0
+      },
+      {
+         "Symbol Groups": "The Co-operative",
+         "Number of stores": 1785.0
+      },
+      {
+         "Symbol Groups": "Tesco Express",
+         "Number of stores": 1463.0
+      },
+      {
+         "Symbol Groups": "Nisa",
+         "Number of stores": 1002.0
+      },
+      {
+         "Symbol Groups": "McColl's",
+         "Number of stores": 719.0
+      }
+   ]
+}

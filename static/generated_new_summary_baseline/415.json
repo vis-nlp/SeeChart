@@ -1,0 +1,125 @@
+{
+   "title": "Gross domestic product of the Arab world in 2018",
+   "xAxis": "Country",
+   "yAxis": "GDP in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and GDP in billion U.S. dollars in the y axis. ",
+      "The GDP in billion U.S. dollars is highest at Country Saudi Arabia and lowest at Country Comoros. ",
+      "The difference of GDP in billion U.S. dollars between the highest and lowest Country is 785.34. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and GDP in billion U.S. dollars in the y axis. ",
+      "The maximum GDP in billion U.S. dollars 786.52 is found at Country Saudi Arabia and the minimum is found at Comoros where GDP in billion U.S. dollars is 1.18. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and GDP in billion U.S. dollars in the y axis. ",
+      "The GDP in billion U.S. dollars is highest at Country Saudi Arabia and lowest at Country Comoros. ",
+      "The difference of GDP in billion U.S. dollars between the highest and lowest Country is 785.34. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and GDP in billion U.S. dollars in the y axis. ",
+      "The GDP in billion U.S. dollars is highest at Country Saudi Arabia and lowest at Country Comoros. ",
+      "The second highest GDP in billion U.S. dollars is appeared to be the Country . ",
+      "The difference of GDP in billion U.S. dollars between the highest and lowest Country is 785.34. ",
+      "Country Saudi Arabia is higher than any other Countrys with value 786.52, followed by , and Egypt. Down to Country Comoros with the lowest value 1.18. ",
+      "The average GDP in billion U.S. dollars in all 20 Countrys is 133.61. ",
+      "The GDP in billion U.S. dollars is 2672.26 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Saudi Arabia",
+         "GDP in billion U.S. dollars": 786.52
+      },
+      {
+         "Country": "United Arab Emirates ",
+         "GDP in billion U.S. dollars": 414.18
+      },
+      {
+         "Country": "Egypt",
+         "GDP in billion U.S. dollars": 249.56
+      },
+      {
+         "Country": "Iraq ",
+         "GDP in billion U.S. dollars": 224.23
+      },
+      {
+         "Country": "Qatar",
+         "GDP in billion U.S. dollars": 191.36
+      },
+      {
+         "Country": "Algeria",
+         "GDP in billion U.S. dollars": 173.76
+      },
+      {
+         "Country": "Kuwait ",
+         "GDP in billion U.S. dollars": 141.65
+      },
+      {
+         "Country": "Morocco",
+         "GDP in billion U.S. dollars": 118.53
+      },
+      {
+         "Country": "Oman",
+         "GDP in billion U.S. dollars": 79.28
+      },
+      {
+         "Country": "Lebanon ",
+         "GDP in billion U.S. dollars": 56.37
+      },
+      {
+         "Country": "Jordan",
+         "GDP in billion U.S. dollars": 42.29
+      },
+      {
+         "Country": "Libya ",
+         "GDP in billion U.S. dollars": 40.95
+      },
+      {
+         "Country": "Tunisia ",
+         "GDP in billion U.S. dollars": 39.9
+      },
+      {
+         "Country": "Bahrain",
+         "GDP in billion U.S. dollars": 37.75
+      },
+      {
+         "Country": "Sudan ",
+         "GDP in billion U.S. dollars": 34.28
+      },
+      {
+         "Country": "Yemen",
+         "GDP in billion U.S. dollars": 27.59
+      },
+      {
+         "Country": "Mauritania ",
+         "GDP in billion U.S. dollars": 5.24
+      },
+      {
+         "Country": "Somalia",
+         "GDP in billion U.S. dollars": 4.72
+      },
+      {
+         "Country": "Djibouti",
+         "GDP in billion U.S. dollars": 2.92
+      },
+      {
+         "Country": "Comoros",
+         "GDP in billion U.S. dollars": 1.18
+      }
+   ]
+}

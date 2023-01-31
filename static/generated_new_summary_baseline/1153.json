@@ -1,0 +1,147 @@
+{
+   "title": "Digital and print advertising revenue of U.S. newspapers 2003 to 2014",
+   "labels": [
+      "Year",
+      "Print",
+      "Digital"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Print, and Digital. The y axis indicates the Revenue in billion U.S. dollars and the x axis indicates Year.",
+      "Overall Print is gradually decreasing, Digital is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Print, and lastly, 2. Digital. ",
+      "Throughout the period, Print generally had the highest Revenue in billion U.S. dollars relative to others with an average of 31.96, and it reached its maximum at 2005 with a value of 47.41.",
+      "The botommost line, Digital,  has a mean of 2.75, and peaked at 2014. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Print, and Digital. The y axis indicates the Revenue in billion U.S. dollars and the x axis indicates Year.",
+      "Overall Print is gradually decreasing, Digital is roughly constant,  throughout the Year",
+      "Throughout the period, Print generally had the highest Revenue in billion U.S. dollars relative to others with an average of 31.96, and it reached its maximum at 2005 with a value of 47.41.",
+      "The botommost line, Digital,  has a mean of 2.75, and peaked at 2014. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Print, and Digital. The y axis indicates the Revenue in billion U.S. dollars and the x axis indicates Year.",
+      "Overall Print is gradually decreasing, Digital is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Print, and lastly, 2. Digital. ",
+      "Throughout the period, Print generally had the highest Revenue in billion U.S. dollars relative to others with an average of 31.96, and it reached its maximum at 2005 with a value of 47.41.",
+      "The botommost line, Digital,  has a mean of 2.75, and peaked at 2014. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Print, and Digital. The y axis represents Revenue in billion U.S. dollars and the x axis represents Year.",
+      "Overall Print is gradually decreasing, Digital is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Print, and lastly, 2. Digital. ",
+      "Overall across the Year, Print mostly maintained the highest Revenue in billion U.S. dollars when compared to others with a mean value of 31.96, and it peaked at 2005.",
+      "The botommost line, Digital,  has a mean of 2.75, and peaked at 2014. ",
+      "The minimum Revenue in billion U.S. dollars about 1.22, occured at 2003 by Digital.",
+      "The difference of Revenue in billion U.S. dollars between Print and Digital is smaller at Year 2014 compared to the Year 2003."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "11",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "9": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "11",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "11",
+            "1"
+         ],
+         "10": [
+            "11",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2003",
+         "Print": "44.94",
+         "Digital": "1.22"
+      },
+      {
+         "Year": "2004",
+         "Print": "46.7",
+         "Digital": "1.54"
+      },
+      {
+         "Year": "2005",
+         "Print": "47.41",
+         "Digital": "2.03"
+      },
+      {
+         "Year": "2006",
+         "Print": "46.61",
+         "Digital": "2.66"
+      },
+      {
+         "Year": "2007",
+         "Print": "42.21",
+         "Digital": "3.17"
+      },
+      {
+         "Year": "2008",
+         "Print": "34.74",
+         "Digital": "3.11"
+      },
+      {
+         "Year": "2009",
+         "Print": "24.82",
+         "Digital": "2.74"
+      },
+      {
+         "Year": "2010",
+         "Print": "22.8",
+         "Digital": "3.04"
+      },
+      {
+         "Year": "2011",
+         "Print": "20.69",
+         "Digital": "3.25"
+      },
+      {
+         "Year": "2012",
+         "Print": "18.9",
+         "Digital": "3.34"
+      },
+      {
+         "Year": "2013",
+         "Print": "17.3",
+         "Digital": "3.42"
+      },
+      {
+         "Year": "2014",
+         "Print": "16.4",
+         "Digital": "3.5"
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Malaysia maternal mortality ratio 2011 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Maternal mortality ratio per hundred thousand live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Maternal mortality ratio per hundred thousand live births, containing a total of 8 data points.",
+      " In general Maternal mortality ratio per hundred thousand live births has fallen over the Year.",
+      "Maternal mortality ratio per hundred thousand live births is slightly decreasing from 2011 to 2012, roughly constant from 2012 to 2014, gradually increasing from 2014 to 2016, slightly decreasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum Maternal mortality ratio per hundred thousand live births, about 29.1 was reported at Year 2016",
+      "The lowest Maternal mortality ratio per hundred thousand live births, of value 21.4 was reported at Year 2013"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Maternal mortality ratio per hundred thousand live births. In total the number of data points it has is 8.",
+      " In general Maternal mortality ratio per hundred thousand live births has fallen over the Year.",
+      "Maternal mortality ratio per hundred thousand live births is slightly decreasing from 2011 to 2012, roughly constant from 2012 to 2014, gradually increasing from 2014 to 2016, slightly decreasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Maternal mortality ratio per hundred thousand live births, containing a total of 8 data points.",
+      " In general Maternal mortality ratio per hundred thousand live births has fallen over the Year.",
+      "Maternal mortality ratio per hundred thousand live births is slightly decreasing from 2011 to 2012, roughly constant from 2012 to 2014, gradually increasing from 2014 to 2016, slightly decreasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum Maternal mortality ratio per hundred thousand live births, about 29.1 was reported at Year 2016",
+      "The lowest Maternal mortality ratio per hundred thousand live births, of value 21.4 was reported at Year 2013"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Maternal mortality ratio per hundred thousand live births, containing a total of 8 data points.",
+      " In general Maternal mortality ratio per hundred thousand live births has fallen over the Year.",
+      "Maternal mortality ratio per hundred thousand live births is slightly decreasing from 2011 to 2012, roughly constant from 2012 to 2014, gradually increasing from 2014 to 2016, slightly decreasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum Maternal mortality ratio per hundred thousand live births, about 29.1 was reported at Year 2016",
+      "The lowest Maternal mortality ratio per hundred thousand live births, of value 21.4 was reported at Year 2013",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Maternal mortality ratio per hundred thousand live births": 23.5
+      },
+      {
+         "Year": "2017",
+         "Maternal mortality ratio per hundred thousand live births": 25.0
+      },
+      {
+         "Year": "2016",
+         "Maternal mortality ratio per hundred thousand live births": 29.1
+      },
+      {
+         "Year": "2015",
+         "Maternal mortality ratio per hundred thousand live births": 23.8
+      },
+      {
+         "Year": "2014",
+         "Maternal mortality ratio per hundred thousand live births": 22.3
+      },
+      {
+         "Year": "2013",
+         "Maternal mortality ratio per hundred thousand live births": 21.4
+      },
+      {
+         "Year": "2012",
+         "Maternal mortality ratio per hundred thousand live births": 23.2
+      },
+      {
+         "Year": "2011",
+         "Maternal mortality ratio per hundred thousand live births": 26.2
+      }
+   ]
+}

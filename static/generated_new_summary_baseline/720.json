@@ -1,0 +1,95 @@
+{
+   "title": "Driver satisfaction with Uber U.S. 2017 to 2019",
+   "labels": [
+      "Response",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, 2018 had the highest Share of respondents for Response Somewhat agree and 2018 had the lowest Share of respondents for Response Strongly disagree. ",
+      "Response Somewhat agree and Strongly agree had the biggest gap of 300.0 between the highest and lowest Share of respondents found for 2017. ",
+      "Averaging all 3 groups 2017, 2018, and 2019, the Response Somewhat agree is the maximum Share of respondents and Strongly disagree is the minimum Share of respondents. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding Share of respondents. ",
+      " For Response Somewhat agree, 2018 had the highest Share of respondents 434.0 among the 3 groups and in Strongly disagree, 2018 had the lowest Share of respondents 82.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, 2018 had the highest Share of respondents for Response Somewhat agree and 2018 had the lowest Share of respondents for Response Strongly disagree. ",
+      "Response Somewhat agree and Strongly agree had the biggest gap of 300.0 between the highest and lowest Share of respondents found for 2017. ",
+      "Averaging all 3 groups 2017, 2018, and 2019, the Response Somewhat agree is the maximum Share of respondents and Strongly disagree is the minimum Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 5 different Responses for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Response Somewhat agree had the maximum Share of respondents among all 3 groups, and it was for 2018. The minimum Share of respondents was observed in Response Strongly disagree for 2018. ",
+      " For Response Somewhat agree, 2017 had the maximum Share of respondents and it saw the lowest in Response Strongly agree out of all 5 Responses. ",
+      "Response Somewhat agree and Strongly agree had the biggest gap of 300.0 between the highest and lowest Share of respondents found for 2017. ",
+      " Among all 3 groups, 2018 had the gap of 352.0 between the maximum and minimum Share of respondents observed in Response Somewhat agree and Strongly disagree respectively. ",
+      " 2018 had the maximum Share of respondents out of all 3 groups in Response Somewhat agree followed by 2018 in Somewhat agree, and the minimum Share of respondents is found for 2018 in Strongly disagree. ",
+      "Averaging all 3 groups 2017, 2018, and 2019, the Response Somewhat agree is the maximum Share of respondents and Strongly disagree is the minimum Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "3",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Strongly disagree",
+         "2017": "10.8",
+         "2018": "8.2",
+         "2019": "13.9"
+      },
+      {
+         "Response": "Somewhat disagree",
+         "2017": "25.4",
+         "2018": "17.3",
+         "2019": "22.5"
+      },
+      {
+         "Response": "Neither agree nor disagree",
+         "2017": "14.4",
+         "2018": "16.3",
+         "2019": "19.1"
+      },
+      {
+         "Response": "Somewhat agree",
+         "2017": "39.7",
+         "2018": "43.4",
+         "2019": "34.1"
+      },
+      {
+         "Response": "Strongly agree",
+         "2017": "9.7",
+         "2018": "14.8",
+         "2019": "10.5"
+      }
+   ]
+}

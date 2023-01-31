@@ -1,0 +1,86 @@
+{
+   "title": "U.S. consumer perception of Amazon as a company 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response I like using Amazon and lowest at Response None of the above. ",
+      "The Share of respondents of Response I like using Amazon is 5.58% larger than the minimum value at None of the above. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
+      "Response I like using Amazon has the highest Share of respondents and None of the above has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response I like using Amazon and lowest at Response None of the above. ",
+      "The Share of respondents of Response I like using Amazon is 5.58% larger than the minimum value at None of the above. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
+      "The Share of respondents is highest at Response I like using Amazon and lowest at Response None of the above. ",
+      "Response  has the second highest value for Share of respondents. ",
+      "There is a difference of 55.0 between the maximum Response I like using Amazon and minimum Response None of the above. ",
+      "Share of respondents at Response I like using Amazon is 67.0 , second place is  at 67.0, and thirdly is I trust Amazon with my payment information at 53.0.",
+      "Similar Share of respondents is found in Response Amazon is an integral part of my life, and Amazon respects my privacy. ",
+      "The Response I like using Amazon has 1.81 times more Share of respondents than average. ",
+      "Summing up the values of all Responses, we get total 371.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "I like using Amazon",
+         "Share of respondents": 67.0
+      },
+      {
+         "Response": "With Amazon I get what I need",
+         "Share of respondents": 57.0
+      },
+      {
+         "Response": "I trust Amazon with my payment information",
+         "Share of respondents": 53.0
+      },
+      {
+         "Response": "Amazon takes the interests of its customers seriously",
+         "Share of respondents": 38.0
+      },
+      {
+         "Response": "Amazon assumes a pioneering role in this day and age",
+         "Share of respondents": 35.0
+      },
+      {
+         "Response": "Amazon is an integral part of my life",
+         "Share of respondents": 32.0
+      },
+      {
+         "Response": "Amazon respects my privacy",
+         "Share of respondents": 32.0
+      },
+      {
+         "Response": "I would like to see more products and services from Amazon",
+         "Share of respondents": 27.0
+      },
+      {
+         "Response": "There are no alternatives to Amazon",
+         "Share of respondents": 18.0
+      },
+      {
+         "Response": "None of the above",
+         "Share of respondents": 12.0
+      }
+   ]
+}

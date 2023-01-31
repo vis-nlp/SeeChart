@@ -1,0 +1,123 @@
+{
+   "title": "Number of Qdoba restaurants from 2011 to 2017",
+   "labels": [
+      "Year",
+      "Franchise",
+      "Company-owned"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Franchise, and Company-owned. The y axis denotes Number of restaurants and the x axis denotes Year.",
+      "Overall Company-owned is gradually increasing, Franchise is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Number of restaurants in descending order is: 1. Franchise, and lastly, 2. Company-owned. ",
+      "Overall across the Year, Franchise mostly maintained the highest Number of restaurants when compared to others with a mean value of 329.71, and it peaked at 2017.",
+      "The botommost line, Company-owned,  has a mean of 320.14, and peaked at 2017. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of restaurants",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Franchise, and Company-owned. The y axis indicates the Number of restaurants and the x axis indicates Year.",
+      "Overall Company-owned is gradually increasing, Franchise is roughly constant,  throughout the Year",
+      "Throughout the period, Franchise generally had the highest Number of restaurants relative to others with an average of 329.71, and it reached its maximum at 2017 with a value of 341.0.",
+      "The botommost line, Company-owned,  has a mean of 320.14, and peaked at 2017. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing Franchise, and Company-owned. The y axis denotes Number of restaurants and the x axis denotes Year.",
+      "Overall Company-owned is gradually increasing, Franchise is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Number of restaurants in descending order is: 1. Franchise, and lastly, 2. Company-owned. ",
+      "Overall across the Year, Franchise mostly maintained the highest Number of restaurants when compared to others with a mean value of 329.71, and it peaked at 2017.",
+      "The botommost line, Company-owned,  has a mean of 320.14, and peaked at 2017. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Franchise, and Company-owned. The y axis indicates the Number of restaurants and the x axis indicates Year.",
+      "Overall Company-owned is gradually increasing, Franchise is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Number of restaurants in descending order is: 1. Franchise, and lastly, 2. Company-owned. ",
+      "Throughout the period, Franchise generally had the highest Number of restaurants relative to others with an average of 329.71, and it reached its maximum at 2017 with a value of 341.0.",
+      "The botommost line, Company-owned,  has a mean of 320.14, and peaked at 2017. ",
+      "The maximum Number of restaurants about 385.0, occured at 2017 by Company-owned.",
+      "Company-owned reported the lowest Number of restaurants about 245.0 in Year 2011",
+      "The difference of Number of restaurants between Franchise and Company-owned is smaller at Year 2017 compared to the Year 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Franchise": "341",
+         "Company-owned": "385"
+      },
+      {
+         "Year": "2016",
+         "Franchise": "332",
+         "Company-owned": "367"
+      },
+      {
+         "Year": "2015",
+         "Franchise": "339",
+         "Company-owned": "322"
+      },
+      {
+         "Year": "2014",
+         "Franchise": "328",
+         "Company-owned": "310"
+      },
+      {
+         "Year": "2013",
+         "Franchise": "319",
+         "Company-owned": "296"
+      },
+      {
+         "Year": "2012",
+         "Franchise": "311",
+         "Company-owned": "316"
+      },
+      {
+         "Year": "2011",
+         "Franchise": "338",
+         "Company-owned": "245"
+      }
+   ]
+}

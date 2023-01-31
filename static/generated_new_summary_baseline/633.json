@@ -1,0 +1,76 @@
+{
+   "title": "FIFA World Cup 2014 Brazil total costs",
+   "xAxis": "Breakdown of Project",
+   "yAxis": "Costs in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Costs in million U.S. dollars for 8 number of Breakdown of Projects. ",
+      "Breakdown of Project Stadium construction & renovation has the highest Costs in million U.S. dollars and Tourism infrastructure projects has the lowest Costs in million U.S. dollars. ",
+      "The highest Breakdown of Project Stadium construction & renovation has 3524.0 more Costs in million U.S. dollars than the lowest Breakdown of Project Tourism infrastructure projects. "
+   ],
+   "min_summary": [
+      "This bar chart has 8 columns on the x axis representing Breakdown of Project, and Costs in million U.S. dollars in each Breakdown of Project on the y axis. ",
+      "The Costs in million U.S. dollars is appeared to be the highest at Breakdown of Project Stadium construction & renovation and lowest at Breakdown of Project Tourism infrastructure projects. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Costs in million U.S. dollars for 8 number of Breakdown of Projects. ",
+      "Breakdown of Project Stadium construction & renovation has the highest Costs in million U.S. dollars and Tourism infrastructure projects has the lowest Costs in million U.S. dollars. ",
+      "The highest Breakdown of Project Stadium construction & renovation has 3524.0 more Costs in million U.S. dollars than the lowest Breakdown of Project Tourism infrastructure projects. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Costs in million U.S. dollars for 8 number of Breakdown of Projects. ",
+      "The Costs in million U.S. dollars is highest at Breakdown of Project Stadium construction & renovation and lowest at Breakdown of Project Tourism infrastructure projects. ",
+      "Breakdown of Project  has the second highest value for Costs in million U.S. dollars. ",
+      "The highest Breakdown of Project Stadium construction & renovation has 3524.0 more Costs in million U.S. dollars than the lowest Breakdown of Project Tourism infrastructure projects. ",
+      "The Breakdown of Project Stadium construction & renovation has the highest Costs in million U.S. dollars, followed by , and Upgrades at airports. Down to the Breakdown of Project Tourism infrastructure projects which is the lowest. ",
+      "The Breakdown of Project Tourism infrastructure projects tends to be 2.62 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Breakdown of Project": "Stadium construction & renovation",
+         "Costs in million U.S. dollars": 3600.0
+      },
+      {
+         "Breakdown of Project": "Urban mobility projects",
+         "Costs in million U.S. dollars": 3400.0
+      },
+      {
+         "Breakdown of Project": "Upgrades at airports",
+         "Costs in million U.S. dollars": 2600.0
+      },
+      {
+         "Breakdown of Project": "Public security & military defence forces",
+         "Costs in million U.S. dollars": 797.0
+      },
+      {
+         "Breakdown of Project": "Port infrastructure",
+         "Costs in million U.S. dollars": 249.0
+      },
+      {
+         "Breakdown of Project": "Telecommunications networks & services",
+         "Costs in million U.S. dollars": 171.0
+      },
+      {
+         "Breakdown of Project": "Complementary work for Confederations Cup",
+         "Costs in million U.S. dollars": 88.0
+      },
+      {
+         "Breakdown of Project": "Tourism infrastructure projects",
+         "Costs in million U.S. dollars": 76.0
+      }
+   ]
+}

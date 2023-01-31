@@ -1,0 +1,85 @@
+{
+   "title": "Infant mortality rate in the Philippines 2018",
+   "xAxis": "Year",
+   "yAxis": "Deaths per 1,000 live births",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Deaths per 1,000 live births, containing a total of 11 data points.",
+      " Overall Deaths per 1,000 live births has decreased over the Year.",
+      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "Maximum Deaths per 1,000 live births, about 25.5 was reported at Year 2008",
+      "Minimum Deaths per 1,000 live births about 22.5 was reached at Year 2018"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Deaths per 1,000 live births. In total the number of data points it has is 11.",
+      " Overall Deaths per 1,000 live births has decreased over the Year.",
+      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Deaths per 1,000 live births, containing a total of 11 data points.",
+      " Overall Deaths per 1,000 live births has decreased over the Year.",
+      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "Maximum Deaths per 1,000 live births, about 25.5 was reported at Year 2008",
+      "Minimum Deaths per 1,000 live births about 22.5 was reached at Year 2018"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Deaths per 1,000 live births. In total the number of data points it has is 11.",
+      " In general Deaths per 1,000 live births has fallen over the Year.",
+      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018.",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "Maximum Deaths per 1,000 live births, about 25.5 was reported at Year 2008",
+      "Minimum Deaths per 1,000 live births about 22.5 was reached at Year 2018",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Deaths per 1,000 live births": 22.5
+      },
+      {
+         "Year": "2017",
+         "Deaths per 1,000 live births": 22.9
+      },
+      {
+         "Year": "2016",
+         "Deaths per 1,000 live births": 23.4
+      },
+      {
+         "Year": "2015",
+         "Deaths per 1,000 live births": 23.7
+      },
+      {
+         "Year": "2014",
+         "Deaths per 1,000 live births": 24.0
+      },
+      {
+         "Year": "2013",
+         "Deaths per 1,000 live births": 24.2
+      },
+      {
+         "Year": "2012",
+         "Deaths per 1,000 live births": 24.4
+      },
+      {
+         "Year": "2011",
+         "Deaths per 1,000 live births": 24.7
+      },
+      {
+         "Year": "2010",
+         "Deaths per 1,000 live births": 25.0
+      },
+      {
+         "Year": "2009",
+         "Deaths per 1,000 live births": 25.3
+      },
+      {
+         "Year": "2008",
+         "Deaths per 1,000 live births": 25.5
+      }
+   ]
+}

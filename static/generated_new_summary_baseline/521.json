@@ -1,0 +1,113 @@
+{
+   "title": "Farm value per liter of maple syrup in Ontario 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Farm value per liter in Canadian dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Farm value per liter in Canadian dollars. In total the number of data points it has is 19.",
+      " Overall Farm value per liter in Canadian dollars has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "The highest Farm value per liter in Canadian dollars, of value 15.59 was reached at Year 2015",
+      "Minimum Farm value per liter in Canadian dollars about 10.5 was reached at Year 2000"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Farm value per liter in Canadian dollars, containing a total of 19 data points.",
+      " In general Farm value per liter in Canadian dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Farm value per liter in Canadian dollars. In total the number of data points it has is 19.",
+      " Overall Farm value per liter in Canadian dollars has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "The highest Farm value per liter in Canadian dollars, of value 15.59 was reached at Year 2015",
+      "Minimum Farm value per liter in Canadian dollars about 10.5 was reached at Year 2000"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Farm value per liter in Canadian dollars. In total the number of data points it has is 19.",
+      " Overall Farm value per liter in Canadian dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "The highest Farm value per liter in Canadian dollars, of value 15.59 was reached at Year 2015",
+      "Minimum Farm value per liter in Canadian dollars about 10.5 was reached at Year 2000",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Farm value per liter in Canadian dollars": 11.31
+      },
+      {
+         "Year": "2017",
+         "Farm value per liter in Canadian dollars": 12.91
+      },
+      {
+         "Year": "2016",
+         "Farm value per liter in Canadian dollars": 12.87
+      },
+      {
+         "Year": "2015",
+         "Farm value per liter in Canadian dollars": 15.59
+      },
+      {
+         "Year": "2014",
+         "Farm value per liter in Canadian dollars": 15.46
+      },
+      {
+         "Year": "2013",
+         "Farm value per liter in Canadian dollars": 15.11
+      },
+      {
+         "Year": "2012",
+         "Farm value per liter in Canadian dollars": 14.22
+      },
+      {
+         "Year": "2011",
+         "Farm value per liter in Canadian dollars": 14.68
+      },
+      {
+         "Year": "2010",
+         "Farm value per liter in Canadian dollars": 14.69
+      },
+      {
+         "Year": "2009",
+         "Farm value per liter in Canadian dollars": 13.53
+      },
+      {
+         "Year": "2008",
+         "Farm value per liter in Canadian dollars": 12.99
+      },
+      {
+         "Year": "2007",
+         "Farm value per liter in Canadian dollars": 11.87
+      },
+      {
+         "Year": "2006",
+         "Farm value per liter in Canadian dollars": 11.31
+      },
+      {
+         "Year": "2005",
+         "Farm value per liter in Canadian dollars": 11.09
+      },
+      {
+         "Year": "2004",
+         "Farm value per liter in Canadian dollars": 11.03
+      },
+      {
+         "Year": "2003",
+         "Farm value per liter in Canadian dollars": 10.84
+      },
+      {
+         "Year": "2002",
+         "Farm value per liter in Canadian dollars": 10.62
+      },
+      {
+         "Year": "2001",
+         "Farm value per liter in Canadian dollars": 10.72
+      },
+      {
+         "Year": "2000",
+         "Farm value per liter in Canadian dollars": 10.5
+      }
+   ]
+}

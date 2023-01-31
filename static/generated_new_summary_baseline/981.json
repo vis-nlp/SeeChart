@@ -1,0 +1,81 @@
+{
+   "title": "Assets under supervision at Goldman Sachs 2009 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Assets under supervision in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Assets under supervision in billion U.S. dollars. In total the number of data points it has is 10.",
+      " In general Assets under supervision in billion U.S. dollars has rose over the Year.",
+      "Assets under supervision in billion U.S. dollars is roughly constant from 2009 to 2011, gradually increasing from 2011 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest Assets under supervision in billion U.S. dollars, of value 1542.0 was reached at Year 2018",
+      "Minimum Assets under supervision in billion U.S. dollars about 871.0 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Assets under supervision in billion U.S. dollars. In total the number of data points it has is 10.",
+      " Overall Assets under supervision in billion U.S. dollars has increased over the Year.",
+      "Assets under supervision in billion U.S. dollars is roughly constant from 2009 to 2011, gradually increasing from 2011 to 2016, and lastly roughly constant from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Assets under supervision in billion U.S. dollars. In total the number of data points it has is 10.",
+      " In general Assets under supervision in billion U.S. dollars has rose over the Year.",
+      "Assets under supervision in billion U.S. dollars is roughly constant from 2009 to 2011, gradually increasing from 2011 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest Assets under supervision in billion U.S. dollars, of value 1542.0 was reached at Year 2018",
+      "Minimum Assets under supervision in billion U.S. dollars about 871.0 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Assets under supervision in billion U.S. dollars. In total the number of data points it has is 10.",
+      " Overall Assets under supervision in billion U.S. dollars has increased over the Year.",
+      "Assets under supervision in billion U.S. dollars is roughly constant from 2009 to 2011, gradually increasing from 2011 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "The highest Assets under supervision in billion U.S. dollars, of value 1542.0 was reached at Year 2018",
+      "Minimum Assets under supervision in billion U.S. dollars about 871.0 was reached at Year 2009",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Assets under supervision in billion U.S. dollars": 1542.0
+      },
+      {
+         "Year": "2017",
+         "Assets under supervision in billion U.S. dollars": 1494.0
+      },
+      {
+         "Year": "2016",
+         "Assets under supervision in billion U.S. dollars": 1379.0
+      },
+      {
+         "Year": "2015",
+         "Assets under supervision in billion U.S. dollars": 1252.0
+      },
+      {
+         "Year": "2014",
+         "Assets under supervision in billion U.S. dollars": 1178.0
+      },
+      {
+         "Year": "2013",
+         "Assets under supervision in billion U.S. dollars": 1042.0
+      },
+      {
+         "Year": "2012",
+         "Assets under supervision in billion U.S. dollars": 965.0
+      },
+      {
+         "Year": "2011",
+         "Assets under supervision in billion U.S. dollars": 895.0
+      },
+      {
+         "Year": "2010",
+         "Assets under supervision in billion U.S. dollars": 917.0
+      },
+      {
+         "Year": "2009",
+         "Assets under supervision in billion U.S. dollars": 871.0
+      }
+   ]
+}

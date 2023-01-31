@@ -1,0 +1,83 @@
+{
+   "title": "2012 election : support for Romney and Obama , by ethnic group",
+   "labels": [
+      "Race",
+      "Obama",
+      "Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
+      " For Race Black, Obama had the highest Share of respondents 90.0 among the 2 groups and in Black, Romney had the lowest Share of respondents 5.0. ",
+      "Race White (non-Hispanic) and Black had the biggest gap of 54.0 between the highest and lowest Share of respondents found for Romney. ",
+      "On average, the Race White (non-Hispanic) had the highest Share of respondents for all 2 groups Obama, and Romney. Whereas Nonwhite had the lowest average Share of respondents. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
+      " For Race Black, Obama had the highest Share of respondents 90.0 among the 2 groups and in Black, Romney had the lowest Share of respondents 5.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
+      " For Race Black, Obama had the highest Share of respondents 90.0 among the 2 groups and in Black, Romney had the lowest Share of respondents 5.0. ",
+      "Race White (non-Hispanic) and Black had the biggest gap of 54.0 between the highest and lowest Share of respondents found for Romney. ",
+      "On average, the Race White (non-Hispanic) had the highest Share of respondents for all 2 groups Obama, and Romney. Whereas Nonwhite had the lowest average Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Races on X-axis for 2 groups Obama, and Romney. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 2 groups, Obama had the highest Share of respondents for Race Black and Romney had the lowest Share of respondents for Race Black. ",
+      " For Race White (non-Hispanic), Romney had the maximum Share of respondents and it saw the lowest in Race Black out of all 4 Races. ",
+      "Race White (non-Hispanic) and Black had the biggest gap of 54.0 between the highest and lowest Share of respondents found for Romney. ",
+      " Among all 2 groups, Obama had the gap of 53.0 between the maximum and minimum Share of respondents observed in Race Black and White (non-Hispanic) respectively. ",
+      "Averaging all 2 groups Obama, and Romney, the Race White (non-Hispanic) is the maximum Share of respondents and Nonwhite is the minimum Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "White (non-Hispanic)",
+         "Obama": "37",
+         "Romney": "59"
+      },
+      {
+         "Race": "Nonwhite",
+         "Obama": "79",
+         "Romney": "15"
+      },
+      {
+         "Race": "Black",
+         "Obama": "90",
+         "Romney": "5"
+      },
+      {
+         "Race": "Hispanic",
+         "Obama": "69",
+         "Romney": "25"
+      }
+   ]
+}

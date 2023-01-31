@@ -1,0 +1,78 @@
+{
+   "title": "Net sales share of Est\u00e9e Lauder worldwide 2017 , by distribution channel",
+   "xAxis": "Distribution channel",
+   "yAxis": "Net sales share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Net sales share for 8 number of Distribution channels. ",
+      "The maximum Net sales share 42.0 is found at Distribution channel Department stores and the minimum is found at Salon and spa where Net sales share is 3.0. ",
+      "The maximum Distribution channel Department stores has got 14.0 times higher Net sales share than the minimum Distribution channel Salon and spa. "
+   ],
+   "min_summary": [
+      "This bar chart has 8 columns on the x axis representing Distribution channel, and Net sales share in each Distribution channel on the y axis. ",
+      "The Net sales share is appeared to be the highest at Distribution channel Department stores and lowest at Distribution channel Salon and spa. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Net sales share for 8 number of Distribution channels. ",
+      "The maximum Net sales share 42.0 is found at Distribution channel Department stores and the minimum is found at Salon and spa where Net sales share is 3.0. ",
+      "The maximum Distribution channel Department stores has got 14.0 times higher Net sales share than the minimum Distribution channel Salon and spa. "
+   ],
+   "max_summary": [
+      "This bar chart has 8 columns on the x axis representing Distribution channel, and Net sales share in each Distribution channel on the y axis. ",
+      "The Net sales share is appeared to be the highest at Distribution channel Department stores and lowest at Distribution channel Salon and spa. ",
+      "Second maximum Net sales share is found at Distribution channel . ",
+      "The highest Distribution channel Department stores has 39.0 more Net sales share than the lowest Distribution channel Salon and spa. ",
+      "Net sales share at Distribution channel Department stores is 42.0 , second place is  at 42.0, and thirdly is Specialty-multi at 11.0.",
+      "Distribution channel Freestanding retail stores, and Specialty-multi have a similar Net sales share that is 11.0. ",
+      "The average Net sales share in all 8 Distribution channels is 12.5. ",
+      "The Net sales share is 100.0 if we add up values of all Distribution channels. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Distribution channel": "Department stores",
+         "Net sales share": 42.0
+      },
+      {
+         "Distribution channel": "Travel retail",
+         "Net sales share": 14.0
+      },
+      {
+         "Distribution channel": "Freestanding retail stores",
+         "Net sales share": 11.0
+      },
+      {
+         "Distribution channel": "Specialty-multi",
+         "Net sales share": 11.0
+      },
+      {
+         "Distribution channel": "Perfumeries",
+         "Net sales share": 5.0
+      },
+      {
+         "Distribution channel": "Salon and spa",
+         "Net sales share": 3.0
+      },
+      {
+         "Distribution channel": "Online",
+         "Net sales share": 7.0
+      },
+      {
+         "Distribution channel": "Other",
+         "Net sales share": 7.0
+      }
+   ]
+}

@@ -1,0 +1,521 @@
+{
+   "title": "HeatMap Dataset",
+   "xAxis": "Group",
+   "yAxis": "Variable",
+   "columnType": "two",
+   "graphType": "heatmap",
+   "val": "Value",
+   "summaryType": "nlp",
+   "summary": [
+      "The statistic shows a heatMap Dataset. ",
+      "It shows groups A to J in x-axis and variables 1 to 10 in y-axis. "
+   ],
+   "trends": [
+     
+   ],
+   "data": [
+      
+    {
+      "Group": "A",
+      "Variable": "v1",
+      "Value": 30
+    },
+    {
+      "Group": "A",
+      "Variable": "v2",
+      "Value": 95
+    },
+    {
+      "Group": "A",
+      "Variable": "v3",
+      "Value": 22
+    },
+    {
+      "Group": "A",
+      "Variable": "v4",
+      "Value": 14
+    },
+    {
+      "Group": "A",
+      "Variable": "v5",
+      "Value": 59
+    },
+    {
+      "Group": "A",
+      "Variable": "v6",
+      "Value": 52
+    },
+    {
+      "Group": "A",
+      "Variable": "v7",
+      "Value": 88
+    },
+    {
+      "Group": "A",
+      "Variable": "v8",
+      "Value": 20
+    },
+    {
+      "Group": "A",
+      "Variable": "v9",
+      "Value": 99
+    },
+    {
+      "Group": "A",
+      "Variable": "v10",
+      "Value": 66
+    },
+    {
+      "Group": "B",
+      "Variable": "v1",
+      "Value": 37
+    },
+    {
+      "Group": "B",
+      "Variable": "v2",
+      "Value": 50
+    },
+    {
+      "Group": "B",
+      "Variable": "v3",
+      "Value": 81
+    },
+    {
+      "Group": "B",
+      "Variable": "v4",
+      "Value": 79
+    },
+    {
+      "Group": "B",
+      "Variable": "v5",
+      "Value": 84
+    },
+    {
+      "Group": "B",
+      "Variable": "v6",
+      "Value": 91
+    },
+    {
+      "Group": "B",
+      "Variable": "v7",
+      "Value": 82
+    },
+    {
+      "Group": "B",
+      "Variable": "v8",
+      "Value": 89
+    },
+    {
+      "Group": "B",
+      "Variable": "v9",
+      "Value": 6
+    },
+    {
+      "Group": "B",
+      "Variable": "v10",
+      "Value": 67
+    },
+    {
+      "Group": "C",
+      "Variable": "v1",
+      "Value": 96
+    },
+    {
+      "Group": "C",
+      "Variable": "v2",
+      "Value": 13
+    },
+    {
+      "Group": "C",
+      "Variable": "v3",
+      "Value": 98
+    },
+    {
+      "Group": "C",
+      "Variable": "v4",
+      "Value": 10
+    },
+    {
+      "Group": "C",
+      "Variable": "v5",
+      "Value": 86
+    },
+    {
+      "Group": "C",
+      "Variable": "v6",
+      "Value": 23
+    },
+    {
+      "Group": "C",
+      "Variable": "v7",
+      "Value": 74
+    },
+    {
+      "Group": "C",
+      "Variable": "v8",
+      "Value": 47
+    },
+    {
+      "Group": "C",
+      "Variable": "v9",
+      "Value": 73
+    },
+    {
+      "Group": "C",
+      "Variable": "v10",
+      "Value": 40
+    },
+    {
+      "Group": "D",
+      "Variable": "v1",
+      "Value": 75
+    },
+    {
+      "Group": "D",
+      "Variable": "v2",
+      "Value": 18
+    },
+    {
+      "Group": "D",
+      "Variable": "v3",
+      "Value": 92
+    },
+    {
+      "Group": "D",
+      "Variable": "v4",
+      "Value": 43
+    },
+    {
+      "Group": "D",
+      "Variable": "v5",
+      "Value": 16
+    },
+    {
+      "Group": "D",
+      "Variable": "v6",
+      "Value": 27
+    },
+    {
+      "Group": "D",
+      "Variable": "v7",
+      "Value": 76
+    },
+    {
+      "Group": "D",
+      "Variable": "v8",
+      "Value": 24
+    },
+    {
+      "Group": "D",
+      "Variable": "v9",
+      "Value": 1
+    },
+    {
+      "Group": "D",
+      "Variable": "v10",
+      "Value": 87
+    },
+    {
+      "Group": "E",
+      "Variable": "v1",
+      "Value": 44
+    },
+    {
+      "Group": "E",
+      "Variable": "v2",
+      "Value": 29
+    },
+    {
+      "Group": "E",
+      "Variable": "v3",
+      "Value": 58
+    },
+    {
+      "Group": "E",
+      "Variable": "v4",
+      "Value": 55
+    },
+    {
+      "Group": "E",
+      "Variable": "v5",
+      "Value": 65
+    },
+    {
+      "Group": "E",
+      "Variable": "v6",
+      "Value": 56
+    },
+    {
+      "Group": "E",
+      "Variable": "v7",
+      "Value": 9
+    },
+    {
+      "Group": "E",
+      "Variable": "v8",
+      "Value": 78
+    },
+    {
+      "Group": "E",
+      "Variable": "v9",
+      "Value": 49
+    },
+    {
+      "Group": "E",
+      "Variable": "v10",
+      "Value": 36
+    },
+    {
+      "Group": "F",
+      "Variable": "v1",
+      "Value": 35
+    },
+    {
+      "Group": "F",
+      "Variable": "v2",
+      "Value": 80
+    },
+    {
+      "Group": "F",
+      "Variable": "v3",
+      "Value": 8
+    },
+    {
+      "Group": "F",
+      "Variable": "v4",
+      "Value": 46
+    },
+    {
+      "Group": "F",
+      "Variable": "v5",
+      "Value": 48
+    },
+    {
+      "Group": "F",
+      "Variable": "v6",
+      "Value": 100
+    },
+    {
+      "Group": "F",
+      "Variable": "v7",
+      "Value": 17
+    },
+    {
+      "Group": "F",
+      "Variable": "v8",
+      "Value": 41
+    },
+    {
+      "Group": "F",
+      "Variable": "v9",
+      "Value": 33
+    },
+    {
+      "Group": "F",
+      "Variable": "v10",
+      "Value": 11
+    },
+    {
+      "Group": "G",
+      "Variable": "v1",
+      "Value": 77
+    },
+    {
+      "Group": "G",
+      "Variable": "v2",
+      "Value": 62
+    },
+    {
+      "Group": "G",
+      "Variable": "v3",
+      "Value": 94
+    },
+    {
+      "Group": "G",
+      "Variable": "v4",
+      "Value": 15
+    },
+    {
+      "Group": "G",
+      "Variable": "v5",
+      "Value": 69
+    },
+    {
+      "Group": "G",
+      "Variable": "v6",
+      "Value": 63
+    },
+    {
+      "Group": "G",
+      "Variable": "v7",
+      "Value": 61
+    },
+    {
+      "Group": "G",
+      "Variable": "v8",
+      "Value": 54
+    },
+    {
+      "Group": "G",
+      "Variable": "v9",
+      "Value": 38
+    },
+    {
+      "Group": "G",
+      "Variable": "v10",
+      "Value": 93
+    },
+    {
+      "Group": "H",
+      "Variable": "v1",
+      "Value": 39
+    },
+    {
+      "Group": "H",
+      "Variable": "v2",
+      "Value": 26
+    },
+    {
+      "Group": "H",
+      "Variable": "v3",
+      "Value": 90
+    },
+    {
+      "Group": "H",
+      "Variable": "v4",
+      "Value": 83
+    },
+    {
+      "Group": "H",
+      "Variable": "v5",
+      "Value": 31
+    },
+    {
+      "Group": "H",
+      "Variable": "v6",
+      "Value": 2
+    },
+    {
+      "Group": "H",
+      "Variable": "v7",
+      "Value": 51
+    },
+    {
+      "Group": "H",
+      "Variable": "v8",
+      "Value": 28
+    },
+    {
+      "Group": "H",
+      "Variable": "v9",
+      "Value": 42
+    },
+    {
+      "Group": "H",
+      "Variable": "v10",
+      "Value": 7
+    },
+    {
+      "Group": "I",
+      "Variable": "v1",
+      "Value": 5
+    },
+    {
+      "Group": "I",
+      "Variable": "v2",
+      "Value": 60
+    },
+    {
+      "Group": "I",
+      "Variable": "v3",
+      "Value": 21
+    },
+    {
+      "Group": "I",
+      "Variable": "v4",
+      "Value": 25
+    },
+    {
+      "Group": "I",
+      "Variable": "v5",
+      "Value": 3
+    },
+    {
+      "Group": "I",
+      "Variable": "v6",
+      "Value": 70
+    },
+    {
+      "Group": "I",
+      "Variable": "v7",
+      "Value": 34
+    },
+    {
+      "Group": "I",
+      "Variable": "v8",
+      "Value": 68
+    },
+    {
+      "Group": "I",
+      "Variable": "v9",
+      "Value": 57
+    },
+    {
+      "Group": "I",
+      "Variable": "v10",
+      "Value": 32
+    },
+    {
+      "Group": "J",
+      "Variable": "v1",
+      "Value": 19
+    },
+    {
+      "Group": "J",
+      "Variable": "v2",
+      "Value": 85
+    },
+    {
+      "Group": "J",
+      "Variable": "v3",
+      "Value": 53
+    },
+    {
+      "Group": "J",
+      "Variable": "v4",
+      "Value": 45
+    },
+    {
+      "Group": "J",
+      "Variable": "v5",
+      "Value": 71
+    },
+    {
+      "Group": "J",
+      "Variable": "v6",
+      "Value": 64
+    },
+    {
+      "Group": "J",
+      "Variable": "v7",
+      "Value": 4
+    },
+    {
+      "Group": "J",
+      "Variable": "v8",
+      "Value": 12
+    },
+    {
+      "Group": "J",
+      "Variable": "v9",
+      "Value": 97
+    },
+    {
+      "Group": "J",
+      "Variable": "v10",
+      "Value": 72
+    }
+ 
+],
+   "gold": "This statistic shows the sum of the imports and exports of bauxite worldwide from 2005 to 2018 . Total global bauxite exports increased from 24 million in 2005 to 55.97 million metric tons at the end of 2018 . Total global imports of bauxite reached around 108.8 million metric tons at end of 2018 .\n"
+}

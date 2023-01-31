@@ -1,0 +1,55 @@
+{
+   "title": "Leading deodorant brands ranked by sales value in the United Kingdom ( UK ) 2014",
+   "xAxis": "Brand",
+   "yAxis": "Sales in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Brand in the x axis and Sales in million GBP in the y axis. ",
+      "The Sales in million GBP is appeared to be the highest at Brand Male Lynx and lowest at Brand Female Dove. ",
+      "The difference of Sales in million GBP between the highest and lowest Brand is 40.4. "
+   ],
+   "min_summary": [
+      "This bar chart has 3 columns on the x axis representing Brand, and Sales in million GBP in each Brand on the y axis. ",
+      "The maximum Sales in million GBP 98.0 is found at Brand Male Lynx and the minimum is found at Female Dove where Sales in million GBP is 57.6. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Brand in the x axis and Sales in million GBP in the y axis. ",
+      "The Sales in million GBP is appeared to be the highest at Brand Male Lynx and lowest at Brand Female Dove. ",
+      "The difference of Sales in million GBP between the highest and lowest Brand is 40.4. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Brand in the x axis and Sales in million GBP in the y axis. ",
+      "The Sales in million GBP is appeared to be the highest at Brand Male Lynx and lowest at Brand Female Dove. ",
+      "The second highest Sales in million GBP is appeared to be the Brand . ",
+      "There is a difference of 40.4 between the maximum Brand Male Lynx and minimum Brand Female Dove. ",
+      "Considered together, the average Sales in million GBP in all 3 Brands is roughly 76.4. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Male Lynx",
+         "Sales in million GBP": 98.0
+      },
+      {
+         "Brand": "Female Sure",
+         "Sales in million GBP": 73.6
+      },
+      {
+         "Brand": "Female Dove",
+         "Sales in million GBP": 57.6
+      }
+   ]
+}

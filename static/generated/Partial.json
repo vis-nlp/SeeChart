@@ -1,0 +1,65 @@
+{
+   "title": "Partial",
+   "xAxis": "Fruits",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 columns on the x axis representing Fruits, and Per capita consumption in pounds in each Fruits on the y axis. ",
+      "The maximum Per capita consumption in pounds 16.9 is found at Fruits Apples and the minimum is found at Pineapples where Per capita consumption in pounds is 7.8. ",
+      "Fruits Pineapples has 2.17 times less Per capita consumption in pounds than Fruits Apples which is the highest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Fruits in the x axis and Per capita consumption in pounds in the y axis. ",
+      "Fruits Apples has the highest Per capita consumption in pounds and Pineapples has the lowest Per capita consumption in pounds. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Fruits, and Per capita consumption in pounds in each Fruits on the y axis. ",
+      "The maximum Per capita consumption in pounds 16.9 is found at Fruits Apples and the minimum is found at Pineapples where Per capita consumption in pounds is 7.8. ",
+      "Fruits Pineapples has 2.17 times less Per capita consumption in pounds than Fruits Apples which is the highest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Per capita consumption in pounds for 5 number of Fruitss. ",
+      "The Per capita consumption in pounds is highest at Fruits Apples and lowest at Fruits Pineapples. ",
+      "Fruits Oranges has the second highest value for Per capita consumption in pounds. ",
+      "There is a difference of 9.1 between the maximum Fruits Apples and minimum Fruits Pineapples. ",
+      "Fruits Apples is higher than any other Fruitss with value 16.9, followed by Oranges, and Grapes. Down to Fruits Pineapples with the lowest value 7.8. ",
+      "The Fruits Apples has 1.72 times more Per capita consumption in pounds than average. ",
+      "The Per capita consumption in pounds is 49.0 if we add up values of all Fruitss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fruits": "Apples",
+         "Per capita consumption in pounds": 16.9
+      },
+      {
+         "Fruits": "Oranges",
+         "Per capita consumption in pounds": 8.2
+      },
+      {
+         "Fruits": "Grapes",
+         "Per capita consumption in pounds": 8.1
+      },
+      {
+         "Fruits": "Avocados",
+         "Per capita consumption in pounds": 8.0
+      },
+      {
+         "Fruits": "Pineapples",
+         "Per capita consumption in pounds": 7.8
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Number of students in upper secondary education in Denmark 2008 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of students",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of students. In total the number of data points it has is 11.",
+      " Overall Number of students has increased over the Year.",
+      "Number of students is slightly increasing from 2008 to 2012, and finally roughly constant from 2012 to 2018.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest Number of students, of value 150608.0 was reached at Year 2017",
+      "The lowest Number of students, of value 118217.0 was reported at Year 2008"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of students, containing a total of 11 data points.",
+      " In general Number of students has rose over the Year.",
+      "Number of students is slightly increasing from 2008 to 2012, and finally roughly constant from 2012 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of students. In total the number of data points it has is 11.",
+      " Overall Number of students has increased over the Year.",
+      "Number of students is slightly increasing from 2008 to 2012, and finally roughly constant from 2012 to 2018.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest Number of students, of value 150608.0 was reached at Year 2017",
+      "The lowest Number of students, of value 118217.0 was reported at Year 2008"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of students, containing a total of 11 data points.",
+      " In general Number of students has rose over the Year.",
+      "Number of students is slightly increasing from 2008 to 2012, and finally roughly constant from 2012 to 2018.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Number of students, of value 150608.0 was reached at Year 2017",
+      "The lowest Number of students, of value 118217.0 was reported at Year 2008",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of students": 148551.0
+      },
+      {
+         "Year": "2017",
+         "Number of students": 150608.0
+      },
+      {
+         "Year": "2016",
+         "Number of students": 149788.0
+      },
+      {
+         "Year": "2015",
+         "Number of students": 148144.0
+      },
+      {
+         "Year": "2014",
+         "Number of students": 147760.0
+      },
+      {
+         "Year": "2013",
+         "Number of students": 148051.0
+      },
+      {
+         "Year": "2012",
+         "Number of students": 144791.0
+      },
+      {
+         "Year": "2011",
+         "Number of students": 140259.0
+      },
+      {
+         "Year": "2010",
+         "Number of students": 132619.0
+      },
+      {
+         "Year": "2009",
+         "Number of students": 122837.0
+      },
+      {
+         "Year": "2008",
+         "Number of students": 118217.0
+      }
+   ]
+}

@@ -1,0 +1,93 @@
+{
+   "title": "Life expectancy in Asia in 2019",
+   "labels": [
+      "Region",
+      "Males",
+      "Females"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Life expectancy in years on the Y-axis for 6 different Regions for 2 groups Males, and Females that are presented on the X-axis. ",
+      " For Region East Asia, Females had the highest Life expectancy in years 80.0 among the 2 groups and in South Asia, Males had the lowest Life expectancy in years 68.0. ",
+      "Region East Asia and South Asia had the biggest gap of 7.0 between the highest and lowest Life expectancy in years found for Males. ",
+      "On average, the Region East Asia had the highest Life expectancy in years for all 2 groups Males, and Females. Whereas South Asia had the lowest average Life expectancy in years. "
+   ],
+   "xAxis": "Region",
+   "yAxis": "Life expectancy in years",
+   "min_summary": [
+      "This grouped bar chart represents 6 different Regions on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding Life expectancy in years. ",
+      " Out of all 2 groups, Females had the highest Life expectancy in years for Region East Asia and Males had the lowest Life expectancy in years for Region South Asia. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Life expectancy in years on the Y-axis for 6 different Regions for 2 groups Males, and Females that are presented on the X-axis. ",
+      " For Region East Asia, Females had the highest Life expectancy in years 80.0 among the 2 groups and in South Asia, Males had the lowest Life expectancy in years 68.0. ",
+      "Region East Asia and South Asia had the biggest gap of 7.0 between the highest and lowest Life expectancy in years found for Males. ",
+      "On average, the Region East Asia had the highest Life expectancy in years for all 2 groups Males, and Females. Whereas South Asia had the lowest average Life expectancy in years. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 6 different Regions on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding Life expectancy in years. ",
+      " Out of all 2 groups, Females had the highest Life expectancy in years for Region East Asia and Males had the lowest Life expectancy in years for Region South Asia. ",
+      " Among all the Regions, Males had the highest Life expectancy in years in Region East Asia and lowest Life expectancy in years in Region South Asia. ",
+      " There is a gap of 7.0 between the highest and lowest Life expectancy in years found for Males in Region East Asia and South Asia. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Life expectancy in years was found in case of Males. ",
+      "Averaging all 2 groups Males, and Females, the Region East Asia is the maximum Life expectancy in years and South Asia is the minimum Life expectancy in years. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "East Asia",
+         "Males": "75",
+         "Females": "80"
+      },
+      {
+         "Region": "Western Asia",
+         "Males": "72",
+         "Females": "77"
+      },
+      {
+         "Region": "Asia (total)",
+         "Males": "71",
+         "Females": "75"
+      },
+      {
+         "Region": "Central Asia",
+         "Males": "70",
+         "Females": "76"
+      },
+      {
+         "Region": "Southeast Asia",
+         "Males": "69",
+         "Females": "75"
+      },
+      {
+         "Region": "South Asia",
+         "Males": "68",
+         "Females": "71"
+      }
+   ]
+}

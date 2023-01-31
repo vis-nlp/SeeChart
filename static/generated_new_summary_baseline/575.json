@@ -1,0 +1,125 @@
+{
+   "title": "Top countries by pharmaceutical industry employment 2014",
+   "xAxis": "Country",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
+      "The Number of employees is highest at Country China and lowest at Country Turkey. ",
+      "The maximum Country China has got 65.57 times higher Number of employees than the minimum Country Turkey. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Country, and Number of employees in each Country on the y axis. ",
+      "The Number of employees is highest at Country China and lowest at Country Turkey. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
+      "The Number of employees is highest at Country China and lowest at Country Turkey. ",
+      "The maximum Country China has got 65.57 times higher Number of employees than the minimum Country Turkey. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Country, and Number of employees in each Country on the y axis. ",
+      "The maximum Number of employees 2301534.0 is found at Country China and the minimum is found at Turkey where Number of employees is 35100.0. ",
+      "Country  has the second highest value for Number of employees. ",
+      "The difference of Number of employees between the highest and lowest Country is 2266434.0. ",
+      "Number of employees at Country China is 2301534.0 , second place is  at 2301534.0, and thirdly is United States at 251995.0.",
+      "Considered together, the average Number of employees in all 20 Countrys is roughly 205369.8. ",
+      "The Number of employees is 4107396.0 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Number of employees": 2301534.0
+      },
+      {
+         "Country": "India",
+         "Number of employees": 567469.0
+      },
+      {
+         "Country": "United States",
+         "Number of employees": 251995.0
+      },
+      {
+         "Country": "Germany",
+         "Number of employees": 128000.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of employees": 105253.0
+      },
+      {
+         "Country": "Japan",
+         "Number of employees": 91529.0
+      },
+      {
+         "Country": "Russian Federation",
+         "Number of employees": 66523.0
+      },
+      {
+         "Country": "Indonesia",
+         "Number of employees": 64059.0
+      },
+      {
+         "Country": "Italy",
+         "Number of employees": 59300.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of employees": 51125.0
+      },
+      {
+         "Country": "Thailand",
+         "Number of employees": 48000.0
+      },
+      {
+         "Country": "Egypt",
+         "Number of employees": 47753.0
+      },
+      {
+         "Country": "France",
+         "Number of employees": 47000.0
+      },
+      {
+         "Country": "Spain",
+         "Number of employees": 43723.0
+      },
+      {
+         "Country": "Switzerland",
+         "Number of employees": 43258.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of employees": 41690.0
+      },
+      {
+         "Country": "Vietnam",
+         "Number of employees": 39749.0
+      },
+      {
+         "Country": "Poland",
+         "Number of employees": 38000.0
+      },
+      {
+         "Country": "Pakistan",
+         "Number of employees": 36336.0
+      },
+      {
+         "Country": "Turkey",
+         "Number of employees": 35100.0
+      }
+   ]
+}

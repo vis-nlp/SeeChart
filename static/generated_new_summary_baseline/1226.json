@@ -1,0 +1,41 @@
+{
+   "title": "Marketing Strategies: Shows the usage of certain strategies for marketing",
+   "name": "Strategy",
+   "percent": "amount",
+   "columnType": "two",
+   "graphType": "pie",
+   "summaryType": "nlp",
+   "summary": [
+      "The pie chart shows the relative use of marketing strategies . ",
+      "Email is used the most for marketing, at 45 % . ",
+      "Leaflets are used the least, at 10% ."
+   ],
+
+   "trends": [
+      {
+         
+      }
+   ],
+   
+   "data": [
+      {
+         "Strategy": "advertising", 
+         "amount": 20
+      },
+
+      {
+         "Strategy": "email", 
+         "amount": 45
+      },
+
+      {
+         "Strategy": "sale offers", 
+         "amount": 25
+      },
+      {
+         "Strategy": "leaflet", 
+         "amount": 10
+      }
+   ],
+   "gold": "The statistic shows the relative use of marketing strategies.\n"
+}

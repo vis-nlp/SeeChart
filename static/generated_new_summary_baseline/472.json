@@ -1,0 +1,85 @@
+{
+   "title": "Fertility rate in Brazil",
+   "xAxis": "Year",
+   "yAxis": "Number of children born per woman",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of children born per woman. In total the number of data points it has is 11.",
+      " In general Number of children born per woman has fallen over the Year.",
+      "Number of children born per woman is gradually decreasing from 2007 to 2012, roughly constant from 2012 to 2016, and lastly roughly decreasing from 2016 to 2017.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Number of children born per woman, about 1.88 was reported at Year 2007",
+      "Minimum Number of children born per woman about 1.74 was reached at Year 2017"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of children born per woman, containing a total of 11 data points.",
+      " Overall Number of children born per woman has decreased over the Year.",
+      "Number of children born per woman is gradually decreasing from 2007 to 2012, roughly constant from 2012 to 2016, and lastly roughly decreasing from 2016 to 2017."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of children born per woman. In total the number of data points it has is 11.",
+      " In general Number of children born per woman has fallen over the Year.",
+      "Number of children born per woman is gradually decreasing from 2007 to 2012, roughly constant from 2012 to 2016, and lastly roughly decreasing from 2016 to 2017.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Number of children born per woman, about 1.88 was reported at Year 2007",
+      "Minimum Number of children born per woman about 1.74 was reached at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of children born per woman. In total the number of data points it has is 11.",
+      " Overall Number of children born per woman has decreased over the Year.",
+      "Number of children born per woman is gradually decreasing from 2007 to 2012, roughly constant from 2012 to 2016, and lastly roughly decreasing from 2016 to 2017.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Maximum Number of children born per woman, about 1.88 was reported at Year 2007",
+      "Minimum Number of children born per woman about 1.74 was reached at Year 2017",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of children born per woman": 1.74
+      },
+      {
+         "Year": "2016",
+         "Number of children born per woman": 1.75
+      },
+      {
+         "Year": "2015",
+         "Number of children born per woman": 1.75
+      },
+      {
+         "Year": "2014",
+         "Number of children born per woman": 1.76
+      },
+      {
+         "Year": "2013",
+         "Number of children born per woman": 1.76
+      },
+      {
+         "Year": "2012",
+         "Number of children born per woman": 1.77
+      },
+      {
+         "Year": "2011",
+         "Number of children born per woman": 1.78
+      },
+      {
+         "Year": "2010",
+         "Number of children born per woman": 1.8
+      },
+      {
+         "Year": "2009",
+         "Number of children born per woman": 1.82
+      },
+      {
+         "Year": "2008",
+         "Number of children born per woman": 1.85
+      },
+      {
+         "Year": "2007",
+         "Number of children born per woman": 1.88
+      }
+   ]
+}

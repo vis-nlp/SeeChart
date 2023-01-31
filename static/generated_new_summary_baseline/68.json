@@ -1,0 +1,85 @@
+{
+   "title": "Value of Arsenal FC 's jersey sponsorship 2009 to 2020",
+   "xAxis": "Year",
+   "yAxis": "Jersey sponsorship revenue in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Jersey sponsorship revenue in million GBP. In total the number of data points it has is 11.",
+      " In general Jersey sponsorship revenue in million GBP has rose over the Year.",
+      "Jersey sponsorship revenue in million GBP is roughly constant from 2009/10_(Fly_Emirates) to 2012/13_(Fly_Emirates), gradually increasing from 2012/13_(Fly_Emirates) to 2013/14_(Fly_Emirates), and finally roughly constant from 2013/14_(Fly_Emirates) to 2019/20_(Fly_Emirates).",
+      "The steepest increase occurs in between the Year 2012/13_(Fly_Emirates) and 2013/14_(Fly_Emirates).",
+      "Maximum Jersey sponsorship revenue in million GBP, about 40.0 was reported at Year 2018/19_(Fly_Emirates), and 2019/20_(Fly_Emirates)",
+      "The lowest Jersey sponsorship revenue in million GBP, of value 5.5 was reported at Year 2009/10_(Fly_Emirates),  2010/11_(Fly_Emirates),  2011/12_(Fly_Emirates), and 2012/13_(Fly_Emirates)"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Jersey sponsorship revenue in million GBP, containing a total of 11 data points.",
+      " Overall Jersey sponsorship revenue in million GBP has increased over the Year.",
+      "Jersey sponsorship revenue in million GBP is roughly constant from 2009/10_(Fly_Emirates) to 2012/13_(Fly_Emirates), gradually increasing from 2012/13_(Fly_Emirates) to 2013/14_(Fly_Emirates), and finally roughly constant from 2013/14_(Fly_Emirates) to 2019/20_(Fly_Emirates)."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Jersey sponsorship revenue in million GBP. In total the number of data points it has is 11.",
+      " In general Jersey sponsorship revenue in million GBP has rose over the Year.",
+      "Jersey sponsorship revenue in million GBP is roughly constant from 2009/10_(Fly_Emirates) to 2012/13_(Fly_Emirates), gradually increasing from 2012/13_(Fly_Emirates) to 2013/14_(Fly_Emirates), and finally roughly constant from 2013/14_(Fly_Emirates) to 2019/20_(Fly_Emirates).",
+      "The steepest increase occurs in between the Year 2012/13_(Fly_Emirates) and 2013/14_(Fly_Emirates).",
+      "Maximum Jersey sponsorship revenue in million GBP, about 40.0 was reported at Year 2018/19_(Fly_Emirates), and 2019/20_(Fly_Emirates)",
+      "The lowest Jersey sponsorship revenue in million GBP, of value 5.5 was reported at Year 2009/10_(Fly_Emirates),  2010/11_(Fly_Emirates),  2011/12_(Fly_Emirates), and 2012/13_(Fly_Emirates)"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Jersey sponsorship revenue in million GBP, containing a total of 11 data points.",
+      " In general Jersey sponsorship revenue in million GBP has rose over the Year.",
+      "Jersey sponsorship revenue in million GBP is roughly constant from 2009/10_(Fly_Emirates) to 2012/13_(Fly_Emirates), gradually increasing from 2012/13_(Fly_Emirates) to 2013/14_(Fly_Emirates), and finally roughly constant from 2013/14_(Fly_Emirates) to 2019/20_(Fly_Emirates).",
+      "The steepest increase occurs in between the Year 2012/13_(Fly_Emirates) and 2013/14_(Fly_Emirates).",
+      "Maximum Jersey sponsorship revenue in million GBP, about 40.0 was reported at Year 2018/19_(Fly_Emirates), and 2019/20_(Fly_Emirates)",
+      "The lowest Jersey sponsorship revenue in million GBP, of value 5.5 was reported at Year 2009/10_(Fly_Emirates),  2010/11_(Fly_Emirates),  2011/12_(Fly_Emirates), and 2012/13_(Fly_Emirates)",
+      "The line drastically increased by 5.5 times from Year 2012/13_(Fly_Emirates) to 2013/14_(Fly_Emirates)."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019/20 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 40.0
+      },
+      {
+         "Year": "2018/19 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 40.0
+      },
+      {
+         "Year": "2017/18 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 30.0
+      },
+      {
+         "Year": "2016/17 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 30.0
+      },
+      {
+         "Year": "2015/16 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 30.0
+      },
+      {
+         "Year": "2014/15 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 30.0
+      },
+      {
+         "Year": "2013/14 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 30.0
+      },
+      {
+         "Year": "2012/13 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 5.5
+      },
+      {
+         "Year": "2011/12 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 5.5
+      },
+      {
+         "Year": "2010/11 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 5.5
+      },
+      {
+         "Year": "2009/10 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 5.5
+      }
+   ]
+}

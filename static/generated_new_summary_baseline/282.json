@@ -1,0 +1,88 @@
+{
+   "title": "Defense spending breakdown of the United Kingdom ( UK ) 2017/18 - 2018/19",
+   "labels": [
+      "Defense Category",
+      "2017/18",
+      "2018/19"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 5 different Defense Categorys on X-axis for 2 groups 2017/18, and 2018/19. On the Y-axis it shows their corresponding Expenditure in billion GBP. ",
+      " For Defense Category Military defense, 2018/19 had the highest Expenditure in billion GBP 37980.0 among the 2 groups and in Civil defense, 2018/19 had the lowest Expenditure in billion GBP 44.0. ",
+      " There is a gap of 37936.0 between the highest and lowest Expenditure in billion GBP found for 2018/19 in Defense Category Military defense and Civil defense. ",
+      "On average, the Defense Category Military defense had the highest Expenditure in billion GBP for all 2 groups 2017/18, and 2018/19. Whereas Civil defense had the lowest average Expenditure in billion GBP. "
+   ],
+   "xAxis": "Defense Category",
+   "yAxis": "Expenditure in billion GBP",
+   "min_summary": [
+      "This grouped bar chart represents 5 different Defense Categorys on X-axis for 2 groups 2017/18, and 2018/19. On the Y-axis it shows their corresponding Expenditure in billion GBP. ",
+      " For Defense Category Military defense, 2018/19 had the highest Expenditure in billion GBP 37980.0 among the 2 groups and in Civil defense, 2018/19 had the lowest Expenditure in billion GBP 44.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 5 different Defense Categorys on X-axis for 2 groups 2017/18, and 2018/19. On the Y-axis it shows their corresponding Expenditure in billion GBP. ",
+      " For Defense Category Military defense, 2018/19 had the highest Expenditure in billion GBP 37980.0 among the 2 groups and in Civil defense, 2018/19 had the lowest Expenditure in billion GBP 44.0. ",
+      " There is a gap of 37936.0 between the highest and lowest Expenditure in billion GBP found for 2018/19 in Defense Category Military defense and Civil defense. ",
+      "On average, the Defense Category Military defense had the highest Expenditure in billion GBP for all 2 groups 2017/18, and 2018/19. Whereas Civil defense had the lowest average Expenditure in billion GBP. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 5 different Defense Categorys on X-axis for 2 groups 2017/18, and 2018/19. On the Y-axis it shows their corresponding Expenditure in billion GBP. ",
+      " Defense Category Military defense had the maximum Expenditure in billion GBP among all 2 groups, and it was for 2018/19. The minimum Expenditure in billion GBP was observed in Defense Category Civil defense for 2018/19. ",
+      " For Defense Category Military defense, 2018/19 had the maximum Expenditure in billion GBP and it saw the lowest in Defense Category Civil defense out of all 5 Defense Categorys. ",
+      " There is a gap of 37936.0 between the highest and lowest Expenditure in billion GBP found for 2018/19 in Defense Category Military defense and Civil defense. ",
+      " Among all 2 groups, 2017/18 had the gap of 36269.0 between the maximum and minimum Expenditure in billion GBP observed in Defense Category Military defense and Civil defense respectively. ",
+      "Averaging all 2 groups 2017/18, and 2018/19, the Defense Category Military defense is the maximum Expenditure in billion GBP and Civil defense is the minimum Expenditure in billion GBP. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "2",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Defense Category": "Military defense",
+         "2017/18": "36409",
+         "2018/19": "37980"
+      },
+      {
+         "Defense Category": "Civil defense",
+         "2017/18": "140",
+         "2018/19": "44"
+      },
+      {
+         "Defense Category": "Foreign military aid",
+         "2017/18": "705",
+         "2018/19": "696"
+      },
+      {
+         "Defense Category": "R&D defense",
+         "2017/18": "1231",
+         "2018/19": "1339"
+      },
+      {
+         "Defense Category": "Defense (not elsewhere classified)",
+         "2017/18": "169",
+         "2018/19": "182"
+      }
+   ]
+}

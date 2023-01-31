@@ -1,0 +1,146 @@
+{
+   "title": "Driving theory test pass rates in the United Kingdom 2007 - 2019 by gender",
+   "labels": [
+      "Year",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 2 lines namely Male, and Female. The y axis represents Pass rates and the x axis represents Year.",
+      "Overall Male, and Female are gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Pass rates in descending order is: 1. Female, and lastly, 2. Male. ",
+      "Throughout the period, Female generally had the highest Pass rates relative to others with an average of 58.87, and it reached its maximum at 2007/08 with a value of 68.9.",
+      "Male mostly had the least Pass rates with a mean value of 53.77, which peaked at 2008/09 with a value of 62.6. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Pass rates",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Pass rates and the x axis indicates Year.",
+      "Overall Male, and Female are gradually decreasing,  throughout the Year",
+      "Throughout the period, Female generally had the highest Pass rates relative to others with an average of 58.87, and it reached its maximum at 2007/08 with a value of 68.9.",
+      "Male mostly had the least Pass rates with a mean value of 53.77, which peaked at 2008/09 with a value of 62.6. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely Male, and Female. The y axis represents Pass rates and the x axis represents Year.",
+      "Overall Male, and Female are gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Pass rates in descending order is: 1. Female, and lastly, 2. Male. ",
+      "Throughout the period, Female generally had the highest Pass rates relative to others with an average of 58.87, and it reached its maximum at 2007/08 with a value of 68.9.",
+      "Male mostly had the least Pass rates with a mean value of 53.77, which peaked at 2008/09 with a value of 62.6. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Male, and Female. The y axis represents Pass rates and the x axis represents Year.",
+      "Overall Male, and Female are gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Pass rates in descending order is: 1. Female, and lastly, 2. Male. ",
+      "Throughout the period, Female generally had the highest Pass rates relative to others with an average of 58.87, and it reached its maximum at 2007/08 with a value of 68.9.",
+      "The botommost line, Male,  has a mean of 53.77, and peaked at 2008/09. ",
+      "The difference of Pass rates between Male and Female is smaller at Year 2018/19 compared to the Year 2007/08."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "11",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "11",
+            "1"
+         ],
+         "9": [
+            "11",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "11",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "0"
+         ],
+         "10": [
+            "10",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Male": "45.7",
+         "Female": "49.2"
+      },
+      {
+         "Year": "2017/18",
+         "Male": "46.8",
+         "Female": "50.7"
+      },
+      {
+         "Year": "2016/17",
+         "Male": "46.8",
+         "Female": "50.7"
+      },
+      {
+         "Year": "2015/16",
+         "Male": "47.7",
+         "Female": "51"
+      },
+      {
+         "Year": "2014/15",
+         "Male": "48.7",
+         "Female": "53.6"
+      },
+      {
+         "Year": "2013/14",
+         "Male": "48.8",
+         "Female": "54.7"
+      },
+      {
+         "Year": "2012/13",
+         "Male": "56.2",
+         "Female": "62.3"
+      },
+      {
+         "Year": "2011/12",
+         "Male": "58.1",
+         "Female": "63.7"
+      },
+      {
+         "Year": "2010/11",
+         "Male": "60.4",
+         "Female": "66"
+      },
+      {
+         "Year": "2009/10",
+         "Male": "61.1",
+         "Female": "66.9"
+      },
+      {
+         "Year": "2008/09",
+         "Male": "62.6",
+         "Female": "68.7"
+      },
+      {
+         "Year": "2007/08",
+         "Male": "62.3",
+         "Female": "68.9"
+      }
+   ]
+}

@@ -1,0 +1,122 @@
+{
+   "title": "Major countries in lithium mine production 2014 to 2019",
+   "labels": [
+      "Country",
+      "2014",
+      "2016",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Production in metric tons on the Y-axis for 8 different Countrys for 4 groups 2014, 2016, 2018, and 2019 that are presented on the X-axis. ",
+      " Country Australia had the maximum Production in metric tons among all 4 groups, and it was for 2018. The minimum Production in metric tons was observed in Country Namibia for 2014. ",
+      " There is a gap of 58500.0 between the highest and lowest Production in metric tons found for 2018 in Country Australia and Brazil. ",
+      "Averaging all 4 groups 2014, 2016, 2018, and 2019, the Country Australia is the maximum Production in metric tons and Namibia is the minimum Production in metric tons. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Production in metric tons",
+   "min_summary": [
+      "This grouped bar chart shows Production in metric tons on the Y-axis for 8 different Countrys for 4 groups 2014, 2016, 2018, and 2019 that are presented on the X-axis. ",
+      " For Country Australia, 2018 had the highest Production in metric tons 58800.0 among the 4 groups and in Namibia, 2014 had the lowest Production in metric tons 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Production in metric tons on the Y-axis for 8 different Countrys for 4 groups 2014, 2016, 2018, and 2019 that are presented on the X-axis. ",
+      " Country Australia had the maximum Production in metric tons among all 4 groups, and it was for 2018. The minimum Production in metric tons was observed in Country Namibia for 2014. ",
+      " There is a gap of 58500.0 between the highest and lowest Production in metric tons found for 2018 in Country Australia and Brazil. ",
+      "Averaging all 4 groups 2014, 2016, 2018, and 2019, the Country Australia is the maximum Production in metric tons and Namibia is the minimum Production in metric tons. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Production in metric tons on the Y-axis for 8 different Countrys for 4 groups 2014, 2016, 2018, and 2019 that are presented on the X-axis. ",
+      " Out of all 4 groups, 2018 had the highest Production in metric tons for Country Australia and 2014 had the lowest Production in metric tons for Country Namibia. ",
+      " For Country Australia, 2018 had the maximum Production in metric tons and it saw the lowest in Country Brazil out of all 8 Countrys. ",
+      " The maximum Production in metric tons for 2018 that was found in Country Australia was 196.0 times larger than the minimum Production in metric tons observed in Country Brazil. ",
+      " Out of all 4 groups, the highest gap between the maximum and minimum Production in metric tons was found in case of 2018. ",
+      " 2018 had the maximum Production in metric tons out of all 4 groups in Country Australia followed by 2018 in Australia, and the minimum Production in metric tons is found for 2014 in Namibia. ",
+      "On average, the Country Australia had the highest Production in metric tons for all 4 groups 2014, 2016, 2018, and 2019. Whereas Namibia had the lowest average Production in metric tons. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Australia",
+         "2014": "13300",
+         "2016": "14300",
+         "2018": "58800",
+         "2019": "42000"
+      },
+      {
+         "Country": "Chile",
+         "2014": "11500",
+         "2016": "12000",
+         "2018": "17000",
+         "2019": "18000"
+      },
+      {
+         "Country": "China",
+         "2014": "2300",
+         "2016": "2000",
+         "2018": "7100",
+         "2019": "7500"
+      },
+      {
+         "Country": "Argentina",
+         "2014": "3200",
+         "2016": "5700",
+         "2018": "6400",
+         "2019": "6400"
+      },
+      {
+         "Country": "Zimbabwe",
+         "2014": "900",
+         "2016": "900",
+         "2018": "1600",
+         "2019": "1600"
+      },
+      {
+         "Country": "Portugal",
+         "2014": "300",
+         "2016": "200",
+         "2018": "800",
+         "2019": "1200"
+      },
+      {
+         "Country": "Brazil",
+         "2014": "160",
+         "2016": "200",
+         "2018": "300",
+         "2019": "300"
+      },
+      {
+         "Country": "Namibia",
+         "2014": "0",
+         "2016": "0",
+         "2018": "500",
+         "2019": "0"
+      }
+   ]
+}

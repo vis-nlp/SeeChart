@@ -1,0 +1,77 @@
+{
+   "title": "University applicants in the United Kingdom ( UK ) 2010 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of university applicants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of university applicants. In total the number of data points it has is 9.",
+      " Overall Number of university applicants has decreased over the Year.",
+      "Number of university applicants is roughly constant from 2010 to 2011, slightly decreasing from 2011 to 2012, slightly increasing from 2012 to 2014, roughly constant from 2014 to 2016, and finally slightly decreasing from 2016 to 2018.",
+      "The steepest decrease occurs in between the Year 2011 and 2012.",
+      "The highest Number of university applicants, of value 674890.0 was reached at Year 2016",
+      "Minimum Number of university applicants about 616700.0 was reached at Year 2012"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of university applicants, containing a total of 9 data points.",
+      " In general Number of university applicants has stayed the same over the Year.",
+      "Number of university applicants is roughly constant from 2010 to 2011, slightly decreasing from 2011 to 2012, slightly increasing from 2012 to 2014, roughly constant from 2014 to 2016, and finally slightly decreasing from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of university applicants. In total the number of data points it has is 9.",
+      " Overall Number of university applicants has decreased over the Year.",
+      "Number of university applicants is roughly constant from 2010 to 2011, slightly decreasing from 2011 to 2012, slightly increasing from 2012 to 2014, roughly constant from 2014 to 2016, and finally slightly decreasing from 2016 to 2018.",
+      "The steepest decrease occurs in between the Year 2011 and 2012.",
+      "The highest Number of university applicants, of value 674890.0 was reached at Year 2016",
+      "Minimum Number of university applicants about 616700.0 was reached at Year 2012"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of university applicants. In total the number of data points it has is 9.",
+      " In general Number of university applicants has stayed the same over the Year.",
+      "Number of university applicants is roughly constant from 2010 to 2011, slightly decreasing from 2011 to 2012, slightly increasing from 2012 to 2014, roughly constant from 2014 to 2016, and finally slightly decreasing from 2016 to 2018.",
+      "The steepest decrease occurs in between the Year 2011 and 2012.",
+      "The highest Number of university applicants, of value 674890.0 was reached at Year 2016",
+      "Minimum Number of university applicants about 616700.0 was reached at Year 2012",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of university applicants": 636960.0
+      },
+      {
+         "Year": "2017",
+         "Number of university applicants": 649700.0
+      },
+      {
+         "Year": "2016",
+         "Number of university applicants": 674890.0
+      },
+      {
+         "Year": "2015",
+         "Number of university applicants": 673040.0
+      },
+      {
+         "Year": "2014",
+         "Number of university applicants": 659030.0
+      },
+      {
+         "Year": "2013",
+         "Number of university applicants": 635910.0
+      },
+      {
+         "Year": "2012",
+         "Number of university applicants": 616700.0
+      },
+      {
+         "Year": "2011",
+         "Number of university applicants": 668150.0
+      },
+      {
+         "Year": "2010",
+         "Number of university applicants": 658560.0
+      }
+   ]
+}

@@ -1,0 +1,103 @@
+{
+   "title": "Share of automobile sales in China in 2010 and 2025 , by segment",
+   "labels": [
+      "Year",
+      "Premium class passenger cars/ limousines (E/F)",
+      "medium-sized vehicles (C/D)",
+      "Compact and mini cars (A/B)"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 3 lines namely Premium class passenger cars/ limousines (E/F), medium-sized vehicles (C/D), and Compact and mini cars (A/B). The y axis represents Share in total sales and the x axis represents Year.",
+      "Overall Premium class passenger cars/ limousines (E/F), medium-sized vehicles (C/D), and Compact and mini cars (A/B) are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share in total sales in descending order is: 1. medium-sized vehicles (C/D), 2. Compact and mini cars (A/B), and lastly, 3. Premium class passenger cars/ limousines (E/F). ",
+      "Overall across the Year, medium-sized vehicles (C/D) mostly maintained the highest Share in total sales when compared to others with a mean value of 57.0, and it peaked at 2010.",
+      "Followed by Compact and mini cars (A/B) which ranks as the second topmpost line , with an average of 36.5 Share in total sales,reaching its highest point  at 2025 with a value of 37.0. ",
+      "The botommost line, Premium class passenger cars/ limousines (E/F),  has a mean of 6.5, and peaked at 2025. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share in total sales",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Premium class passenger cars/ limousines (E/F), medium-sized vehicles (C/D), and Compact and mini cars (A/B). The y axis indicates the Share in total sales and the x axis indicates Year.",
+      "Overall Premium class passenger cars/ limousines (E/F), medium-sized vehicles (C/D), and Compact and mini cars (A/B) are roughly constant,  throughout the Year",
+      "Overall across the Year, medium-sized vehicles (C/D) mostly maintained the highest Share in total sales when compared to others with a mean value of 57.0, and it peaked at 2010.",
+      "After medium-sized vehicles (C/D), Compact and mini cars (A/B) overall has the second highest values , with a mean value of 36.5, peaking at 2025. ",
+      "The botommost line, Premium class passenger cars/ limousines (E/F),  has a mean of 6.5, and peaked at 2025. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 3 lines namely Premium class passenger cars/ limousines (E/F), medium-sized vehicles (C/D), and Compact and mini cars (A/B). The y axis represents Share in total sales and the x axis represents Year.",
+      "Overall Premium class passenger cars/ limousines (E/F), medium-sized vehicles (C/D), and Compact and mini cars (A/B) are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share in total sales in descending order is: 1. medium-sized vehicles (C/D), 2. Compact and mini cars (A/B), and lastly, 3. Premium class passenger cars/ limousines (E/F). ",
+      "Overall across the Year, medium-sized vehicles (C/D) mostly maintained the highest Share in total sales when compared to others with a mean value of 57.0, and it peaked at 2010.",
+      "Followed by Compact and mini cars (A/B) which ranks as the second topmpost line , with an average of 36.5 Share in total sales,reaching its highest point  at 2025 with a value of 37.0. ",
+      "The botommost line, Premium class passenger cars/ limousines (E/F),  has a mean of 6.5, and peaked at 2025. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 3 lines namely Premium class passenger cars/ limousines (E/F), medium-sized vehicles (C/D), and Compact and mini cars (A/B). The y axis represents Share in total sales and the x axis represents Year.",
+      "Overall Premium class passenger cars/ limousines (E/F), medium-sized vehicles (C/D), and Compact and mini cars (A/B) are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. medium-sized vehicles (C/D), 2. Compact and mini cars (A/B), and lastly, 3. Premium class passenger cars/ limousines (E/F). ",
+      "Overall across the Year, medium-sized vehicles (C/D) mostly maintained the highest Share in total sales when compared to others with a mean value of 57.0, and it peaked at 2010.",
+      "After medium-sized vehicles (C/D), Compact and mini cars (A/B) overall has the second highest values , with a mean value of 36.5, peaking at 2025. ",
+      "The botommost line, Premium class passenger cars/ limousines (E/F),  has a mean of 6.5, and peaked at 2025. ",
+      "Premium class passenger cars/ limousines (E/F) reported the lowest Share in total sales about 6.0 in Year 2010"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "1",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "9": [
+            "1",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "15": [
+            "1",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "10": [
+            "0",
+            "2"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2025",
+         "Premium class passenger cars/ limousines (E/F)": "7",
+         "medium-sized vehicles (C/D)": "56",
+         "Compact and mini cars (A/B)": "37"
+      },
+      {
+         "Year": "2010",
+         "Premium class passenger cars/ limousines (E/F)": "6",
+         "medium-sized vehicles (C/D)": "58",
+         "Compact and mini cars (A/B)": "36"
+      }
+   ]
+}

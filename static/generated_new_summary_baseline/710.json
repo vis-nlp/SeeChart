@@ -1,0 +1,115 @@
+{
+   "title": "Smartwatch global unit sales forecast 2014 to 2015",
+   "labels": [
+      "Year",
+      "Western Europe",
+      "Asia Pacific",
+      "North America",
+      "Central and Eastern Europe",
+      "China",
+      "South America",
+      "Middle East and Africa"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 7 lines denoting Western Europe, Asia Pacific, North America, Central and Eastern Europe, China, South America, and Middle East and Africa. The y axis indicates the Unit sales in millions and the x axis indicates Year.",
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "Asia Pacific, and North America has increased by 6.7, and 6.2 times respectively.",
+      "Throughout the period, North America generally had the highest Unit sales in millions relative to others with an average of 4.3, and it reached its maximum at 2015 with a value of 7.4.",
+      "Followed by Asia Pacific which ranks as the second topmpost line , with an average of 3.9 Unit sales in millions,reaching its highest point  at 2015 with a value of 6.7. ",
+      "South America mostly had the least Unit sales in millions with a mean value of 0.35, which peaked at 2015 with a value of 0.6. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Unit sales in millions",
+   "min_summary": [
+      "This is a multi-line chart with 7 lines representing Western Europe, Asia Pacific, North America, Central and Eastern Europe, China, South America, and Middle East and Africa. The y axis denotes Unit sales in millions and the x axis denotes Year.",
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "Overall across the Year, North America mostly maintained the highest Unit sales in millions when compared to others with a mean value of 4.3, and it peaked at 2015.",
+      "Followed by Asia Pacific which ranks as the second topmpost line , with an average of 3.9 Unit sales in millions,reaching its highest point  at 2015 with a value of 6.7. ",
+      "The botommost line, South America,  has a mean of 0.35, and peaked at 2015. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 7 lines denoting Western Europe, Asia Pacific, North America, Central and Eastern Europe, China, South America, and Middle East and Africa. The y axis indicates the Unit sales in millions and the x axis indicates Year.",
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "Asia Pacific, and North America has increased by 6.7, and 6.2 times respectively.",
+      "Throughout the period, North America generally had the highest Unit sales in millions relative to others with an average of 4.3, and it reached its maximum at 2015 with a value of 7.4.",
+      "Followed by Asia Pacific which ranks as the second topmpost line , with an average of 3.9 Unit sales in millions,reaching its highest point  at 2015 with a value of 6.7. ",
+      "South America mostly had the least Unit sales in millions with a mean value of 0.35, which peaked at 2015 with a value of 0.6. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 7 lines namely Western Europe, Asia Pacific, North America, Central and Eastern Europe, China, South America, and Middle East and Africa. The y axis represents Unit sales in millions and the x axis represents Year.",
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "Asia Pacific, and North America has increased by 6.7, and 6.2 times respectively.",
+      "Throughout the period, North America generally had the highest Unit sales in millions relative to others with an average of 4.3, and it reached its maximum at 2015 with a value of 7.4.",
+      "Followed by Asia Pacific which ranks as the second topmpost line , with an average of 3.9 Unit sales in millions,reaching its highest point  at 2015 with a value of 6.7. ",
+      "South America mostly had the least Unit sales in millions with a mean value of 0.35, which peaked at 2015 with a value of 0.6. ",
+      "South America reported the lowest Unit sales in millions about 0.1 in Year 2014"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "1",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "1",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Western Europe": "5.4",
+         "Asia Pacific": "6.7",
+         "North America": "7.4",
+         "Central and Eastern Europe": "1.3",
+         "China": "3.6",
+         "South America": "0.6",
+         "Middle East and Africa": "1.1"
+      },
+      {
+         "Year": "2014",
+         "Western Europe": "0.8",
+         "Asia Pacific": "1.0",
+         "North America": "1.2",
+         "Central and Eastern Europe": "0.2",
+         "China": "0.5",
+         "South America": "0.1",
+         "Middle East and Africa": "0.2"
+      }
+   ]
+}

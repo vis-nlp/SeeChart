@@ -1,0 +1,86 @@
+{
+   "title": "Global automotive industry : capacity and assembly volume 2015/2022",
+   "labels": [
+      "Country",
+      "North America",
+      "EU",
+      "Eastern Europe",
+      "Asia-Pacific",
+      "Middle East & Africa",
+      "South America"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding Capacity in million units. ",
+      " Country 2022 had the maximum Capacity in million units among all 6 groups, and it was for Asia-Pacific. The minimum Capacity in million units was observed in Country 2015 for Middle East & Africa. ",
+      " There is a gap of 11.0 between the highest and lowest Capacity in million units found for Eastern Europe in Country 2022 and 2015. ",
+      "On average, the Country 2022 had the highest Capacity in million units for all 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. Whereas 2015 had the lowest average Capacity in million units. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Capacity in million units",
+   "min_summary": [
+      "This grouped bar chart shows Capacity in million units on the Y-axis for 2 different Countrys for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America that are presented on the X-axis. ",
+      " Country 2022 had the maximum Capacity in million units among all 6 groups, and it was for Asia-Pacific. The minimum Capacity in million units was observed in Country 2015 for Middle East & Africa. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding Capacity in million units. ",
+      " Country 2022 had the maximum Capacity in million units among all 6 groups, and it was for Asia-Pacific. The minimum Capacity in million units was observed in Country 2015 for Middle East & Africa. ",
+      " There is a gap of 11.0 between the highest and lowest Capacity in million units found for Eastern Europe in Country 2022 and 2015. ",
+      "On average, the Country 2022 had the highest Capacity in million units for all 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. Whereas 2015 had the lowest average Capacity in million units. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding Capacity in million units. ",
+      " For Country 2022, Asia-Pacific had the highest Capacity in million units 770.0 among the 6 groups and in 2015, Middle East & Africa had the lowest Capacity in million units 37.0. ",
+      " For Country 2022, Eastern Europe had the highest Capacity in million units among all 2 Countrys and it has the lowest Capacity in million units in Country 2015. ",
+      "Country 2022 and 2015 had the biggest gap of 11.0 between the highest and lowest Capacity in million units found for Eastern Europe. ",
+      " Among all 6 groups, Asia-Pacific had the gap of 89.0 between the maximum and minimum Capacity in million units observed in Country 2022 and 2015 respectively. ",
+      " In case of Country 2022, Asia-Pacific had the highest Capacity in million units 770.0 among the 6 groups and in 2015, Middle East & Africa had the lowest Capacity in million units 37.0. The second highest Capacity in million units 64.0 was observed for Asia-Pacific in Country 2022. ",
+      "Averaging all 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America, the Country 2022 is the maximum Capacity in million units and 2015 is the minimum Capacity in million units. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "6",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "2022",
+         "North America": "22.8",
+         "EU": "23.5",
+         "Eastern Europe": "7.0",
+         "Asia-Pacific": "77.0",
+         "Middle East & Africa": "4.4",
+         "South America": "6.4"
+      },
+      {
+         "Country": "2015",
+         "North America": "19.9",
+         "EU": "22.2",
+         "Eastern Europe": "5.9",
+         "Asia-Pacific": "68.1",
+         "Middle East & Africa": "3.7",
+         "South America": "5.8"
+      }
+   ]
+}

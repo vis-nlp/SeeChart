@@ -1,0 +1,97 @@
+{
+   "title": "Red Lobster restaurants in the U.S. and Canada 2013",
+   "xAxis": "Year",
+   "yAxis": "Number of restaurants",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of restaurants, containing a total of 14 data points.",
+      " In general Number of restaurants has rose over the Year.",
+      "Number of restaurants is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2012, and lastly roughly constant from 2012 to 2013.",
+      "The steepest increase occurs in between the Year 2008 and 2009.",
+      "The highest Number of restaurants, of value 705.0 was reached at Year 2013",
+      "Minimum Number of restaurants about 654.0 was reached at Year 2000"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of restaurants. In total the number of data points it has is 14.",
+      " Overall Number of restaurants has increased over the Year.",
+      "Number of restaurants is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2012, and lastly roughly constant from 2012 to 2013."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of restaurants, containing a total of 14 data points.",
+      " In general Number of restaurants has rose over the Year.",
+      "Number of restaurants is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2012, and lastly roughly constant from 2012 to 2013.",
+      "The steepest increase occurs in between the Year 2008 and 2009.",
+      "The highest Number of restaurants, of value 705.0 was reached at Year 2013",
+      "Minimum Number of restaurants about 654.0 was reached at Year 2000"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of restaurants, containing a total of 14 data points.",
+      " In general Number of restaurants has rose over the Year.",
+      "Number of restaurants is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2012, and lastly roughly constant from 2012 to 2013.",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "The highest Number of restaurants, of value 705.0 was reached at Year 2013",
+      "Minimum Number of restaurants about 654.0 was reached at Year 2000",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2000",
+         "Number of restaurants": 654.0
+      },
+      {
+         "Year": "2001",
+         "Number of restaurants": 661.0
+      },
+      {
+         "Year": "2002",
+         "Number of restaurants": 667.0
+      },
+      {
+         "Year": "2003",
+         "Number of restaurants": 673.0
+      },
+      {
+         "Year": "2004",
+         "Number of restaurants": 680.0
+      },
+      {
+         "Year": "2005",
+         "Number of restaurants": 679.0
+      },
+      {
+         "Year": "2006",
+         "Number of restaurants": 682.0
+      },
+      {
+         "Year": "2007",
+         "Number of restaurants": 680.0
+      },
+      {
+         "Year": "2008",
+         "Number of restaurants": 680.0
+      },
+      {
+         "Year": "2009",
+         "Number of restaurants": 690.0
+      },
+      {
+         "Year": "2010",
+         "Number of restaurants": 694.0
+      },
+      {
+         "Year": "2011",
+         "Number of restaurants": 698.0
+      },
+      {
+         "Year": "2012",
+         "Number of restaurants": 704.0
+      },
+      {
+         "Year": "2013",
+         "Number of restaurants": 705.0
+      }
+   ]
+}

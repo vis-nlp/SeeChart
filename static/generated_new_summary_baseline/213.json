@@ -1,0 +1,77 @@
+{
+   "title": "Average ticket price Orlando Magic ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 10 data points.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2006/07 and 2007/08.",
+      "The highest Average ticket price in U.S. dollars, of value 43.65 was reached at Year 2011/12",
+      "Minimum Average ticket price in U.S. dollars about 35.29 was reached at Year 2006/07"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 10.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 10 data points.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2006/07 and 2007/08.",
+      "The highest Average ticket price in U.S. dollars, of value 43.65 was reached at Year 2011/12",
+      "Minimum Average ticket price in U.S. dollars about 35.29 was reached at Year 2006/07"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 10 data points.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2006/07 and 2007/08.",
+      "The highest Average ticket price in U.S. dollars, of value 43.65 was reached at Year 2011/12",
+      "Minimum Average ticket price in U.S. dollars about 35.29 was reached at Year 2006/07",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": 39.4
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 39.4
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 39.4
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 41.18
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 43.65
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 43.0
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 40.3
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 40.3
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 38.46
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 35.29
+      }
+   ]
+}

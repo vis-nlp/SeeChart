@@ -1,0 +1,85 @@
+{
+   "title": "Gross domestic product ( GDP ) growth rate in Thailand 2024",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2024.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum GDP growth compared to previous year, about 4.13 was reported at Year 2018",
+      "The lowest GDP growth compared to previous year, of value 0.98 was reported at Year 2014"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth compared to previous year has rose over the Year.",
+      "GDP growth compared to previous year is slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2024."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " Overall GDP growth compared to previous year has increased over the Year.",
+      "GDP growth compared to previous year is slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2024.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum GDP growth compared to previous year, about 4.13 was reported at Year 2018",
+      "The lowest GDP growth compared to previous year, of value 0.98 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " In general GDP growth compared to previous year has rose over the Year.",
+      "GDP growth compared to previous year is slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2024.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum GDP growth compared to previous year, about 4.13 was reported at Year 2018",
+      "The lowest GDP growth compared to previous year, of value 0.98 was reported at Year 2014",
+      "The line drastically increased by 3.2 times from Year 2014 to 2015."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 3.65
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 3.65
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 3.65
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 3.49
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 3.01
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 2.87
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 4.13
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 4.02
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 3.36
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 3.13
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 0.98
+      }
+   ]
+}

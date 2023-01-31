@@ -1,0 +1,89 @@
+{
+   "title": "Miele : global revenue 2006/07 to 2017/18",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion euros. In total the number of data points it has is 12.",
+      " Overall Revenue in billion euros has increased over the Year.",
+      "Revenue in billion euros is roughly constant from 2006/07 to 2009/10, slightly increasing from 2009/10 to 2011/12, roughly constant from 2011/12 to 2013/14, and finally gradually increasing from 2013/14 to 2017/18.",
+      "The steepest increase occurs in between the Year 2013/14 and 2014/15.",
+      "The highest Revenue in billion euros, of value 4.1 was reached at Year 2017/18",
+      "Minimum Revenue in billion euros about 2.74 was reached at Year 2006/07"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion euros. In total the number of data points it has is 12.",
+      " In general Revenue in billion euros has rose over the Year.",
+      "Revenue in billion euros is roughly constant from 2006/07 to 2009/10, slightly increasing from 2009/10 to 2011/12, roughly constant from 2011/12 to 2013/14, and finally gradually increasing from 2013/14 to 2017/18."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion euros. In total the number of data points it has is 12.",
+      " Overall Revenue in billion euros has increased over the Year.",
+      "Revenue in billion euros is roughly constant from 2006/07 to 2009/10, slightly increasing from 2009/10 to 2011/12, roughly constant from 2011/12 to 2013/14, and finally gradually increasing from 2013/14 to 2017/18.",
+      "The steepest increase occurs in between the Year 2013/14 and 2014/15.",
+      "The highest Revenue in billion euros, of value 4.1 was reached at Year 2017/18",
+      "Minimum Revenue in billion euros about 2.74 was reached at Year 2006/07"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion euros, containing a total of 12 data points.",
+      " Overall Revenue in billion euros has increased over the Year.",
+      "Revenue in billion euros is roughly constant from 2006/07 to 2009/10, slightly increasing from 2009/10 to 2011/12, roughly constant from 2011/12 to 2013/14, and finally gradually increasing from 2013/14 to 2017/18.",
+      "The most drastic increase took place within the Year 2013/14 and 2014/15.",
+      "The highest Revenue in billion euros, of value 4.1 was reached at Year 2017/18",
+      "Minimum Revenue in billion euros about 2.74 was reached at Year 2006/07",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017/18",
+         "Revenue in billion euros": 4.1
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in billion euros": 3.93
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in billion euros": 3.71
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in billion euros": 3.49
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in billion euros": 3.22
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in billion euros": 3.15
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in billion euros": 3.04
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in billion euros": 2.95
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in billion euros": 2.83
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in billion euros": 2.77
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in billion euros": 2.81
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in billion euros": 2.74
+      }
+   ]
+}

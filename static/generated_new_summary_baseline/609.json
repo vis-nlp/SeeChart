@@ -1,0 +1,65 @@
+{
+   "title": "Consumers who have purchased a meal from a food truck in the U.S. 2014 , by age",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 6.",
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is roughly constant from 18_to_34_years to 55_to_64_years, slightly decreasing from 55_to_64_years to 65_years_and_over, and lastly slightly increasing from 65_years_and_over to All_adults.",
+      "The most drastic decrease took place within the Year 55_to_64_years and 65_years_and_over.",
+      "The highest Share of respondents, of value 56.0 was reached at Year 18_to_34_years",
+      "Minimum Share of respondents about 30.0 was reached at Year 65_years_and_over"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 6 data points.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is roughly constant from 18_to_34_years to 55_to_64_years, slightly decreasing from 55_to_64_years to 65_years_and_over, and lastly slightly increasing from 65_years_and_over to All_adults."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 6.",
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is roughly constant from 18_to_34_years to 55_to_64_years, slightly decreasing from 55_to_64_years to 65_years_and_over, and lastly slightly increasing from 65_years_and_over to All_adults.",
+      "The most drastic decrease took place within the Year 55_to_64_years and 65_years_and_over.",
+      "The highest Share of respondents, of value 56.0 was reached at Year 18_to_34_years",
+      "Minimum Share of respondents about 30.0 was reached at Year 65_years_and_over"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 6.",
+      " Overall Share of respondents has decreased over the Year.",
+      "Share of respondents is roughly constant from 18_to_34_years to 55_to_64_years, slightly decreasing from 55_to_64_years to 65_years_and_over, and lastly slightly increasing from 65_years_and_over to All_adults.",
+      "The most drastic decrease took place within the Year 55_to_64_years and 65_years_and_over.",
+      "The highest Share of respondents, of value 56.0 was reached at Year 18_to_34_years",
+      "Minimum Share of respondents about 30.0 was reached at Year 65_years_and_over",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "All adults",
+         "Share of respondents": 47.0
+      },
+      {
+         "Year": "18 to 34 years",
+         "Share of respondents": 56.0
+      },
+      {
+         "Year": "35 to 44 years",
+         "Share of respondents": 54.0
+      },
+      {
+         "Year": "45 to 54 years",
+         "Share of respondents": 48.0
+      },
+      {
+         "Year": "55 to 64 years",
+         "Share of respondents": 48.0
+      },
+      {
+         "Year": "65 years and over",
+         "Share of respondents": 30.0
+      }
+   ]
+}

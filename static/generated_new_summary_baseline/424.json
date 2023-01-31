@@ -1,0 +1,61 @@
+{
+   "title": "Commercial property market value in the United Kingdom ( UK ) 2012 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Market value in billion GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market value in billion GBP. In total the number of data points it has is 5.",
+      " Overall Market value in billion GBP has increased over the Year.",
+      "Market value in billion GBP is roughly constant from 2012 to 2013, gradually increasing from 2013 to 2015, and lastly roughly constant from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Market value in billion GBP, about 926.0 was reported at Year 2015",
+      "Minimum Market value in billion GBP about 650.0 was reached at Year 2012"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market value in billion GBP, containing a total of 5 data points.",
+      " In general Market value in billion GBP has rose over the Year.",
+      "Market value in billion GBP is roughly constant from 2012 to 2013, gradually increasing from 2013 to 2015, and lastly roughly constant from 2015 to 2016."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market value in billion GBP. In total the number of data points it has is 5.",
+      " Overall Market value in billion GBP has increased over the Year.",
+      "Market value in billion GBP is roughly constant from 2012 to 2013, gradually increasing from 2013 to 2015, and lastly roughly constant from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Market value in billion GBP, about 926.0 was reported at Year 2015",
+      "Minimum Market value in billion GBP about 650.0 was reached at Year 2012"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market value in billion GBP. In total the number of data points it has is 5.",
+      " In general Market value in billion GBP has rose over the Year.",
+      "Market value in billion GBP is roughly constant from 2012 to 2013, gradually increasing from 2013 to 2015, and lastly roughly constant from 2015 to 2016.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Market value in billion GBP, about 926.0 was reported at Year 2015",
+      "Minimum Market value in billion GBP about 650.0 was reached at Year 2012",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2016",
+         "Market value in billion GBP": 883.0
+      },
+      {
+         "Year": "2015",
+         "Market value in billion GBP": 926.0
+      },
+      {
+         "Year": "2014",
+         "Market value in billion GBP": 788.0
+      },
+      {
+         "Year": "2013",
+         "Market value in billion GBP": 687.0
+      },
+      {
+         "Year": "2012",
+         "Market value in billion GBP": 650.0
+      }
+   ]
+}

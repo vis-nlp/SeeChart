@@ -1,0 +1,123 @@
+{
+   "title": "Snapchat penetration rate in the Netherlands 2017 - 2018 , by age group",
+   "labels": [
+      "Year",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The given chart is of multi-line type with 3 lines namely 2016, 2017, and 2018. The y axis represents Share of respondants and the x axis represents Year.",
+      "Overall 2016, 2017, and 2018 are rapidly decreasing,  throughout the Year",
+      "2016, 2017, and 2018 has decreased by 98.21428571428571, 99.99999999998506, and 98.61111111111111 percent respectively.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 2018, 2. 2017, and lastly, 3. 2016. ",
+      "Throughout the period, 2018 generally had the highest Share of respondants relative to others with an average of 22.6, and it reached its maximum at 15-19_years with a value of 72.0.",
+      "After 2018, 2017 overall has the second highest values , with a mean value of 19.4, peaking at 15-19_years. ",
+      "2016 mostly had the least Share of respondants with a mean value of 13.8, which peaked at 15-19_years with a value of 56.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of respondants",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the Share of respondants and the x axis indicates Year.",
+      "Overall 2016, 2017, and 2018 are rapidly decreasing,  throughout the Year",
+      "Overall across the Year, 2018 mostly maintained the highest Share of respondants when compared to others with a mean value of 22.6, and it peaked at 15-19_years.",
+      "After 2018, 2017 overall has the second highest values , with a mean value of 19.4, peaking at 15-19_years. ",
+      "The botommost line, 2016,  has a mean of 13.8, and peaked at 15-19_years. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 3 lines namely 2016, 2017, and 2018. The y axis represents Share of respondants and the x axis represents Year.",
+      "Overall 2016, 2017, and 2018 are rapidly decreasing,  throughout the Year",
+      "2016, 2017, and 2018 has decreased by 98.21428571428571, 99.99999999998506, and 98.61111111111111 percent respectively.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 2018, 2. 2017, and lastly, 3. 2016. ",
+      "Throughout the period, 2018 generally had the highest Share of respondants relative to others with an average of 22.6, and it reached its maximum at 15-19_years with a value of 72.0.",
+      "After 2018, 2017 overall has the second highest values , with a mean value of 19.4, peaking at 15-19_years. ",
+      "2016 mostly had the least Share of respondants with a mean value of 13.8, which peaked at 15-19_years with a value of 56.0. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the Share of respondants and the x axis indicates Year.",
+      "Overall 2016, 2017, and 2018 are rapidly decreasing,  throughout the Year",
+      "2016, 2017, and 2018 has decreased by 98.21428571428571, 99.99999999998506, and 98.61111111111111 percent respectively.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 2018, 2. 2017, and lastly, 3. 2016. ",
+      "Overall across the Year, 2018 mostly maintained the highest Share of respondants when compared to others with a mean value of 22.6, and it peaked at 15-19_years.",
+      "Followed by 2017 which ranks as the second topmpost line , with an average of 19.4 Share of respondants,reaching its highest point  at 15-19_years with a value of 67.0. ",
+      "2016 mostly had the least Share of respondants with a mean value of 13.8, which peaked at 15-19_years with a value of 56.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "4",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "15-19 years",
+         "2016": "56",
+         "2017": "67",
+         "2018": "72"
+      },
+      {
+         "Year": "20-39 years",
+         "2016": "11",
+         "2017": "25",
+         "2018": "32"
+      },
+      {
+         "Year": "40-64 years",
+         "2016": "1",
+         "2017": "4",
+         "2018": "7"
+      },
+      {
+         "Year": "65-79 years",
+         "2016": "0",
+         "2017": "1",
+         "2018": "1"
+      },
+      {
+         "Year": "80 years and older",
+         "2016": "1",
+         "2017": "0",
+         "2018": "1"
+      }
+   ]
+}

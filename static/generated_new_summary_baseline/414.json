@@ -1,0 +1,81 @@
+{
+   "title": "Stadium construction/renovation costs UEFA EURO 2016",
+   "xAxis": "Stadiums",
+   "yAxis": "Construction/renovation costs in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Construction/renovation costs in million euros for 9 number of Stadiumss. ",
+      "The Construction/renovation costs in million euros is appeared to be the highest at Stadiums Stade des Lumi\u00e8res Lyon (new stadium) and lowest at Stadiums Stadium Municipal Toulouse (major renovation). ",
+      "The highest Stadiums Stade des Lumi\u00e8res Lyon (new stadium) has 321.0 more Construction/renovation costs in million euros than the lowest Stadiums Stadium Municipal Toulouse (major renovation). "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Stadiums in the x axis and Construction/renovation costs in million euros in the y axis. ",
+      "The Construction/renovation costs in million euros is appeared to be the highest at Stadiums Stade des Lumi\u00e8res Lyon (new stadium) and lowest at Stadiums Stadium Municipal Toulouse (major renovation). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Construction/renovation costs in million euros for 9 number of Stadiumss. ",
+      "The Construction/renovation costs in million euros is appeared to be the highest at Stadiums Stade des Lumi\u00e8res Lyon (new stadium) and lowest at Stadiums Stadium Municipal Toulouse (major renovation). ",
+      "The highest Stadiums Stade des Lumi\u00e8res Lyon (new stadium) has 321.0 more Construction/renovation costs in million euros than the lowest Stadiums Stadium Municipal Toulouse (major renovation). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Stadiums in the x axis and Construction/renovation costs in million euros in the y axis. ",
+      "The maximum Construction/renovation costs in million euros 381.0 is found at Stadiums Stade des Lumi\u00e8res Lyon (new stadium) and the minimum is found at Stadium Municipal Toulouse (major renovation) where Construction/renovation costs in million euros is 60.0. ",
+      "There is a difference of 321.0 between the maximum Stadiums Stade des Lumi\u00e8res Lyon (new stadium) and minimum Stadiums Stadium Municipal Toulouse (major renovation). ",
+      "Construction/renovation costs in million euros at Stadiums Stade des Lumi\u00e8res Lyon (new stadium) is 381.0 , second place is  at 381.0, and thirdly is Stade V\u00e9lodrome Marseille (major renovation) at 267.0.",
+      "Stadiums Stade Bollaert Lens (major renovation), and Stade Geoffroy Guichard Saint-Etienne (major renovation) share the same value 75.0. ",
+      "The Stadiums Stade des Lumi\u00e8res Lyon (new stadium) tends to be 2.05 percent higher than average. ",
+      "Summing up the values of all Stadiumss, we get total 1670.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Stadiums": "Stade des Lumi\u00e8res Lyon (new stadium)",
+         "Construction/renovation costs in million euros": 381.0
+      },
+      {
+         "Stadiums": "Grand Stade LMCU Lille (new stadium)",
+         "Construction/renovation costs in million euros": 324.0
+      },
+      {
+         "Stadiums": "Stade V\u00e9lodrome Marseille (major renovation)",
+         "Construction/renovation costs in million euros": 267.0
+      },
+      {
+         "Stadiums": "Nice Stadium Nice (new stadium)",
+         "Construction/renovation costs in million euros": 204.0
+      },
+      {
+         "Stadiums": "Nouveau Stade Bordeaux (new stadium)",
+         "Construction/renovation costs in million euros": 184.0
+      },
+      {
+         "Stadiums": "Parc des Princes Paris (major renovation)",
+         "Construction/renovation costs in million euros": 100.0
+      },
+      {
+         "Stadiums": "Stade Bollaert Lens (major renovation)",
+         "Construction/renovation costs in million euros": 75.0
+      },
+      {
+         "Stadiums": "Stade Geoffroy Guichard Saint-Etienne (major renovation)",
+         "Construction/renovation costs in million euros": 75.0
+      },
+      {
+         "Stadiums": "Stadium Municipal Toulouse (major renovation)",
+         "Construction/renovation costs in million euros": 60.0
+      }
+   ]
+}

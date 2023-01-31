@@ -1,0 +1,117 @@
+{
+   "title": "Natural gas production - United States 1998 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Production in billion cubic meters",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in billion cubic meters, containing a total of 20 data points.",
+      " In general Production in billion cubic meters has rose over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum Production in billion cubic meters, about 831.8 was reported at Year 2018",
+      "Minimum Production in billion cubic meters about 511.1 was reached at Year 2005"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in billion cubic meters, containing a total of 20 data points.",
+      " Overall Production in billion cubic meters has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in billion cubic meters, containing a total of 20 data points.",
+      " In general Production in billion cubic meters has rose over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum Production in billion cubic meters, about 831.8 was reported at Year 2018",
+      "Minimum Production in billion cubic meters about 511.1 was reached at Year 2005"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in billion cubic meters. In total the number of data points it has is 20.",
+      " In general Production in billion cubic meters has rose over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum Production in billion cubic meters, about 831.8 was reported at Year 2018",
+      "Minimum Production in billion cubic meters about 511.1 was reached at Year 2005",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Production in billion cubic meters": 831.8
+      },
+      {
+         "Year": "2017",
+         "Production in billion cubic meters": 745.8
+      },
+      {
+         "Year": "2016",
+         "Production in billion cubic meters": 727.4
+      },
+      {
+         "Year": "2015",
+         "Production in billion cubic meters": 740.3
+      },
+      {
+         "Year": "2014",
+         "Production in billion cubic meters": 704.7
+      },
+      {
+         "Year": "2013",
+         "Production in billion cubic meters": 655.7
+      },
+      {
+         "Year": "2012",
+         "Production in billion cubic meters": 649.1
+      },
+      {
+         "Year": "2011",
+         "Production in billion cubic meters": 617.4
+      },
+      {
+         "Year": "2010",
+         "Production in billion cubic meters": 575.2
+      },
+      {
+         "Year": "2009",
+         "Production in billion cubic meters": 557.6
+      },
+      {
+         "Year": "2008",
+         "Production in billion cubic meters": 546.1
+      },
+      {
+         "Year": "2007",
+         "Production in billion cubic meters": 521.9
+      },
+      {
+         "Year": "2006",
+         "Production in billion cubic meters": 524.0
+      },
+      {
+         "Year": "2005",
+         "Production in billion cubic meters": 511.1
+      },
+      {
+         "Year": "2004",
+         "Production in billion cubic meters": 526.4
+      },
+      {
+         "Year": "2003",
+         "Production in billion cubic meters": 540.8
+      },
+      {
+         "Year": "2002",
+         "Production in billion cubic meters": 536.0
+      },
+      {
+         "Year": "2001",
+         "Production in billion cubic meters": 555.5
+      },
+      {
+         "Year": "2000",
+         "Production in billion cubic meters": 543.2
+      },
+      {
+         "Year": "1998",
+         "Production in billion cubic meters": 538.7
+      }
+   ]
+}

@@ -1,0 +1,1318 @@
+<html lang="english">
+
+<head>
+    {{ JSGlue.include() }}
+<!--    <script src = "js/d3.js"></script>-->
+<!--    <script src = "js/crossfilter.js"></script>-->
+<!--    <script src = "js/dc.js"></script>-->
+
+
+    <link href="static/css/stylesheet.css" rel="stylesheet">
+    <script type="text/javascript" src="static/js/script.js" ></script>
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.529.0.min.js"></script>
+    <script type="text/javascript" src="static/js/text2speech.js" ></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="static/js/d3-tip.js"></script>
+    <script type="text/javascript" src="static/js/drawer.js" ></script>
+    <script type="text/javascript" src="static/js/new.js" ></script>
+    <link href="static/css/homeStyle.css" rel="stylesheet">
+    <script type="text/javascript" src="static/js/study.js" ></script>
+
+    <title> Interactive Data Visualization </title>
+
+
+    <script type="text/javascript" src="static/js/lasso.js" ></script>
+
+    <!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
+    <script src="static/js/d3-lasso.min.js"></script>
+
+    <!-- Load color palettes -->
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+
+
+
+</head>
+<div class="topnav">
+    <a href="{{ url_for('home') }}">Home</a>
+    <a href="{{ url_for('questionnaire') }}">Task</a>
+{#    <a href="{{ url_for('task', chart='bar') }}">Task A</a>#}
+{#    <a href="{{ url_for('task', chart='multi_bar') }}">Task B</a>#}
+{#    <a href="{{ url_for('task', chart='line') }}">Task C</a>#}
+{#    <a href="{{ url_for('task', chart='multi_line') }}">Task D</a>#}
+{#    <a href="{{ url_for('post_questionnaire') }}">Post-Study Task</a>#}
+    <a class="active" href="{{ url_for('original') }}">All Charts</a>
+    <a href="{{ url_for('consent') }}">Consent</a>
+    <a href="#" onClick="(function(){
+        if (confirm('Are you sure?') == true){
+            window.location.replace(Flask.url_for('logout'));
+        }
+
+    })();">Log Out</a>
+    <p> Participant ID: {{g.user.id}} </p>
+</div>
+<!--<body bgcolor="#a9a9a9">-->
+<body>
+
+<!--<button id="sort" onclick="sortBars()">Sort</button>-->
+<section id="graph" style="margin-top: 30px;">
+</section>
+<div class="grid-container">
+    <div class="Title">
+        <h1 id="title"></h1>
+        <h3 id="summaryText">Hover over a point of data to hear its caption</h3>
+        <h3 id="chartFoundNotifier"></h3>
+    </div>
+    <div class="Chart" id="chart"></div>
+    <div class="tts">
+        <button class="button" onclick="narrateSummary()">Narrate Summary</button>
+        <br>
+        <audio controls id="audioPlayback">
+            <source id="audioSource" src="" type="audio/mp3">
+        </audio>
+    </div>
+
+    <div class="Caption" style="padding-left: 20px">
+        <h4 id="cap_text" align="left">Summary:</h4>
+        <p id="summary" style="font-size: large"></p>
+    </div>
+    <div class="Selector">
+        <div>
+            <form method="post">
+            </form>
+        </div>
+        <div class="Label"><label id="numberLabel"></label></div>
+
+        <div class="Navigation">
+            <table>
+                <tr>
+                    <td>
+                        <button type="button" id="previous" onclick="previousSelectedChart()" style="width: 120px"> < Previous </button>
+                    </td>
+                    <td>
+                        <button type="button" id="next" onclick="nextSelectedChart()" style="width: 120px"> Next > </button>
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+
+{#        <div class="Navigation">#}
+{#            <button type="button" id="previous" onclick="previousChart()"> < Previous </button>#}
+{#            <button type="button" id="next" onclick="nextChart()"> Next > </button>#}
+{#        </div>#}
+        <div class="Text">
+            <input type="text" id="chartNumber" style="width: 50%; pointer-events: none; color: #666666;"/>
+        </div>
+{#        <div class="Submit">#}
+{#            <button type="button" class="active" onclick="refresh()">New chart</button>#}
+{#        </div>#}
+    </div>
+    <div class="Meta" align="center">
+        <div class="forms">
+            <form>
+                <table>
+                    <p align="Center"><strong>Select the type of summary: </strong></p>
+                    <tr>
+                        <td align="left" id="summary_type_check">
+                            <label>
+                                <input id="summary_type" type="radio" name="choice" value="yes" checked onClick="template_summary();">
+                            </label> Template-based Summary
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="left" id="summary_type_c2t_check">
+                            <label>
+                                <input id="summary_type_c2t" type="radio" name="choice" value="no" onClick="c2t_summary();">
+                            </label> <a id="linkToC2T" href="https://arxiv.org/abs/2010.09142" target="_blank">Chart-to-Text</a> Summary
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="left" id="summary_type_gold_check">
+                            <label>
+                                <input id="summary_type_gold" type="radio" name="choice" value="no" onClick="gold_summary();">
+                            </label> Human Written Summary
+
+
+                        </td>
+                    </tr>
+                </table>
+            </form>
+
+            <!--            <form id="detail_level">-->
+            <!--                <table>-->
+            <!--                    <p align="left"><strong>Select the level of details for the Summary: </strong></p>-->
+            <!--                    <tr>-->
+            <!--                        <td align="left">-->
+            <!--                            <label>-->
+            <!--                                <input type="radio" name="details" value="max_summary" onClick="max_summary();">-->
+            <!--                            </label> High-->
+            <!--                        </td>-->
+            <!--                    </tr>-->
+            <!--                    <tr>-->
+            <!--                        <td align="left">-->
+            <!--                            <label>-->
+            <!--                                <input type="radio" name="details" id="mid_summary_rb" value="mid_summary" checked onClick="mid_summary();">-->
+            <!--                            </label> Moderate-->
+            <!--                        </td>-->
+            <!--                    </tr>-->
+            <!--                    <tr>-->
+            <!--                        <td align="left">-->
+            <!--                            <label>-->
+            <!--                                <input type="radio" name="details" value="min_summary" onClick="min_summary();">-->
+            <!--                            </label> Low-->
+            <!--                        </td>-->
+            <!--                    </tr>-->
+            <!--                </table>-->
+            <!--            </form>-->
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="slidecontainer">
+
+            <table width="60%" id="slider_table">
+                <tr>
+                    <td colspan="2" align="center">
+                        <p style="font-size: small">Change the slider to adjust summary details level</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="range" min="1" max="3" value="2" class="slider" id="summary_slider">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left" style="font-size: small">
+                        Minimum
+                    </td>
+                    <td align="right" style="font-size: small">
+                        Maximum
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+    </div>
+</div>
+<script >
+
+    getMetaData();
+
+
+    var svgNodes = "";
+    var currentId = ""
+
+    var totalValue = 0;
+    var colArr = [];
+    var xAxisLabel = [];
+
+    var tempAttrRect;
+    var tempAttrLine;
+
+
+    setTimeout(function(){
+        svgNodes = document.getElementsByTagName('svg');
+
+        // console.log(svgNodes.item(0).firstChild.childNodes)
+        // if (svgNodes.item(0).firstChild.childNodes) {
+        //     console.log("TRUE")
+        // } else {
+        //     console.log("FALSE")
+        // }
+
+        // console.log(svgNodes, svgNodes.length);
+        // console.log(graphType)
+        // console.log(columnType)
+
+        if (svgNodes.length > 0){
+
+            // console.log(svgNodes.item(0).firstElementChild)
+            //
+            // var faith = svgNodes.item(0).firstElementChild.nodeName
+            //
+            // console.log(" -> : "+ faith)
+
+            if (svgNodes.item(0).firstElementChild.nodeName === 'g'){
+                // console.log("A D3 chart found!")
+                speakText("Hello! A D3 chart was found in the current page! Press H, or F2, to hear list of keyboard shortcuts. ");
+
+                // document.getElementById("audioPlayback").addEventListener("ended", function (){
+                //     speakText("Press H, or F2, to hear list of keyboard shortcuts. ");
+                //
+                //     this.removeEventListener("ended", arguments.callee)
+                // });
+
+
+                document.addEventListener('keyup', event => {
+                    if (event.code === 'Space') {
+                        // sortTheBarChart()
+                        narrateSummary()
+                    }
+                    if (event.code === 'KeyD') {
+                        // sortTheBarChart()
+                        chartTypeDescriber()
+                    }
+
+                    if (event.code === "KeyS" && (event.shiftKey || event.metaKey)){
+                        if (columnType === "two" && graphType === "bar"){
+                            console.log("SHIFT")
+                            sortTheBarChart()
+                        }
+                    }
+
+                    if (event.code === "KeyH" || event.code === "F2"){
+                        help()
+                    }
+
+                    if (event.code === "ArrowRight" && (event.shiftKey || event.metaKey)){
+                        nextChart()
+                    }
+
+                    if (event.code === "ArrowLeft" && (event.shiftKey || event.metaKey)){
+                        previousChart()
+                    }
+
+                    // else if (event.code === 'Tab') {
+                    //     // console.log('TAB Pressed')
+                    //     currentId = document.activeElement.id
+                    //     // console.log(currentId)
+                    //     splitNumberFromText(currentId)
+                    //
+                    // }
+                    else if (event.code === 'ArrowRight' && !(event.ctrlKey || event.metaKey)){
+                        if (graphType === "bar"){
+                            if (columnType === "two") {
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    document.getElementById('Column0').focus();
+                                    d3PointDescriptionById('Column0', 'first')
+
+                                }
+                                else {
+                                    col1Id++;
+                                    if (col1Id === numberOfColumn) {
+                                        col1Id = 0;
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionById(newFocus, 'first')
+
+                                    }
+                                    else if( col1Id=== (numberOfColumn - 1)){
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionById(newFocus, 'last')
+                                    }
+                                    else {
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionById(newFocus)
+                                    }
+
+                                }
+                            }
+                            else if (columnType === "multi") {
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    col2Id = 0;
+                                    var eid = 'Column['+col2Id+']['+col1Id+']'
+                                    console.log(eid)
+                                    document.getElementById(eid).focus();
+                                    d3PointDescriptionForMultiBarById(eid, 'first')
+
+
+                                }
+                                else {
+                                    if (col2Id < multi_number_of_elements_in_each_group && col1Id < (multi_number_of_group - 1) ){
+                                        col1Id++;
+                                        var eid = 'Column['+col2Id+']['+col1Id+']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiBarById(eid)
+                                    }
+                                    else if (col1Id === (multi_number_of_group - 1) && col2Id < multi_number_of_elements_in_each_group){
+                                        col2Id++;
+                                        col1Id=0;
+                                        if (col2Id === multi_number_of_elements_in_each_group) {
+                                            col2Id = 0;
+                                            col1Id = 0;
+                                            var eid = 'Column['+col2Id+']['+col1Id+']'
+                                            console.log(eid)
+                                            document.getElementById(eid).focus();
+                                            d3PointDescriptionForMultiBarById(eid, 'first')
+                                        }
+                                        else {
+                                            var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                            console.log(eid)
+                                            document.getElementById(eid).focus();
+                                            d3PointDescriptionForMultiBarById(eid)
+                                        }
+                                    }
+                                }
+
+                            }
+                        }
+                        else if (graphType === "line"){
+                            if (columnType === "two") {
+                                if (col1Id == null){
+                                    col1Id = numberOfColumn - 1;
+                                    document.getElementById('Column' + col1Id).focus();
+                                    d3PointDescriptionById('Column' + col1Id, 'first')
+
+                                }
+                                else {
+                                    col1Id--;
+                                    if (col1Id < 0) {
+                                        col1Id = numberOfColumn - 1;
+
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionById(newFocus, 'first')
+                                    }
+                                    else if (col1Id === 0) {
+                                        col1Id = 0;
+
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionById(newFocus, 'last')
+                                    }
+                                    else{
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionById(newFocus)
+                                    }
+
+                                }
+                            }
+                            else if (columnType === "multi") {
+                                // work needs to be done here
+                                if (col1Id == null){
+                                    col1Id = multi_number_of_group - 1;
+                                    col2Id = multi_number_of_elements_in_each_group - 1;
+                                    var eid = 'Column['+col1Id+']['+col2Id+']'
+                                    console.log(eid)
+                                    document.getElementById(eid).focus();
+                                    d3PointDescriptionForMultiGraphById(eid, 'first')
+
+
+                                }
+                                else {
+                                    if (col1Id <= (multi_number_of_group - 1) && col2Id > 0 ){
+                                        col2Id--;
+                                        var eid = 'Column['+col1Id+']['+col2Id+']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiGraphById(eid)
+                                    }
+                                    else if (col2Id === 0 && col1Id >= 0){
+                                        col1Id--;
+                                        col2Id=multi_number_of_elements_in_each_group - 1;
+                                        if (col1Id < 0) {
+                                            col1Id = multi_number_of_group - 1;
+                                            col2Id = multi_number_of_elements_in_each_group - 1;
+                                            var eid = 'Column['+col1Id+']['+col2Id+']'
+                                            console.log(eid)
+                                            document.getElementById(eid).focus();
+                                            d3PointDescriptionForMultiGraphById(eid)
+                                        }
+                                        var eid = 'Column['+col1Id+']['+col2Id+']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiGraphById(eid)
+                                    }
+                                }
+                            }
+                        }
+
+                        else if (graphType === "pie"){
+                            if (columnType === "two") {
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    document.getElementById('Column0').focus();
+
+                                    //arc_elem= document.getElementById('Column0');
+                                    //arc_elem.style.stroke = "red";
+                                    d3PointDescriptionForPieChartById('Column0', 'first') //in script.js
+
+                                }
+                                else {
+                                    col1Id++;
+                                    if (col1Id === numberOfColumn) {
+                                        col1Id = 0;
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus()
+                                        d3PointDescriptionForPieChartById(newFocus, 'first')
+
+                                    }
+                                    else if( col1Id=== (numberOfColumn - 1)){
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionForPieChartById(newFocus, 'last')
+                                    }
+                                    else {
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionForPieChartById(newFocus)
+                                    }
+
+                                }
+                            }
+
+                        }
+
+                         else if (graphType === "scatter"){
+                            if (columnType === "two") {
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    document.getElementById('Column0').focus();
+
+                                    //arc_elem= document.getElementById('Column0');
+                                    //arc_elem.style.stroke = "red";
+                                    d3PointDescriptionByIdForScatterPlot('Column0', 'first') //in script.js
+
+                                }
+                                else {
+                                    col1Id++;
+                                    if (col1Id === numberOfColumn) {
+                                        col1Id = 0;
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus()
+                                        d3PointDescriptionByIdForScatterPlot(newFocus, 'first')
+
+                                    }
+                                    else if( col1Id=== (numberOfColumn - 1)){
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionByIdForScatterPlot(newFocus, 'last')
+                                    }
+                                    else {
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionByIdForScatterPlot(newFocus)
+                                    }
+
+                                }
+                            }
+
+                        }
+                        // else if (graphType === "heatmap"){
+                        //     if (col1Id == null){
+                        //         col1Id = 0;
+                        //         col2Id = 0;
+                        //         var eid = 'Column['+col1Id+']['+col2Id+']'
+                        //         console.log(eid)
+                        //         document.getElementById(eid).focus();
+                        //         d3PointDescriptionForHeatMapById(eid, 'last')
+                        //
+                        //
+                        //     }
+                        //     else {
+                        //         if (col1Id < multi_number_of_group && col2Id < (multi_number_of_elements_in_each_group - 1) ){
+                        //             col2Id++;
+                        //             var eid = 'Column['+col1Id+']['+col2Id+']'
+                        //             console.log(eid)
+                        //             document.getElementById(eid).focus();
+                        //             d3PointDescriptionForHeatMapById(eid)
+                        //         }
+                        //         else if (col2Id === (multi_number_of_elements_in_each_group - 1) && col1Id < multi_number_of_group){
+                        //             col1Id++;
+                        //             col2Id=0;
+                        //             if (col1Id === multi_number_of_group) {
+                        //                 col1Id = 0;
+                        //                 col2Id = 0;
+                        //                 var eid = 'Column['+col1Id+']['+col2Id+']'
+                        //                 console.log(eid)
+                        //                 document.getElementById(eid).focus();
+                        //                 d3PointDescriptionForHeatMapById(eid)
+                        //             }
+                        //             var eid = 'Column['+col1Id+']['+col2Id+']'
+                        //             console.log(eid)
+                        //             document.getElementById(eid).focus();
+                        //             d3PointDescriptionForHeatMapById(eid)
+                        //         }
+                        //     }
+                        // }
+                        else if (graphType === "heatmap"){
+                            if (columnType === "two") {
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    document.getElementById('Column0').focus();
+
+                                    //arc_elem= document.getElementById('Column0');
+                                    //arc_elem.style.stroke = "red";
+                                    d3PointDescriptionForHeatMapById('Column0', 'first') //in script.js
+
+                                }
+                                else {
+                                    col1Id++;
+                                    if (col1Id === numberOfColumn) {
+                                        col1Id = 0;
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus()
+                                        d3PointDescriptionForHeatMapById(newFocus, 'first')
+
+                                    }
+                                    else if( col1Id=== (numberOfColumn - 1)){
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionForHeatMapById(newFocus, 'last')
+                                    }
+                                    else {
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionForHeatMapById(newFocus)
+                                    }
+
+                                }
+                            }
+
+                        }
+
+
+
+                    }
+                    else if (event.code === 'ArrowLeft' && !(event.ctrlKey || event.metaKey)){
+                        if (graphType === "bar"){
+                            if (columnType === "two") {
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    document.getElementById('Column0').focus();
+                                    d3PointDescriptionById('Column0', 'first')
+
+                                } else {
+                                    col1Id--;
+                                    if (col1Id < 0) {
+                                        col1Id = numberOfColumn-1;
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionById(newFocus, 'last')
+                                    }
+                                    else if (col1Id === 0) {
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionById(newFocus, 'first')
+                                    }
+                                    else {
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionById(newFocus)
+                                    }
+                                }
+                            }
+                            else if (columnType === "multi") {
+                                // work needs to be done here
+                                if (col2Id == null){
+                                    col2Id = multi_number_of_elements_in_each_group - 1;
+                                    col1Id = multi_number_of_group - 1;
+                                    var eid = 'Column['+col2Id+']['+col1Id+']'
+                                    console.log(eid)
+                                    document.getElementById(eid).focus();
+                                    d3PointDescriptionForMultiBarById(eid)
+
+
+                                }
+                                else {
+                                    if (col2Id <= (multi_number_of_elements_in_each_group - 1) && col1Id > 0 ){
+                                        col1Id--;
+
+
+                                        var eid = 'Column['+col2Id+']['+col1Id+']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiBarById(eid)
+                                    }
+                                    else if (col1Id === 0 && col2Id >= 0){
+                                        col2Id--;
+                                        col1Id=multi_number_of_group - 1;
+                                        if (col2Id < 0) {
+                                            col2Id = multi_number_of_elements_in_each_group - 1;
+                                            col1Id = multi_number_of_group - 1;
+                                            var eid = 'Column['+col2Id+']['+col1Id+']'
+                                            console.log(eid)
+                                            document.getElementById(eid).focus();
+                                            d3PointDescriptionForMultiBarById(eid)
+                                        }
+                                        var eid = 'Column['+col2Id+']['+col1Id+']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiBarById(eid)
+                                    }
+                                }
+
+                            }
+                        }
+                        else if(graphType === "line"){
+                            if (columnType === "two") {
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    document.getElementById('Column' + col1Id).focus();
+                                    d3PointDescriptionById('Column' + col1Id, 'last')
+
+                                } else {
+                                    col1Id++;
+                                    if (col1Id === numberOfColumn - 1) {
+                                        col1Id = numberOfColumn - 1;
+
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionById(newFocus, 'first')
+                                    }
+                                    else{
+                                        if (col1Id === numberOfColumn) {
+                                            col1Id = 0;
+
+                                            var newFocus = 'Column' + col1Id
+                                            document.getElementById(newFocus).focus();
+                                            d3PointDescriptionById(newFocus, 'last')
+                                        }
+                                        else {
+                                            var newFocus = 'Column' + col1Id
+                                            document.getElementById(newFocus).focus();
+                                            d3PointDescriptionById(newFocus)
+                                        }
+                                    }
+
+
+
+                                }
+                            }
+                            else if (columnType === "multi") {
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    col2Id = 0;
+                                    var eid = 'Column['+col1Id+']['+col2Id+']'
+                                    console.log(eid)
+                                    document.getElementById(eid).focus();
+                                    d3PointDescriptionForMultiGraphById(eid, 'last')
+
+
+                                }
+                                else {
+                                    if (col1Id < multi_number_of_group && col2Id < (multi_number_of_elements_in_each_group - 1) ){
+                                        col2Id++;
+                                        var eid = 'Column['+col1Id+']['+col2Id+']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiGraphById(eid)
+                                    }
+                                    else if (col2Id === (multi_number_of_elements_in_each_group - 1) && col1Id < multi_number_of_group){
+                                        col1Id++;
+                                        col2Id=0;
+                                        if (col1Id === multi_number_of_group) {
+                                            col1Id = 0;
+                                            col2Id = 0;
+                                            var eid = 'Column['+col1Id+']['+col2Id+']'
+                                            console.log(eid)
+                                            document.getElementById(eid).focus();
+                                            d3PointDescriptionForMultiGraphById(eid)
+                                        }
+                                        var eid = 'Column['+col1Id+']['+col2Id+']'
+                                        console.log(eid)
+                                        document.getElementById(eid).focus();
+                                        d3PointDescriptionForMultiGraphById(eid)
+                                    }
+                                }
+                            }
+                        }
+
+                        else if(graphType === "pie"){
+                            if (columnType === "two") {
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    document.getElementById('Column' + col1Id).focus();
+                                    d3PointDescriptionForPieChartById('Column' + col1Id, 'last')
+
+                                } else {
+                                    col1Id++;
+                                    if (col1Id === numberOfColumn - 1) {
+                                        col1Id = numberOfColumn - 1;
+
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionForPieChartById(newFocus, 'first')
+                                    }
+                                    else{
+                                        if (col1Id === numberOfColumn) {
+                                            col1Id = 0;
+
+                                            var newFocus = 'Column' + col1Id
+                                            document.getElementById(newFocus).focus();
+                                            d3PointDescriptionForPieChartById(newFocus, 'last')
+                                        }
+                                        else {
+                                            var newFocus = 'Column' + col1Id
+                                            document.getElementById(newFocus).focus();
+                                            d3PointDescriptionForPieChartById(newFocus)
+                                        }
+                                    }
+
+
+
+                                }
+                            }
+                        }
+
+                        else if(graphType === "scatter"){
+                             if (columnType === "two") {
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    document.getElementById('Column' + col1Id).focus();
+                                    d3PointDescriptionByIdForScatterPlot('Column' + col1Id, 'last')
+
+                                } else {
+                                    col1Id++;
+                                    if (col1Id === numberOfColumn - 1) {
+                                        col1Id = numberOfColumn - 1;
+
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionByIdForScatterPlot(newFocus, 'first')
+                                    }
+                                    else{
+                                        if (col1Id === numberOfColumn) {
+                                            col1Id = 0;
+
+                                            var newFocus = 'Column' + col1Id
+                                            document.getElementById(newFocus).focus();
+                                            d3PointDescriptionByIdForScatterPlot(newFocus, 'last')
+                                        }
+                                        else {
+                                            var newFocus = 'Column' + col1Id
+                                            document.getElementById(newFocus).focus();
+                                            d3PointDescriptionByIdForScatterPlot(newFocus)
+                                        }
+                                    }
+
+
+
+                                }
+                            }
+                        }
+
+                        else if (graphType === "heatmap") {
+                            if (columnType === "two") {
+                                if (col1Id == null) {
+                                    col1Id = 0;
+                                    document.getElementById('Column0').focus();
+                                    d3PointDescriptionForHeatMapById('Column0', 'first')
+
+                                } else {
+                                    col1Id--;
+                                    if (col1Id < 0) {
+                                        col1Id = numberOfColumn - 1;
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionForHeatMapById(newFocus, 'last')
+                                    } else if (col1Id === 0) {
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionForHeatMapById(newFocus, 'first')
+                                    } else {
+                                        var newFocus = 'Column' + col1Id
+                                        document.getElementById(newFocus).focus();
+                                        d3PointDescriptionForHeatMapById(newFocus)
+                                    }
+                                }
+                            }
+                        }
+                        // else if (graphType === "heatMap"){
+                        //     if (columnType === "two") {
+                        //         if (col1Id == null){
+                        //             col1Id = 00;
+                        //             document.getElementById('Column00').focus();
+                        //
+                        //             //arc_elem= document.getElementById('Column0');
+                        //             //arc_elem.style.stroke = "red";
+                        //
+                        //             d3PointDescriptionForHeatMapById('Column00', 'first')
+                        //
+                        //         }
+                        //         else {
+                        //             col1Id++;
+                        //             if (col1Id === numberOfColumn) {
+                        //                 col1Id = 00;
+                        //                 var newFocus = 'Column' + col1Id
+                        //                 document.getElementById(newFocus).focus()
+                        //                     d3PointDescriptionForHeatMapById(newFocus, 'first')
+                        //
+                        //             }
+                        //             else if( col1Id=== (numberOfColumn - 1)){
+                        //                 var newFocus = 'Column0' + col1Id
+                        //                 document.getElementById(newFocus).focus();
+                        //                     d3PointDescriptionForHeatMapById(newFocus, 'last')
+                        //             }
+                        //             else {
+                        //                 var newFocus = 'Column0' + col1Id
+                        //                 document.getElementById(newFocus).focus();
+                        //                     d3PointDescriptionForHeatMapById(newFocus)
+                        //
+                        //             }
+                        //
+                        //         }
+                        //     }
+                        //
+                        // }
+
+
+
+                    }
+                    else if (event.code === 'ArrowUp' && graphType === "line" && columnType === "multi" && !(event.ctrlKey || event.metaKey)){
+                        if (col1Id == null){
+                            col1Id = 0;
+                            col2Id = 0;
+                            var eid = 'Column['+col1Id+']['+col2Id+']'
+                            console.log(eid)
+                            document.getElementById(eid).focus();
+                            d3PointDescriptionForMultiGraphById(eid)
+                        }
+                        else {
+                            if (col1Id < multi_number_of_group - 1 ){
+                                col1Id++;
+                                var eid = 'Column['+col1Id+']['+col2Id+']'
+                                console.log(eid)
+                                document.getElementById(eid).focus();
+                                d3PointDescriptionForMultiGraphById(eid)
+                            }
+                            else{
+                                col1Id = 0;
+                                var eid = 'Column['+col1Id+']['+col2Id+']'
+                                console.log(eid)
+                                document.getElementById(eid).focus();
+                                d3PointDescriptionForMultiGraphById(eid)
+                            }
+                        }
+                    }
+                    else if (event.code === 'ArrowDown' && graphType === "line" && columnType === "multi"){
+                        if (col1Id == null){
+                            col1Id = 0;
+                            col2Id = 0;
+                            var eid = 'Column['+col1Id+']['+col2Id+']'
+                            console.log(eid)
+                            document.getElementById(eid).focus();
+                            d3PointDescriptionForMultiGraphById(eid)
+                        }
+                        else {
+                            if (col1Id > 0 ){
+                                col1Id--;
+                                var eid = 'Column['+col1Id+']['+col2Id+']'
+                                console.log(eid)
+                                document.getElementById(eid).focus();
+                                d3PointDescriptionForMultiGraphById(eid)
+                            }
+                            else{
+                                col1Id = multi_number_of_group - 1;
+                                var eid = 'Column['+col1Id+']['+col2Id+']'
+                                console.log(eid)
+                                document.getElementById(eid).focus();
+                                d3PointDescriptionForMultiGraphById(eid)
+                            }
+                        }
+                    }
+                })
+
+                var rectColor = ""
+                var dotColor = ""
+
+                document.addEventListener('keydown', function(event) {
+                    if (event.code === 'ArrowRight' && (event.ctrlKey || event.metaKey)) {
+
+                        if (graphType === "bar") {
+                            if (columnType === "two") {
+                                if (col1Id == null) {
+                                    col1Id = 0;
+                                    var eid = 'Column' + col1Id
+                                    colArr.push(eid)
+                                    document.getElementById(eid).focus();
+                                    // d3PointDescriptionById('Column0')
+                                    var attr = document.getElementById(eid).attributes
+                                    // console.log(attr)
+                                    // document.getElementById(eid).style.opacity = ".5"
+                                    document.getElementById(eid).style.fill = "red"
+                                    console.log(attr.getNamedItem('yVal').value)
+                                    xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                    totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                    col1Id++;
+                                }
+                                else {
+                                    if (col1Id === numberOfColumn){
+                                        console.log("DO NOTHING")
+                                        speakText("This is the last bar of the chart. You may release the Control key");
+                                    }
+                                    else {
+                                        var eid = 'Column' + col1Id
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        var attr = document.getElementById(eid).attributes
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+                                        console.log(attr.getNamedItem('yVal').value)
+                                        xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                        totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                        col1Id++;
+                                    }
+
+                                }
+                            }
+                            else if (columnType === "multi"){
+                                if (col1Id == null) {
+                                    col1Id = 0;
+                                    col2Id = 0;
+                                    var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                    rectColor = document.getElementById(eid).style.color
+                                    colArr.push(eid)
+                                    document.getElementById(eid).focus();
+                                    tempAttrRect = document.getElementById(eid).attributes
+                                    document.getElementById(eid).style.fill = "red"
+                                    console.log(tempAttrRect.getNamedItem('yVal').value)
+                                    xAxisLabel.push(tempAttrRect.getNamedItem('xVal').value)
+                                    totalValue += parseInt(tempAttrRect.getNamedItem('yVal').value)
+                                    col2Id++;
+                                }
+                                else {
+                                    if (col2Id === multi_number_of_elements_in_each_group){
+                                        console.log("DO NOTHING")
+                                        speakText("This is the last bar of the chart. You may release the Control key");
+                                    }
+                                    else {
+                                        var eid = 'Column[' + col2Id + '][' + col1Id + ']'
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        tempAttrRect = document.getElementById(eid).attributes
+                                        document.getElementById(eid).style.fill = "red"
+                                        console.log(tempAttrRect.getNamedItem('yVal').value)
+                                        xAxisLabel.push(tempAttrRect.getNamedItem('xVal').value)
+                                        totalValue += parseInt(tempAttrRect.getNamedItem('yVal').value)
+                                        col2Id++;
+                                    }
+                                }
+                            }
+                        }
+                        else if (graphType === "line"){
+                            if (columnType === "two"){
+                                if (col1Id == null){
+                                    col1Id = numberOfColumn - 1;
+                                    var eid = 'Column' + col1Id
+                                    colArr.push(eid)
+                                    document.getElementById(eid).focus();
+                                    var attr = document.getElementById(eid).attributes
+                                    // document.getElementById(eid).style.opacity = ".5"
+                                    document.getElementById(eid).style.fill = "red"
+                                    console.log(attr.getNamedItem('yVal').value)
+                                    xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                    totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                    col1Id--;
+
+                                }
+                                else {
+                                    if (col1Id < 0){
+                                        console.log("DO NOTHING")
+                                        speakText("This is the last point of the chart. You may release the Control key");
+                                    }
+                                    else {
+                                        var eid = 'Column' + col1Id
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        var attr = document.getElementById(eid).attributes
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+
+                                        console.log(attr.getNamedItem('yVal').value)
+                                        xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                        totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                        col1Id--;
+                                    }
+                                }
+                            }
+                            else if (columnType === "multi"){
+                                if (col1Id == null){
+                                    col1Id = 0;
+                                    col2Id = multi_number_of_elements_in_each_group - 1;
+                                    var eid = 'Column['+col1Id+']['+col2Id+']'
+                                    dotColor = document.getElementById(eid).style.color
+                                    colArr.push(eid)
+                                    document.getElementById(eid).focus();
+                                    // d3PointDescriptionById('Column0')
+                                    tempAttrLine = document.getElementById(eid).attributes
+                                    // console.log(attr)
+                                    // document.getElementById(eid).style.opacity = ".5"
+                                    document.getElementById(eid).style.fill = "red"
+                                    console.log(tempAttrLine.getNamedItem('yVal').value)
+                                    xAxisLabel.push(tempAttrLine.getNamedItem('xVal').value)
+                                    totalValue += parseInt(tempAttrLine.getNamedItem('yVal').value)
+                                    col2Id--;
+                                }
+                                else {
+                                    if (col1Id < 0 ){
+                                        console.log("DO NOTHING")
+                                        speakText("This is the last bar of the chart. You may release the Control key");
+                                    }
+                                    else{
+                                        var eid = 'Column['+col1Id+']['+col2Id+']'
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        tempAttrLine = document.getElementById(eid).attributes
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+                                        console.log(tempAttrLine.getNamedItem('yVal').value)
+                                        xAxisLabel.push(tempAttrLine.getNamedItem('xVal').value)
+                                        totalValue += parseInt(tempAttrLine.getNamedItem('yVal').value)
+                                        col2Id--;
+                                    }
+                                }
+                            }
+
+                        }
+
+                        else if (graphType === "pie"){
+                            if (columnType === "two"){
+                                if (col1Id == null){
+                                    col1Id = numberOfColumn - 1;
+                                    var eid = 'Column' + col1Id
+                                    colArr.push(eid)
+                                    document.getElementById(eid).focus();
+                                    var attr = document.getElementById(eid).attributes
+                                    // document.getElementById(eid).style.opacity = ".5"
+                                    document.getElementById(eid).style.fill = "red"
+                                    console.log(attr.getNamedItem('percentVal').value)
+                                    xAxisLabel.push(attr.getNamedItem('nameVal').value)
+                                    totalValue += parseInt(attr.getNamedItem('percentVal').value)
+                                    col1Id--;
+
+                                }
+                                else {
+                                    if (col1Id < 0){
+                                        console.log("DO NOTHING")
+                                        speakText("This is the last point of the chart. You may release the Control key");
+                                    }
+                                    else {
+                                        var eid = 'Column' + col1Id
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        var attr = document.getElementById(eid).attributes
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+
+                                        console.log(attr.getNamedItem('percentVal').value)
+                                        xAxisLabel.push(attr.getNamedItem('nameVal').value)
+                                        totalValue += parseInt(attr.getNamedItem('percentVal').value)
+                                        col1Id--;
+                                    }
+                                }
+                            }
+
+                        }
+
+                        else if (graphType === "scatter"){
+                            if (columnType === "two"){
+                                if (col1Id == null){
+                                    col1Id = numberOfColumn - 1;
+                                    var eid = 'Column' + col1Id
+                                    colArr.push(eid)
+                                    document.getElementById(eid).focus();
+                                    var attr = document.getElementById(eid).attributes
+                                    // document.getElementById(eid).style.opacity = ".5"
+                                    document.getElementById(eid).style.fill = "red"
+                                    console.log(attr.getNamedItem('yVal').value)
+                                    xAxisLabel.push(attr.getNamedItem('classVal').value)
+                                    totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                    col1Id--;
+
+                                }
+                                else {
+                                    if (col1Id < 0){
+                                        console.log("DO NOTHING")
+                                        speakText("This is the last point of the chart. You may release the Control key");
+                                    }
+                                    else {
+                                        var eid = 'Column' + col1Id
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        var attr = document.getElementById(eid).attributes
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+
+                                        console.log(attr.getNamedItem('yVal').value)
+                                        xAxisLabel.push(attr.getNamedItem('classVal').value)
+                                        totalValue += parseInt(attr.getNamedItem('yVal').value)
+                                        col1Id--;
+                                    }
+                                }
+                            }
+
+                        }
+
+                        else if (graphType === "heatmap"){
+                            if (columnType === "two"){
+                                if (col1Id == null){
+                                    col1Id = numberOfColumn - 1;
+                                    var eid = 'Column' + col1Id
+                                    colArr.push(eid)
+                                    document.getElementById(eid).focus();
+                                    var attr = document.getElementById(eid).attributes
+                                    // document.getElementById(eid).style.opacity = ".5"
+                                    document.getElementById(eid).style.fill = "red"
+                                    console.log(attr.getNamedItem('cellVal').value)
+                                    xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                    totalValue += parseInt(attr.getNamedItem('cellVal').value)
+                                    col1Id--;
+
+                                }
+                                else {
+                                    if (col1Id < 0){
+                                        console.log("DO NOTHING")
+                                        speakText("This is the last point of the chart. You may release the Control key");
+                                    }
+                                    else {
+                                        var eid = 'Column' + col1Id
+                                        colArr.push(eid)
+                                        document.getElementById(eid).focus();
+                                        var attr = document.getElementById(eid).attributes
+                                        // document.getElementById(eid).style.opacity = ".5"
+                                        document.getElementById(eid).style.fill = "red"
+
+                                        console.log(attr.getNamedItem('cellVal').value)
+                                        xAxisLabel.push(attr.getNamedItem('xVal').value)
+                                        totalValue += parseInt(attr.getNamedItem('cellVal').value)
+                                        col1Id--;
+                                    }
+                                }
+                            }
+
+                        }
+
+                    }
+                });
+
+                document.addEventListener('keyup', function(event) {
+                    if ((event.code === 'ControlLeft')) {
+
+                        var tempStr = ""
+
+                        if ((graphType === "bar" && columnType === "two") || (graphType === "line" && columnType === "two") )
+                        {
+                            for (val in xAxisLabel){
+
+                                if (parseInt(val) === (xAxisLabel.length - 1)) {
+                                    console.log(val)
+
+                                    tempStr += ("and "+xAxisLabel[val])
+                                } else {
+                                    console.log(val)
+                                    tempStr += (xAxisLabel[val] + ", ")
+                                }
+                            }
+
+                            var string = "Total value of " + yLabel + " is " + totalValue + ", at " + xLabel + " " + tempStr;
+
+                            console.log(string)
+
+                            document.getElementById("summaryText").innerText = string;
+                            speakText(string)
+
+                            if (graphType === "bar"){
+                                col1Id--;
+                            }else {
+                                col1Id++;
+                            }
+
+
+
+                            setTimeout(function (){
+                                for (each in colArr){
+                                    // document.getElementById(colArr[each]).style.opacity = "1"
+                                    if (graphType === "line"){
+                                        document.getElementById(colArr[each]).style.fill = "#2ba8fc"
+
+                                    } else if (graphType === 'bar'){
+                                        document.getElementById(colArr[each]).style.fill = "#3093cf"
+
+                                    }
+
+                                }
+                                totalValue = 0;
+                                xAxisLabel = []
+                            }, 8000);
+                        }
+                        else if ((graphType === "bar" && columnType === "multi")){
+
+
+                            for (val in xAxisLabel){
+
+                                if (parseInt(val) === (xAxisLabel.length - 1)) {
+                                    console.log(val)
+
+                                    tempStr += ("and "+xAxisLabel[val])
+                                } else {
+                                    console.log(val)
+                                    tempStr += (xAxisLabel[val] + ", ")
+                                }
+                            }
+
+                            var string = "Total value of " + tempAttrRect.getNamedItem('barVal').value + " is " + totalValue + ", at " + tempAttrRect.getNamedItem('xLabel').value + " " + tempStr;
+
+                            console.log(string)
+                            document.getElementById("summaryText").innerText = string;
+                            speakText(string)
+                            col2Id--;
+
+
+
+
+                            setTimeout(function (){
+                                for (each in colArr){
+                                    document.getElementById(colArr[each]).style.fill = rectColor
+                                }
+                                totalValue = 0;
+                                xAxisLabel = []
+                            }, 8000);
+                        }
+                        else if ((graphType === "line" && columnType === "multi")){
+
+
+                            for (val in xAxisLabel){
+
+                                if (parseInt(val) === (xAxisLabel.length - 1)) {
+                                    tempStr += ("and "+xAxisLabel[val])
+                                } else {
+                                    tempStr += (xAxisLabel[val] + ", ")
+                                }
+                            }
+
+                            var string = "Total value of " + tempAttrLine.getNamedItem('lineVal').value + " is " + totalValue + ", at " + xLabel + " " + tempStr;
+
+                            console.log(string)
+                            document.getElementById("summaryText").innerText = string;
+                            speakText(string)
+                            col2Id++;
+
+                            setTimeout(function (){
+                                for (each in colArr){
+                                    document.getElementById(colArr[each]).style.fill = dotColor
+                                }
+                                totalValue = 0;
+                                xAxisLabel = []
+                            }, 8000);
+                        }
+
+
+                    }
+                });
+
+
+            } else {
+                console.log("No D3 chart found")
+            }
+
+
+
+        }
+    }, 1000);
+
+
+
+</script>
+</body>
+</html>

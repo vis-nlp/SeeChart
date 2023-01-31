@@ -1,0 +1,142 @@
+{
+   "title": "Government revenue and spending in Spain 2024",
+   "labels": [
+      "Year",
+      "Revenue",
+      "Spending"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Revenue, and Spending. The y axis indicates the Revenue / Spending in billion euros and the x axis indicates Year.",
+      "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Spending, and lastly, 2. Revenue. ",
+      "Overall across the Year, Spending mostly maintained the highest Revenue / Spending in billion euros when compared to others with a mean value of 519.58, and it peaked at 2024.",
+      "Revenue mostly had the least Revenue / Spending in billion euros with a mean value of 484.07, which peaked at 2024 with a value of 571.76. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Revenue / Spending in billion euros",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing Revenue, and Spending. The y axis denotes Revenue / Spending in billion euros and the x axis denotes Year.",
+      "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
+      "Throughout the period, Spending generally had the highest Revenue / Spending in billion euros relative to others with an average of 519.58, and it reached its maximum at 2024 with a value of 599.51.",
+      "Revenue mostly had the least Revenue / Spending in billion euros with a mean value of 484.07, which peaked at 2024 with a value of 571.76. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Revenue, and Spending. The y axis indicates the Revenue / Spending in billion euros and the x axis indicates Year.",
+      "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Spending, and lastly, 2. Revenue. ",
+      "Overall across the Year, Spending mostly maintained the highest Revenue / Spending in billion euros when compared to others with a mean value of 519.58, and it peaked at 2024.",
+      "Revenue mostly had the least Revenue / Spending in billion euros with a mean value of 484.07, which peaked at 2024 with a value of 571.76. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Revenue, and Spending. The y axis represents Revenue / Spending in billion euros and the x axis represents Year.",
+      "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Revenue / Spending in billion euros in descending order is: 1. Spending, and lastly, 2. Revenue. ",
+      "Overall across the Year, Spending mostly maintained the highest Revenue / Spending in billion euros when compared to others with a mean value of 519.58, and it peaked at 2024.",
+      "Revenue mostly had the least Revenue / Spending in billion euros with a mean value of 484.07, which peaked at 2024 with a value of 571.76. ",
+      "The minimum Revenue / Spending in billion euros about 403.48, occured at 2014 by Revenue.",
+      "The difference of Revenue / Spending in billion euros between Revenue and Spending is smaller at Year 2024 compared to the Year 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "10": [
+            "0",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Revenue": "571.76",
+         "Spending": "599.51"
+      },
+      {
+         "Year": "2023",
+         "Revenue": "553.49",
+         "Spending": "580.11"
+      },
+      {
+         "Year": "2022",
+         "Revenue": "536.22",
+         "Spending": "561.98"
+      },
+      {
+         "Year": "2021",
+         "Revenue": "519.18",
+         "Spending": "544.03"
+      },
+      {
+         "Year": "2020",
+         "Revenue": "503.69",
+         "Spending": "527.6"
+      },
+      {
+         "Year": "2019",
+         "Revenue": "487.28",
+         "Spending": "514.19"
+      },
+      {
+         "Year": "2018",
+         "Revenue": "469.54",
+         "Spending": "499.52"
+      },
+      {
+         "Year": "2017",
+         "Revenue": "442.22",
+         "Spending": "478.13"
+      },
+      {
+         "Year": "2016",
+         "Revenue": "422.16",
+         "Spending": "472.16"
+      },
+      {
+         "Year": "2015",
+         "Revenue": "415.74",
+         "Spending": "472.74"
+      },
+      {
+         "Year": "2014",
+         "Revenue": "403.48",
+         "Spending": "465.42"
+      }
+   ]
+}

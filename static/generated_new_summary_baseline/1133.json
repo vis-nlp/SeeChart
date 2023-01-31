@@ -1,0 +1,111 @@
+{
+   "title": "Chemical fibers global production 2000 to 2018",
+   "labels": [
+      "Fiber Type",
+      "2000",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Production in thousand metric tons on the Y-axis for 3 different Fiber Types for 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Fiber Type Total had the maximum Production in thousand metric tons among all 10 groups, and it was for 2018. The minimum Production in thousand metric tons was observed in Fiber Type Cellulose fibers for 2000. ",
+      "Fiber Type Total and Cellulose fibers had the biggest gap of 45200.0 between the highest and lowest Production in thousand metric tons found for 2010. ",
+      "Averaging all 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018, the Fiber Type Total is the maximum Production in thousand metric tons and Cellulose fibers is the minimum Production in thousand metric tons. "
+   ],
+   "xAxis": "Fiber Type",
+   "yAxis": "Production in thousand metric tons",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Fiber Types on X-axis for 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Production in thousand metric tons. ",
+      " Fiber Type Total had the maximum Production in thousand metric tons among all 10 groups, and it was for 2018. The minimum Production in thousand metric tons was observed in Fiber Type Cellulose fibers for 2000. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Production in thousand metric tons on the Y-axis for 3 different Fiber Types for 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Fiber Type Total had the maximum Production in thousand metric tons among all 10 groups, and it was for 2018. The minimum Production in thousand metric tons was observed in Fiber Type Cellulose fibers for 2000. ",
+      "Fiber Type Total and Cellulose fibers had the biggest gap of 45200.0 between the highest and lowest Production in thousand metric tons found for 2010. ",
+      "Averaging all 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018, the Fiber Type Total is the maximum Production in thousand metric tons and Cellulose fibers is the minimum Production in thousand metric tons. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 3 different Fiber Types on X-axis for 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Production in thousand metric tons. ",
+      " For Fiber Type Total, 2018 had the highest Production in thousand metric tons 73400.0 among the 10 groups and in Cellulose fibers, 2000 had the lowest Production in thousand metric tons 2640.0. ",
+      " Among all the Fiber Types, 2010 had the highest Production in thousand metric tons 49600.0 in Fiber Type Total and lowest value 4400.0 in Fiber Type Cellulose fibers. ",
+      "Fiber Type Total and Cellulose fibers had the biggest gap of 45200.0 between the highest and lowest Production in thousand metric tons found for 2010. ",
+      " Out of all 10 groups, the highest gap between the maximum and minimum Production in thousand metric tons was found in case of 2017. ",
+      " 2018 had the maximum Production in thousand metric tons out of all 10 groups in Fiber Type Total followed by 2018 in Total, and the minimum Production in thousand metric tons is found for 2000 in Cellulose fibers. ",
+      "On average, the Fiber Type Total had the highest Production in thousand metric tons for all 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018. Whereas Cellulose fibers had the lowest average Production in thousand metric tons. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "10",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fiber Type": "Cellulose fibers",
+         "2000": "2640",
+         "2010": "4400",
+         "2011": "4743",
+         "2012": "5040",
+         "2013": "5900",
+         "2014": "6200",
+         "2015": "6100",
+         "2016": "6400",
+         "2017": "6700",
+         "2018": "6800"
+      },
+      {
+         "Fiber Type": "Synthetic fibers",
+         "2000": "28400",
+         "2010": "45200",
+         "2011": "47957",
+         "2012": "50960",
+         "2013": "54400",
+         "2014": "57100",
+         "2015": "60700",
+         "2016": "64800",
+         "2017": "64900",
+         "2018": "66600"
+      },
+      {
+         "Fiber Type": "Total",
+         "2000": "31040",
+         "2010": "49600",
+         "2011": "52700",
+         "2012": "56000",
+         "2013": "60300",
+         "2014": "63300",
+         "2015": "66800",
+         "2016": "71200",
+         "2017": "71600",
+         "2018": "73400"
+      }
+   ]
+}

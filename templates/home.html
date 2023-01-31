@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ JSGlue.include() }}
+    <meta charset="UTF-8">
+    <title>User Study Home</title>
+    <link href="static/css/homeStyle.css" rel="stylesheet">
+<!--    <script type="text/javascript" src="static/js/study.js" ></script>-->
+    <script type=text/javascript src="{{ url_for('static', filename='js/study.js') }}"></script>
+
+</head>
+
+<div class="topnav">
+    <a class="active" href="{{ url_for('home') }}">Home</a>
+    <a href="{{ url_for('questionnaire') }}">Task</a>
+{#    <a href="{{ url_for('task', chart='bar') }}">Task A</a>#}
+{#    <a href="{{ url_for('task', chart='multi_bar') }}">Task B</a>#}
+{#    <a href="{{ url_for('task', chart='line') }}">Task C</a>#}
+{#    <a href="{{ url_for('task', chart='multi_line') }}">Task D</a>#}
+{#    <a href="{{ url_for('post_questionnaire') }}">Post-Study Task</a>#}
+    <a href="{{ url_for('original') }}">All Charts</a>
+{#    <a href="{{ url_for('consent') }}">Consent</a>#}
+    <a href="#" onClick="(function(){
+        if (confirm('Are you sure?') == true){
+            window.location.replace(Flask.url_for('logout'));
+        }
+
+    })();">Log Out</a>
+
+    <p> Participant ID: {{g.user.id}} </p>
+</div>
+
+
+<script>
+    var last_update = "";
+    if_all_done('{{g.user.id}}');
+
+</script>
+
+
+<body>
+    <h1 class="main" align="center">Welcome to the User Study of Accessible Information Visualization Interfaces</h1>
+
+    <div class="container" align="center">
+        <input type="submit" className="button" onclick="location.href='{{ url_for('questionnaire') }}';" value="START TASK" />
+        <br>
+        <br>
+
+        <h2 align="center"> Progress Status </h2>
+        <table id="myTable" border="1" class="styled-table" style="width: 70%;">
+            <tr>
+                <th style="padding-right: 20px; padding-left: 20px; background: #c4e3f3; width: 70%;"> Task </th>
+                <th style="padding-right: 20px; padding-left: 20px; background: #c4e3f3; width: 30%;"> Status </th>
+            </tr>
+            <script>
+                var tbodyRef = document.getElementById('myTable').getElementsByTagName('tbody')[0];
+
+                var JSONRequestURL = "static/task/data_" + "{{g.user.id}}" + ".json";
+                var JSONRequest = new XMLHttpRequest();
+                JSONRequest.open('GET', JSONRequestURL);
+                JSONRequest.responseType = 'json';
+                JSONRequest.send();
+
+                JSONRequest.onload = function () {
+                    var jsonObj = JSONRequest.response;
+
+                    for (var key in jsonObj) {
+                        if(jsonObj.hasOwnProperty(key) && key==="last_updated"){
+                            if (jsonObj[key] === "null"){
+                                last_update = "Yet to start!"
+                            }
+                            else {
+                                last_update = jsonObj[key];
+
+                            }
+                        }
+                        else if (jsonObj.hasOwnProperty(key) && key!=="pid" && key!=="last_updated" && key!=="logged_in") {
+
+                            var newRow = tbodyRef.insertRow();
+
+                            var newCell = newRow.insertCell(0);
+
+                            var newText = document.createTextNode(key);
+                            newCell.appendChild(newText);
+
+                            var newCell2 = newRow.insertCell(1);
+
+                            var newText2 = document.createTextNode(jsonObj[key]);
+                            newCell2.appendChild(newText2);
+                            if(jsonObj[key] === "NOT DONE"){
+                                newCell2.style.color = "RED";
+                                newCell2.style.fontWeight = "bold";
+                            }
+                            else {
+
+                                newCell2.style.color = "GREEN";
+                                newCell2.style.fontWeight = "bold";
+                                // newRow.classList.add("active-row");
+                            }
+                        }
+                    }
+                    sessionStorage.setItem('last_update', last_update);
+
+                }
+            </script>
+        </table>
+
+        <h2 id="last_update" align="center" style="border-radius: 10px;"></h2>
+
+        <script>
+            document.getElementById("last_update").innerHTML = "Status last updated at: <br> " + "<span style='color: red'>" + sessionStorage.getItem('last_update') + "</span>";
+        </script>
+        <br>
+        <br>
+        <br>
+        <h2 id="final_status" align="center" style="border-radius: 10px;"></h2>
+
+
+
+    </div>
+
+
+
+<!--    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQJrgsHjxPt5bSmy7y-pc9TQJ_dYWol86aP7Pie1XfKipOtQ/viewform?embedded=true" width="1080" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>-->
+
+</body>
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+<!--<!DOCTYPE html>-->
+<!--<html>-->
+<!--  <head>-->
+<!--    <meta charset="utf-8">-->
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1">-->
+<!--    <title>Profile Page</title>-->
+<!--    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">-->
+<!--    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>-->
+<!--  </head>-->
+<!--  <body>-->
+<!--    <section class="hero is-success is-fullheight">-->
+<!--      <div class="hero-body">-->
+<!--        <div class="container">-->
+<!--          <h1 class="title">-->
+<!--            {{g.user.username}}'s Profile-->
+<!--          </h1>-->
+<!--          <h2 class="subtitle">-->
+<!--            You are user number #{{g.user.id}}-->
+<!--          </h2>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </section>-->
+<!--  </body>-->
+<!--</html>-->

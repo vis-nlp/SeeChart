@@ -1,0 +1,113 @@
+{
+   "title": "Betting and gaming : United Kingdom HMRC tax receipts 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Betting and gaming tax receipts in billion GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Betting and gaming tax receipts in billion GBP, containing a total of 19 data points.",
+      " In general Betting and gaming tax receipts in billion GBP has rose over the Year.",
+      "The most drastic increase took place within the Year 2014/15 and 2015/16.",
+      "The highest Betting and gaming tax receipts in billion GBP, of value 2.99 was reached at Year 2018/19",
+      "The lowest Betting and gaming tax receipts in billion GBP, of value 1.29 was reported at Year 2002/03"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Betting and gaming tax receipts in billion GBP. In total the number of data points it has is 19.",
+      " Overall Betting and gaming tax receipts in billion GBP has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Betting and gaming tax receipts in billion GBP, containing a total of 19 data points.",
+      " In general Betting and gaming tax receipts in billion GBP has rose over the Year.",
+      "The most drastic increase took place within the Year 2014/15 and 2015/16.",
+      "The highest Betting and gaming tax receipts in billion GBP, of value 2.99 was reached at Year 2018/19",
+      "The lowest Betting and gaming tax receipts in billion GBP, of value 1.29 was reported at Year 2002/03"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Betting and gaming tax receipts in billion GBP, containing a total of 19 data points.",
+      " Overall Betting and gaming tax receipts in billion GBP has increased over the Year.",
+      "The steepest increase occurs in between the Year 2014/15 and 2015/16.",
+      "The highest Betting and gaming tax receipts in billion GBP, of value 2.99 was reached at Year 2018/19",
+      "The lowest Betting and gaming tax receipts in billion GBP, of value 1.29 was reported at Year 2002/03",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Betting and gaming tax receipts in billion GBP": 2.99
+      },
+      {
+         "Year": "2017/18",
+         "Betting and gaming tax receipts in billion GBP": 2.86
+      },
+      {
+         "Year": "2016/17",
+         "Betting and gaming tax receipts in billion GBP": 2.74
+      },
+      {
+         "Year": "2015/16",
+         "Betting and gaming tax receipts in billion GBP": 2.67
+      },
+      {
+         "Year": "2014/15",
+         "Betting and gaming tax receipts in billion GBP": 2.12
+      },
+      {
+         "Year": "2013/14",
+         "Betting and gaming tax receipts in billion GBP": 2.1
+      },
+      {
+         "Year": "2012/13",
+         "Betting and gaming tax receipts in billion GBP": 1.68
+      },
+      {
+         "Year": "2011/12",
+         "Betting and gaming tax receipts in billion GBP": 1.63
+      },
+      {
+         "Year": "2010/11",
+         "Betting and gaming tax receipts in billion GBP": 1.53
+      },
+      {
+         "Year": "2009/10",
+         "Betting and gaming tax receipts in billion GBP": 1.44
+      },
+      {
+         "Year": "2008/09",
+         "Betting and gaming tax receipts in billion GBP": 1.47
+      },
+      {
+         "Year": "2007/08",
+         "Betting and gaming tax receipts in billion GBP": 1.48
+      },
+      {
+         "Year": "2006/07",
+         "Betting and gaming tax receipts in billion GBP": 1.39
+      },
+      {
+         "Year": "2005/06",
+         "Betting and gaming tax receipts in billion GBP": 1.42
+      },
+      {
+         "Year": "2004/05",
+         "Betting and gaming tax receipts in billion GBP": 1.42
+      },
+      {
+         "Year": "2003/04",
+         "Betting and gaming tax receipts in billion GBP": 1.34
+      },
+      {
+         "Year": "2002/03",
+         "Betting and gaming tax receipts in billion GBP": 1.29
+      },
+      {
+         "Year": "2001/02",
+         "Betting and gaming tax receipts in billion GBP": 1.44
+      },
+      {
+         "Year": "2000/01",
+         "Betting and gaming tax receipts in billion GBP": 1.51
+      }
+   ]
+}

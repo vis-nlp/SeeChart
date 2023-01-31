@@ -1,0 +1,106 @@
+{
+   "title": "Election 2012 exit polls : percentage of votes by income",
+   "labels": [
+      "Year",
+      "Barack Obama",
+      "Mitt Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Barack Obama, and Mitt Romney. The y axis indicates the Percentage of votes and the x axis indicates Year.",
+      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Barack Obama, and lastly, 2. Mitt Romney. ",
+      "Overall across the Year, Barack Obama mostly maintained the highest Percentage of votes when compared to others with a mean value of 52.25, and it peaked at Under_30000.",
+      "The botommost line, Mitt Romney,  has a mean of 46.0, and peaked at 100000_or_more. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Percentage of votes",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Barack Obama, and Mitt Romney. The y axis indicates the Percentage of votes and the x axis indicates Year.",
+      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year",
+      "Throughout the period, Barack Obama generally had the highest Percentage of votes relative to others with an average of 52.25, and it reached its maximum at Under_30000 with a value of 63.0.",
+      "The botommost line, Mitt Romney,  has a mean of 46.0, and peaked at 100000_or_more. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Barack Obama, and Mitt Romney. The y axis indicates the Percentage of votes and the x axis indicates Year.",
+      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Barack Obama, and lastly, 2. Mitt Romney. ",
+      "Overall across the Year, Barack Obama mostly maintained the highest Percentage of votes when compared to others with a mean value of 52.25, and it peaked at Under_30000.",
+      "The botommost line, Mitt Romney,  has a mean of 46.0, and peaked at 100000_or_more. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing Barack Obama, and Mitt Romney. The y axis denotes Percentage of votes and the x axis denotes Year.",
+      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Barack Obama, and lastly, 2. Mitt Romney. ",
+      "Overall across the Year, Barack Obama mostly maintained the highest Percentage of votes when compared to others with a mean value of 52.25, and it peaked at Under_30000.",
+      "The botommost line, Mitt Romney,  has a mean of 46.0, and peaked at 100000_or_more. ",
+      "The greatest difference of Percentage of votes between Barack Obama and Mitt Romney occurs at Year Under_30000 and the smallest difference occurs at 50000_or_more."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "3",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "1"
+         ],
+         "10": [
+            "3",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "Under 30000",
+         "Barack Obama": "63",
+         "Mitt Romney": "35"
+      },
+      {
+         "Year": "30000 to 49999",
+         "Barack Obama": "57",
+         "Mitt Romney": "42"
+      },
+      {
+         "Year": "50000 or more",
+         "Barack Obama": "45",
+         "Mitt Romney": "53"
+      },
+      {
+         "Year": "100000 or more",
+         "Barack Obama": "44",
+         "Mitt Romney": "54"
+      }
+   ]
+}

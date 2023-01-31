@@ -1,0 +1,73 @@
+{
+   "title": "Alzheimer 's in the U.S : lifetime risks , by age and gender",
+   "labels": [
+      "Country",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 2 groups Men, and Women. On the Y-axis it shows their corresponding Risk Percentage. ",
+      " For Country 65 years, Women had the highest Risk Percentage 211.0 among the 2 groups and in 45 years, Men had the lowest Risk Percentage 103.0. ",
+      " There is a gap of 95.0 between the highest and lowest Risk Percentage found for Women in Country 65 years and 45 years. ",
+      "Averaging all 2 groups Men, and Women, the Country 65 years is the maximum Risk Percentage and 45 years is the minimum Risk Percentage. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Risk Percentage",
+   "min_summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 2 groups Men, and Women. On the Y-axis it shows their corresponding Risk Percentage. ",
+      " Out of all 2 groups, Women had the highest Risk Percentage for Country 65 years and Men had the lowest Risk Percentage for Country 45 years. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 2 groups Men, and Women. On the Y-axis it shows their corresponding Risk Percentage. ",
+      " For Country 65 years, Women had the highest Risk Percentage 211.0 among the 2 groups and in 45 years, Men had the lowest Risk Percentage 103.0. ",
+      " There is a gap of 95.0 between the highest and lowest Risk Percentage found for Women in Country 65 years and 45 years. ",
+      "Averaging all 2 groups Men, and Women, the Country 65 years is the maximum Risk Percentage and 45 years is the minimum Risk Percentage. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 2 groups Men, and Women. On the Y-axis it shows their corresponding Risk Percentage. ",
+      " For Country 65 years, Women had the highest Risk Percentage 211.0 among the 2 groups and in 45 years, Men had the lowest Risk Percentage 103.0. ",
+      " Among all the Countrys, Women had the highest Risk Percentage 211.0 in Country 65 years and lowest value 116.0 in Country 45 years. ",
+      "Country 65 years and 45 years had the biggest gap of 95.0 between the highest and lowest Risk Percentage found for Women. ",
+      " Among all 2 groups, Men had the gap of 92.0 between the maximum and minimum Risk Percentage observed in Country 65 years and 45 years respectively. ",
+      "On average, the Country 65 years had the highest Risk Percentage for all 2 groups Men, and Women. Whereas 45 years had the lowest average Risk Percentage. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "45 years",
+         "Men": "10.3",
+         "Women": "11.6"
+      },
+      {
+         "Country": "65 years",
+         "Men": "19.5",
+         "Women": "21.1"
+      }
+   ]
+}

@@ -1,0 +1,141 @@
+{
+   "title": "U.S. government - Budget surplus or deficit 2000 to 2025",
+   "xAxis": "Year",
+   "yAxis": "Surplus/deficit in trillion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Surplus/deficit in trillion U.S. dollars. In total the number of data points it has is 26.",
+      " Overall Surplus/deficit in trillion U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year '08 and '09.",
+      "Maximum Surplus/deficit in trillion U.S. dollars, about 1.41 was reported at Year '09",
+      "Minimum Surplus/deficit in trillion U.S. dollars about 0.13 was reached at Year '01"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Surplus/deficit in trillion U.S. dollars, containing a total of 26 data points.",
+      " Overall Surplus/deficit in trillion U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Surplus/deficit in trillion U.S. dollars. In total the number of data points it has is 26.",
+      " Overall Surplus/deficit in trillion U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year '08 and '09.",
+      "Maximum Surplus/deficit in trillion U.S. dollars, about 1.41 was reported at Year '09",
+      "Minimum Surplus/deficit in trillion U.S. dollars about 0.13 was reached at Year '01"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Surplus/deficit in trillion U.S. dollars. In total the number of data points it has is 26.",
+      " In general Surplus/deficit in trillion U.S. dollars has rose over the Year.",
+      "The most drastic increase took place within the Year '08 and '09.",
+      "Maximum Surplus/deficit in trillion U.S. dollars, about 1.41 was reported at Year '09",
+      "Minimum Surplus/deficit in trillion U.S. dollars about 0.13 was reached at Year '01",
+      "The line significantly increased by 0.22 from Year '02 to '03,increased by 0.3 from Year '07 to '08, and lastly, increased by 0.95 from Year '08 to '09."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "'25",
+         "Surplus/deficit in trillion U.S. dollars": 0.53
+      },
+      {
+         "Year": "'24",
+         "Surplus/deficit in trillion U.S. dollars": 0.55
+      },
+      {
+         "Year": "'23",
+         "Surplus/deficit in trillion U.S. dollars": 0.75
+      },
+      {
+         "Year": "'22",
+         "Surplus/deficit in trillion U.S. dollars": 0.92
+      },
+      {
+         "Year": "'21",
+         "Surplus/deficit in trillion U.S. dollars": 0.97
+      },
+      {
+         "Year": "'20",
+         "Surplus/deficit in trillion U.S. dollars": 1.08
+      },
+      {
+         "Year": "'19",
+         "Surplus/deficit in trillion U.S. dollars": 0.98
+      },
+      {
+         "Year": "'18",
+         "Surplus/deficit in trillion U.S. dollars": 0.78
+      },
+      {
+         "Year": "'17",
+         "Surplus/deficit in trillion U.S. dollars": 0.67
+      },
+      {
+         "Year": "'16",
+         "Surplus/deficit in trillion U.S. dollars": 0.58
+      },
+      {
+         "Year": "'15",
+         "Surplus/deficit in trillion U.S. dollars": 0.44
+      },
+      {
+         "Year": "'14",
+         "Surplus/deficit in trillion U.S. dollars": 0.48
+      },
+      {
+         "Year": "'13",
+         "Surplus/deficit in trillion U.S. dollars": 0.68
+      },
+      {
+         "Year": "'12",
+         "Surplus/deficit in trillion U.S. dollars": 1.08
+      },
+      {
+         "Year": "'11",
+         "Surplus/deficit in trillion U.S. dollars": 1.3
+      },
+      {
+         "Year": "'10",
+         "Surplus/deficit in trillion U.S. dollars": 1.29
+      },
+      {
+         "Year": "'09",
+         "Surplus/deficit in trillion U.S. dollars": 1.41
+      },
+      {
+         "Year": "'08",
+         "Surplus/deficit in trillion U.S. dollars": 0.46
+      },
+      {
+         "Year": "'07",
+         "Surplus/deficit in trillion U.S. dollars": 0.16
+      },
+      {
+         "Year": "'06",
+         "Surplus/deficit in trillion U.S. dollars": 0.25
+      },
+      {
+         "Year": "'05",
+         "Surplus/deficit in trillion U.S. dollars": 0.32
+      },
+      {
+         "Year": "'04",
+         "Surplus/deficit in trillion U.S. dollars": 0.41
+      },
+      {
+         "Year": "'03",
+         "Surplus/deficit in trillion U.S. dollars": 0.38
+      },
+      {
+         "Year": "'02",
+         "Surplus/deficit in trillion U.S. dollars": 0.16
+      },
+      {
+         "Year": "'01",
+         "Surplus/deficit in trillion U.S. dollars": 0.13
+      },
+      {
+         "Year": "'00",
+         "Surplus/deficit in trillion U.S. dollars": 0.24
+      }
+   ]
+}

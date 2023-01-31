@@ -1,0 +1,93 @@
+{
+   "title": "Top 10 causes of infant mortality in Canada in 2018",
+   "xAxis": "Cause",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 columns on the x axis representing Cause, and Number of deaths in each Cause on the y axis. ",
+      "Cause Congenital malformations deformations and chromosomal abnormalities has the highest Number of deaths and Sudden infant death syndrome has the lowest Number of deaths. ",
+      "There is a difference of 402.0 between the maximum Cause Congenital malformations deformations and chromosomal abnormalities and minimum Cause Sudden infant death syndrome. "
+   ],
+   "min_summary": [
+      "This bar chart has 12 columns on the x axis representing Cause, and Number of deaths in each Cause on the y axis. ",
+      "The maximum Number of deaths 412.0 is found at Cause Congenital malformations deformations and chromosomal abnormalities and the minimum is found at Sudden infant death syndrome where Number of deaths is 10.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 12 columns on the x axis representing Cause, and Number of deaths in each Cause on the y axis. ",
+      "Cause Congenital malformations deformations and chromosomal abnormalities has the highest Number of deaths and Sudden infant death syndrome has the lowest Number of deaths. ",
+      "There is a difference of 402.0 between the maximum Cause Congenital malformations deformations and chromosomal abnormalities and minimum Cause Sudden infant death syndrome. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Cause in the x axis and Number of deaths in the y axis. ",
+      "Cause Congenital malformations deformations and chromosomal abnormalities has the highest Number of deaths and Sudden infant death syndrome has the lowest Number of deaths. ",
+      "The second highest Number of deaths is appeared to be the Cause . ",
+      "The difference of Number of deaths between the highest and lowest Cause is 402.0. ",
+      "Number of deaths at Cause Congenital malformations deformations and chromosomal abnormalities is 412.0 , second place is  at 412.0, and thirdly is Newborn affected by maternal complications of pregnancy at 167.0.",
+      "Cause Accidents (unintentional injuries), and Diseases of the circulatory system have a similar Number of deaths that is 17.0. ",
+      "The Cause Sudden infant death syndrome has 4.42 times less Number of deaths than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 11,
+         "12": 11
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cause": "Congenital malformations deformations and chromosomal abnormalities",
+         "Number of deaths": 412.0
+      },
+      {
+         "Cause": "Disorders related to short gestation and low birth weight not elsewhere classified",
+         "Number of deaths": 171.0
+      },
+      {
+         "Cause": "Newborn affected by maternal complications of pregnancy",
+         "Number of deaths": 167.0
+      },
+      {
+         "Cause": "Newborn affected by complications of placenta cord and membranes",
+         "Number of deaths": 93.0
+      },
+      {
+         "Cause": "Complications of labor and delivery",
+         "Number of deaths": 65.0
+      },
+      {
+         "Cause": "Intrauterine hypoxia and birth asphyxia",
+         "Number of deaths": 51.0
+      },
+      {
+         "Cause": "Neonatal haemorrhages",
+         "Number of deaths": 49.0
+      },
+      {
+         "Cause": "Bacterial sepsis of newborn",
+         "Number of deaths": 47.0
+      },
+      {
+         "Cause": "Respiratory distress of newborn",
+         "Number of deaths": 19.0
+      },
+      {
+         "Cause": "Accidents (unintentional injuries)",
+         "Number of deaths": 17.0
+      },
+      {
+         "Cause": "Diseases of the circulatory system",
+         "Number of deaths": 17.0
+      },
+      {
+         "Cause": "Sudden infant death syndrome",
+         "Number of deaths": 10.0
+      }
+   ]
+}

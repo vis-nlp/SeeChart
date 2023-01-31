@@ -1,0 +1,89 @@
+{
+   "title": "Average regular season home attendance of the Arizona Cardinals 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
+      " Overall Average attendance has decreased over the Year.",
+      "Average attendance is roughly constant from 2008 to 2010, slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2013, slightly increasing from 2013 to 2015, and finally slightly decreasing from 2015 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Average attendance, about 64831.0 was reported at Year 2016",
+      "The lowest Average attendance, of value 60890.0 was reported at Year 2012"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
+      " In general Average attendance has stayed the same over the Year.",
+      "Average attendance is roughly constant from 2008 to 2010, slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2013, slightly increasing from 2013 to 2015, and finally slightly decreasing from 2015 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
+      " Overall Average attendance has decreased over the Year.",
+      "Average attendance is roughly constant from 2008 to 2010, slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2013, slightly increasing from 2013 to 2015, and finally slightly decreasing from 2015 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Average attendance, about 64831.0 was reported at Year 2016",
+      "The lowest Average attendance, of value 60890.0 was reported at Year 2012"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
+      " In general Average attendance has stayed the same over the Year.",
+      "Average attendance is roughly constant from 2008 to 2010, slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2013, slightly increasing from 2013 to 2015, and finally slightly decreasing from 2015 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Average attendance, about 64831.0 was reported at Year 2016",
+      "The lowest Average attendance, of value 60890.0 was reported at Year 2012",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": 61323.0
+      },
+      {
+         "Year": "2018",
+         "Average attendance": 62013.0
+      },
+      {
+         "Year": "2017",
+         "Average attendance": 64217.0
+      },
+      {
+         "Year": "2016",
+         "Average attendance": 64831.0
+      },
+      {
+         "Year": "2015",
+         "Average attendance": 64185.0
+      },
+      {
+         "Year": "2014",
+         "Average attendance": 61979.0
+      },
+      {
+         "Year": "2013",
+         "Average attendance": 61033.0
+      },
+      {
+         "Year": "2012",
+         "Average attendance": 60890.0
+      },
+      {
+         "Year": "2011",
+         "Average attendance": 61181.0
+      },
+      {
+         "Year": "2010",
+         "Average attendance": 62774.0
+      },
+      {
+         "Year": "2009",
+         "Average attendance": 63142.0
+      },
+      {
+         "Year": "2008",
+         "Average attendance": 64096.0
+      }
+   ]
+}

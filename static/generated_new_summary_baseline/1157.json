@@ -1,0 +1,83 @@
+{
+   "title": "Monsanto 's number of regular and temporary workers worldwide 2013 to 2017",
+   "labels": [
+      "Worker Type",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 2 different Worker Types on X-axis for 5 groups 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding Number of employees. ",
+      " Worker Type Regular workers had the maximum Number of employees among all 5 groups, and it was for 2015. The minimum Number of employees was observed in Worker Type Temporary workers for 2017. ",
+      " There is a gap of 17500.0 between the highest and lowest Number of employees found for 2016 in Worker Type Regular workers and Temporary workers. ",
+      "On average, the Worker Type Regular workers had the highest Number of employees for all 5 groups 2013, 2014, 2015, 2016, and 2017. Whereas Temporary workers had the lowest average Number of employees. "
+   ],
+   "xAxis": "Worker Type",
+   "yAxis": "Number of employees",
+   "min_summary": [
+      "This grouped bar chart represents 2 different Worker Types on X-axis for 5 groups 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding Number of employees. ",
+      " For Worker Type Regular workers, 2015 had the highest Number of employees 22500.0 among the 5 groups and in Temporary workers, 2017 had the lowest Number of employees 2800.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 2 different Worker Types on X-axis for 5 groups 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding Number of employees. ",
+      " Worker Type Regular workers had the maximum Number of employees among all 5 groups, and it was for 2015. The minimum Number of employees was observed in Worker Type Temporary workers for 2017. ",
+      " There is a gap of 17500.0 between the highest and lowest Number of employees found for 2016 in Worker Type Regular workers and Temporary workers. ",
+      "On average, the Worker Type Regular workers had the highest Number of employees for all 5 groups 2013, 2014, 2015, 2016, and 2017. Whereas Temporary workers had the lowest average Number of employees. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Number of employees on the Y-axis for 2 different Worker Types for 5 groups 2013, 2014, 2015, 2016, and 2017 that are presented on the X-axis. ",
+      " Worker Type Regular workers had the maximum Number of employees among all 5 groups, and it was for 2015. The minimum Number of employees was observed in Worker Type Temporary workers for 2017. ",
+      " Among all the Worker Types, 2016 had the highest Number of employees 20800.0 in Worker Type Regular workers and lowest value 3300.0 in Worker Type Temporary workers. ",
+      " There is a gap of 17500.0 between the highest and lowest Number of employees found for 2016 in Worker Type Regular workers and Temporary workers. ",
+      " Among the groups, 2015 had the biggest difference in Number of employees. Where the maximum Number of employees was 7.5 times larger than the minimum Number of employees. ",
+      " 2015 had the maximum Number of employees out of all 5 groups in Worker Type Regular workers followed by 2015 in Regular workers, and the minimum Number of employees is found for 2017 in Temporary workers. ",
+      "Averaging all 5 groups 2013, 2014, 2015, 2016, and 2017, the Worker Type Regular workers is the maximum Number of employees and Temporary workers is the minimum Number of employees. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "5",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Worker Type": "Regular workers",
+         "2013": "21900",
+         "2014": "22400",
+         "2015": "22500",
+         "2016": "20800",
+         "2017": "20500"
+      },
+      {
+         "Worker Type": "Temporary workers",
+         "2013": "4300",
+         "2014": "4600",
+         "2015": "3000",
+         "2016": "3300",
+         "2017": "2800"
+      }
+   ]
+}

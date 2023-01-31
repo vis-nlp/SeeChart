@@ -1,0 +1,125 @@
+{
+   "title": "Number of U.S. patents held by tech companies in 2012",
+   "xAxis": "Company",
+   "yAxis": "Number of U.S. patents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of U.S. patents for 20 number of Companys. ",
+      "The maximum Number of U.S. patents 47855.0 is found at Company Samsung and the minimum is found at Amazon where Number of U.S. patents is 448.0. ",
+      "There is a difference of 47407.0 between the maximum Company Samsung and minimum Company Amazon. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Company, and Number of U.S. patents in each Company on the y axis. ",
+      "The Number of U.S. patents is appeared to be the highest at Company Samsung and lowest at Company Amazon. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of U.S. patents for 20 number of Companys. ",
+      "The maximum Number of U.S. patents 47855.0 is found at Company Samsung and the minimum is found at Amazon where Number of U.S. patents is 448.0. ",
+      "There is a difference of 47407.0 between the maximum Company Samsung and minimum Company Amazon. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Company in the x axis and Number of U.S. patents in the y axis. ",
+      "The maximum Number of U.S. patents 47855.0 is found at Company Samsung and the minimum is found at Amazon where Number of U.S. patents is 448.0. ",
+      "The second highest Number of U.S. patents is appeared to be the Company . ",
+      "The highest value at Company Samsung is 106.82x times more than the lowest value at Amazon. ",
+      "Company Samsung is higher than any other Companys with value 47855.0, followed by , and Sony. Down to Company Amazon with the lowest value 448.0. ",
+      "The average Number of U.S. patents in all 20 Companys is 14891.2. ",
+      "The Number of U.S. patents is 297824.0 if we add up values of all Companys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Samsung",
+         "Number of U.S. patents": 47855.0
+      },
+      {
+         "Company": "Canon",
+         "Number of U.S. patents": 46322.0
+      },
+      {
+         "Company": "Sony",
+         "Number of U.S. patents": 36508.0
+      },
+      {
+         "Company": "Hewlett-Packard",
+         "Number of U.S. patents": 23904.0
+      },
+      {
+         "Company": "Xerox",
+         "Number of U.S. patents": 23603.0
+      },
+      {
+         "Company": "Intel",
+         "Number of U.S. patents": 21153.0
+      },
+      {
+         "Company": "Motorola",
+         "Number of U.S. patents": 21027.0
+      },
+      {
+         "Company": "Microsoft",
+         "Number of U.S. patents": 19800.0
+      },
+      {
+         "Company": "Ricoh",
+         "Number of U.S. patents": 14363.0
+      },
+      {
+         "Company": "Lucent",
+         "Number of U.S. patents": 11713.0
+      },
+      {
+         "Company": "Nokia",
+         "Number of U.S. patents": 9615.0
+      },
+      {
+         "Company": "Cisco",
+         "Number of U.S. patents": 7208.0
+      },
+      {
+         "Company": "Apple",
+         "Number of U.S. patents": 4649.0
+      },
+      {
+         "Company": "Oracle",
+         "Number of U.S. patents": 3371.0
+      },
+      {
+         "Company": "Dell",
+         "Number of U.S. patents": 2489.0
+      },
+      {
+         "Company": "Google",
+         "Number of U.S. patents": 1124.0
+      },
+      {
+         "Company": "Verizon",
+         "Number of U.S. patents": 1110.0
+      },
+      {
+         "Company": "Yahoo",
+         "Number of U.S. patents": 1029.0
+      },
+      {
+         "Company": "AOL",
+         "Number of U.S. patents": 533.0
+      },
+      {
+         "Company": "Amazon",
+         "Number of U.S. patents": 448.0
+      }
+   ]
+}

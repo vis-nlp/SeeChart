@@ -1,0 +1,127 @@
+{
+   "title": "CVS Health 's revenue 2010 - 2017 by segment",
+   "labels": [
+      "Year",
+      "Pharmacy services",
+      "Retail pharmacy"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Pharmacy services, and Retail pharmacy. The y axis indicates the Revenue in billion USD and the x axis indicates Year.",
+      "Overall Pharmacy services, and Retail pharmacy are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Pharmacy services, and lastly, 2. Retail pharmacy. ",
+      "Throughout the period, Pharmacy services generally had the highest Revenue in billion USD relative to others with an average of 86.63, and it reached its maximum at 2017 with a value of 130.6.",
+      "The botommost line, Retail pharmacy,  has a mean of 68.32, and peaked at 2016. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion USD",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Pharmacy services, and Retail pharmacy. The y axis indicates the Revenue in billion USD and the x axis indicates Year.",
+      "Overall Pharmacy services, and Retail pharmacy are gradually increasing,  throughout the Year",
+      "Throughout the period, Pharmacy services generally had the highest Revenue in billion USD relative to others with an average of 86.63, and it reached its maximum at 2017 with a value of 130.6.",
+      "Retail pharmacy mostly had the least Revenue in billion USD with a mean value of 68.32, which peaked at 2016 with a value of 81.1. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Pharmacy services, and Retail pharmacy. The y axis indicates the Revenue in billion USD and the x axis indicates Year.",
+      "Overall Pharmacy services, and Retail pharmacy are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Pharmacy services, and lastly, 2. Retail pharmacy. ",
+      "Throughout the period, Pharmacy services generally had the highest Revenue in billion USD relative to others with an average of 86.63, and it reached its maximum at 2017 with a value of 130.6.",
+      "The botommost line, Retail pharmacy,  has a mean of 68.32, and peaked at 2016. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Pharmacy services, and Retail pharmacy. The y axis represents Revenue in billion USD and the x axis represents Year.",
+      "Overall Pharmacy services, and Retail pharmacy are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Pharmacy services, and lastly, 2. Retail pharmacy. ",
+      "Throughout the period, Pharmacy services generally had the highest Revenue in billion USD relative to others with an average of 86.63, and it reached its maximum at 2017 with a value of 130.6.",
+      "The botommost line, Retail pharmacy,  has a mean of 68.32, and peaked at 2016. ",
+      "The minimum Revenue in billion USD about 47.15, occured at 2010 by Pharmacy services.",
+      "The greatest difference of Revenue in billion USD between Pharmacy services and Retail pharmacy occurs at Year 2017 and the smallest difference occurs at 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "10": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Pharmacy services": "130.6",
+         "Retail pharmacy": "79.4"
+      },
+      {
+         "Year": "2016",
+         "Pharmacy services": "119.96",
+         "Retail pharmacy": "81.1"
+      },
+      {
+         "Year": "2015",
+         "Pharmacy services": "100.36",
+         "Retail pharmacy": "72.01"
+      },
+      {
+         "Year": "2014",
+         "Pharmacy services": "88.44",
+         "Retail pharmacy": "67.8"
+      },
+      {
+         "Year": "2013",
+         "Pharmacy services": "76.21",
+         "Retail pharmacy": "65.62"
+      },
+      {
+         "Year": "2012",
+         "Pharmacy services": "73.44",
+         "Retail pharmacy": "63.65"
+      },
+      {
+         "Year": "2011",
+         "Pharmacy services": "56.87",
+         "Retail pharmacy": "59.6"
+      },
+      {
+         "Year": "2010",
+         "Pharmacy services": "47.15",
+         "Retail pharmacy": "57.35"
+      }
+   ]
+}

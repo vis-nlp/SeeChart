@@ -1,0 +1,133 @@
+{
+   "title": "Importance in decision-making process when purchasing CE in the U.S. 2013",
+   "labels": [
+      "Response",
+      "18-49",
+      "50+"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 14 different Responses for 2 groups 18-49, and 50+ that are presented on the X-axis. ",
+      " For Response Price, 50+ had the highest Share of respondents 95.0 among the 2 groups and in Friends have it, 50+ had the lowest Share of respondents 21.0. ",
+      " The maximum Share of respondents for 18-49 that was found in Response Price was 2.59 times larger than the minimum Share of respondents observed in Response Family members have it. ",
+      "On average, the Response Price had the highest Share of respondents for all 2 groups 18-49, and 50+. Whereas Friends have it had the lowest average Share of respondents. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 14 different Responses for 2 groups 18-49, and 50+ that are presented on the X-axis. ",
+      " Response Price had the maximum Share of respondents among all 2 groups, and it was for 50+. The minimum Share of respondents was observed in Response Friends have it for 50+. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 14 different Responses for 2 groups 18-49, and 50+ that are presented on the X-axis. ",
+      " For Response Price, 50+ had the highest Share of respondents 95.0 among the 2 groups and in Friends have it, 50+ had the lowest Share of respondents 21.0. ",
+      " The maximum Share of respondents for 18-49 that was found in Response Price was 2.59 times larger than the minimum Share of respondents observed in Response Family members have it. ",
+      "On average, the Response Price had the highest Share of respondents for all 2 groups 18-49, and 50+. Whereas Friends have it had the lowest average Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 14 different Responses for 2 groups 18-49, and 50+ that are presented on the X-axis. ",
+      " For Response Price, 50+ had the highest Share of respondents 95.0 among the 2 groups and in Friends have it, 50+ had the lowest Share of respondents 21.0. ",
+      " Among all the Responses, 18-49 had the highest Share of respondents in Response Price and lowest Share of respondents in Response Family members have it. ",
+      " There is a gap of 51.0 between the highest and lowest Share of respondents found for 18-49 in Response Price and Family members have it. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share of respondents was found in case of 18-49. ",
+      "Averaging all 2 groups 18-49, and 50+, the Response Price is the maximum Share of respondents and Friends have it is the minimum Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Price",
+         "18-49": "83",
+         "50+": "95"
+      },
+      {
+         "Response": "Quality",
+         "18-49": "82",
+         "50+": "94"
+      },
+      {
+         "Response": "Product features",
+         "18-49": "81",
+         "50+": "91"
+      },
+      {
+         "Response": "Ease of use",
+         "18-49": "80",
+         "50+": "90"
+      },
+      {
+         "Response": "Product reviews",
+         "18-49": "73",
+         "50+": "75"
+      },
+      {
+         "Response": "Warranty",
+         "18-49": "70",
+         "50+": "83"
+      },
+      {
+         "Response": "Style of design",
+         "18-49": "70",
+         "50+": "65"
+      },
+      {
+         "Response": "Previous experience with brand",
+         "18-49": "67",
+         "50+": "78"
+      },
+      {
+         "Response": "Brand",
+         "18-49": "65",
+         "50+": "69"
+      },
+      {
+         "Response": "Friend/family member/co-worker recommendation",
+         "18-49": "54",
+         "50+": "51"
+      },
+      {
+         "Response": "Environmental friendliness of product",
+         "18-49": "41",
+         "50+": "35"
+      },
+      {
+         "Response": "Salesperson recommendation",
+         "18-49": "35",
+         "50+": "32"
+      },
+      {
+         "Response": "Family members have it",
+         "18-49": "32",
+         "50+": "28"
+      },
+      {
+         "Response": "Friends have it",
+         "18-49": "32",
+         "50+": "21"
+      }
+   ]
+}

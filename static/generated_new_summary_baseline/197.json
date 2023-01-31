@@ -1,0 +1,157 @@
+{
+   "title": "Distribution of gross domestic product ( GDP ) across economic sectors in the Netherlands",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Distribution of GDP in percentage and the x axis denotes Year.",
+      "Overall Services is gradually increasing, Industry is gradually decreasing, Agriculture is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Distribution of GDP in percentage in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Distribution of GDP in percentage when compared to others with a mean value of 68.97, and it peaked at 2016.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 19.1 Distribution of GDP in percentage,reaching its highest point  at 2008 with a value of 21.6. ",
+      "The botommost line, Agriculture,  has a mean of 1.69, and peaked at 2017. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Distribution of GDP in percentage",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Distribution of GDP in percentage and the x axis indicates Year.",
+      "Overall Services is gradually increasing, Industry is gradually decreasing, Agriculture is roughly constant,  throughout the Year",
+      "Overall across the Year, Services mostly maintained the highest Distribution of GDP in percentage when compared to others with a mean value of 68.97, and it peaked at 2016.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 19.1 Distribution of GDP in percentage,reaching its highest point  at 2008 with a value of 21.6. ",
+      "The botommost line, Agriculture,  has a mean of 1.69, and peaked at 2017. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Distribution of GDP in percentage and the x axis denotes Year.",
+      "Overall Services is gradually increasing, Industry is gradually decreasing, Agriculture is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Distribution of GDP in percentage in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Distribution of GDP in percentage when compared to others with a mean value of 68.97, and it peaked at 2016.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 19.1 Distribution of GDP in percentage,reaching its highest point  at 2008 with a value of 21.6. ",
+      "The botommost line, Agriculture,  has a mean of 1.69, and peaked at 2017. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Distribution of GDP in percentage and the x axis denotes Year.",
+      "Overall Services is gradually increasing, Industry is gradually decreasing, Agriculture is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Distribution of GDP in percentage in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Distribution of GDP in percentage when compared to others with a mean value of 68.97, and it peaked at 2016.",
+      "After Services, Industry overall has the second highest values , with a mean value of 19.1, peaking at 2008. ",
+      "Agriculture mostly had the least Distribution of GDP in percentage with a mean value of 1.69, which peaked at 2017 with a value of 1.86. ",
+      "The minimum Distribution of GDP in percentage about 1.49, occured at 2009 by Agriculture."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "2"
+         ],
+         "9": [
+            "2",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "10": [
+            "10",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Agriculture": "1.63",
+         "Industry": "17.93",
+         "Services": "69.94"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "1.86",
+         "Industry": "17.7",
+         "Services": "70.07"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "1.77",
+         "Industry": "17.64",
+         "Services": "70.22"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "1.72",
+         "Industry": "18.19",
+         "Services": "70.06"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "1.74",
+         "Industry": "18.41",
+         "Services": "69.91"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "1.79",
+         "Industry": "19.33",
+         "Services": "69.07"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "1.66",
+         "Industry": "20.02",
+         "Services": "68.73"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "1.58",
+         "Industry": "20.07",
+         "Services": "68.45"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "1.78",
+         "Industry": "19.69",
+         "Services": "68.37"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "1.49",
+         "Industry": "20.44",
+         "Services": "67.73"
+      },
+      {
+         "Year": "2008",
+         "Agriculture": "1.58",
+         "Industry": "21.61",
+         "Services": "66.13"
+      }
+   ]
+}

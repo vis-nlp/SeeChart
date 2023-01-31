@@ -1,0 +1,61 @@
+{
+   "title": "Costs of external consequences of cyber attacks on businesses 2018",
+   "xAxis": "Category",
+   "yAxis": "Cost in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Category in the x axis and Cost in million U.S. dollars in the y axis. ",
+      "The Cost in million U.S. dollars is appeared to be the highest at Category Information loss and lowest at Category Revenue loss. ",
+      "The difference of Cost in million U.S. dollars between the highest and lowest Category is 5.4. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Cost in million U.S. dollars for 4 number of Categorys. ",
+      "Category Information loss has the highest Cost in million U.S. dollars and Revenue loss has the lowest Cost in million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Category in the x axis and Cost in million U.S. dollars in the y axis. ",
+      "The Cost in million U.S. dollars is appeared to be the highest at Category Information loss and lowest at Category Revenue loss. ",
+      "The difference of Cost in million U.S. dollars between the highest and lowest Category is 5.4. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Category in the x axis and Cost in million U.S. dollars in the y axis. ",
+      "The maximum Cost in million U.S. dollars 5.9 is found at Category Information loss and the minimum is found at Revenue loss where Cost in million U.S. dollars is 0.5. ",
+      "The second highest Cost in million U.S. dollars is appeared to be the Category . ",
+      "The minimum Category Revenue loss has got 11.8 times less Cost in million U.S. dollars than the maximum Category Information loss. ",
+      "Category Information loss is higher than any other Categorys with value 5.9, followed by , and Equipment damages. Down to Category Revenue loss with the lowest value 0.5. ",
+      "Considered together, the average Cost in million U.S. dollars in all 4 Categorys is roughly 3.25. ",
+      "The Cost in million U.S. dollars is 13.0 if we add up values of all Categorys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category": "Business disruption",
+         "Cost in million U.S. dollars": 4.0
+      },
+      {
+         "Category": "Information loss",
+         "Cost in million U.S. dollars": 5.9
+      },
+      {
+         "Category": "Equipment damages",
+         "Cost in million U.S. dollars": 2.6
+      },
+      {
+         "Category": "Revenue loss",
+         "Cost in million U.S. dollars": 0.5
+      }
+   ]
+}

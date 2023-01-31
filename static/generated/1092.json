@@ -1,0 +1,100 @@
+{
+   "title": "Pandora 's advertising revenue 2006 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 12 number of Years. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Year 2017 and lowest at Year 2006. ",
+      "There is a difference of 1071.68 between the maximum Year 2017 and minimum Year 2006. "
+   ],
+   "min_summary": [
+      "This bar chart has 12 columns on the x axis representing Year, and Revenue in million U.S. dollars in each Year on the y axis. ",
+      "The maximum Revenue in million U.S. dollars 1074.93 is found at Year 2017 and the minimum is found at 2006 where Revenue in million U.S. dollars is 3.25. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 12 number of Years. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Year 2017 and lowest at Year 2006. ",
+      "Over the Years, Revenue in million U.S. dollars has increased. ",
+      "There is a difference of 1071.68 between the maximum Year 2017 and minimum Year 2006. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 12 number of Years. ",
+      "Year 2017 has the highest Revenue in million U.S. dollars and 2006 has the lowest Revenue in million U.S. dollars. ",
+      "The second highest Revenue in million U.S. dollars is appeared to be the Year . ",
+      "The highest Year 2017 has 1071.68 more Revenue in million U.S. dollars than the lowest Year 2006. ",
+      "Revenue in million U.S. dollars at Year 2017 is 1074.93 , second place is  at 1074.93, and thirdly is 2015 at 933.31.",
+      "Overall Revenue in million U.S. dollars has increased over the Years. ",
+      "The lowest value 3.25 at 2006 is almost 2.52 times smaller than the average value 426.82. ",
+      "Summing up the values of all Years, we get total 5121.88. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 11,
+         "12": 11
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 3.25
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 13.31
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 18.25
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 50.15
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 119.33
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 239.96
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 375.22
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 489.34
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 732.34
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 933.31
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 1072.49
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 1074.93
+      }
+   ],
+    "gold": [
+        "The advertising revenue of pandora seems to be increasing. ",
+        "The revenue has doubled in last 5 years of the chart. ",
+        "2016 and 2017 do not have significant difference. "
+    ]
+}

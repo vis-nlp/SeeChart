@@ -1,0 +1,69 @@
+{
+   "title": "Total number of employees of Kohl 's 2012 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees in thousands, containing a total of 7 data points.",
+      " Overall Number of employees in thousands has decreased over the Year.",
+      "Number of employees in thousands is roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally gradually decreasing from 2017 to 2018.",
+      "The steepest decrease occurs in between the Year 2017 and 2018.",
+      "Maximum Number of employees in thousands, about 140.0 was reported at Year 2015",
+      "Minimum Number of employees in thousands about 129.0 was reached at Year 2018"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees in thousands. In total the number of data points it has is 7.",
+      " Overall Number of employees in thousands has decreased over the Year.",
+      "Number of employees in thousands is roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally gradually decreasing from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees in thousands, containing a total of 7 data points.",
+      " Overall Number of employees in thousands has decreased over the Year.",
+      "Number of employees in thousands is roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally gradually decreasing from 2017 to 2018.",
+      "The steepest decrease occurs in between the Year 2017 and 2018.",
+      "Maximum Number of employees in thousands, about 140.0 was reported at Year 2015",
+      "Minimum Number of employees in thousands about 129.0 was reached at Year 2018"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees in thousands. In total the number of data points it has is 7.",
+      " Overall Number of employees in thousands has decreased over the Year.",
+      "Number of employees in thousands is roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally gradually decreasing from 2017 to 2018.",
+      "The steepest decrease occurs in between the Year 2017 and 2018.",
+      "Maximum Number of employees in thousands, about 140.0 was reported at Year 2015",
+      "Minimum Number of employees in thousands about 129.0 was reached at Year 2018",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees in thousands": 129.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees in thousands": 137.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees in thousands": 138.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees in thousands": 140.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees in thousands": 137.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees in thousands": 137.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees in thousands": 135.0
+      }
+   ]
+}

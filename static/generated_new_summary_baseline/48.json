@@ -1,0 +1,113 @@
+{
+   "title": "U.S. per capita consumption of dried fruit 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita consumption in pounds. In total the number of data points it has is 19.",
+      " In general Per capita consumption in pounds has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2017/18 and 2018/19.",
+      "Maximum Per capita consumption in pounds, about 2.59 was reported at Year 2002/03",
+      "Minimum Per capita consumption in pounds about 1.0 was reached at Year 2018/19"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita consumption in pounds. In total the number of data points it has is 19.",
+      " In general Per capita consumption in pounds has fallen over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita consumption in pounds. In total the number of data points it has is 19.",
+      " In general Per capita consumption in pounds has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2017/18 and 2018/19.",
+      "Maximum Per capita consumption in pounds, about 2.59 was reported at Year 2002/03",
+      "Minimum Per capita consumption in pounds about 1.0 was reached at Year 2018/19"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita consumption in pounds. In total the number of data points it has is 19.",
+      " Overall Per capita consumption in pounds has decreased over the Year.",
+      "The most drastic decrease took place within the Year 2017/18 and 2018/19.",
+      "Maximum Per capita consumption in pounds, about 2.59 was reported at Year 2002/03",
+      "Minimum Per capita consumption in pounds about 1.0 was reached at Year 2018/19",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Per capita consumption in pounds": 1.0
+      },
+      {
+         "Year": "2017/18",
+         "Per capita consumption in pounds": 2.34
+      },
+      {
+         "Year": "2016/17",
+         "Per capita consumption in pounds": 2.41
+      },
+      {
+         "Year": "2015/16",
+         "Per capita consumption in pounds": 2.42
+      },
+      {
+         "Year": "2014/15",
+         "Per capita consumption in pounds": 2.27
+      },
+      {
+         "Year": "2013/14",
+         "Per capita consumption in pounds": 2.44
+      },
+      {
+         "Year": "2012/13",
+         "Per capita consumption in pounds": 2.3
+      },
+      {
+         "Year": "2011/12",
+         "Per capita consumption in pounds": 2.31
+      },
+      {
+         "Year": "2010/11",
+         "Per capita consumption in pounds": 2.26
+      },
+      {
+         "Year": "2009/10",
+         "Per capita consumption in pounds": 2.14
+      },
+      {
+         "Year": "2008/09",
+         "Per capita consumption in pounds": 2.21
+      },
+      {
+         "Year": "2007/08",
+         "Per capita consumption in pounds": 2.25
+      },
+      {
+         "Year": "2006/07",
+         "Per capita consumption in pounds": 2.34
+      },
+      {
+         "Year": "2005/06",
+         "Per capita consumption in pounds": 2.29
+      },
+      {
+         "Year": "2004/05",
+         "Per capita consumption in pounds": 2.34
+      },
+      {
+         "Year": "2003/04",
+         "Per capita consumption in pounds": 2.32
+      },
+      {
+         "Year": "2002/03",
+         "Per capita consumption in pounds": 2.59
+      },
+      {
+         "Year": "2001/02",
+         "Per capita consumption in pounds": 2.43
+      },
+      {
+         "Year": "2000/01",
+         "Per capita consumption in pounds": 2.46
+      }
+   ]
+}

@@ -1,0 +1,124 @@
+{
+   "title": "Operating income of the Walt Disney Company 2010 - 2019 , by region",
+   "labels": [
+      "Region",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Operating income in million USD on the Y-axis for 4 different Regions for 10 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Out of all 10 groups, 2016 had the highest Operating income in million USD for Region United States and Canada and 2010 had the lowest Operating income in million USD for Region Latin America and other. ",
+      "Region United States and Canada and Latin America and other had the biggest gap of 5257.0 between the highest and lowest Operating income in million USD found for 2010. ",
+      "On average, the Region United States and Canada had the highest Operating income in million USD for all 10 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. Whereas Latin America and other had the lowest average Operating income in million USD. "
+   ],
+   "xAxis": "Region",
+   "yAxis": "Operating income in million USD",
+   "min_summary": [
+      "This grouped bar chart represents 4 different Regions on X-axis for 10 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Operating income in million USD. ",
+      " For Region United States and Canada, 2016 had the highest Operating income in million USD 12139.0 among the 10 groups and in Latin America and other, 2010 had the lowest Operating income in million USD 217.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Operating income in million USD on the Y-axis for 4 different Regions for 10 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Out of all 10 groups, 2016 had the highest Operating income in million USD for Region United States and Canada and 2010 had the lowest Operating income in million USD for Region Latin America and other. ",
+      "Region United States and Canada and Latin America and other had the biggest gap of 5257.0 between the highest and lowest Operating income in million USD found for 2010. ",
+      "On average, the Region United States and Canada had the highest Operating income in million USD for all 10 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. Whereas Latin America and other had the lowest average Operating income in million USD. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Regions on X-axis for 10 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Operating income in million USD. ",
+      " Region United States and Canada had the maximum Operating income in million USD among all 10 groups, and it was for 2016. The minimum Operating income in million USD was observed in Region Latin America and other for 2010. ",
+      " For Region United States and Canada, 2010 had the maximum Operating income in million USD and it saw the lowest in Region Latin America and other out of all 4 Regions. ",
+      " The maximum Operating income in million USD for 2010 that was found in Region United States and Canada was 25.23 times larger than the minimum Operating income in million USD observed in Region Latin America and other. ",
+      " Among the groups, 2016 had the biggest difference in Operating income in million USD. Where the maximum Operating income in million USD was 27.4 times larger than the minimum Operating income in million USD. ",
+      " In case of Region United States and Canada, 2016 had the highest Operating income in million USD 12139.0 among the 10 groups and in Latin America and other, 2010 had the lowest Operating income in million USD 217.0. The second highest Operating income in million USD 6388.0 was observed for 2016 in Region United States and Canada. ",
+      "Averaging all 10 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019, the Region United States and Canada is the maximum Operating income in million USD and Latin America and other is the minimum Operating income in million USD. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "10",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "10",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "Latin America and other",
+         "2010": "217",
+         "2011": "293",
+         "2012": "446",
+         "2013": "476",
+         "2014": "488",
+         "2015": "532",
+         "2016": "443",
+         "2017": "375",
+         "2018": "502",
+         "2019": "237"
+      },
+      {
+         "Region": "Asia Pacific",
+         "2010": "620",
+         "2011": "627",
+         "2012": "835",
+         "2013": "1016",
+         "2014": "1342",
+         "2015": "1365",
+         "2016": "1324",
+         "2017": "1326",
+         "2018": "1869",
+         "2019": "2167"
+      },
+      {
+         "Region": "Europe",
+         "2010": "1275",
+         "2011": "1517",
+         "2012": "1692",
+         "2013": "1361",
+         "2014": "1581",
+         "2015": "1964",
+         "2016": "1815",
+         "2017": "1812",
+         "2018": "1922",
+         "2019": "2433"
+      },
+      {
+         "Region": "United States and Canada",
+         "2010": "5474",
+         "2011": "6388",
+         "2012": "6991",
+         "2013": "7871",
+         "2014": "9594",
+         "2015": "10820",
+         "2016": "12139",
+         "2017": "10962",
+         "2018": "11413",
+         "2019": "10031"
+      }
+   ]
+}

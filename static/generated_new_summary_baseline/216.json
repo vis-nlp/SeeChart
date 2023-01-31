@@ -1,0 +1,50 @@
+{
+   "title": "Fifty Shades of Grey : U.S. sales figures in 2012 , by platform",
+   "xAxis": "Copy Type",
+   "yAxis": "Number of copies in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Copy Type in the x axis and Number of copies in millions in the y axis. ",
+      "The Number of copies in millions is highest at Copy Type Print and lowest at Copy Type Digital. ",
+      "The difference of Number of copies in millions between the highest and lowest Copy Type is 14.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of copies in millions for 2 number of Copy Types. ",
+      "The Number of copies in millions is appeared to be the highest at Copy Type Print and lowest at Copy Type Digital. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Copy Type in the x axis and Number of copies in millions in the y axis. ",
+      "The Number of copies in millions is highest at Copy Type Print and lowest at Copy Type Digital. ",
+      "The difference of Number of copies in millions between the highest and lowest Copy Type is 14.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 2 columns on the x axis representing Copy Type, and Number of copies in millions in each Copy Type on the y axis. ",
+      "The Number of copies in millions is appeared to be the highest at Copy Type Print and lowest at Copy Type Digital. ",
+      "The difference of Number of copies in millions between the highest and lowest Copy Type is 14.0. ",
+      "The average Number of copies in millions in all 2 Copy Types is 22.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Copy Type": "Print",
+         "Number of copies in millions": 29.0
+      },
+      {
+         "Copy Type": "Digital",
+         "Number of copies in millions": 15.0
+      }
+   ]
+}

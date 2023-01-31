@@ -1,0 +1,64 @@
+{
+   "title": "Michelin - worldwide number of employees by region 2018",
+   "xAxis": "Region",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of employees for 5 number of Regions. ",
+      "The Number of employees is highest at Region Europe and lowest at Region Africa India Middle-East. ",
+      "The Number of employees of Region Africa India Middle-East is 38.2% smaller than the maximum value at Europe. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of employees for 5 number of Regions. ",
+      "The Number of employees is appeared to be the highest at Region Europe and lowest at Region Africa India Middle-East. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of employees for 5 number of Regions. ",
+      "The Number of employees is highest at Region Europe and lowest at Region Africa India Middle-East. ",
+      "The Number of employees of Region Africa India Middle-East is 38.2% smaller than the maximum value at Europe. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of employees for 5 number of Regions. ",
+      "The maximum Number of employees 70599.0 is found at Region Europe and the minimum is found at Africa India Middle-East where Number of employees is 1848.0. ",
+      "The second highest Number of employees is appeared to be the Region . ",
+      "The difference of Number of employees between the highest and lowest Region is 68751.0. ",
+      "The Region Europe has the highest Number of employees, followed by , and Asia (excl. India). Down to the Region Africa India Middle-East which is the lowest. ",
+      "The Region Africa India Middle-East tends to be 3.01 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "Europe",
+         "Number of employees": 70599.0
+      },
+      {
+         "Region": "North America",
+         "Number of employees": 21541.0
+      },
+      {
+         "Region": "Asia (excl. India)",
+         "Number of employees": 15259.0
+      },
+      {
+         "Region": "South America",
+         "Number of employees": 8166.0
+      },
+      {
+         "Region": "Africa India Middle-East",
+         "Number of employees": 1848.0
+      }
+   ]
+}

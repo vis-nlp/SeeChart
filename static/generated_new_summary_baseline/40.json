@@ -1,0 +1,126 @@
+{
+   "title": "Career rushing yards leaders - Los Angeles Rams 1937 to 2020",
+   "xAxis": "Month",
+   "yAxis": "Rushing yards",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Rushing yards for 20 number of Months. ",
+      "The Rushing yards is highest at Month Steven Jackson and lowest at Month Tommy Wilson. ",
+      "There is a difference of 8008.0 between the maximum Month Steven Jackson and minimum Month Tommy Wilson. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Rushing yards in each Month on the y axis. ",
+      "The Rushing yards is highest at Month Steven Jackson and lowest at Month Tommy Wilson. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Rushing yards for 20 number of Months. ",
+      "The Rushing yards is highest at Month Steven Jackson and lowest at Month Tommy Wilson. ",
+      "There is a difference of 8008.0 between the maximum Month Steven Jackson and minimum Month Tommy Wilson. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Rushing yards in each Month on the y axis. ",
+      "The Rushing yards is highest at Month Steven Jackson and lowest at Month Tommy Wilson. ",
+      "Second maximum Rushing yards is found at Month . ",
+      "The lowest value at Month Tommy Wilson is 4.76x times less than the highest value at Steven Jackson. ",
+      "The Month Steven Jackson has the highest Rushing yards, followed by , and Marshall Faulk. Down to the Month Tommy Wilson which is the lowest. ",
+      "Overall Rushing yards has decreased over the Months. ",
+      "The Month Steven Jackson has 2.51 times more Rushing yards than average. ",
+      "The Rushing yards is 80798.0 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Steven Jackson",
+         "Rushing yards": 10138.0
+      },
+      {
+         "Month": "Eric Dickerson",
+         "Rushing yards": 7245.0
+      },
+      {
+         "Month": "Marshall Faulk",
+         "Rushing yards": 6959.0
+      },
+      {
+         "Month": "Lawrence McCutcheon",
+         "Rushing yards": 6186.0
+      },
+      {
+         "Month": "Dick Bass",
+         "Rushing yards": 5417.0
+      },
+      {
+         "Month": "Todd Gurley",
+         "Rushing yards": 5404.0
+      },
+      {
+         "Month": "Dan Towler",
+         "Rushing yards": 3493.0
+      },
+      {
+         "Month": "Les Josephson",
+         "Rushing yards": 3407.0
+      },
+      {
+         "Month": "Tank Younger",
+         "Rushing yards": 3296.0
+      },
+      {
+         "Month": "Wendell Tyler",
+         "Rushing yards": 3266.0
+      },
+      {
+         "Month": "Cullen Bryant",
+         "Rushing yards": 3119.0
+      },
+      {
+         "Month": "Jerome Bettis",
+         "Rushing yards": 3091.0
+      },
+      {
+         "Month": "Willie Ellison",
+         "Rushing yards": 2901.0
+      },
+      {
+         "Month": "Jon Arnett",
+         "Rushing yards": 2892.0
+      },
+      {
+         "Month": "Cleveland Gary",
+         "Rushing yards": 2634.0
+      },
+      {
+         "Month": "Jim Bertelsen",
+         "Rushing yards": 2466.0
+      },
+      {
+         "Month": "Greg Bell",
+         "Rushing yards": 2375.0
+      },
+      {
+         "Month": "John Cappelletti",
+         "Rushing yards": 2246.0
+      },
+      {
+         "Month": "Charles White",
+         "Rushing yards": 2133.0
+      },
+      {
+         "Month": "Tommy Wilson",
+         "Rushing yards": 2130.0
+      }
+   ]
+}

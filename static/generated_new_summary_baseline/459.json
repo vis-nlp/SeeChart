@@ -1,0 +1,86 @@
+{
+   "title": "Current year in various historical and world calendars 2020",
+   "xAxis": "Month",
+   "yAxis": "Current year (as of January 25, 2020)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Current year (as of January 25, 2020) in each Month on the y axis. ",
+      "The Current year (as of January 25, 2020) is highest at Month Assyrian and lowest at Month French Revolutionary. ",
+      "The lowest value at Month French Revolutionary is 29.69x times less than the highest value at Assyrian. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Current year (as of January 25, 2020) in the y axis. ",
+      "The Current year (as of January 25, 2020) is appeared to be the highest at Month Assyrian and lowest at Month French Revolutionary. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Current year (as of January 25, 2020) in each Month on the y axis. ",
+      "The Current year (as of January 25, 2020) is highest at Month Assyrian and lowest at Month French Revolutionary. ",
+      "The lowest value at Month French Revolutionary is 29.69x times less than the highest value at Assyrian. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Current year (as of January 25, 2020) in the y axis. ",
+      "Month Assyrian has the highest Current year (as of January 25, 2020) and French Revolutionary has the lowest Current year (as of January 25, 2020). ",
+      "Month  has the second highest value for Current year (as of January 25, 2020). ",
+      "The Current year (as of January 25, 2020) of Month French Revolutionary is 29.69% smaller than the maximum value at Assyrian. ",
+      "The Month Assyrian has the highest Current year (as of January 25, 2020), followed by , and Chinese. Down to the Month French Revolutionary which is the lowest. ",
+      "Overall Current year (as of January 25, 2020) has reduced over the Months. ",
+      "The Month Assyrian has 2.28 times more Current year (as of January 25, 2020) than average. ",
+      "Summing up the values of all Months, we get total 29632.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Assyrian",
+         "Current year (as of January 25, 2020)": 6770.0
+      },
+      {
+         "Month": "Hebrew",
+         "Current year (as of January 25, 2020)": 5780.0
+      },
+      {
+         "Month": "Chinese",
+         "Current year (as of January 25, 2020)": 4718.0
+      },
+      {
+         "Month": "Julian",
+         "Current year (as of January 25, 2020)": 2773.0
+      },
+      {
+         "Month": "Buddhist",
+         "Current year (as of January 25, 2020)": 2563.0
+      },
+      {
+         "Month": "Gregorian",
+         "Current year (as of January 25, 2020)": 2020.0
+      },
+      {
+         "Month": "Hindu",
+         "Current year (as of January 25, 2020)": 1941.0
+      },
+      {
+         "Month": "Islamic",
+         "Current year (as of January 25, 2020)": 1441.0
+      },
+      {
+         "Month": "Iranian",
+         "Current year (as of January 25, 2020)": 1398.0
+      },
+      {
+         "Month": "French Revolutionary",
+         "Current year (as of January 25, 2020)": 228.0
+      }
+   ]
+}

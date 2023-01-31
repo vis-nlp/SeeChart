@@ -1,0 +1,119 @@
+{
+   "title": "Grocery market share in France 2008 to 2018",
+   "labels": [
+      "Year",
+      "\"Systeme A\"",
+      "Carrefour",
+      "Leclerc",
+      "Intermarche",
+      "Casino",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 6 lines denoting \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis indicates the Share of market and the x axis indicates Year.",
+      "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
+      "Throughout the period, \"Systeme A\" generally had the highest Share of market relative to others with an average of 21.47, and it reached its maximum at 2013 with a value of 22.3.",
+      "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 Share of market,reaching its highest point  at 2008 with a value of 22.9. ",
+      "The botommost line, Casino,  has a mean of 10.57, and peaked at 2008. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of market",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 6 lines denoting \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis indicates the Share of market and the x axis indicates Year.",
+      "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
+      "Overall across the Year, \"Systeme A\" mostly maintained the highest Share of market when compared to others with a mean value of 21.47, and it peaked at 2013.",
+      "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 Share of market,reaching its highest point  at 2008 with a value of 22.9. ",
+      "The botommost line, Casino,  has a mean of 10.57, and peaked at 2008. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 6 lines denoting \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis indicates the Share of market and the x axis indicates Year.",
+      "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
+      "Throughout the period, \"Systeme A\" generally had the highest Share of market relative to others with an average of 21.47, and it reached its maximum at 2013 with a value of 22.3.",
+      "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 Share of market,reaching its highest point  at 2008 with a value of 22.9. ",
+      "The botommost line, Casino,  has a mean of 10.57, and peaked at 2008. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 6 lines namely \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis represents Share of market and the x axis represents Year.",
+      "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
+      "Overall across the Year, \"Systeme A\" mostly maintained the highest Share of market when compared to others with a mean value of 21.47, and it peaked at 2013.",
+      "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 Share of market,reaching its highest point  at 2008 with a value of 22.9. ",
+      "Casino mostly had the least Share of market with a mean value of 10.57, which peaked at 2008 with a value of 11.6. ",
+      "Carrefour reported the highest Share of market about 22.9 in Year 2008",
+      "Casino reported the lowest Share of market about 9.9 in Year 2018"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "0"
+         ],
+         "9": [
+            "1",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2008",
+         "\"Systeme A\"": "20.3",
+         "Carrefour": "22.9",
+         "Leclerc": "14.2",
+         "Intermarche": "15.2",
+         "Casino": "11.6",
+         "Other": "15.8"
+      },
+      {
+         "Year": "2013",
+         "\"Systeme A\"": "22.3",
+         "Carrefour": "19.9",
+         "Leclerc": "17.7",
+         "Intermarche": "13.6",
+         "Casino": "10.2",
+         "Other": "16.3"
+      },
+      {
+         "Year": "2018",
+         "\"Systeme A\"": "21.8",
+         "Carrefour": "19.5",
+         "Leclerc": "19.3",
+         "Intermarche": "15",
+         "Casino": "9.9",
+         "Other": "14.6"
+      }
+   ]
+}

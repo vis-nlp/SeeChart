@@ -1,0 +1,157 @@
+{
+   "title": "Employment by economic sector in Latin America and the Caribbean 2019",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of total employment and the x axis indicates Year.",
+      "Overall Services is gradually increasing, Agriculture, and Industry are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest Share of total employment relative to others with an average of 63.61, and it reached its maximum at 2019 with a value of 65.11.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 21.3 Share of total employment,reaching its highest point  at 2014 with a value of 21.8. ",
+      "Agriculture mostly had the least Share of total employment with a mean value of 15.0, which peaked at 2009 with a value of 17.18. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of total employment",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of total employment and the x axis indicates Year.",
+      "Overall Services is gradually increasing, Agriculture, and Industry are roughly constant,  throughout the Year",
+      "Overall across the Year, Services mostly maintained the highest Share of total employment when compared to others with a mean value of 63.61, and it peaked at 2019.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 21.3 Share of total employment,reaching its highest point  at 2014 with a value of 21.8. ",
+      "Agriculture mostly had the least Share of total employment with a mean value of 15.0, which peaked at 2009 with a value of 17.18. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of total employment and the x axis indicates Year.",
+      "Overall Services is gradually increasing, Agriculture, and Industry are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest Share of total employment relative to others with an average of 63.61, and it reached its maximum at 2019 with a value of 65.11.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 21.3 Share of total employment,reaching its highest point  at 2014 with a value of 21.8. ",
+      "Agriculture mostly had the least Share of total employment with a mean value of 15.0, which peaked at 2009 with a value of 17.18. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of total employment and the x axis indicates Year.",
+      "Overall Services is gradually increasing, Agriculture, and Industry are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of total employment in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest Share of total employment relative to others with an average of 63.61, and it reached its maximum at 2019 with a value of 65.11.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 21.3 Share of total employment,reaching its highest point  at 2014 with a value of 21.8. ",
+      "The botommost line, Agriculture,  has a mean of 15.0, and peaked at 2009. ",
+      "The minimum Share of total employment about 13.94, occured at 2019 by Agriculture."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "10": [
+            "5",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "13.94",
+         "Industry": "20.95",
+         "Services": "65.11"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "14.02",
+         "Industry": "20.99",
+         "Services": "64.99"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "14.07",
+         "Industry": "21.04",
+         "Services": "64.89"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "14.16",
+         "Industry": "21.2",
+         "Services": "64.64"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "14.17",
+         "Industry": "21.64",
+         "Services": "64.19"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "14.36",
+         "Industry": "21.82",
+         "Services": "63.81"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "14.66",
+         "Industry": "21.65",
+         "Services": "63.69"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "15.01",
+         "Industry": "21.75",
+         "Services": "63.24"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "16.54",
+         "Industry": "21.36",
+         "Services": "62.1"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "16.85",
+         "Industry": "21.44",
+         "Services": "61.71"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "17.18",
+         "Industry": "21.48",
+         "Services": "61.34"
+      }
+   ]
+}

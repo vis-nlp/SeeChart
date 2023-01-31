@@ -1,0 +1,124 @@
+{
+   "title": "Pharmaceutical sector growth worldwide 2017 - 2030 , by country",
+   "xAxis": "Country",
+   "yAxis": "Growth in percentage",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 columns on the x axis representing Country, and Growth in percentage in each Country on the y axis. ",
+      "Country India has the highest Growth in percentage and Japan has the lowest Growth in percentage. ",
+      "The difference of Growth in percentage between the highest and lowest Country is 115.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Country, and Growth in percentage in each Country on the y axis. ",
+      "Country India has the highest Growth in percentage and Japan has the lowest Growth in percentage. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing Country, and Growth in percentage in each Country on the y axis. ",
+      "Country India has the highest Growth in percentage and Japan has the lowest Growth in percentage. ",
+      "The difference of Growth in percentage between the highest and lowest Country is 115.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Growth in percentage for 20 number of Countrys. ",
+      "The maximum Growth in percentage 232.0 is found at Country India and the minimum is found at Japan where Growth in percentage is 117.0. ",
+      "The highest Country India has 115.0 more Growth in percentage than the lowest Country Japan. ",
+      "Growth in percentage at Country India is 232.0 , second place is  at 232.0, and thirdly is Indonesia at 196.0.",
+      "Similar Growth in percentage is found in Country Spain, and France. ",
+      "The highest value 232.0 at India is almost 1.52 times larger than the average value 152.55. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "India",
+         "Growth in percentage": 232.0
+      },
+      {
+         "Country": "China",
+         "Growth in percentage": 230.0
+      },
+      {
+         "Country": "Indonesia",
+         "Growth in percentage": 196.0
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Growth in percentage": 171.0
+      },
+      {
+         "Country": "Brazil",
+         "Growth in percentage": 169.0
+      },
+      {
+         "Country": "World",
+         "Growth in percentage": 160.0
+      },
+      {
+         "Country": "Argentina",
+         "Growth in percentage": 158.0
+      },
+      {
+         "Country": "Mexico",
+         "Growth in percentage": 154.0
+      },
+      {
+         "Country": "Australia",
+         "Growth in percentage": 149.0
+      },
+      {
+         "Country": "Russia",
+         "Growth in percentage": 147.0
+      },
+      {
+         "Country": "South Korea",
+         "Growth in percentage": 141.0
+      },
+      {
+         "Country": "Poland",
+         "Growth in percentage": 140.0
+      },
+      {
+         "Country": "United States",
+         "Growth in percentage": 134.0
+      },
+      {
+         "Country": "Canada",
+         "Growth in percentage": 131.0
+      },
+      {
+         "Country": "Spain",
+         "Growth in percentage": 129.0
+      },
+      {
+         "Country": "France",
+         "Growth in percentage": 129.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Growth in percentage": 128.0
+      },
+      {
+         "Country": "Germany",
+         "Growth in percentage": 118.0
+      },
+      {
+         "Country": "Italy",
+         "Growth in percentage": 118.0
+      },
+      {
+         "Country": "Japan",
+         "Growth in percentage": 117.0
+      }
+   ]
+}

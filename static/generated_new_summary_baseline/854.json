@@ -1,0 +1,97 @@
+{
+   "title": "Global net income of Levi Strauss 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net income in million U.S. dollars. In total the number of data points it has is 15.",
+      " In general Net income in million U.S. dollars has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2007 and 2008.",
+      "The highest Net income in million U.S. dollars, of value 461.29 was reached at Year 2007",
+      "Minimum Net income in million U.S. dollars about 104.31 was reached at Year 2014"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net income in million U.S. dollars, containing a total of 15 data points.",
+      " Overall Net income in million U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net income in million U.S. dollars. In total the number of data points it has is 15.",
+      " In general Net income in million U.S. dollars has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2007 and 2008.",
+      "The highest Net income in million U.S. dollars, of value 461.29 was reached at Year 2007",
+      "Minimum Net income in million U.S. dollars about 104.31 was reached at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net income in million U.S. dollars, containing a total of 15 data points.",
+      " In general Net income in million U.S. dollars has rose over the Year.",
+      "The most drastic decrease took place within the Year 2007 and 2008.",
+      "The highest Net income in million U.S. dollars, of value 461.29 was reached at Year 2007",
+      "Minimum Net income in million U.S. dollars about 104.31 was reached at Year 2014",
+      "The line drastically increased by 1.9 times from Year 2006 to 2007, and lastly, increased by 2.0 times from Year 2014 to 2015."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Net income in million U.S. dollars": 394.98
+      },
+      {
+         "Year": "2018",
+         "Net income in million U.S. dollars": 285.24
+      },
+      {
+         "Year": "2017",
+         "Net income in million U.S. dollars": 284.56
+      },
+      {
+         "Year": "2016",
+         "Net income in million U.S. dollars": 291.21
+      },
+      {
+         "Year": "2015",
+         "Net income in million U.S. dollars": 209.89
+      },
+      {
+         "Year": "2014",
+         "Net income in million U.S. dollars": 104.31
+      },
+      {
+         "Year": "2013",
+         "Net income in million U.S. dollars": 228.14
+      },
+      {
+         "Year": "2012",
+         "Net income in million U.S. dollars": 140.96
+      },
+      {
+         "Year": "2011",
+         "Net income in million U.S. dollars": 135.11
+      },
+      {
+         "Year": "2010",
+         "Net income in million U.S. dollars": 149.45
+      },
+      {
+         "Year": "2009",
+         "Net income in million U.S. dollars": 150.71
+      },
+      {
+         "Year": "2008",
+         "Net income in million U.S. dollars": 230.38
+      },
+      {
+         "Year": "2007",
+         "Net income in million U.S. dollars": 461.29
+      },
+      {
+         "Year": "2006",
+         "Net income in million U.S. dollars": 240.72
+      },
+      {
+         "Year": "2005",
+         "Net income in million U.S. dollars": 151.88
+      }
+   ]
+}

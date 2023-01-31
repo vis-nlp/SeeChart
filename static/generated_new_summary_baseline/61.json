@@ -1,0 +1,103 @@
+{
+   "title": "Broadcasting rights revenue of European soccer leagues 2017/2018",
+   "xAxis": "Country",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 15 columns on the x axis representing Country, and Revenue in million euros in each Country on the y axis. ",
+      "The Revenue in million euros is highest at Country England and lowest at Country Austria. ",
+      "The highest Country England has 3188.0 more Revenue in million euros than the lowest Country Austria. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Revenue in million euros in the y axis. ",
+      "The Revenue in million euros is appeared to be the highest at Country England and lowest at Country Austria. "
+   ],
+   "mid_summary": [
+      "This bar chart has 15 columns on the x axis representing Country, and Revenue in million euros in each Country on the y axis. ",
+      "The Revenue in million euros is highest at Country England and lowest at Country Austria. ",
+      "The highest Country England has 3188.0 more Revenue in million euros than the lowest Country Austria. "
+   ],
+   "max_summary": [
+      "This bar chart has 15 columns on the x axis representing Country, and Revenue in million euros in each Country on the y axis. ",
+      "The Revenue in million euros is highest at Country England and lowest at Country Austria. ",
+      "The difference of Revenue in million euros between the highest and lowest Country is 3188.0. ",
+      "The Country England has the highest Revenue in million euros, followed by , and Italy. Down to the Country Austria which is the lowest. ",
+      "The average Revenue in million euros in all 15 Countrys is 613.73. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "England",
+         "Revenue in million euros": 3210.0
+      },
+      {
+         "Country": "Spain",
+         "Revenue in million euros": 1609.0
+      },
+      {
+         "Country": "Italy",
+         "Revenue in million euros": 1294.0
+      },
+      {
+         "Country": "Germany",
+         "Revenue in million euros": 1248.0
+      },
+      {
+         "Country": "France",
+         "Revenue in million euros": 791.0
+      },
+      {
+         "Country": "Turkey",
+         "Revenue in million euros": 376.0
+      },
+      {
+         "Country": "Portugal",
+         "Revenue in million euros": 225.0
+      },
+      {
+         "Country": "Russia",
+         "Revenue in million euros": 112.0
+      },
+      {
+         "Country": "Netherlands",
+         "Revenue in million euros": 89.0
+      },
+      {
+         "Country": "Scotland",
+         "Revenue in million euros": 64.0
+      },
+      {
+         "Country": "Denmark",
+         "Revenue in million euros": 50.0
+      },
+      {
+         "Country": "Sweden",
+         "Revenue in million euros": 42.0
+      },
+      {
+         "Country": "Poland",
+         "Revenue in million euros": 39.0
+      },
+      {
+         "Country": "Norway",
+         "Revenue in million euros": 35.0
+      },
+      {
+         "Country": "Austria",
+         "Revenue in million euros": 22.0
+      }
+   ]
+}

@@ -1,0 +1,83 @@
+{
+   "title": "Leading FMCG brands in the United Kingdom ( UK ) 2018 , by consumer reach",
+   "xAxis": "Food Groups",
+   "yAxis": "Consumer Reach Points in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Consumer Reach Points in millions for 10 number of Food Groupss. ",
+      "The Consumer Reach Points in millions is highest at Food Groups Warburtons and lowest at Food Groups Birds Eye. ",
+      "The difference of Consumer Reach Points in millions between the highest and lowest Food Groups is 342.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Food Groups, and Consumer Reach Points in millions in each Food Groups on the y axis. ",
+      "Food Groups Warburtons has the highest Consumer Reach Points in millions and Birds Eye has the lowest Consumer Reach Points in millions. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Consumer Reach Points in millions for 10 number of Food Groupss. ",
+      "The Consumer Reach Points in millions is highest at Food Groups Warburtons and lowest at Food Groups Birds Eye. ",
+      "The difference of Consumer Reach Points in millions between the highest and lowest Food Groups is 342.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Consumer Reach Points in millions for 10 number of Food Groupss. ",
+      "The Consumer Reach Points in millions is appeared to be the highest at Food Groups Warburtons and lowest at Food Groups Birds Eye. ",
+      "There is a difference of 342.0 between the maximum Food Groups Warburtons and minimum Food Groups Birds Eye. ",
+      "The Food Groups Warburtons has the highest Consumer Reach Points in millions, followed by , and Mc Vitie's. Down to the Food Groups Birds Eye which is the lowest. ",
+      "The Food Groups Warburtons has 1.88 times more Consumer Reach Points in millions than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Food Groups": "Warburtons",
+         "Consumer Reach Points in millions": 514.0
+      },
+      {
+         "Food Groups": "Heinz",
+         "Consumer Reach Points in millions": 367.0
+      },
+      {
+         "Food Groups": "Mc Vitie's",
+         "Consumer Reach Points in millions": 284.0
+      },
+      {
+         "Food Groups": "Hovis",
+         "Consumer Reach Points in millions": 274.0
+      },
+      {
+         "Food Groups": "Walkers",
+         "Consumer Reach Points in millions": 270.0
+      },
+      {
+         "Food Groups": "Coca-Cola",
+         "Consumer Reach Points in millions": 232.0
+      },
+      {
+         "Food Groups": "Kingsmill",
+         "Consumer Reach Points in millions": 222.0
+      },
+      {
+         "Food Groups": "Muller",
+         "Consumer Reach Points in millions": 217.0
+      },
+      {
+         "Food Groups": "Cadbury's Dairy Milk",
+         "Consumer Reach Points in millions": 181.0
+      },
+      {
+         "Food Groups": "Birds Eye",
+         "Consumer Reach Points in millions": 172.0
+      }
+   ]
+}

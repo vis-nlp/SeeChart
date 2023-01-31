@@ -1,0 +1,149 @@
+{
+   "title": "Most popular online dating services in selected countries as of February 2014",
+   "labels": [
+      "Country",
+      "Facebook",
+      "Twitter",
+      "MySpace",
+      "Shaadi",
+      "Match",
+      "Badoo"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo. On the Y-axis it shows their corresponding Percentage of respondents. ",
+      " Out of all 6 groups, Facebook had the highest Percentage of respondents for Country Vietnam and MySpace had the lowest Percentage of respondents for Country India. ",
+      " The maximum Percentage of respondents for MySpace that was found in Country Kenya was 0 times larger than the minimum Percentage of respondents observed in Country India. ",
+      "Averaging all 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo, the Country Indonesia is the maximum Percentage of respondents and Brazil is the minimum Percentage of respondents. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Percentage of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Percentage of respondents on the Y-axis for 9 different Countrys for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo that are presented on the X-axis. ",
+      " Country Vietnam had the maximum Percentage of respondents among all 6 groups, and it was for Facebook. The minimum Percentage of respondents was observed in Country India for MySpace. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo. On the Y-axis it shows their corresponding Percentage of respondents. ",
+      " Out of all 6 groups, Facebook had the highest Percentage of respondents for Country Vietnam and MySpace had the lowest Percentage of respondents for Country India. ",
+      " The maximum Percentage of respondents for MySpace that was found in Country Kenya was 0 times larger than the minimum Percentage of respondents observed in Country India. ",
+      "Averaging all 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo, the Country Indonesia is the maximum Percentage of respondents and Brazil is the minimum Percentage of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Percentage of respondents on the Y-axis for 9 different Countrys for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo that are presented on the X-axis. ",
+      " For Country Vietnam, Facebook had the highest Percentage of respondents 85.0 among the 6 groups and in India, MySpace had the lowest Percentage of respondents 0.0. ",
+      " For Country Kenya, MySpace had the highest Percentage of respondents among all 9 Countrys and it has the lowest Percentage of respondents in Country India. ",
+      " The maximum Percentage of respondents for MySpace that was found in Country Kenya was 0 times larger than the minimum Percentage of respondents observed in Country India. ",
+      " Among all 6 groups, Facebook had the gap of 36.0 between the maximum and minimum Percentage of respondents observed in Country Vietnam and Brazil respectively. ",
+      " In case of Country Vietnam, Facebook had the highest Percentage of respondents 85.0 among the 6 groups and in India, MySpace had the lowest Percentage of respondents 0.0. The second highest Percentage of respondents 14.0 was observed for Facebook in Country Vietnam. ",
+      "On average, the Country Indonesia had the highest Percentage of respondents for all 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo. Whereas Brazil had the lowest average Percentage of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "6",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "6",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "India",
+         "Facebook": "51",
+         "Twitter": "12",
+         "MySpace": "0",
+         "Shaadi": "14",
+         "Match": "0",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Indonesia",
+         "Facebook": "82",
+         "Twitter": "41",
+         "MySpace": "10",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Philippines",
+         "Facebook": "70",
+         "Twitter": "29",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "18",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Vietnam",
+         "Facebook": "85",
+         "Twitter": "25",
+         "MySpace": "13",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Kenya",
+         "Facebook": "64",
+         "Twitter": "29",
+         "MySpace": "13",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Nigeria",
+         "Facebook": "64",
+         "Twitter": "14",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "17"
+      },
+      {
+         "Country": "South Africa",
+         "Facebook": "58",
+         "Twitter": "14",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "17",
+         "Badoo": "0"
+      },
+      {
+         "Country": "Brazil",
+         "Facebook": "49",
+         "Twitter": "9",
+         "MySpace": "0",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "9"
+      },
+      {
+         "Country": "Mexico",
+         "Facebook": "62",
+         "Twitter": "15",
+         "MySpace": "9",
+         "Shaadi": "0",
+         "Match": "0",
+         "Badoo": "0"
+      }
+   ]
+}

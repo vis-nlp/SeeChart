@@ -1,0 +1,85 @@
+{
+   "title": "Leading baby wipes vendors in the U.S. 2016 , based on sales",
+   "xAxis": "Company",
+   "yAxis": "Million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Million U.S. dollars for 10 number of Companys. ",
+      "Company Private label has the highest Million U.S. dollars and Irish Breeze has the lowest Million U.S. dollars. ",
+      "There is a difference of 490.0 between the maximum Company Private label and minimum Company Irish Breeze. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Company, and Million U.S. dollars in each Company on the y axis. ",
+      "The Million U.S. dollars is appeared to be the highest at Company Private label and lowest at Company Irish Breeze. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Million U.S. dollars for 10 number of Companys. ",
+      "Company Private label has the highest Million U.S. dollars and Irish Breeze has the lowest Million U.S. dollars. ",
+      "There is a difference of 490.0 between the maximum Company Private label and minimum Company Irish Breeze. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Million U.S. dollars for 10 number of Companys. ",
+      "The Million U.S. dollars is appeared to be the highest at Company Private label and lowest at Company Irish Breeze. ",
+      "The second highest Million U.S. dollars is appeared to be the Company . ",
+      "The highest Company Private label has 490.0 more Million U.S. dollars than the lowest Company Irish Breeze. ",
+      "The Company Private label has the highest Million U.S. dollars, followed by , and Procter & Gamble. Down to the Company Irish Breeze which is the lowest. ",
+      "The Company Private label has 4.0 times more Million U.S. dollars than average. ",
+      "The Million U.S. dollars is 1235.0 if we add up values of all Companys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Private label",
+         "Million U.S. dollars": 494.4
+      },
+      {
+         "Company": "Kimberly Clark Corp.",
+         "Million U.S. dollars": 416.2
+      },
+      {
+         "Company": "Procter & Gamble",
+         "Million U.S. dollars": 276.6
+      },
+      {
+         "Company": "Seventh Generation",
+         "Million U.S. dollars": 9.6
+      },
+      {
+         "Company": "The Honest Co.",
+         "Million U.S. dollars": 8.6
+      },
+      {
+         "Company": "Johnson & Johnson",
+         "Million U.S. dollars": 7.1
+      },
+      {
+         "Company": "Nice-Pak Products",
+         "Million U.S. dollars": 6.3
+      },
+      {
+         "Company": "Paper Partners",
+         "Million U.S. dollars": 6.1
+      },
+      {
+         "Company": "Kas Direct",
+         "Million U.S. dollars": 5.7
+      },
+      {
+         "Company": "Irish Breeze",
+         "Million U.S. dollars": 4.4
+      }
+   ]
+}

@@ -1,0 +1,113 @@
+{
+   "title": "U.S. per capita consumption of fresh lettuce ( romaine and leaf ) 2000 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Per capita consumption in pounds",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita consumption in pounds, containing a total of 19 data points.",
+      " Overall Per capita consumption in pounds has increased over the Year.",
+      "The most drastic decrease took place within the Year 2017 and 2018.",
+      "The highest Per capita consumption in pounds, of value 15.0 was reached at Year 2017",
+      "Minimum Per capita consumption in pounds about 8.0 was reached at Year 2001"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita consumption in pounds, containing a total of 19 data points.",
+      " In general Per capita consumption in pounds has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita consumption in pounds, containing a total of 19 data points.",
+      " Overall Per capita consumption in pounds has increased over the Year.",
+      "The most drastic decrease took place within the Year 2017 and 2018.",
+      "The highest Per capita consumption in pounds, of value 15.0 was reached at Year 2017",
+      "Minimum Per capita consumption in pounds about 8.0 was reached at Year 2001"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita consumption in pounds, containing a total of 19 data points.",
+      " Overall Per capita consumption in pounds has increased over the Year.",
+      "The most drastic decrease took place within the Year 2017 and 2018.",
+      "The highest Per capita consumption in pounds, of value 15.0 was reached at Year 2017",
+      "Minimum Per capita consumption in pounds about 8.0 was reached at Year 2001",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Per capita consumption in pounds": 12.3
+      },
+      {
+         "Year": "2017",
+         "Per capita consumption in pounds": 15.0
+      },
+      {
+         "Year": "2016",
+         "Per capita consumption in pounds": 14.5
+      },
+      {
+         "Year": "2015",
+         "Per capita consumption in pounds": 11.9
+      },
+      {
+         "Year": "2014",
+         "Per capita consumption in pounds": 10.8
+      },
+      {
+         "Year": "2013",
+         "Per capita consumption in pounds": 11.4
+      },
+      {
+         "Year": "2012",
+         "Per capita consumption in pounds": 11.9
+      },
+      {
+         "Year": "2011",
+         "Per capita consumption in pounds": 11.7
+      },
+      {
+         "Year": "2010",
+         "Per capita consumption in pounds": 12.0
+      },
+      {
+         "Year": "2009",
+         "Per capita consumption in pounds": 10.0
+      },
+      {
+         "Year": "2008",
+         "Per capita consumption in pounds": 10.4
+      },
+      {
+         "Year": "2007",
+         "Per capita consumption in pounds": 11.5
+      },
+      {
+         "Year": "2006",
+         "Per capita consumption in pounds": 12.0
+      },
+      {
+         "Year": "2005",
+         "Per capita consumption in pounds": 9.7
+      },
+      {
+         "Year": "2004",
+         "Per capita consumption in pounds": 12.0
+      },
+      {
+         "Year": "2003",
+         "Per capita consumption in pounds": 10.8
+      },
+      {
+         "Year": "2002",
+         "Per capita consumption in pounds": 9.6
+      },
+      {
+         "Year": "2001",
+         "Per capita consumption in pounds": 8.0
+      },
+      {
+         "Year": "2000",
+         "Per capita consumption in pounds": 8.4
+      }
+   ]
+}

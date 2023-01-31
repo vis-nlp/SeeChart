@@ -1,0 +1,81 @@
+{
+   "title": "Consolidated sales of L'Or\u00e9al worldwide 2009 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in million euros, containing a total of 10 data points.",
+      " In general Sales in million euros has rose over the Year.",
+      "Sales in million euros is gradually increasing from 2009 to 2012, roughly constant from 2012 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2018.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Sales in million euros, of value 26937.0 was reached at Year 2018",
+      "The lowest Sales in million euros, of value 17473.0 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in million euros. In total the number of data points it has is 10.",
+      " Overall Sales in million euros has increased over the Year.",
+      "Sales in million euros is gradually increasing from 2009 to 2012, roughly constant from 2012 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in million euros, containing a total of 10 data points.",
+      " In general Sales in million euros has rose over the Year.",
+      "Sales in million euros is gradually increasing from 2009 to 2012, roughly constant from 2012 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2018.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Sales in million euros, of value 26937.0 was reached at Year 2018",
+      "The lowest Sales in million euros, of value 17473.0 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in million euros. In total the number of data points it has is 10.",
+      " In general Sales in million euros has rose over the Year.",
+      "Sales in million euros is gradually increasing from 2009 to 2012, roughly constant from 2012 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Sales in million euros, of value 26937.0 was reached at Year 2018",
+      "The lowest Sales in million euros, of value 17473.0 was reported at Year 2009",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales in million euros": 26937.0
+      },
+      {
+         "Year": "2017",
+         "Sales in million euros": 26024.0
+      },
+      {
+         "Year": "2016",
+         "Sales in million euros": 25837.0
+      },
+      {
+         "Year": "2015",
+         "Sales in million euros": 25257.0
+      },
+      {
+         "Year": "2014",
+         "Sales in million euros": 22532.0
+      },
+      {
+         "Year": "2013",
+         "Sales in million euros": 22124.0
+      },
+      {
+         "Year": "2012",
+         "Sales in million euros": 21638.0
+      },
+      {
+         "Year": "2011",
+         "Sales in million euros": 20343.0
+      },
+      {
+         "Year": "2010",
+         "Sales in million euros": 19496.0
+      },
+      {
+         "Year": "2009",
+         "Sales in million euros": 17473.0
+      }
+   ]
+}

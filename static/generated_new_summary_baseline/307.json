@@ -1,0 +1,105 @@
+{
+   "title": "Unauthorized immigrant population U.S. 1990 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Number of immigrants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of immigrants in millions. In total the number of data points it has is 16.",
+      " Overall Number of immigrants in millions has increased over the Year.",
+      "Number of immigrants in millions is slightly increasing from 1990 to 2005, and finally roughly constant from 2005 to 2017.",
+      "The steepest increase occurs in between the Year 1995 and 2000.",
+      "The highest Number of immigrants in millions, of value 12.2 was reached at Year 2007",
+      "Minimum Number of immigrants in millions about 3.5 was reached at Year 1990"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of immigrants in millions, containing a total of 16 data points.",
+      " In general Number of immigrants in millions has rose over the Year.",
+      "Number of immigrants in millions is slightly increasing from 1990 to 2005, and finally roughly constant from 2005 to 2017."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of immigrants in millions. In total the number of data points it has is 16.",
+      " Overall Number of immigrants in millions has increased over the Year.",
+      "Number of immigrants in millions is slightly increasing from 1990 to 2005, and finally roughly constant from 2005 to 2017.",
+      "The steepest increase occurs in between the Year 1995 and 2000.",
+      "The highest Number of immigrants in millions, of value 12.2 was reached at Year 2007",
+      "Minimum Number of immigrants in millions about 3.5 was reached at Year 1990"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of immigrants in millions, containing a total of 16 data points.",
+      " In general Number of immigrants in millions has rose over the Year.",
+      "Number of immigrants in millions is slightly increasing from 1990 to 2005, and finally roughly constant from 2005 to 2017.",
+      "The steepest increase occurs in between the Year 1995 and 2000.",
+      "The highest Number of immigrants in millions, of value 12.2 was reached at Year 2007",
+      "Minimum Number of immigrants in millions about 3.5 was reached at Year 1990",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of immigrants in millions": 10.5
+      },
+      {
+         "Year": "2016",
+         "Number of immigrants in millions": 10.7
+      },
+      {
+         "Year": "2015",
+         "Number of immigrants in millions": 11.0
+      },
+      {
+         "Year": "2014",
+         "Number of immigrants in millions": 11.1
+      },
+      {
+         "Year": "2013",
+         "Number of immigrants in millions": 11.2
+      },
+      {
+         "Year": "2012",
+         "Number of immigrants in millions": 11.2
+      },
+      {
+         "Year": "2011",
+         "Number of immigrants in millions": 11.5
+      },
+      {
+         "Year": "2010",
+         "Number of immigrants in millions": 11.4
+      },
+      {
+         "Year": "2009",
+         "Number of immigrants in millions": 11.3
+      },
+      {
+         "Year": "2008",
+         "Number of immigrants in millions": 11.7
+      },
+      {
+         "Year": "2007",
+         "Number of immigrants in millions": 12.2
+      },
+      {
+         "Year": "2006",
+         "Number of immigrants in millions": 11.6
+      },
+      {
+         "Year": "2005",
+         "Number of immigrants in millions": 11.1
+      },
+      {
+         "Year": "2000",
+         "Number of immigrants in millions": 8.6
+      },
+      {
+         "Year": "1995",
+         "Number of immigrants in millions": 5.7
+      },
+      {
+         "Year": "1990",
+         "Number of immigrants in millions": 3.5
+      }
+   ]
+}

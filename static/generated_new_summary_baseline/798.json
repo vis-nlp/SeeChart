@@ -1,0 +1,61 @@
+{
+   "title": "Average U.S. teen Twitter follower count 2015",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
+      " Overall Share of respondents has increased over the Year.",
+      "Share of respondents is roughly constant from 0_to_100 to 201_to_300, and lastly slightly increasing from 201_to_300 to Don't_know.",
+      "The steepest increase occurs in between the Year 301_and_more and Don't_know.",
+      "Maximum Share of respondents, about 44.0 was reported at Year Don't_know",
+      "The lowest Share of respondents, of value 5.0 was reported at Year 201_to_300"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
+      " In general Share of respondents has rose over the Year.",
+      "Share of respondents is roughly constant from 0_to_100 to 201_to_300, and lastly slightly increasing from 201_to_300 to Don't_know."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
+      " Overall Share of respondents has increased over the Year.",
+      "Share of respondents is roughly constant from 0_to_100 to 201_to_300, and lastly slightly increasing from 201_to_300 to Don't_know.",
+      "The steepest increase occurs in between the Year 301_and_more and Don't_know.",
+      "Maximum Share of respondents, about 44.0 was reported at Year Don't_know",
+      "The lowest Share of respondents, of value 5.0 was reported at Year 201_to_300"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 5.",
+      " Overall Share of respondents has increased over the Year.",
+      "Share of respondents is roughly constant from 0_to_100 to 201_to_300, and lastly slightly increasing from 201_to_300 to Don't_know.",
+      "The most drastic increase took place within the Year 301_and_more and Don't_know.",
+      "Maximum Share of respondents, about 44.0 was reported at Year Don't_know",
+      "The lowest Share of respondents, of value 5.0 was reported at Year 201_to_300",
+      "The line drastically increased by 2.0 times from Year 201_to_300 to 301_and_more, and lastly, increased by 4.4 times from Year 301_and_more to Don't_know."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "0 to 100",
+         "Share of respondents": 29.0
+      },
+      {
+         "Year": "101 to 200",
+         "Share of respondents": 10.0
+      },
+      {
+         "Year": "201 to 300",
+         "Share of respondents": 5.0
+      },
+      {
+         "Year": "301 and more",
+         "Share of respondents": 10.0
+      },
+      {
+         "Year": "Don't know",
+         "Share of respondents": 44.0
+      }
+   ]
+}

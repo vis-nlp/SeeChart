@@ -1,0 +1,73 @@
+{
+   "title": "Value of the global eyewear market from 2018 to 2025",
+   "xAxis": "Year",
+   "yAxis": "Market value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market value in billion U.S. dollars. In total the number of data points it has is 8.",
+      " Overall Market value in billion U.S. dollars has increased over the Year.",
+      "Market value in billion U.S. dollars is slightly increasing from 2018 to 2025.",
+      "The steepest increase occurs in between the Year 2024 and 2025.",
+      "Maximum Market value in billion U.S. dollars, about 210.87 was reported at Year 2025",
+      "The lowest Market value in billion U.S. dollars, of value 131.32 was reported at Year 2018"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market value in billion U.S. dollars, containing a total of 8 data points.",
+      " In general Market value in billion U.S. dollars has rose over the Year.",
+      "Market value in billion U.S. dollars is slightly increasing from 2018 to 2025."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market value in billion U.S. dollars. In total the number of data points it has is 8.",
+      " Overall Market value in billion U.S. dollars has increased over the Year.",
+      "Market value in billion U.S. dollars is slightly increasing from 2018 to 2025.",
+      "The steepest increase occurs in between the Year 2024 and 2025.",
+      "Maximum Market value in billion U.S. dollars, about 210.87 was reported at Year 2025",
+      "The lowest Market value in billion U.S. dollars, of value 131.32 was reported at Year 2018"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market value in billion U.S. dollars. In total the number of data points it has is 8.",
+      " Overall Market value in billion U.S. dollars has increased over the Year.",
+      "Market value in billion U.S. dollars is slightly increasing from 2018 to 2025.",
+      "The most drastic increase took place within the Year 2024 and 2025.",
+      "Maximum Market value in billion U.S. dollars, about 210.87 was reported at Year 2025",
+      "The lowest Market value in billion U.S. dollars, of value 131.32 was reported at Year 2018",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2025",
+         "Market value in billion U.S. dollars": 210.87
+      },
+      {
+         "Year": "2024",
+         "Market value in billion U.S. dollars": 197.08
+      },
+      {
+         "Year": "2023",
+         "Market value in billion U.S. dollars": 184.18
+      },
+      {
+         "Year": "2022",
+         "Market value in billion U.S. dollars": 172.13
+      },
+      {
+         "Year": "2021",
+         "Market value in billion U.S. dollars": 160.87
+      },
+      {
+         "Year": "2020",
+         "Market value in billion U.S. dollars": 150.35
+      },
+      {
+         "Year": "2019",
+         "Market value in billion U.S. dollars": 140.51
+      },
+      {
+         "Year": "2018",
+         "Market value in billion U.S. dollars": 131.32
+      }
+   ]
+}

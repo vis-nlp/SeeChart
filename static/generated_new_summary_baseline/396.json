@@ -1,0 +1,61 @@
+{
+   "title": "Snap worldwide net income 2015 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Income/ loss in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Income/ loss in million U.S. dollars, containing a total of 5 data points.",
+      " In general Income/ loss in million U.S. dollars has rose over the Year.",
+      "Income/ loss in million U.S. dollars is roughly constant from 2015 to 2016, gradually increasing from 2016 to 2017, and finally roughly constant from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Income/ loss in million U.S. dollars, of value 3445.07 was reached at Year 2017",
+      "Minimum Income/ loss in million U.S. dollars about 372.89 was reached at Year 2015"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Income/ loss in million U.S. dollars. In total the number of data points it has is 5.",
+      " In general Income/ loss in million U.S. dollars has rose over the Year.",
+      "Income/ loss in million U.S. dollars is roughly constant from 2015 to 2016, gradually increasing from 2016 to 2017, and finally roughly constant from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Income/ loss in million U.S. dollars, containing a total of 5 data points.",
+      " In general Income/ loss in million U.S. dollars has rose over the Year.",
+      "Income/ loss in million U.S. dollars is roughly constant from 2015 to 2016, gradually increasing from 2016 to 2017, and finally roughly constant from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Income/ loss in million U.S. dollars, of value 3445.07 was reached at Year 2017",
+      "Minimum Income/ loss in million U.S. dollars about 372.89 was reached at Year 2015"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Income/ loss in million U.S. dollars, containing a total of 5 data points.",
+      " Overall Income/ loss in million U.S. dollars has increased over the Year.",
+      "Income/ loss in million U.S. dollars is roughly constant from 2015 to 2016, gradually increasing from 2016 to 2017, and finally roughly constant from 2017 to 2019.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "The highest Income/ loss in million U.S. dollars, of value 3445.07 was reached at Year 2017",
+      "Minimum Income/ loss in million U.S. dollars about 372.89 was reached at Year 2015",
+      "The line drastically increased by 6.7 times from Year 2016 to 2017."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Income/ loss in million U.S. dollars": 1033.66
+      },
+      {
+         "Year": "2018",
+         "Income/ loss in million U.S. dollars": 1255.91
+      },
+      {
+         "Year": "2017",
+         "Income/ loss in million U.S. dollars": 3445.07
+      },
+      {
+         "Year": "2016",
+         "Income/ loss in million U.S. dollars": 514.64
+      },
+      {
+         "Year": "2015",
+         "Income/ loss in million U.S. dollars": 372.89
+      }
+   ]
+}

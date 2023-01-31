@@ -1,0 +1,63 @@
+{
+   "title": "Number of earthquakes in Italy 2018 - 2019 , by magnitude",
+   "xAxis": "Magnitude",
+   "yAxis": "Number of earthquakes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of earthquakes for 5 number of Magnitudes. ",
+      "Magnitude Magnitude 0+ has the highest Number of earthquakes and Magnitude 5.5+ has the lowest Number of earthquakes. ",
+      "There is a difference of 21869.0 between the maximum Magnitude Magnitude 0+ and minimum Magnitude Magnitude 5.5+. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Magnitude in the x axis and Number of earthquakes in the y axis. ",
+      "Magnitude Magnitude 0+ has the highest Number of earthquakes and Magnitude 5.5+ has the lowest Number of earthquakes. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of earthquakes for 5 number of Magnitudes. ",
+      "Magnitude Magnitude 0+ has the highest Number of earthquakes and Magnitude 5.5+ has the lowest Number of earthquakes. ",
+      "There is a difference of 21869.0 between the maximum Magnitude Magnitude 0+ and minimum Magnitude Magnitude 5.5+. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Magnitude, and Number of earthquakes in each Magnitude on the y axis. ",
+      "Magnitude Magnitude 0+ has the highest Number of earthquakes and Magnitude 5.5+ has the lowest Number of earthquakes. ",
+      "The highest Magnitude Magnitude 0+ has 21869.0 more Number of earthquakes than the lowest Magnitude Magnitude 5.5+. ",
+      "Magnitude Magnitude 0+ is higher than any other Magnitudes with value 21869.0, followed by , and Magnitude 3+. Down to Magnitude Magnitude 5.5+ with the lowest value 0.0. ",
+      "The Magnitude Magnitude 0+ has 4.46 times more Number of earthquakes than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Magnitude": "Magnitude 0+",
+         "Number of earthquakes": 21869.0
+      },
+      {
+         "Magnitude": "Magnitude 2+",
+         "Number of earthquakes": 2384.0
+      },
+      {
+         "Magnitude": "Magnitude 3+",
+         "Number of earthquakes": 226.0
+      },
+      {
+         "Magnitude": "Magnitude 4+",
+         "Number of earthquakes": 20.0
+      },
+      {
+         "Magnitude": "Magnitude 5.5+",
+         "Number of earthquakes": 0.0
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Global pineapple production by leading countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Production in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Production in thousand metric tons in each Country on the y axis. ",
+      "Country Costa Rica has the highest Production in thousand metric tons and Colombia has the lowest Production in thousand metric tons. ",
+      "The highest Country Costa Rica has 2517.76 more Production in thousand metric tons than the lowest Country Colombia. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Production in thousand metric tons for 10 number of Countrys. ",
+      "The Production in thousand metric tons is highest at Country Costa Rica and lowest at Country Colombia. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Production in thousand metric tons in each Country on the y axis. ",
+      "Country Costa Rica has the highest Production in thousand metric tons and Colombia has the lowest Production in thousand metric tons. ",
+      "The highest Country Costa Rica has 2517.76 more Production in thousand metric tons than the lowest Country Colombia. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Production in thousand metric tons in each Country on the y axis. ",
+      "The Production in thousand metric tons is appeared to be the highest at Country Costa Rica and lowest at Country Colombia. ",
+      "Second maximum Production in thousand metric tons is found at Country . ",
+      "The highest Country Costa Rica has 2517.76 more Production in thousand metric tons than the lowest Country Colombia. ",
+      "The Country Costa Rica has the highest Production in thousand metric tons, followed by , and Brazil. Down to the Country Colombia which is the lowest. ",
+      "The lowest value 900.4 at Colombia is almost 1.75 times smaller than the average value 1956.25. ",
+      "The Production in thousand metric tons is 19562.49 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Costa Rica",
+         "Production in thousand metric tons": 3418.16
+      },
+      {
+         "Country": "Philippines",
+         "Production in thousand metric tons": 2730.99
+      },
+      {
+         "Country": "Brazil",
+         "Production in thousand metric tons": 2650.48
+      },
+      {
+         "Country": "Thailand",
+         "Production in thousand metric tons": 2113.38
+      },
+      {
+         "Country": "Indonesia",
+         "Production in thousand metric tons": 1805.51
+      },
+      {
+         "Country": "India",
+         "Production in thousand metric tons": 1706.0
+      },
+      {
+         "Country": "Nigeria",
+         "Production in thousand metric tons": 1664.51
+      },
+      {
+         "Country": "China mainland",
+         "Production in thousand metric tons": 1573.47
+      },
+      {
+         "Country": "Mexico",
+         "Production in thousand metric tons": 999.59
+      },
+      {
+         "Country": "Colombia",
+         "Production in thousand metric tons": 900.4
+      }
+   ]
+}

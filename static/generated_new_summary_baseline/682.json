@@ -1,0 +1,157 @@
+{
+   "title": "Per capita U.S. Real Gross Domestic Product ( GDP ) 1990 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Per capita Real GDP in chained (2012) U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita Real GDP in chained (2012) U.S. dollars, containing a total of 30 data points.",
+      " In general Per capita Real GDP in chained (2012) U.S. dollars has stayed the same over the Year.",
+      "The steepest decrease occurs in between the Year '19 and '90.",
+      "The highest Per capita Real GDP in chained (2012) U.S. dollars, of value 58055.0 was reached at Year '19",
+      "The lowest Per capita Real GDP in chained (2012) U.S. dollars, of value 36900.0 was reported at Year '91"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita Real GDP in chained (2012) U.S. dollars. In total the number of data points it has is 30.",
+      " Overall Per capita Real GDP in chained (2012) U.S. dollars has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita Real GDP in chained (2012) U.S. dollars, containing a total of 30 data points.",
+      " In general Per capita Real GDP in chained (2012) U.S. dollars has stayed the same over the Year.",
+      "The steepest decrease occurs in between the Year '19 and '90.",
+      "The highest Per capita Real GDP in chained (2012) U.S. dollars, of value 58055.0 was reached at Year '19",
+      "The lowest Per capita Real GDP in chained (2012) U.S. dollars, of value 36900.0 was reported at Year '91"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita Real GDP in chained (2012) U.S. dollars, containing a total of 30 data points.",
+      " Overall Per capita Real GDP in chained (2012) U.S. dollars has decreased over the Year.",
+      "The steepest decrease occurs in between the Year '19 and '90.",
+      "The highest Per capita Real GDP in chained (2012) U.S. dollars, of value 58055.0 was reached at Year '19",
+      "The lowest Per capita Real GDP in chained (2012) U.S. dollars, of value 36900.0 was reported at Year '91",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "'19",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 58055.0
+      },
+      {
+         "Year": "'18",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 57006.0
+      },
+      {
+         "Year": "'17",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 55679.0
+      },
+      {
+         "Year": "'16",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 54733.0
+      },
+      {
+         "Year": "'15",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 54231.0
+      },
+      {
+         "Year": "'14",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 53077.0
+      },
+      {
+         "Year": "'13",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 52142.0
+      },
+      {
+         "Year": "'12",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 51548.0
+      },
+      {
+         "Year": "'11",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 50770.0
+      },
+      {
+         "Year": "'10",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 50355.0
+      },
+      {
+         "Year": "'09",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 49501.0
+      },
+      {
+         "Year": "'08",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 51240.0
+      },
+      {
+         "Year": "'07",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 51794.0
+      },
+      {
+         "Year": "'06",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 51330.0
+      },
+      {
+         "Year": "'05",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 50381.0
+      },
+      {
+         "Year": "'04",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 49125.0
+      },
+      {
+         "Year": "'03",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 47756.0
+      },
+      {
+         "Year": "'02",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 46858.0
+      },
+      {
+         "Year": "'01",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 46497.0
+      },
+      {
+         "Year": "'00",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 46498.0
+      },
+      {
+         "Year": "'99",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 45146.0
+      },
+      {
+         "Year": "'98",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 43593.0
+      },
+      {
+         "Year": "'97",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 42211.0
+      },
+      {
+         "Year": "'96",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 40900.0
+      },
+      {
+         "Year": "'95",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 39875.0
+      },
+      {
+         "Year": "'94",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 39295.0
+      },
+      {
+         "Year": "'93",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 38234.0
+      },
+      {
+         "Year": "'92",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 37696.0
+      },
+      {
+         "Year": "'91",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 36900.0
+      },
+      {
+         "Year": "'90",
+         "Per capita Real GDP in chained (2012) U.S. dollars": 37435.0
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "U.S. household expenditure on sewing machines 2007 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Average annual expenditure in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average annual expenditure in U.S. dollars. In total the number of data points it has is 12.",
+      " In general Average annual expenditure in U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest Average annual expenditure in U.S. dollars, of value 8.19 was reached at Year 2009",
+      "The lowest Average annual expenditure in U.S. dollars, of value 1.54 was reported at Year 2017"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average annual expenditure in U.S. dollars, containing a total of 12 data points.",
+      " In general Average annual expenditure in U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average annual expenditure in U.S. dollars. In total the number of data points it has is 12.",
+      " In general Average annual expenditure in U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest Average annual expenditure in U.S. dollars, of value 8.19 was reached at Year 2009",
+      "The lowest Average annual expenditure in U.S. dollars, of value 1.54 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average annual expenditure in U.S. dollars. In total the number of data points it has is 12.",
+      " Overall Average annual expenditure in U.S. dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest Average annual expenditure in U.S. dollars, of value 8.19 was reached at Year 2009",
+      "The lowest Average annual expenditure in U.S. dollars, of value 1.54 was reported at Year 2017",
+      "The line drastically increased by 1.9 times from Year 2012 to 2013, and lastly, increased by 5.3 times from Year 2017 to 2018."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Average annual expenditure in U.S. dollars": 8.18
+      },
+      {
+         "Year": "2017",
+         "Average annual expenditure in U.S. dollars": 1.54
+      },
+      {
+         "Year": "2016",
+         "Average annual expenditure in U.S. dollars": 3.95
+      },
+      {
+         "Year": "2015",
+         "Average annual expenditure in U.S. dollars": 5.68
+      },
+      {
+         "Year": "2014",
+         "Average annual expenditure in U.S. dollars": 5.46
+      },
+      {
+         "Year": "2013",
+         "Average annual expenditure in U.S. dollars": 4.88
+      },
+      {
+         "Year": "2012",
+         "Average annual expenditure in U.S. dollars": 2.54
+      },
+      {
+         "Year": "2011",
+         "Average annual expenditure in U.S. dollars": 2.43
+      },
+      {
+         "Year": "2010",
+         "Average annual expenditure in U.S. dollars": 2.82
+      },
+      {
+         "Year": "2009",
+         "Average annual expenditure in U.S. dollars": 8.19
+      },
+      {
+         "Year": "2008",
+         "Average annual expenditure in U.S. dollars": 5.09
+      },
+      {
+         "Year": "2007",
+         "Average annual expenditure in U.S. dollars": 6.25
+      }
+   ]
+}

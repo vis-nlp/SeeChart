@@ -1,0 +1,98 @@
+{
+   "title": "Mobile phone usage : frequency of making mobile phone calls in the UK 2019 , by gender",
+   "labels": [
+      "Response",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 7 different Responses on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Response Several times a day had the maximum Share of respondents among all 2 groups, and it was for Male. The minimum Share of respondents was observed in Response Never for Male. ",
+      "Response Several times a day and Never had the biggest gap of 48.0 between the highest and lowest Share of respondents found for Male. ",
+      "Averaging all 2 groups Male, and Female, the Response Several times a day is the maximum Share of respondents and Never is the minimum Share of respondents. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 7 different Responses for 2 groups Male, and Female that are presented on the X-axis. ",
+      " For Response Several times a day, Male had the highest Share of respondents 49.0 among the 2 groups and in Never, Male had the lowest Share of respondents 1.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 7 different Responses on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Response Several times a day had the maximum Share of respondents among all 2 groups, and it was for Male. The minimum Share of respondents was observed in Response Never for Male. ",
+      "Response Several times a day and Never had the biggest gap of 48.0 between the highest and lowest Share of respondents found for Male. ",
+      "Averaging all 2 groups Male, and Female, the Response Several times a day is the maximum Share of respondents and Never is the minimum Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 7 different Responses on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 2 groups, Male had the highest Share of respondents for Response Several times a day and Male had the lowest Share of respondents for Response Never. ",
+      " Among all the Responses, Male had the highest Share of respondents 49.0 in Response Several times a day and lowest value 1.0 in Response Never. ",
+      " There is a gap of 48.0 between the highest and lowest Share of respondents found for Male in Response Several times a day and Never. ",
+      " Among the groups, Male had the biggest difference in Share of respondents. Where the maximum Share of respondents was 49.0 times larger than the minimum Share of respondents. ",
+      "On average, the Response Several times a day had the highest Share of respondents for all 2 groups Male, and Female. Whereas Never had the lowest average Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Several times a day",
+         "Male": "49",
+         "Female": "46"
+      },
+      {
+         "Response": "Every day",
+         "Male": "21",
+         "Female": "24"
+      },
+      {
+         "Response": "Several times a week",
+         "Male": "16",
+         "Female": "17"
+      },
+      {
+         "Response": "At least once a week",
+         "Male": "6",
+         "Female": "6"
+      },
+      {
+         "Response": "At least once a month",
+         "Male": "4",
+         "Female": "3"
+      },
+      {
+         "Response": "Less than once a month",
+         "Male": "2",
+         "Female": "2"
+      },
+      {
+         "Response": "Never",
+         "Male": "1",
+         "Female": "1"
+      }
+   ]
+}

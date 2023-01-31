@@ -1,0 +1,102 @@
+{
+   "title": "Monthly consumer Price Index ( CPI ) in India July 2019",
+   "labels": [
+      "Month",
+      "All India",
+      "Urban",
+      "Rural"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a grouped bar chart showing Consumer price index on the Y-axis throughout 6 Months for All India, Urban, and Rural on the X-axis. ",
+      " Over the 6 Months, the Consumer price index for both Rural and Urban have climbed. ",
+      " Out of all 3 groups, Rural had the highest Consumer price index for Month June and Urban had the lowest Consumer price index for Month January. ",
+      " There is a gap of 26.0 between the highest and lowest Consumer price index found for Rural in Month June and February. "
+   ],
+   "xAxis": "Month",
+   "yAxis": "Consumer price index",
+   "min_summary": [
+      "This grouped bar chart represents Consumer price index on the Y-axis. And, its value throughout 6 Months for All India, Urban, and Rural. ",
+      " All through the Months, similar trend was observed for Rural and Urban. In both cases, the Consumer price index have climbed. "
+   ],
+   "mid_summary": [
+      "This is a grouped bar chart showing Consumer price index on the Y-axis throughout 6 Months for All India, Urban, and Rural on the X-axis. ",
+      " Over the 6 Months, the Consumer price index for both Rural and Urban have climbed. ",
+      " Out of all 3 groups, Rural had the highest Consumer price index for Month June and Urban had the lowest Consumer price index for Month January. ",
+      " There is a gap of 26.0 between the highest and lowest Consumer price index found for Rural in Month June and February. "
+   ],
+   "max_summary": [
+      "This is a grouped bar chart showing Consumer price index on the Y-axis throughout 6 Months for All India, Urban, and Rural on the X-axis. ",
+      " All through the Months, similar trend was observed for Rural and Urban. In both cases, the Consumer price index have climbed. ",
+      " For Month June, Rural had the highest Consumer price index 1436.0 among the 3 groups and in January, Urban had the lowest Consumer price index 1380.0. ",
+      " Among all the Months, Rural had the highest Consumer price index in Month June and lowest Consumer price index in Month February. ",
+      "Month June and February had the biggest gap of 26.0 between the highest and lowest Consumer price index found for Rural. ",
+      " Among the groups, Urban had the biggest difference in Consumer price index. Where the maximum Consumer price index was 1.03 times larger than the minimum Consumer price index. ",
+      " Rural had the maximum Consumer price index out of all 3 groups in Month June followed by Rural in June, and the minimum Consumer price index is found for Urban in January. ",
+      "Averaging all 3 groups All India, Urban, and Rural, the Month June is the maximum Consumer price index and January is the minimum Consumer price index. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "5"
+         ],
+         "13": [
+            "3",
+            "5"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "3",
+            "4"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "January",
+         "All India": "139.7",
+         "Urban": "138.0",
+         "Rural": "141.1"
+      },
+      {
+         "Month": "February",
+         "All India": "139.9",
+         "Urban": "138.6",
+         "Rural": "141.0"
+      },
+      {
+         "Month": "March",
+         "All India": "140.4",
+         "Urban": "139.5",
+         "Rural": "141.2"
+      },
+      {
+         "Month": "April",
+         "All India": "141.1",
+         "Urban": "140.5",
+         "Rural": "141.7"
+      },
+      {
+         "Month": "May",
+         "All India": "142.0",
+         "Urban": "141.5",
+         "Rural": "142.4"
+      },
+      {
+         "Month": "June",
+         "All India": "142.9",
+         "Urban": "142.1",
+         "Rural": "143.6"
+      }
+   ]
+}

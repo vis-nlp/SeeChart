@@ -1,0 +1,68 @@
+{
+   "title": "Pet population in Europe 2018 , by animal type",
+   "xAxis": "Pet Type",
+   "yAxis": "Number of pets in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of pets in thousands for 6 number of Pet Types. ",
+      "The maximum Number of pets in thousands 103828.0 is found at Pet Type Cat and the minimum is found at Reptiles where Number of pets in thousands is 7848.0. ",
+      "There is a difference of 95980.0 between the maximum Pet Type Cat and minimum Pet Type Reptiles. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of pets in thousands for 6 number of Pet Types. ",
+      "Pet Type Cat has the highest Number of pets in thousands and Reptiles has the lowest Number of pets in thousands. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of pets in thousands for 6 number of Pet Types. ",
+      "The maximum Number of pets in thousands 103828.0 is found at Pet Type Cat and the minimum is found at Reptiles where Number of pets in thousands is 7848.0. ",
+      "There is a difference of 95980.0 between the maximum Pet Type Cat and minimum Pet Type Reptiles. "
+   ],
+   "max_summary": [
+      "This bar chart has 6 columns on the x axis representing Pet Type, and Number of pets in thousands in each Pet Type on the y axis. ",
+      "The Number of pets in thousands is highest at Pet Type Cat and lowest at Pet Type Reptiles. ",
+      "There is a difference of 95980.0 between the maximum Pet Type Cat and minimum Pet Type Reptiles. ",
+      "Number of pets in thousands at Pet Type Cat is 103828.0 , second place is  at 103828.0, and thirdly is Ornamental bird at 50212.0.",
+      "The Pet Type Cat has 2.15 times more Number of pets in thousands than average. ",
+      "Summing up the values of all Pet Types, we get total 289359.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Pet Type": "Cat",
+         "Number of pets in thousands": 103828.0
+      },
+      {
+         "Pet Type": "Dog",
+         "Number of pets in thousands": 85184.0
+      },
+      {
+         "Pet Type": "Ornamental bird",
+         "Number of pets in thousands": 50212.0
+      },
+      {
+         "Pet Type": "Small mammal",
+         "Number of pets in thousands": 26794.0
+      },
+      {
+         "Pet Type": "Aquaria",
+         "Number of pets in thousands": 15493.0
+      },
+      {
+         "Pet Type": "Reptiles",
+         "Number of pets in thousands": 7848.0
+      }
+   ]
+}

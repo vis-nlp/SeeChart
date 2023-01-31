@@ -1,0 +1,117 @@
+{
+   "title": "Annual performance of the Dow Jones Composite Index 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Index value in points",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Index value in points. In total the number of data points it has is 20.",
+      " In general Index value in points has rose over the Year.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "Maximum Index value in points, about 9386.48 was reported at Year 2019",
+      "Minimum Index value in points about 2374.96 was reached at Year 2002"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Index value in points. In total the number of data points it has is 20.",
+      " Overall Index value in points has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Index value in points. In total the number of data points it has is 20.",
+      " In general Index value in points has rose over the Year.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "Maximum Index value in points, about 9386.48 was reported at Year 2019",
+      "Minimum Index value in points about 2374.96 was reached at Year 2002"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Index value in points, containing a total of 20 data points.",
+      " In general Index value in points has rose over the Year.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "Maximum Index value in points, about 9386.48 was reported at Year 2019",
+      "Minimum Index value in points about 2374.96 was reached at Year 2002",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Index value in points": 9386.48
+      },
+      {
+         "Year": "2018",
+         "Index value in points": 7710.44
+      },
+      {
+         "Year": "2017",
+         "Index value in points": 8310.35
+      },
+      {
+         "Year": "2016",
+         "Index value in points": 6902.45
+      },
+      {
+         "Year": "2015",
+         "Index value in points": 5978.34
+      },
+      {
+         "Year": "2014",
+         "Index value in points": 6473.6
+      },
+      {
+         "Year": "2013",
+         "Index value in points": 5641.55
+      },
+      {
+         "Year": "2012",
+         "Index value in points": 4442.07
+      },
+      {
+         "Year": "2011",
+         "Index value in points": 4232.17
+      },
+      {
+         "Year": "2010",
+         "Index value in points": 4033.19
+      },
+      {
+         "Year": "2009",
+         "Index value in points": 3566.68
+      },
+      {
+         "Year": "2008",
+         "Index value in points": 3086.07
+      },
+      {
+         "Year": "2007",
+         "Index value in points": 4394.05
+      },
+      {
+         "Year": "2006",
+         "Index value in points": 4120.96
+      },
+      {
+         "Year": "2005",
+         "Index value in points": 3638.06
+      },
+      {
+         "Year": "2004",
+         "Index value in points": 3395.82
+      },
+      {
+         "Year": "2003",
+         "Index value in points": 3000.75
+      },
+      {
+         "Year": "2002",
+         "Index value in points": 2374.96
+      },
+      {
+         "Year": "2001",
+         "Index value in points": 2892.23
+      },
+      {
+         "Year": "2000",
+         "Index value in points": 3317.61
+      }
+   ]
+}

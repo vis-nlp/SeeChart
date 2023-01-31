@@ -1,0 +1,103 @@
+{
+   "title": "Leading European city tourism destinations in 2018 , by number of bednights",
+   "xAxis": "European City Destination",
+   "yAxis": "Number of bednights in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of bednights in millions for 15 number of European City Destinations. ",
+      "The maximum Number of bednights in millions 71.16 is found at European City Destination London and the minimum is found at Lisbon where Number of bednights in millions is 10.76. ",
+      "The highest European City Destination London has 60.4 more Number of bednights in millions than the lowest European City Destination Lisbon. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing European City Destination in the x axis and Number of bednights in millions in the y axis. ",
+      "The Number of bednights in millions is highest at European City Destination London and lowest at European City Destination Lisbon. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of bednights in millions for 15 number of European City Destinations. ",
+      "The maximum Number of bednights in millions 71.16 is found at European City Destination London and the minimum is found at Lisbon where Number of bednights in millions is 10.76. ",
+      "The highest European City Destination London has 60.4 more Number of bednights in millions than the lowest European City Destination Lisbon. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of bednights in millions for 15 number of European City Destinations. ",
+      "European City Destination London has the highest Number of bednights in millions and Lisbon has the lowest Number of bednights in millions. ",
+      "There is a difference of 60.4 between the maximum European City Destination London and minimum European City Destination Lisbon. ",
+      "European City Destination London is higher than any other European City Destinations with value 71.16, followed by , and Berlin. Down to European City Destination Lisbon with the lowest value 10.76. ",
+      "The highest value 71.16 at London is almost 2.91 times larger than the average value 24.47. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "European City Destination": "London",
+         "Number of bednights in millions": 71.16
+      },
+      {
+         "European City Destination": "Paris",
+         "Number of bednights in millions": 52.55
+      },
+      {
+         "European City Destination": "Berlin",
+         "Number of bednights in millions": 32.87
+      },
+      {
+         "European City Destination": "Rome",
+         "Number of bednights in millions": 28.55
+      },
+      {
+         "European City Destination": "Istanbul",
+         "Number of bednights in millions": 20.98
+      },
+      {
+         "European City Destination": "Madrid",
+         "Number of bednights in millions": 19.83
+      },
+      {
+         "European City Destination": "Barcelona",
+         "Number of bednights in millions": 19.29
+      },
+      {
+         "European City Destination": "Prague",
+         "Number of bednights in millions": 18.25
+      },
+      {
+         "European City Destination": "Vienna",
+         "Number of bednights in millions": 17.41
+      },
+      {
+         "European City Destination": "Munich",
+         "Number of bednights in millions": 17.12
+      },
+      {
+         "European City Destination": "Amsterdam",
+         "Number of bednights in millions": 16.94
+      },
+      {
+         "European City Destination": "Stockholm",
+         "Number of bednights in millions": 14.59
+      },
+      {
+         "European City Destination": "Hamburg",
+         "Number of bednights in millions": 14.53
+      },
+      {
+         "European City Destination": "Milan",
+         "Number of bednights in millions": 12.29
+      },
+      {
+         "European City Destination": "Lisbon",
+         "Number of bednights in millions": 10.76
+      }
+   ]
+}

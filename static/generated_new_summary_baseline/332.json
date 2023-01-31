@@ -1,0 +1,77 @@
+{
+   "title": "Inbound visitor growth in the Middle East 2011 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Year-over-year visitor growth",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year-over-year visitor growth, containing a total of 9 data points.",
+      " In general Year-over-year visitor growth has rose over the Year.",
+      "Year-over-year visitor growth is roughly constant from 2011 to 2013, slightly increasing from 2013 to 2014, slightly decreasing from 2014 to 2015, slightly increasing from 2015 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "Maximum Year-over-year visitor growth, about 8.0 was reported at Year 2014",
+      "The lowest Year-over-year visitor growth, of value 1.2 was reported at Year 2016"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Year-over-year visitor growth. In total the number of data points it has is 9.",
+      " Overall Year-over-year visitor growth has increased over the Year.",
+      "Year-over-year visitor growth is roughly constant from 2011 to 2013, slightly increasing from 2013 to 2014, slightly decreasing from 2014 to 2015, slightly increasing from 2015 to 2017, and lastly roughly constant from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year-over-year visitor growth, containing a total of 9 data points.",
+      " In general Year-over-year visitor growth has rose over the Year.",
+      "Year-over-year visitor growth is roughly constant from 2011 to 2013, slightly increasing from 2013 to 2014, slightly decreasing from 2014 to 2015, slightly increasing from 2015 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "Maximum Year-over-year visitor growth, about 8.0 was reported at Year 2014",
+      "The lowest Year-over-year visitor growth, of value 1.2 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Year-over-year visitor growth. In total the number of data points it has is 9.",
+      " In general Year-over-year visitor growth has rose over the Year.",
+      "Year-over-year visitor growth is roughly constant from 2011 to 2013, slightly increasing from 2013 to 2014, slightly decreasing from 2014 to 2015, slightly increasing from 2015 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "Maximum Year-over-year visitor growth, about 8.0 was reported at Year 2014",
+      "The lowest Year-over-year visitor growth, of value 1.2 was reported at Year 2016",
+      "The line significantly increased by 3.8 from Year 2013 to 2014, and lastly, increased by 2.3 from Year 2016 to 2017."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Year-over-year visitor growth": 4.3
+      },
+      {
+         "Year": "2018",
+         "Year-over-year visitor growth": 3.2
+      },
+      {
+         "Year": "2017",
+         "Year-over-year visitor growth": 3.5
+      },
+      {
+         "Year": "2016",
+         "Year-over-year visitor growth": 1.2
+      },
+      {
+         "Year": "2015",
+         "Year-over-year visitor growth": 2.5
+      },
+      {
+         "Year": "2014",
+         "Year-over-year visitor growth": 8.0
+      },
+      {
+         "Year": "2013",
+         "Year-over-year visitor growth": 4.2
+      },
+      {
+         "Year": "2012",
+         "Year-over-year visitor growth": 3.1
+      },
+      {
+         "Year": "2011",
+         "Year-over-year visitor growth": 2.3
+      }
+   ]
+}

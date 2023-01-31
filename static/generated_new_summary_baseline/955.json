@@ -1,0 +1,84 @@
+{
+   "title": "Net profit margin of the leading 10 consumer products companies in the U.S. 2013",
+   "xAxis": "Company",
+   "yAxis": "Net profit margin",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Company, and Net profit margin in each Company on the y axis. ",
+      "The Net profit margin is appeared to be the highest at Company Philip Morris International Inc. and lowest at Company Mars Inc.. ",
+      "The highest Company Philip Morris International Inc. has 28.3 more Net profit margin than the lowest Company Mars Inc.. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Company in the x axis and Net profit margin in the y axis. ",
+      "The Net profit margin is appeared to be the highest at Company Philip Morris International Inc. and lowest at Company Mars Inc.. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Company, and Net profit margin in each Company on the y axis. ",
+      "The Net profit margin is appeared to be the highest at Company Philip Morris International Inc. and lowest at Company Mars Inc.. ",
+      "The highest Company Philip Morris International Inc. has 28.3 more Net profit margin than the lowest Company Mars Inc.. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Net profit margin for 10 number of Companys. ",
+      "The maximum Net profit margin 28.3 is found at Company Philip Morris International Inc. and the minimum is found at Mars Inc. where Net profit margin is 0.0. ",
+      "Company  has the second highest value for Net profit margin. ",
+      "The difference of Net profit margin between the highest and lowest Company is 28.3. ",
+      "Company Philip Morris International Inc. is higher than any other Companys with value 28.3, followed by , and The Coca-Cola Company. Down to Company Mars Inc. with the lowest value 0.0. ",
+      "The average Net profit margin in all 10 Companys is 12.64. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 7,
+         "12": 7
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Apple Inc.",
+         "Net profit margin": 21.7
+      },
+      {
+         "Company": "The Procter & Gamble Company",
+         "Net profit margin": 14.2
+      },
+      {
+         "Company": "PepsiCo Inc.",
+         "Net profit margin": 10.2
+      },
+      {
+         "Company": "The Coca-Cola Company",
+         "Net profit margin": 18.4
+      },
+      {
+         "Company": "Mondel\u00e9z International",
+         "Net profit margin": 11.1
+      },
+      {
+         "Company": "Tyson Foods Inc.",
+         "Net profit margin": 2.3
+      },
+      {
+         "Company": "Mars Inc.",
+         "Net profit margin": 0.0
+      },
+      {
+         "Company": "Philip Morris International Inc.",
+         "Net profit margin": 28.3
+      },
+      {
+         "Company": "NIKE Inc.",
+         "Net profit margin": 9.7
+      },
+      {
+         "Company": "Kimberly-Clark Corporation",
+         "Net profit margin": 10.5
+      }
+   ]
+}

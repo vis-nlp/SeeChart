@@ -1,0 +1,111 @@
+{
+   "title": "Gross premiums written by leading reinsurers in the U.S. 2018",
+   "xAxis": "Insurer",
+   "yAxis": "Amount in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Amount in billion U.S. dollars for 17 number of Insurers. ",
+      "The Amount in billion U.S. dollars is appeared to be the highest at Insurer National Indemnity Company and lowest at Insurer EMC Reinsurance Company. ",
+      "There is a difference of 26.96 between the maximum Insurer National Indemnity Company and minimum Insurer EMC Reinsurance Company. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Insurer in the x axis and Amount in billion U.S. dollars in the y axis. ",
+      "Insurer National Indemnity Company has the highest Amount in billion U.S. dollars and EMC Reinsurance Company has the lowest Amount in billion U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Amount in billion U.S. dollars for 17 number of Insurers. ",
+      "The Amount in billion U.S. dollars is appeared to be the highest at Insurer National Indemnity Company and lowest at Insurer EMC Reinsurance Company. ",
+      "There is a difference of 26.96 between the maximum Insurer National Indemnity Company and minimum Insurer EMC Reinsurance Company. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Amount in billion U.S. dollars for 17 number of Insurers. ",
+      "The Amount in billion U.S. dollars is highest at Insurer National Indemnity Company and lowest at Insurer EMC Reinsurance Company. ",
+      "There is a difference of 26.96 between the maximum Insurer National Indemnity Company and minimum Insurer EMC Reinsurance Company. ",
+      "Insurer National Indemnity Company is higher than any other Insurers with value 27.12, followed by , and Munich Re America Corp.. Down to Insurer EMC Reinsurance Company with the lowest value 0.16. ",
+      "The highest value 27.12 at National Indemnity Company is almost 6.9 times larger than the average value 3.93. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 16,
+         "12": 16
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Insurer": "National Indemnity Company",
+         "Amount in billion U.S. dollars": 27.12
+      },
+      {
+         "Insurer": "Everest Reinsurance Company",
+         "Amount in billion U.S. dollars": 6.57
+      },
+      {
+         "Insurer": "Munich Re America Corp.",
+         "Amount in billion U.S. dollars": 5.5
+      },
+      {
+         "Insurer": "XL Reinsurance America",
+         "Amount in billion U.S. dollars": 5.47
+      },
+      {
+         "Insurer": "Swiss Reinsurance America Corporation",
+         "Amount in billion U.S. dollars": 4.33
+      },
+      {
+         "Insurer": "Transatlantic Reinsurance Company",
+         "Amount in billion U.S. dollars": 3.95
+      },
+      {
+         "Insurer": "Odyssey Group",
+         "Amount in billion U.S. dollars": 3.09
+      },
+      {
+         "Insurer": "General Re Group",
+         "Amount in billion U.S. dollars": 2.52
+      },
+      {
+         "Insurer": "SCOR U.S. Corporation",
+         "Amount in billion U.S. dollars": 1.82
+      },
+      {
+         "Insurer": "Partner Reinsurance Company of the U.S.",
+         "Amount in billion U.S. dollars": 1.57
+      },
+      {
+         "Insurer": "AXIS Reinsurance Company",
+         "Amount in billion U.S. dollars": 1.18
+      },
+      {
+         "Insurer": "American Agricultural Ins. Co.",
+         "Amount in billion U.S. dollars": 0.99
+      },
+      {
+         "Insurer": "Endurance Assurance Corporation",
+         "Amount in billion U.S. dollars": 0.96
+      },
+      {
+         "Insurer": "Renaissance Reinsurance US Inc.",
+         "Amount in billion U.S. dollars": 0.77
+      },
+      {
+         "Insurer": "The Toa Reinsurance Company of America",
+         "Amount in billion U.S. dollars": 0.48
+      },
+      {
+         "Insurer": "Sirius America Insurance Company",
+         "Amount in billion U.S. dollars": 0.29
+      },
+      {
+         "Insurer": "EMC Reinsurance Company",
+         "Amount in billion U.S. dollars": 0.16
+      }
+   ]
+}

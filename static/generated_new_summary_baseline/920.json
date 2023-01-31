@@ -1,0 +1,69 @@
+{
+   "title": "Average price for a soak-off gel application in nail salons in the U.S. 2010 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Average price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average price in U.S. dollars, containing a total of 7 data points.",
+      " In general Average price in U.S. dollars has stayed the same over the Year.",
+      "Average price in U.S. dollars is slightly decreasing from 2010 to 2011, slightly increasing from 2011 to 2013, roughly constant from 2013 to 2014, gradually decreasing from 2014 to 2015, and finally roughly constant from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "Maximum Average price in U.S. dollars, about 36.64 was reported at Year 2014",
+      "Minimum Average price in U.S. dollars about 28.68 was reached at Year 2010"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average price in U.S. dollars. In total the number of data points it has is 7.",
+      " In general Average price in U.S. dollars has stayed the same over the Year.",
+      "Average price in U.S. dollars is slightly decreasing from 2010 to 2011, slightly increasing from 2011 to 2013, roughly constant from 2013 to 2014, gradually decreasing from 2014 to 2015, and finally roughly constant from 2015 to 2016."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average price in U.S. dollars, containing a total of 7 data points.",
+      " In general Average price in U.S. dollars has stayed the same over the Year.",
+      "Average price in U.S. dollars is slightly decreasing from 2010 to 2011, slightly increasing from 2011 to 2013, roughly constant from 2013 to 2014, gradually decreasing from 2014 to 2015, and finally roughly constant from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "Maximum Average price in U.S. dollars, about 36.64 was reported at Year 2014",
+      "Minimum Average price in U.S. dollars about 28.68 was reached at Year 2010"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average price in U.S. dollars, containing a total of 7 data points.",
+      " Overall Average price in U.S. dollars has increased over the Year.",
+      "Average price in U.S. dollars is slightly decreasing from 2010 to 2011, slightly increasing from 2011 to 2013, roughly constant from 2013 to 2014, gradually decreasing from 2014 to 2015, and finally roughly constant from 2015 to 2016.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "Maximum Average price in U.S. dollars, about 36.64 was reported at Year 2014",
+      "Minimum Average price in U.S. dollars about 28.68 was reached at Year 2010",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2010",
+         "Average price in U.S. dollars": 28.68
+      },
+      {
+         "Year": "2011",
+         "Average price in U.S. dollars": 31.74
+      },
+      {
+         "Year": "2012",
+         "Average price in U.S. dollars": 28.93
+      },
+      {
+         "Year": "2013",
+         "Average price in U.S. dollars": 35.54
+      },
+      {
+         "Year": "2014",
+         "Average price in U.S. dollars": 36.64
+      },
+      {
+         "Year": "2015",
+         "Average price in U.S. dollars": 30.03
+      },
+      {
+         "Year": "2016",
+         "Average price in U.S. dollars": 29.96
+      }
+   ]
+}

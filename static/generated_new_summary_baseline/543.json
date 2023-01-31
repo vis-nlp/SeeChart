@@ -1,0 +1,77 @@
+{
+   "title": "Number of nursery schools in the United Kingdom 2010 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of schools",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of schools. In total the number of data points it has is 9.",
+      " In general Number of schools has stayed the same over the Year.",
+      "Number of schools is roughly constant from 2010/11 to 2012/13, slightly decreasing from 2012/13 to 2014/15, slightly increasing from 2014/15 to 2015/16, and finally roughly constant from 2015/16 to 2018/19.",
+      "The most drastic increase took place within the Year 2014/15 and 2015/16.",
+      "Maximum Number of schools, about 3.13 was reported at Year 2010/11",
+      "The lowest Number of schools, of value 2.97 was reported at Year 2014/15"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of schools, containing a total of 9 data points.",
+      " Overall Number of schools has decreased over the Year.",
+      "Number of schools is roughly constant from 2010/11 to 2012/13, slightly decreasing from 2012/13 to 2014/15, slightly increasing from 2014/15 to 2015/16, and finally roughly constant from 2015/16 to 2018/19."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of schools. In total the number of data points it has is 9.",
+      " In general Number of schools has stayed the same over the Year.",
+      "Number of schools is roughly constant from 2010/11 to 2012/13, slightly decreasing from 2012/13 to 2014/15, slightly increasing from 2014/15 to 2015/16, and finally roughly constant from 2015/16 to 2018/19.",
+      "The most drastic increase took place within the Year 2014/15 and 2015/16.",
+      "Maximum Number of schools, about 3.13 was reported at Year 2010/11",
+      "The lowest Number of schools, of value 2.97 was reported at Year 2014/15"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of schools. In total the number of data points it has is 9.",
+      " Overall Number of schools has decreased over the Year.",
+      "Number of schools is roughly constant from 2010/11 to 2012/13, slightly decreasing from 2012/13 to 2014/15, slightly increasing from 2014/15 to 2015/16, and finally roughly constant from 2015/16 to 2018/19.",
+      "The steepest increase occurs in between the Year 2014/15 and 2015/16.",
+      "Maximum Number of schools, about 3.13 was reported at Year 2010/11",
+      "The lowest Number of schools, of value 2.97 was reported at Year 2014/15",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Number of schools": 3.04
+      },
+      {
+         "Year": "2017/18",
+         "Number of schools": 3.04
+      },
+      {
+         "Year": "2016/17",
+         "Number of schools": 3.02
+      },
+      {
+         "Year": "2015/16",
+         "Number of schools": 3.07
+      },
+      {
+         "Year": "2014/15",
+         "Number of schools": 2.97
+      },
+      {
+         "Year": "2013/14",
+         "Number of schools": 3.03
+      },
+      {
+         "Year": "2012/13",
+         "Number of schools": 3.09
+      },
+      {
+         "Year": "2011/12",
+         "Number of schools": 3.1
+      },
+      {
+         "Year": "2010/11",
+         "Number of schools": 3.13
+      }
+   ]
+}

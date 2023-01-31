@@ -1,0 +1,210 @@
+{
+   "title": "Daily active users of Snapchat 2014 - 2019 , by region",
+   "labels": [
+      "Quarter",
+      "North America",
+      "Europe",
+      "Rest of World"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Number of active users in millions on the Y-axis for 24 different Quarters for 3 groups North America, Europe, and Rest of World that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for Rest of World and Europe. In both cases, the Number of active users in millions have lowered. ",
+      " Quarter Q4 '19 had the maximum Number of active users in millions among all 3 groups, and it was for North America. The minimum Number of active users in millions was observed in Quarter Q1 '14 for Rest of World. ",
+      " There is a gap of 58.0 between the highest and lowest Number of active users in millions found for Rest of World in Quarter Q4 '19 and Q1 '14. "
+   ],
+   "xAxis": "Quarter",
+   "yAxis": "Number of active users in millions",
+   "min_summary": [
+      "This grouped bar chart shows Number of active users in millions on the Y-axis for 24 different Quarters for 3 groups North America, Europe, and Rest of World that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for Rest of World and Europe. In both cases, the Number of active users in millions have lowered. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of active users in millions on the Y-axis for 24 different Quarters for 3 groups North America, Europe, and Rest of World that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for Rest of World and Europe. In both cases, the Number of active users in millions have lowered. ",
+      " Quarter Q4 '19 had the maximum Number of active users in millions among all 3 groups, and it was for North America. The minimum Number of active users in millions was observed in Quarter Q1 '14 for Rest of World. ",
+      " There is a gap of 58.0 between the highest and lowest Number of active users in millions found for Rest of World in Quarter Q4 '19 and Q1 '14. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Number of active users in millions on the Y-axis for 24 different Quarters for 3 groups North America, Europe, and Rest of World that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for Rest of World and Europe. In both cases, the Number of active users in millions have lowered. ",
+      " Quarter Q4 '19 had the maximum Number of active users in millions among all 3 groups, and it was for North America. The minimum Number of active users in millions was observed in Quarter Q1 '14 for Rest of World. ",
+      " For Quarter Q4 '19, Rest of World had the maximum Number of active users in millions and it saw the lowest in Quarter Q1 '14 out of all 24 Quarters. ",
+      "Quarter Q4 '19 and Q1 '14 had the biggest gap of 58.0 between the highest and lowest Number of active users in millions found for Rest of World. ",
+      " Among the groups, North America had the biggest difference in Number of active users in millions. Where the maximum Number of active users in millions was 3.31 times larger than the minimum Number of active users in millions. ",
+      " In case of Quarter Q4 '19, North America had the highest Number of active users in millions 86.0 among the 3 groups and in Q1 '14, Rest of World had the lowest Number of active users in millions 6.0. The second highest Number of active users in millions 67.0 was observed for North America in Quarter Q4 '19. ",
+      "On average, the Quarter Q4 '19 had the highest Number of active users in millions for all 3 groups North America, Europe, and Rest of World. Whereas Q1 '14 had the lowest average Number of active users in millions. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "North America": "86",
+         "Europe": "67",
+         "Rest of World": "64"
+      },
+      {
+         "Quarter": "Q3 '19",
+         "North America": "84",
+         "Europe": "65",
+         "Rest of World": "61"
+      },
+      {
+         "Quarter": "Q2 '19",
+         "North America": "83",
+         "Europe": "64",
+         "Rest of World": "56"
+      },
+      {
+         "Quarter": "Q1 '19",
+         "North America": "80",
+         "Europe": "61",
+         "Rest of World": "49"
+      },
+      {
+         "Quarter": "Q4 '18",
+         "North America": "79",
+         "Europe": "60",
+         "Rest of World": "47"
+      },
+      {
+         "Quarter": "Q3 '18",
+         "North America": "79",
+         "Europe": "59",
+         "Rest of World": "47"
+      },
+      {
+         "Quarter": "Q2 '18",
+         "North America": "80",
+         "Europe": "61",
+         "Rest of World": "47"
+      },
+      {
+         "Quarter": "Q1 '18",
+         "North America": "81",
+         "Europe": "62",
+         "Rest of World": "48"
+      },
+      {
+         "Quarter": "Q4 '17",
+         "North America": "80",
+         "Europe": "60",
+         "Rest of World": "47"
+      },
+      {
+         "Quarter": "Q3 '17",
+         "North America": "77",
+         "Europe": "57",
+         "Rest of World": "44"
+      },
+      {
+         "Quarter": "Q2 '17",
+         "North America": "75",
+         "Europe": "57",
+         "Rest of World": "42"
+      },
+      {
+         "Quarter": "Q1 '17",
+         "North America": "71",
+         "Europe": "55",
+         "Rest of World": "40"
+      },
+      {
+         "Quarter": "Q4 '16",
+         "North America": "68",
+         "Europe": "52",
+         "Rest of World": "39"
+      },
+      {
+         "Quarter": "Q3 '16",
+         "North America": "65",
+         "Europe": "49",
+         "Rest of World": "39"
+      },
+      {
+         "Quarter": "Q2 '16",
+         "North America": "61",
+         "Europe": "46",
+         "Rest of World": "36"
+      },
+      {
+         "Quarter": "Q1 '16",
+         "North America": "54",
+         "Europe": "39",
+         "Rest of World": "29"
+      },
+      {
+         "Quarter": "Q4 '15",
+         "North America": "48",
+         "Europe": "34",
+         "Rest of World": "24"
+      },
+      {
+         "Quarter": "Q3 '15",
+         "North America": "44",
+         "Europe": "30",
+         "Rest of World": "20"
+      },
+      {
+         "Quarter": "Q2 '15",
+         "North America": "40",
+         "Europe": "29",
+         "Rest of World": "18"
+      },
+      {
+         "Quarter": "Q1 '15",
+         "North America": "38",
+         "Europe": "27",
+         "Rest of World": "16"
+      },
+      {
+         "Quarter": "Q4 '14",
+         "North America": "35",
+         "Europe": "23",
+         "Rest of World": "13"
+      },
+      {
+         "Quarter": "Q3 '14",
+         "North America": "32",
+         "Europe": "20",
+         "Rest of World": "11"
+      },
+      {
+         "Quarter": "Q2 '14",
+         "North America": "30",
+         "Europe": "18",
+         "Rest of World": "9"
+      },
+      {
+         "Quarter": "Q1 '14",
+         "North America": "26",
+         "Europe": "14",
+         "Rest of World": "6"
+      }
+   ]
+}

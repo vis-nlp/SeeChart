@@ -1,0 +1,97 @@
+{
+   "title": "Canadian snowmobile registrations by province 2018",
+   "xAxis": "Province",
+   "yAxis": "Number of registrations",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Province in the x axis and Number of registrations in the y axis. ",
+      "The Number of registrations is highest at Province Quebec and lowest at Province Yukon. ",
+      "The Number of registrations of Province Quebec is 111.76% larger than the minimum value at Yukon. "
+   ],
+   "min_summary": [
+      "This bar chart has 13 columns on the x axis representing Province, and Number of registrations in each Province on the y axis. ",
+      "Province Quebec has the highest Number of registrations and Yukon has the lowest Number of registrations. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Province in the x axis and Number of registrations in the y axis. ",
+      "The Number of registrations is highest at Province Quebec and lowest at Province Yukon. ",
+      "The Number of registrations of Province Quebec is 111.76% larger than the minimum value at Yukon. "
+   ],
+   "max_summary": [
+      "This bar chart has 13 columns on the x axis representing Province, and Number of registrations in each Province on the y axis. ",
+      "The Number of registrations is highest at Province Quebec and lowest at Province Yukon. ",
+      "The second highest Number of registrations is appeared to be the Province . ",
+      "The highest Province Quebec has 199927.0 more Number of registrations than the lowest Province Yukon. ",
+      "Number of registrations at Province Quebec is 201732.0 , second place is  at 201732.0, and thirdly is Alberta at 73000.0.",
+      "The highest value 201732.0 at Quebec is almost 4.1 times larger than the average value 49168.92. ",
+      "The Number of registrations is 639196.0 if we add up values of all Provinces. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Province": "Quebec",
+         "Number of registrations": 201732.0
+      },
+      {
+         "Province": "Ontario",
+         "Number of registrations": 155000.0
+      },
+      {
+         "Province": "Alberta",
+         "Number of registrations": 73000.0
+      },
+      {
+         "Province": "New Foundland",
+         "Number of registrations": 58700.0
+      },
+      {
+         "Province": "British Columbia",
+         "Number of registrations": 44500.0
+      },
+      {
+         "Province": "Manitoba",
+         "Number of registrations": 35354.0
+      },
+      {
+         "Province": "New Brunswick",
+         "Number of registrations": 19550.0
+      },
+      {
+         "Province": "Saskatchewan",
+         "Number of registrations": 16175.0
+      },
+      {
+         "Province": "Nunavut",
+         "Number of registrations": 14200.0
+      },
+      {
+         "Province": "North West Territory",
+         "Number of registrations": 9800.0
+      },
+      {
+         "Province": "Nova Scotia",
+         "Number of registrations": 7200.0
+      },
+      {
+         "Province": "Prince Edward Island",
+         "Number of registrations": 2180.0
+      },
+      {
+         "Province": "Yukon",
+         "Number of registrations": 1805.0
+      }
+   ]
+}

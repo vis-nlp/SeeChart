@@ -1,0 +1,60 @@
+{
+   "title": "Average weekly working hours in Sweden 2019 , by type of employment",
+   "xAxis": "Form of Employment",
+   "yAxis": "Average number of working hours per week",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Form of Employment in the x axis and Average number of working hours per week in the y axis. ",
+      "Form of Employment Self-employed has the highest Average number of working hours per week and Temporary employed has the lowest Average number of working hours per week. ",
+      "The highest Form of Employment Self-employed has 9.9 more Average number of working hours per week than the lowest Form of Employment Temporary employed. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Average number of working hours per week for 4 number of Form of Employments. ",
+      "The Average number of working hours per week is highest at Form of Employment Self-employed and lowest at Form of Employment Temporary employed. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Form of Employment in the x axis and Average number of working hours per week in the y axis. ",
+      "Form of Employment Self-employed has the highest Average number of working hours per week and Temporary employed has the lowest Average number of working hours per week. ",
+      "The highest Form of Employment Self-employed has 9.9 more Average number of working hours per week than the lowest Form of Employment Temporary employed. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Form of Employment in the x axis and Average number of working hours per week in the y axis. ",
+      "Form of Employment Self-employed has the highest Average number of working hours per week and Temporary employed has the lowest Average number of working hours per week. ",
+      "The difference of Average number of working hours per week between the highest and lowest Form of Employment is 9.9. ",
+      "Average number of working hours per week at Form of Employment Self-employed is 35.4 , second place is  at 35.4, and thirdly is Employed total at 30.2.",
+      "The lowest value 25.5 at Temporary employed is almost 1.17 times smaller than the average value 30.38. ",
+      "Summing up the values of all Form of Employments, we get total 121.5. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Form of Employment": "Self-employed",
+         "Average number of working hours per week": 35.4
+      },
+      {
+         "Form of Employment": "Permanently employed",
+         "Average number of working hours per week": 30.4
+      },
+      {
+         "Form of Employment": "Temporary employed",
+         "Average number of working hours per week": 25.5
+      },
+      {
+         "Form of Employment": "Employed total",
+         "Average number of working hours per week": 30.2
+      }
+   ]
+}

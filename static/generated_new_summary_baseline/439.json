@@ -1,0 +1,84 @@
+{
+   "title": "U.S. consumer usage of mobile payments 2017",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Made a mobile payment and lowest at Response Sent money internationally. ",
+      "The highest Response Made a mobile payment has 62.0 more Share of respondents than the lowest Response Sent money internationally. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Made a mobile payment and lowest at Response Sent money internationally. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Made a mobile payment and lowest at Response Sent money internationally. ",
+      "The highest Response Made a mobile payment has 62.0 more Share of respondents than the lowest Response Sent money internationally. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Made a mobile payment has the highest Share of respondents and Sent money internationally has the lowest Share of respondents. ",
+      "The Share of respondents of Response Sent money internationally is 32.0% smaller than the maximum value at Made a mobile payment. ",
+      "The Response Made a mobile payment has the highest Share of respondents, followed by , and Purchase in-app or online. Down to the Response Sent money internationally which is the lowest. ",
+      "The average Share of respondents in all 10 Responses is 24.8. ",
+      "The Share of respondents is 248.0 if we add up values of all Responses. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Made a mobile payment",
+         "Share of respondents": 64.0
+      },
+      {
+         "Response": "Paid a bill",
+         "Share of respondents": 49.0
+      },
+      {
+         "Response": "Purchase in-app or online",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Received loyalty points",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Sent/received money (P2P)",
+         "Share of respondents": 23.0
+      },
+      {
+         "Response": "Paid in-store",
+         "Share of respondents": 19.0
+      },
+      {
+         "Response": "Paid for parking/taxi/transit",
+         "Share of respondents": 12.0
+      },
+      {
+         "Response": "Withdrew money from ATM",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Paid by text message",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Sent money internationally",
+         "Share of respondents": 2.0
+      }
+   ]
+}

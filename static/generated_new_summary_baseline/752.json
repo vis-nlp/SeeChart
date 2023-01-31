@@ -1,0 +1,118 @@
+{
+   "title": "Annual closing prices - Volkswagen shares 2013 to 2018",
+   "labels": [
+      "Year",
+      "Common stock",
+      "Preferred stock"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Common stock, and Preferred stock. The y axis indicates the Share prices in euros and the x axis indicates Year.",
+      "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Share prices in euros in descending order is: 1. Common stock, and lastly, 2. Preferred stock. ",
+      "Throughout the period, Common stock generally had the highest Share prices in euros relative to others with an average of 160.64, and it reached its maximum at 2013 with a value of 196.9.",
+      "Preferred stock mostly had the least Share prices in euros with a mean value of 160.21, which peaked at 2013 with a value of 204.15. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share prices in euros",
+   "min_summary": [
+      "The given chart is of multi-line type with 2 lines namely Common stock, and Preferred stock. The y axis represents Share prices in euros and the x axis represents Year.",
+      "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
+      "Throughout the period, Common stock generally had the highest Share prices in euros relative to others with an average of 160.64, and it reached its maximum at 2013 with a value of 196.9.",
+      "The botommost line, Preferred stock,  has a mean of 160.21, and peaked at 2013. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Common stock, and Preferred stock. The y axis indicates the Share prices in euros and the x axis indicates Year.",
+      "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Share prices in euros in descending order is: 1. Common stock, and lastly, 2. Preferred stock. ",
+      "Throughout the period, Common stock generally had the highest Share prices in euros relative to others with an average of 160.64, and it reached its maximum at 2013 with a value of 196.9.",
+      "Preferred stock mostly had the least Share prices in euros with a mean value of 160.21, which peaked at 2013 with a value of 204.15. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing Common stock, and Preferred stock. The y axis denotes Share prices in euros and the x axis denotes Year.",
+      "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
+      "The lines ordered according to average values of Share prices in euros in descending order is: 1. Common stock, and lastly, 2. Preferred stock. ",
+      "Throughout the period, Common stock generally had the highest Share prices in euros relative to others with an average of 160.64, and it reached its maximum at 2013 with a value of 196.9.",
+      "Preferred stock mostly had the least Share prices in euros with a mean value of 160.21, which peaked at 2013 with a value of 204.15. ",
+      "Preferred stock reported the highest Share prices in euros about 204.15 in Year 2013",
+      "Preferred stock reported the lowest Share prices in euros about 133.35 in Year 2016",
+      "The greatest difference of Share prices in euros between Common stock and Preferred stock occurs at Year 2015 and the smallest difference occurs at 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "0"
+         ],
+         "9": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "10": [
+            "5",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Common stock": "139.1",
+         "Preferred stock": "138.92"
+      },
+      {
+         "Year": "2017",
+         "Common stock": "168.7",
+         "Preferred stock": "166.45"
+      },
+      {
+         "Year": "2016",
+         "Common stock": "136.75",
+         "Preferred stock": "133.35"
+      },
+      {
+         "Year": "2015",
+         "Common stock": "142.3",
+         "Preferred stock": "133.75"
+      },
+      {
+         "Year": "2014",
+         "Common stock": "180.1",
+         "Preferred stock": "184.65"
+      },
+      {
+         "Year": "2013",
+         "Common stock": "196.9",
+         "Preferred stock": "204.15"
+      }
+   ]
+}

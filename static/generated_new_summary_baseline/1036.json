@@ -1,0 +1,153 @@
+{
+   "title": "LINE Corporation : consolidated revenue 2013 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in billion Japanese yen",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Revenue in billion Japanese yen for 27 number of Quarters. ",
+      "Quarter Q4 '19 has the highest Revenue in billion Japanese yen and Q2 '13 has the lowest Revenue in billion Japanese yen. ",
+      "The highest Quarter Q4 '19 has 52.6 more Revenue in billion Japanese yen than the lowest Quarter Q2 '13. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue in billion Japanese yen for 27 number of Quarters. ",
+      "The maximum Revenue in billion Japanese yen 60.8 is found at Quarter Q4 '19 and the minimum is found at Q2 '13 where Revenue in billion Japanese yen is 8.2. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Revenue in billion Japanese yen for 27 number of Quarters. ",
+      "Quarter Q4 '19 has the highest Revenue in billion Japanese yen and Q2 '13 has the lowest Revenue in billion Japanese yen. ",
+      "The highest Quarter Q4 '19 has 52.6 more Revenue in billion Japanese yen than the lowest Quarter Q2 '13. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Quarter in the x axis and Revenue in billion Japanese yen in the y axis. ",
+      "Quarter Q4 '19 has the highest Revenue in billion Japanese yen and Q2 '13 has the lowest Revenue in billion Japanese yen. ",
+      "The Revenue in billion Japanese yen of Quarter Q2 '13 is 7.41% smaller than the maximum value at Q4 '19. ",
+      "The Quarter Q4 '19 has the highest Revenue in billion Japanese yen, followed by , and Q4 '18. Down to the Quarter Q2 '13 which is the lowest. ",
+      "Over the past 27 Quarters, the Revenue in billion Japanese yen has reduced. ",
+      "Quarter Q3 '19, and Q4 '18 have a similar Revenue in billion Japanese yen that is 56.0. ",
+      "The Quarter Q2 '13 tends to be 1.65 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 26,
+         "12": 26
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Revenue in billion Japanese yen": 60.8
+      },
+      {
+         "Quarter": "Q3 '19",
+         "Revenue in billion Japanese yen": 56.0
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Revenue in billion Japanese yen": 55.4
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Revenue in billion Japanese yen": 55.3
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Revenue in billion Japanese yen": 56.0
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Revenue in billion Japanese yen": 51.9
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Revenue in billion Japanese yen": 50.6
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Revenue in billion Japanese yen": 48.7
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Revenue in billion Japanese yen": 47.9
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Revenue in billion Japanese yen": 44.3
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Revenue in billion Japanese yen": 41.6
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Revenue in billion Japanese yen": 40.7
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Revenue in billion Japanese yen": 37.5
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Revenue in billion Japanese yen": 35.9
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Revenue in billion Japanese yen": 33.9
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Revenue in billion Japanese yen": 33.5
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Revenue in billion Japanese yen": 32.3
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Revenue in billion Japanese yen": 31.9
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Revenue in billion Japanese yen": 28.1
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Revenue in billion Japanese yen": 28.1
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Revenue in billion Japanese yen": 25.8
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Revenue in billion Japanese yen": 23.8
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Revenue in billion Japanese yen": 20.2
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Revenue in billion Japanese yen": 16.6
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Revenue in billion Japanese yen": 15.9
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Revenue in billion Japanese yen": 12.6
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Revenue in billion Japanese yen": 8.2
+      }
+   ]
+}

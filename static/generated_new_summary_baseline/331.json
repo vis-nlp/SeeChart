@@ -1,0 +1,93 @@
+{
+   "title": "Mobile/fixed market share of Vodafone in its main markets 2018",
+   "labels": [
+      "Country",
+      "Mobile market",
+      "Fixed market"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 6 different Countrys for 2 groups Mobile market, and Fixed market that are presented on the X-axis. ",
+      " Country South Africa/Africa (Vodacom Group) had the maximum Market share among all 2 groups, and it was for Mobile market. The minimum Market share was observed in Country South Africa/Africa (Vodacom Group) for Fixed market. ",
+      " There is a gap of 214.0 between the highest and lowest Market share found for Fixed market in Country Germany and South Africa/Africa (Vodacom Group). ",
+      "Averaging all 2 groups Mobile market, and Fixed market, the Country Germany is the maximum Market share and United Kingdom is the minimum Market share. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Market share",
+   "min_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 6 different Countrys for 2 groups Mobile market, and Fixed market that are presented on the X-axis. ",
+      " For Country South Africa/Africa (Vodacom Group), Mobile market had the highest Market share 463.0 among the 2 groups and in South Africa/Africa (Vodacom Group), Fixed market had the lowest Market share 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 6 different Countrys for 2 groups Mobile market, and Fixed market that are presented on the X-axis. ",
+      " Country South Africa/Africa (Vodacom Group) had the maximum Market share among all 2 groups, and it was for Mobile market. The minimum Market share was observed in Country South Africa/Africa (Vodacom Group) for Fixed market. ",
+      " There is a gap of 214.0 between the highest and lowest Market share found for Fixed market in Country Germany and South Africa/Africa (Vodacom Group). ",
+      "Averaging all 2 groups Mobile market, and Fixed market, the Country Germany is the maximum Market share and United Kingdom is the minimum Market share. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 6 different Countrys for 2 groups Mobile market, and Fixed market that are presented on the X-axis. ",
+      " Out of all 2 groups, Mobile market had the highest Market share for Country South Africa/Africa (Vodacom Group) and Fixed market had the lowest Market share for Country South Africa/Africa (Vodacom Group). ",
+      " For Country Germany, Fixed market had the highest Market share among all 6 Countrys and it has the lowest Market share in Country South Africa/Africa (Vodacom Group). ",
+      " There is a gap of 214.0 between the highest and lowest Market share found for Fixed market in Country Germany and South Africa/Africa (Vodacom Group). ",
+      " Among the groups, Mobile market had the biggest difference in Market share. Where the maximum Market share was 2.66 times larger than the minimum Market share. ",
+      "Averaging all 2 groups Mobile market, and Fixed market, the Country Germany is the maximum Market share and United Kingdom is the minimum Market share. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "South Africa/Africa (Vodacom Group)",
+         "Mobile market": "46.3",
+         "Fixed market": "0"
+      },
+      {
+         "Country": "Germany",
+         "Mobile market": "33.6",
+         "Fixed market": "21.4"
+      },
+      {
+         "Country": "India",
+         "Mobile market": "31.5",
+         "Fixed market": "0"
+      },
+      {
+         "Country": "Italy",
+         "Mobile market": "31.1",
+         "Fixed market": "9.3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Mobile market": "21.3",
+         "Fixed market": "6.8"
+      },
+      {
+         "Country": "Spain",
+         "Mobile market": "17.4",
+         "Fixed market": "17.4"
+      }
+   ]
+}

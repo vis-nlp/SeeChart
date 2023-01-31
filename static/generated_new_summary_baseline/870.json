@@ -1,0 +1,64 @@
+{
+   "title": "Number of vehicles imported into the United States by country 2012",
+   "xAxis": "Country",
+   "yAxis": "Imports in units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Imports in units in the y axis. ",
+      "The Imports in units is highest at Country Japan and lowest at Country Germany. ",
+      "There is a difference of 1645177.0 between the maximum Country Japan and minimum Country Germany. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Imports in units in the y axis. ",
+      "The Imports in units is highest at Country Japan and lowest at Country Germany. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Imports in units in the y axis. ",
+      "The Imports in units is highest at Country Japan and lowest at Country Germany. ",
+      "There is a difference of 1645177.0 between the maximum Country Japan and minimum Country Germany. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Imports in units in each Country on the y axis. ",
+      "The Imports in units is appeared to be the highest at Country Japan and lowest at Country Germany. ",
+      "The lowest value at Country Germany is 3.07x times less than the highest value at Japan. ",
+      "The Country Japan has the highest Imports in units, followed by , and Mexico. Down to the Country Germany which is the lowest. ",
+      "The Country Japan tends to be 1.56 percent higher than average. ",
+      "The Imports in units is 7816021.0 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Japan",
+         "Imports in units": 2441298.0
+      },
+      {
+         "Country": "Canada",
+         "Imports in units": 2105848.0
+      },
+      {
+         "Country": "Mexico",
+         "Imports in units": 1440116.0
+      },
+      {
+         "Country": "Korea",
+         "Imports in units": 1032638.0
+      },
+      {
+         "Country": "Germany",
+         "Imports in units": 796121.0
+      }
+   ]
+}

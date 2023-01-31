@@ -1,0 +1,128 @@
+{
+   "title": "Travel and tourism 's direct contribution to employment worldwide 2016 - 2017 , by region",
+   "labels": [
+      "Region",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Employment in millions on the Y-axis for 13 different Regions for 2 groups 2016, and 2017 that are presented on the X-axis. ",
+      " For Region North East Asia, 2017 had the highest Employment in millions 3049.0 among the 2 groups and in Central Asia, 2017 had the lowest Employment in millions 38.0. ",
+      "Region South Asia and Central Asia had the biggest gap of 2809.0 between the highest and lowest Employment in millions found for 2016. ",
+      "Averaging all 2 groups 2016, and 2017, the Region South Asia is the maximum Employment in millions and Central Asia is the minimum Employment in millions. "
+   ],
+   "xAxis": "Region",
+   "yAxis": "Employment in millions",
+   "min_summary": [
+      "This grouped bar chart represents 13 different Regions on X-axis for 2 groups 2016, and 2017. On the Y-axis it shows their corresponding Employment in millions. ",
+      " For Region North East Asia, 2017 had the highest Employment in millions 3049.0 among the 2 groups and in Central Asia, 2017 had the lowest Employment in millions 38.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Employment in millions on the Y-axis for 13 different Regions for 2 groups 2016, and 2017 that are presented on the X-axis. ",
+      " For Region North East Asia, 2017 had the highest Employment in millions 3049.0 among the 2 groups and in Central Asia, 2017 had the lowest Employment in millions 38.0. ",
+      "Region South Asia and Central Asia had the biggest gap of 2809.0 between the highest and lowest Employment in millions found for 2016. ",
+      "Averaging all 2 groups 2016, and 2017, the Region South Asia is the maximum Employment in millions and Central Asia is the minimum Employment in millions. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 13 different Regions on X-axis for 2 groups 2016, and 2017. On the Y-axis it shows their corresponding Employment in millions. ",
+      " Region North East Asia had the maximum Employment in millions among all 2 groups, and it was for 2017. The minimum Employment in millions was observed in Region Central Asia for 2017. ",
+      " For Region South Asia, 2016 had the maximum Employment in millions and it saw the lowest in Region Central Asia out of all 13 Regions. ",
+      "Region South Asia and Central Asia had the biggest gap of 2809.0 between the highest and lowest Employment in millions found for 2016. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Employment in millions was found in case of 2016. ",
+      "Averaging all 2 groups 2016, and 2017, the Region South Asia is the maximum Employment in millions and Central Asia is the minimum Employment in millions. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "North East Asia",
+         "2016": "26.02",
+         "2017": "30.49"
+      },
+      {
+         "Region": "South Asia",
+         "2016": "28.66",
+         "2017": "29.76"
+      },
+      {
+         "Region": "South East Asia",
+         "2016": "11.16",
+         "2017": "14.46"
+      },
+      {
+         "Region": "European Union",
+         "2016": "11.41",
+         "2017": "11.89"
+      },
+      {
+         "Region": "North America",
+         "2016": "10.09",
+         "2017": "9.94"
+      },
+      {
+         "Region": "Sub Saharan Africa",
+         "2016": "6.17",
+         "2017": "6.79"
+      },
+      {
+         "Region": "Latin America",
+         "2016": "5.93",
+         "2017": "5.71"
+      },
+      {
+         "Region": "Other Europe",
+         "2016": "2.55",
+         "2017": "2.54"
+      },
+      {
+         "Region": "North Africa",
+         "2016": "2.19",
+         "2017": "2.51"
+      },
+      {
+         "Region": "Middle East",
+         "2016": "2.36",
+         "2017": "2.34"
+      },
+      {
+         "Region": "Oceania",
+         "2016": "0.92",
+         "2017": "0.89"
+      },
+      {
+         "Region": "Caribbean",
+         "2016": "0.73",
+         "2017": "0.76"
+      },
+      {
+         "Region": "Central Asia",
+         "2016": "0.57",
+         "2017": "0.38"
+      }
+   ]
+}

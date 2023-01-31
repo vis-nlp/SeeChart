@@ -1,0 +1,49 @@
+{
+   "title": "Churn rate of Spotify worldwide 2017 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Churn rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Churn rate. In total the number of data points it has is 2.",
+      " In general Churn rate has rose over the Year.",
+      "Churn rate is slightly increasing from 2017 to 2018.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Churn rate, of value 19.8 was reached at Year 2018",
+      "Minimum Churn rate about 18.1 was reached at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Churn rate. In total the number of data points it has is 2.",
+      " Overall Churn rate has increased over the Year.",
+      "Churn rate is slightly increasing from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Churn rate. In total the number of data points it has is 2.",
+      " In general Churn rate has rose over the Year.",
+      "Churn rate is slightly increasing from 2017 to 2018.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Churn rate, of value 19.8 was reached at Year 2018",
+      "Minimum Churn rate about 18.1 was reached at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Churn rate. In total the number of data points it has is 2.",
+      " Overall Churn rate has increased over the Year.",
+      "Churn rate is slightly increasing from 2017 to 2018.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Churn rate, of value 19.8 was reached at Year 2018",
+      "Minimum Churn rate about 18.1 was reached at Year 2017",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Churn rate": 19.8
+      },
+      {
+         "Year": "2017",
+         "Churn rate": 18.1
+      }
+   ]
+}

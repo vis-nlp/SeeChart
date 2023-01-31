@@ -1,0 +1,106 @@
+{
+   "title": "Average U.S. brand response rate on social media 2017 , by vertical",
+   "xAxis": "Month",
+   "yAxis": "Average response rate",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Average response rate for 15 number of Months. ",
+      "Month Utilities has the highest Average response rate and Media/Entertainment has the lowest Average response rate. ",
+      "The Average response rate of Month Utilities is 3.0% larger than the minimum value at Media/Entertainment. "
+   ],
+   "min_summary": [
+      "This bar chart has 15 columns on the x axis representing Month, and Average response rate in each Month on the y axis. ",
+      "The Average response rate is appeared to be the highest at Month Utilities and lowest at Month Media/Entertainment. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Average response rate for 15 number of Months. ",
+      "Month Utilities has the highest Average response rate and Media/Entertainment has the lowest Average response rate. ",
+      "The Average response rate of Month Utilities is 3.0% larger than the minimum value at Media/Entertainment. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Average response rate for 15 number of Months. ",
+      "The Average response rate is appeared to be the highest at Month Utilities and lowest at Month Media/Entertainment. ",
+      "The highest Month Utilities has 12.0 more Average response rate than the lowest Month Media/Entertainment. ",
+      "The Month Utilities has the highest Average response rate, followed by , and Consumer Goods. Down to the Month Media/Entertainment which is the lowest. ",
+      "Over the past 15 Months, the Average response rate has declined. ",
+      "Similar Average response rate is found in Month Internet/Technology, Marketing/Advertising, and Automotive. ",
+      "The lowest value 6.0 at Media/Entertainment is almost 1.67 times smaller than the average value 10.8. ",
+      "Summing up the values of all Months, we get total 162.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Utilities",
+         "Average response rate": 18.0
+      },
+      {
+         "Month": "Retail",
+         "Average response rate": 16.0
+      },
+      {
+         "Month": "Consumer Goods",
+         "Average response rate": 14.0
+      },
+      {
+         "Month": "Banking/Finance",
+         "Average response rate": 13.0
+      },
+      {
+         "Month": "Travel/Hospitality",
+         "Average response rate": 12.0
+      },
+      {
+         "Month": "Internet/Technology",
+         "Average response rate": 11.0
+      },
+      {
+         "Month": "Marketing/Advertising",
+         "Average response rate": 11.0
+      },
+      {
+         "Month": "Automotive",
+         "Average response rate": 11.0
+      },
+      {
+         "Month": "Real Estate",
+         "Average response rate": 10.0
+      },
+      {
+         "Month": "Healthcare",
+         "Average response rate": 9.0
+      },
+      {
+         "Month": "Professional Services",
+         "Average response rate": 9.0
+      },
+      {
+         "Month": "Government",
+         "Average response rate": 8.0
+      },
+      {
+         "Month": "Education",
+         "Average response rate": 7.0
+      },
+      {
+         "Month": "Nonprofit",
+         "Average response rate": 7.0
+      },
+      {
+         "Month": "Media/Entertainment",
+         "Average response rate": 6.0
+      }
+   ]
+}

@@ -1,0 +1,113 @@
+{
+   "title": "Vending machines : Market share of product categories in the U.S. 2010",
+   "labels": [
+      "Food Type",
+      "2009",
+      "2010"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 10 different Food Types for 2 groups 2009, and 2010 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2010 had the highest Market share for Food Type Packaged cold beverages and 2009 had the lowest Market share for Food Type Bulk vending. ",
+      " The maximum Market share for 2010 that was found in Food Type Packaged cold beverages was 561.0 times larger than the minimum Market share observed in Food Type Bulk vending. ",
+      "On average, the Food Type Packaged cold beverages had the highest Market share for all 2 groups 2009, and 2010. Whereas Cigarettes & Cigars had the lowest average Market share. "
+   ],
+   "xAxis": "Food Type",
+   "yAxis": "Market share",
+   "min_summary": [
+      "This grouped bar chart represents 10 different Food Types on X-axis for 2 groups 2009, and 2010. On the Y-axis it shows their corresponding Market share. ",
+      " For Food Type Packaged cold beverages, 2010 had the highest Market share 561.0 among the 2 groups and in Bulk vending, 2009 had the lowest Market share 1.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 10 different Food Types for 2 groups 2009, and 2010 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2010 had the highest Market share for Food Type Packaged cold beverages and 2009 had the lowest Market share for Food Type Bulk vending. ",
+      " The maximum Market share for 2010 that was found in Food Type Packaged cold beverages was 561.0 times larger than the minimum Market share observed in Food Type Bulk vending. ",
+      "On average, the Food Type Packaged cold beverages had the highest Market share for all 2 groups 2009, and 2010. Whereas Cigarettes & Cigars had the lowest average Market share. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 10 different Food Types for 2 groups 2009, and 2010 that are presented on the X-axis. ",
+      " Food Type Packaged cold beverages had the maximum Market share among all 2 groups, and it was for 2010. The minimum Market share was observed in Food Type Bulk vending for 2009. ",
+      " For Food Type Packaged cold beverages, 2010 had the maximum Market share and it saw the lowest in Food Type Bulk vending out of all 10 Food Types. ",
+      " The maximum Market share for 2010 that was found in Food Type Packaged cold beverages was 561.0 times larger than the minimum Market share observed in Food Type Bulk vending. ",
+      " Among the groups, 2009 had the biggest difference in Market share. Where the maximum Market share was 542.0 times larger than the minimum Market share. ",
+      "On average, the Food Type Packaged cold beverages had the highest Market share for all 2 groups 2009, and 2010. Whereas Cigarettes & Cigars had the lowest average Market share. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Food Type": "Packaged cold beverages",
+         "2009": "54.2",
+         "2010": "56.1"
+      },
+      {
+         "Food Type": "Snacks confections pastry",
+         "2009": "22.5",
+         "2010": "23"
+      },
+      {
+         "Food Type": "Hot drinks",
+         "2009": "8.4",
+         "2010": "6.8"
+      },
+      {
+         "Food Type": "Vended food",
+         "2009": "6.7",
+         "2010": "6.5"
+      },
+      {
+         "Food Type": "Ice cream",
+         "2009": "2",
+         "2010": "2.1"
+      },
+      {
+         "Food Type": "Milk",
+         "2009": "1.9",
+         "2010": "1.8"
+      },
+      {
+         "Food Type": "Bulk vending",
+         "2009": "1",
+         "2010": "1"
+      },
+      {
+         "Food Type": "Cold drinks (cup)",
+         "2009": "1",
+         "2010": "0.6"
+      },
+      {
+         "Food Type": "Cigarettes & Cigars",
+         "2009": "0.7",
+         "2010": "0.6"
+      },
+      {
+         "Food Type": "All other",
+         "2009": "1.6",
+         "2010": "1.5"
+      }
+   ]
+}

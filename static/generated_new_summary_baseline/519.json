@@ -1,0 +1,93 @@
+{
+   "title": "Average wine consumption per U.S. resident 2005 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Consumption per resident in gallons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption per resident in gallons. In total the number of data points it has is 14.",
+      " In general Consumption per resident in gallons has rose over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Consumption per resident in gallons, about 2.95 was reported at Year 2018",
+      "The lowest Consumption per resident in gallons, of value 2.32 was reported at Year 2005"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption per resident in gallons. In total the number of data points it has is 14.",
+      " In general Consumption per resident in gallons has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption per resident in gallons. In total the number of data points it has is 14.",
+      " In general Consumption per resident in gallons has rose over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Consumption per resident in gallons, about 2.95 was reported at Year 2018",
+      "The lowest Consumption per resident in gallons, of value 2.32 was reported at Year 2005"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption per resident in gallons. In total the number of data points it has is 14.",
+      " In general Consumption per resident in gallons has rose over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Consumption per resident in gallons, about 2.95 was reported at Year 2018",
+      "The lowest Consumption per resident in gallons, of value 2.32 was reported at Year 2005",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Consumption per resident in gallons": 2.95
+      },
+      {
+         "Year": "2017",
+         "Consumption per resident in gallons": 2.94
+      },
+      {
+         "Year": "2016",
+         "Consumption per resident in gallons": 2.93
+      },
+      {
+         "Year": "2015",
+         "Consumption per resident in gallons": 2.86
+      },
+      {
+         "Year": "2014",
+         "Consumption per resident in gallons": 2.82
+      },
+      {
+         "Year": "2013",
+         "Consumption per resident in gallons": 2.83
+      },
+      {
+         "Year": "2012",
+         "Consumption per resident in gallons": 2.78
+      },
+      {
+         "Year": "2011",
+         "Consumption per resident in gallons": 2.72
+      },
+      {
+         "Year": "2010",
+         "Consumption per resident in gallons": 2.58
+      },
+      {
+         "Year": "2009",
+         "Consumption per resident in gallons": 2.54
+      },
+      {
+         "Year": "2008",
+         "Consumption per resident in gallons": 2.45
+      },
+      {
+         "Year": "2007",
+         "Consumption per resident in gallons": 2.47
+      },
+      {
+         "Year": "2006",
+         "Consumption per resident in gallons": 2.36
+      },
+      {
+         "Year": "2005",
+         "Consumption per resident in gallons": 2.32
+      }
+   ]
+}

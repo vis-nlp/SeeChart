@@ -1,0 +1,85 @@
+{
+   "title": "Most popular Belgium-based influencers on Instagram 2019",
+   "xAxis": "Instagram User",
+   "yAxis": "Number of followers",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of followers for 10 number of Instagram Users. ",
+      "The Number of followers is highest at Instagram User angele vl (Ang\u00e8le stage name of Ang\u00e8le Van Laeken) and lowest at Instagram User matthiasgeerts (Matthias Geerts). ",
+      "The difference of Number of followers between the highest and lowest Instagram User is 2179922.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of followers for 10 number of Instagram Users. ",
+      "The Number of followers is highest at Instagram User angele vl (Ang\u00e8le stage name of Ang\u00e8le Van Laeken) and lowest at Instagram User matthiasgeerts (Matthias Geerts). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of followers for 10 number of Instagram Users. ",
+      "The Number of followers is highest at Instagram User angele vl (Ang\u00e8le stage name of Ang\u00e8le Van Laeken) and lowest at Instagram User matthiasgeerts (Matthias Geerts). ",
+      "The difference of Number of followers between the highest and lowest Instagram User is 2179922.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Instagram User in the x axis and Number of followers in the y axis. ",
+      "Instagram User angele vl (Ang\u00e8le stage name of Ang\u00e8le Van Laeken) has the highest Number of followers and matthiasgeerts (Matthias Geerts) has the lowest Number of followers. ",
+      "Instagram User  has the second highest value for Number of followers. ",
+      "There is a difference of 2179922.0 between the maximum Instagram User angele vl (Ang\u00e8le stage name of Ang\u00e8le Van Laeken) and minimum Instagram User matthiasgeerts (Matthias Geerts). ",
+      "Instagram User angele vl (Ang\u00e8le stage name of Ang\u00e8le Van Laeken) is higher than any other Instagram Users with value 2488193.0, followed by , and driesmertens  (Dries Mertens). Down to Instagram User matthiasgeerts (Matthias Geerts) with the lowest value 308271.0. ",
+      "The highest value 2488193.0 at angele vl (Ang\u00e8le stage name of Ang\u00e8le Van Laeken) is almost 2.15 times larger than the average value 1159564.5. ",
+      "The Number of followers is 11595645.0 if we add up values of all Instagram Users. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Instagram User": "angele vl (Ang\u00e8le stage name of Ang\u00e8le Van Laeken)",
+         "Number of followers": 2488193.0
+      },
+      {
+         "Instagram User": "jimmylabeeu  (Jimmy Labeeu)",
+         "Number of followers": 1885413.0
+      },
+      {
+         "Instagram User": "driesmertens  (Dries Mertens)",
+         "Number of followers": 1547373.0
+      },
+      {
+         "Instagram User": "elvis.romeo (Rom\u00e9o Elvis)",
+         "Number of followers": 1442010.0
+      },
+      {
+         "Instagram User": "amelie lens (Amelie Lens)",
+         "Number of followers": 1139768.0
+      },
+      {
+         "Instagram User": "gaellegd (Gaelle Garcia Diaz)",
+         "Number of followers": 1135845.0
+      },
+      {
+         "Instagram User": "aurelievandaelen  (Aur\u00e9lie Van Daelen)",
+         "Number of followers": 720274.0
+      },
+      {
+         "Instagram User": "pommelinetilliere (Pommeline Tilli\u00e8re)",
+         "Number of followers": 519828.0
+      },
+      {
+         "Instagram User": "chloekitembo (Chloe Kitembo)",
+         "Number of followers": 408670.0
+      },
+      {
+         "Instagram User": "matthiasgeerts (Matthias Geerts)",
+         "Number of followers": 308271.0
+      }
+   ]
+}

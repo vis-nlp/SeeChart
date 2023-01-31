@@ -1,0 +1,77 @@
+{
+   "title": "Population of Saba ( Caribbean Netherlands ) 2011 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of people",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of people. In total the number of data points it has is 9.",
+      " In general Number of people has rose over the Year.",
+      "Number of people is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and finally slightly decreasing from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2018 and 2019.",
+      "The highest Number of people, of value 2155.0 was reached at Year 2018",
+      "Minimum Number of people about 1797.0 was reached at Year 2011"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of people, containing a total of 9 data points.",
+      " Overall Number of people has increased over the Year.",
+      "Number of people is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and finally slightly decreasing from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of people. In total the number of data points it has is 9.",
+      " In general Number of people has rose over the Year.",
+      "Number of people is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and finally slightly decreasing from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2018 and 2019.",
+      "The highest Number of people, of value 2155.0 was reached at Year 2018",
+      "Minimum Number of people about 1797.0 was reached at Year 2011"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of people. In total the number of data points it has is 9.",
+      " In general Number of people has rose over the Year.",
+      "Number of people is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and finally slightly decreasing from 2017 to 2019.",
+      "The most drastic decrease took place within the Year 2018 and 2019.",
+      "The highest Number of people, of value 2155.0 was reached at Year 2018",
+      "Minimum Number of people about 1797.0 was reached at Year 2011",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of people": 1915.0
+      },
+      {
+         "Year": "2018",
+         "Number of people": 2155.0
+      },
+      {
+         "Year": "2017",
+         "Number of people": 2010.0
+      },
+      {
+         "Year": "2016",
+         "Number of people": 1947.0
+      },
+      {
+         "Year": "2015",
+         "Number of people": 1811.0
+      },
+      {
+         "Year": "2014",
+         "Number of people": 1846.0
+      },
+      {
+         "Year": "2013",
+         "Number of people": 1991.0
+      },
+      {
+         "Year": "2012",
+         "Number of people": 1971.0
+      },
+      {
+         "Year": "2011",
+         "Number of people": 1797.0
+      }
+   ]
+}

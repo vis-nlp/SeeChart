@@ -1,0 +1,81 @@
+{
+   "title": "Ice cream : manufacturing sales volume in the United Kingdom ( UK ) 2009 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Sales volume in thousand liters",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales volume in thousand liters, containing a total of 10 data points.",
+      " Overall Sales volume in thousand liters has decreased over the Year.",
+      "Sales volume in thousand liters is roughly constant from 2009 to 2013, slightly decreasing from 2013 to 2015, and finally slightly increasing from 2015 to 2018.",
+      "The most drastic decrease took place within the Year 2013 and 2014.",
+      "The highest Sales volume in thousand liters, of value 442961.0 was reached at Year 2010",
+      "The lowest Sales volume in thousand liters, of value 258484.0 was reported at Year 2016"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales volume in thousand liters. In total the number of data points it has is 10.",
+      " In general Sales volume in thousand liters has fallen over the Year.",
+      "Sales volume in thousand liters is roughly constant from 2009 to 2013, slightly decreasing from 2013 to 2015, and finally slightly increasing from 2015 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales volume in thousand liters, containing a total of 10 data points.",
+      " Overall Sales volume in thousand liters has decreased over the Year.",
+      "Sales volume in thousand liters is roughly constant from 2009 to 2013, slightly decreasing from 2013 to 2015, and finally slightly increasing from 2015 to 2018.",
+      "The most drastic decrease took place within the Year 2013 and 2014.",
+      "The highest Sales volume in thousand liters, of value 442961.0 was reached at Year 2010",
+      "The lowest Sales volume in thousand liters, of value 258484.0 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales volume in thousand liters. In total the number of data points it has is 10.",
+      " In general Sales volume in thousand liters has fallen over the Year.",
+      "Sales volume in thousand liters is roughly constant from 2009 to 2013, slightly decreasing from 2013 to 2015, and finally slightly increasing from 2015 to 2018.",
+      "The steepest decrease occurs in between the Year 2013 and 2014.",
+      "The highest Sales volume in thousand liters, of value 442961.0 was reached at Year 2010",
+      "The lowest Sales volume in thousand liters, of value 258484.0 was reported at Year 2016",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Sales volume in thousand liters": 328055.0
+      },
+      {
+         "Year": "2017",
+         "Sales volume in thousand liters": 288292.0
+      },
+      {
+         "Year": "2016",
+         "Sales volume in thousand liters": 258484.0
+      },
+      {
+         "Year": "2015",
+         "Sales volume in thousand liters": 279630.0
+      },
+      {
+         "Year": "2014",
+         "Sales volume in thousand liters": 304972.0
+      },
+      {
+         "Year": "2013",
+         "Sales volume in thousand liters": 439485.0
+      },
+      {
+         "Year": "2012",
+         "Sales volume in thousand liters": 423158.0
+      },
+      {
+         "Year": "2011",
+         "Sales volume in thousand liters": 431035.0
+      },
+      {
+         "Year": "2010",
+         "Sales volume in thousand liters": 442961.0
+      },
+      {
+         "Year": "2009",
+         "Sales volume in thousand liters": 431696.0
+      }
+   ]
+}

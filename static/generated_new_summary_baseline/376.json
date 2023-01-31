@@ -1,0 +1,124 @@
+{
+   "title": "Most visited amusement and theme parks in the Asia-Pacific region 2018",
+   "xAxis": "Theme Park",
+   "yAxis": "Attendance in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Theme Park in the x axis and Attendance in millions in the y axis. ",
+      "The Attendance in millions is highest at Theme Park Tokyo Disneyland Japan and lowest at Theme Park OCT Happy Valley Chengdu China. ",
+      "The highest Theme Park Tokyo Disneyland Japan has 14.81 more Attendance in millions than the lowest Theme Park OCT Happy Valley Chengdu China. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Theme Park, and Attendance in millions in each Theme Park on the y axis. ",
+      "The maximum Attendance in millions 17.91 is found at Theme Park Tokyo Disneyland Japan and the minimum is found at OCT Happy Valley Chengdu China where Attendance in millions is 3.1. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Theme Park in the x axis and Attendance in millions in the y axis. ",
+      "The Attendance in millions is highest at Theme Park Tokyo Disneyland Japan and lowest at Theme Park OCT Happy Valley Chengdu China. ",
+      "The highest Theme Park Tokyo Disneyland Japan has 14.81 more Attendance in millions than the lowest Theme Park OCT Happy Valley Chengdu China. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Attendance in millions for 20 number of Theme Parks. ",
+      "The Attendance in millions is highest at Theme Park Tokyo Disneyland Japan and lowest at Theme Park OCT Happy Valley Chengdu China. ",
+      "Theme Park  has the second highest value for Attendance in millions. ",
+      "There is a difference of 14.81 between the maximum Theme Park Tokyo Disneyland Japan and minimum Theme Park OCT Happy Valley Chengdu China. ",
+      "Attendance in millions at Theme Park Tokyo Disneyland Japan is 17.91 , second place is  at 17.91, and thirdly is Universal Studios Japan at 14.3.",
+      "The highest value 17.91 at Tokyo Disneyland Japan is almost 2.57 times larger than the average value 6.96. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Theme Park": "Tokyo Disneyland Japan",
+         "Attendance in millions": 17.91
+      },
+      {
+         "Theme Park": "Tokyo Disney Sea Japan",
+         "Attendance in millions": 14.65
+      },
+      {
+         "Theme Park": "Universal Studios Japan",
+         "Attendance in millions": 14.3
+      },
+      {
+         "Theme Park": "Shanghai Disneyland China",
+         "Attendance in millions": 11.8
+      },
+      {
+         "Theme Park": "Chimelong Ocean Kingdom",
+         "Attendance in millions": 10.83
+      },
+      {
+         "Theme Park": "Hong Kong Disneyland Hong Kong S.A.R",
+         "Attendance in millions": 6.7
+      },
+      {
+         "Theme Park": "Lotte World South Korea",
+         "Attendance in millions": 5.96
+      },
+      {
+         "Theme Park": "Nagashima Spa Land Japan",
+         "Attendance in millions": 5.92
+      },
+      {
+         "Theme Park": "Everland South Korea",
+         "Attendance in millions": 5.85
+      },
+      {
+         "Theme Park": "Ocean Park Hong Kong S.A.R.",
+         "Attendance in millions": 5.8
+      },
+      {
+         "Theme Park": "Chimelong Paradise China",
+         "Attendance in millions": 4.68
+      },
+      {
+         "Theme Park": "Universal Studios Singapore",
+         "Attendance in millions": 4.4
+      },
+      {
+         "Theme Park": "Changzhou China Dinosaurs Park",
+         "Attendance in millions": 4.11
+      },
+      {
+         "Theme Park": "OCT Window of the World Shenzen",
+         "Attendance in millions": 3.99
+      },
+      {
+         "Theme Park": "OCT Happy Valley Beijing China",
+         "Attendance in millions": 3.98
+      },
+      {
+         "Theme Park": "OCT Happy Valley Shenzhen China",
+         "Attendance in millions": 3.91
+      },
+      {
+         "Theme Park": "Zhengzhou Fantawild Adventure China",
+         "Attendance in millions": 3.8
+      },
+      {
+         "Theme Park": "Ningbo Fantawild Oriental Heritage China",
+         "Attendance in millions": 3.74
+      },
+      {
+         "Theme Park": "OCT East China",
+         "Attendance in millions": 3.68
+      },
+      {
+         "Theme Park": "OCT Happy Valley Chengdu China",
+         "Attendance in millions": 3.1
+      }
+   ]
+}

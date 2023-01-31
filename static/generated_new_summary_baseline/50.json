@@ -1,0 +1,94 @@
+{
+   "title": "Dividend per share of Daimler AG 2006 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Dividend per share in euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Dividend per share in euros, containing a total of 14 data points.",
+      " Overall Dividend per share in euros has decreased over the Year.",
+      "Dividend per share in euros is roughly constant from 2006 to 2009, gradually increasing from 2009 to 2010, and lastly roughly constant from 2010 to 2019.",
+      "Maximum Dividend per share in euros, about 3.65 was reported at Year 2017",
+      "The lowest Dividend per share in euros, of value 0.0 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Dividend per share in euros, containing a total of 14 data points.",
+      " In general Dividend per share in euros has fallen over the Year.",
+      "Dividend per share in euros is roughly constant from 2006 to 2009, gradually increasing from 2009 to 2010, and lastly roughly constant from 2010 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Dividend per share in euros, containing a total of 14 data points.",
+      " Overall Dividend per share in euros has decreased over the Year.",
+      "Dividend per share in euros is roughly constant from 2006 to 2009, gradually increasing from 2009 to 2010, and lastly roughly constant from 2010 to 2019.",
+      "Maximum Dividend per share in euros, about 3.65 was reported at Year 2017",
+      "The lowest Dividend per share in euros, of value 0.0 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Dividend per share in euros, containing a total of 14 data points.",
+      " In general Dividend per share in euros has fallen over the Year.",
+      "Dividend per share in euros is roughly constant from 2006 to 2009, gradually increasing from 2009 to 2010, and lastly roughly constant from 2010 to 2019.",
+      "Maximum Dividend per share in euros, about 3.65 was reported at Year 2017",
+      "The lowest Dividend per share in euros, of value 0.0 was reported at Year 2009",
+      "The line drastically  and lastly, remained stable by 3.6 times from Year 2018 to 2019."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Dividend per share in euros": 0.9
+      },
+      {
+         "Year": "2018",
+         "Dividend per share in euros": 3.25
+      },
+      {
+         "Year": "2017",
+         "Dividend per share in euros": 3.65
+      },
+      {
+         "Year": "2016",
+         "Dividend per share in euros": 3.25
+      },
+      {
+         "Year": "2015",
+         "Dividend per share in euros": 3.25
+      },
+      {
+         "Year": "2014",
+         "Dividend per share in euros": 2.45
+      },
+      {
+         "Year": "2013",
+         "Dividend per share in euros": 2.25
+      },
+      {
+         "Year": "2012",
+         "Dividend per share in euros": 2.2
+      },
+      {
+         "Year": "2011",
+         "Dividend per share in euros": 2.2
+      },
+      {
+         "Year": "2010",
+         "Dividend per share in euros": 1.85
+      },
+      {
+         "Year": "2009",
+         "Dividend per share in euros": 0.0
+      },
+      {
+         "Year": "2008",
+         "Dividend per share in euros": 0.6
+      },
+      {
+         "Year": "2007",
+         "Dividend per share in euros": 2.0
+      },
+      {
+         "Year": "2006",
+         "Dividend per share in euros": 1.5
+      }
+   ]
+}

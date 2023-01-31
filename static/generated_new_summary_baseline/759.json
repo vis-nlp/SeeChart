@@ -1,0 +1,129 @@
+{
+   "title": "Daily time spent watching television in Germany 1997 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Daily viewing time in minutes",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Daily viewing time in minutes. In total the number of data points it has is 23.",
+      " In general Daily viewing time in minutes has rose over the Year.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest Daily viewing time in minutes, of value 225.0 was reached at Year 2011",
+      "The lowest Daily viewing time in minutes, of value 183.0 was reported at Year 1997"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Daily viewing time in minutes. In total the number of data points it has is 23.",
+      " In general Daily viewing time in minutes has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Daily viewing time in minutes. In total the number of data points it has is 23.",
+      " In general Daily viewing time in minutes has rose over the Year.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest Daily viewing time in minutes, of value 225.0 was reached at Year 2011",
+      "The lowest Daily viewing time in minutes, of value 183.0 was reported at Year 1997"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Daily viewing time in minutes, containing a total of 23 data points.",
+      " In general Daily viewing time in minutes has rose over the Year.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Daily viewing time in minutes, of value 225.0 was reached at Year 2011",
+      "The lowest Daily viewing time in minutes, of value 183.0 was reported at Year 1997",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Daily viewing time in minutes": 211.0
+      },
+      {
+         "Year": "2018",
+         "Daily viewing time in minutes": 217.0
+      },
+      {
+         "Year": "2017",
+         "Daily viewing time in minutes": 221.0
+      },
+      {
+         "Year": "2016",
+         "Daily viewing time in minutes": 223.0
+      },
+      {
+         "Year": "2015",
+         "Daily viewing time in minutes": 223.0
+      },
+      {
+         "Year": "2014",
+         "Daily viewing time in minutes": 221.0
+      },
+      {
+         "Year": "2013",
+         "Daily viewing time in minutes": 221.0
+      },
+      {
+         "Year": "2012",
+         "Daily viewing time in minutes": 222.0
+      },
+      {
+         "Year": "2011",
+         "Daily viewing time in minutes": 225.0
+      },
+      {
+         "Year": "2010",
+         "Daily viewing time in minutes": 223.0
+      },
+      {
+         "Year": "2009",
+         "Daily viewing time in minutes": 212.0
+      },
+      {
+         "Year": "2008",
+         "Daily viewing time in minutes": 207.0
+      },
+      {
+         "Year": "2007",
+         "Daily viewing time in minutes": 208.0
+      },
+      {
+         "Year": "2006",
+         "Daily viewing time in minutes": 212.0
+      },
+      {
+         "Year": "2005",
+         "Daily viewing time in minutes": 211.0
+      },
+      {
+         "Year": "2004",
+         "Daily viewing time in minutes": 210.0
+      },
+      {
+         "Year": "2003",
+         "Daily viewing time in minutes": 203.0
+      },
+      {
+         "Year": "2002",
+         "Daily viewing time in minutes": 201.0
+      },
+      {
+         "Year": "2001",
+         "Daily viewing time in minutes": 192.0
+      },
+      {
+         "Year": "2000",
+         "Daily viewing time in minutes": 190.0
+      },
+      {
+         "Year": "1999",
+         "Daily viewing time in minutes": 185.0
+      },
+      {
+         "Year": "1998",
+         "Daily viewing time in minutes": 188.0
+      },
+      {
+         "Year": "1997",
+         "Daily viewing time in minutes": 183.0
+      }
+   ]
+}

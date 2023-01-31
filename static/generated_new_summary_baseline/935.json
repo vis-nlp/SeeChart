@@ -1,0 +1,135 @@
+{
+   "title": "Market share of UK gambling industry sectors from year 2009 to 2014",
+   "labels": [
+      "Year",
+      "Betting",
+      "Casino",
+      "Remote",
+      "Bingo",
+      "Arcades",
+      "Lottery"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 6 lines denoting Betting, Casino, Remote, Bingo, Arcades, and Lottery. The y axis indicates the Market Share and the x axis indicates Year.",
+      "Overall Remote is gradually increasing, Betting, and Arcades are gradually decreasing, Casino, Bingo, and Lottery are roughly constant,  throughout the Year",
+      "Overall across the Year, Betting mostly maintained the highest Market Share when compared to others with a mean value of 49.6, and it peaked at 2009, and 2010.",
+      "Followed by Casino which ranks as the second topmost line , with an average of 15.2 Market Share,reaching its highest point  at 2013 with a value of 16.0. ",
+      "Lottery mostly had the least Market Share with a mean value of 4.0, which peaked at 2011, and 2013 with a value of 5.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Market Share",
+   "min_summary": [
+      "The given chart is of multi-line type with 6 lines namely Betting, Casino, Remote, Bingo, Arcades, and Lottery. The y axis represents Market Share and the x axis represents Year.",
+      "Overall Remote is gradually increasing, Betting, and Arcades are gradually decreasing, Casino, Bingo, and Lottery are roughly constant,  throughout the Year",
+      "Overall across the Year, Betting mostly maintained the highest Market Share when compared to others with a mean value of 49.6, and it peaked at 2009, and 2010.",
+      "After Betting, Casino overall has the second highest values , with a mean value of 15.2, peaking at 2013. ",
+      "The bottommost line, Lottery,  has a mean of 4.0, and peaked at 2011, and 2013. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 6 lines denoting Betting, Casino, Remote, Bingo, Arcades, and Lottery. The y axis indicates the Market Share and the x axis indicates Year.",
+      "Overall Remote is gradually increasing, Betting, and Arcades are gradually decreasing, Casino, Bingo, and Lottery are roughly constant,  throughout the Year",
+      "Overall across the Year, Betting mostly maintained the highest Market Share when compared to others with a mean value of 49.6, and it peaked at 2009, and 2010.",
+      "Followed by Casino which ranks as the second topmost line , with an average of 15.2 Market Share,reaching its highest point  at 2013 with a value of 16.0. ",
+      "Lottery mostly had the least Market Share with a mean value of 4.0, which peaked at 2011, and 2013 with a value of 5.0. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 6 lines namely Betting, Casino, Remote, Bingo, Arcades, and Lottery. The y axis represents Market Share and the x axis represents Year.",
+      "Overall Remote is gradually increasing, Betting, and Arcades are gradually decreasing, Casino, Bingo, and Lottery are roughly constant,  throughout the Year",
+      "Throughout the period, Betting generally had the highest Market Share relative to others with an average of 49.6, and it reached its maximum at 2009, and 2010 with a value of 52.0.",
+      "After Betting, Casino overall has the second highest values , with a mean value of 15.2, peaking at 2013. ",
+      "The bottommost line, Lottery,  has a mean of 4.0, and peaked at 2011, and 2013. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "3",
+            "0"
+         ],
+         "9": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Betting": "46",
+         "Casino": "16",
+         "Remote": "19",
+         "Bingo": "9",
+         "Arcades": "5",
+         "Lottery": "5"
+      },
+      {
+         "Year": "2012",
+         "Betting": "48",
+         "Casino": "16",
+         "Remote": "16",
+         "Bingo": "10",
+         "Arcades": "5",
+         "Lottery": "4"
+      },
+      {
+         "Year": "2011",
+         "Betting": "50",
+         "Casino": "15",
+         "Remote": "13",
+         "Bingo": "12",
+         "Arcades": "5",
+         "Lottery": "5"
+      },
+      {
+         "Year": "2010",
+         "Betting": "52",
+         "Casino": "15",
+         "Remote": "12",
+         "Bingo": "11",
+         "Arcades": "7",
+         "Lottery": "3"
+      },
+      {
+         "Year": "2009",
+         "Betting": "52",
+         "Casino": "14",
+         "Remote": "12",
+         "Bingo": "11",
+         "Arcades": "8",
+         "Lottery": "3"
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Revenue of the global eSports market 2012 to 2022",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 8 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2012 to 2017, roughly constant from 2017 to 2019, and lastly roughly increasing from 2019 to 2022.",
+      "The most drastic increase took place within the Year 2019 and 2022.",
+      "The highest Revenue in million U.S. dollars, of value 1790.0 was reached at Year 2022",
+      "The lowest Revenue in million U.S. dollars, of value 130.0 was reported at Year 2012"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 8 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2012 to 2017, roughly constant from 2017 to 2019, and lastly roughly increasing from 2019 to 2022."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 8 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2012 to 2017, roughly constant from 2017 to 2019, and lastly roughly increasing from 2019 to 2022.",
+      "The most drastic increase took place within the Year 2019 and 2022.",
+      "The highest Revenue in million U.S. dollars, of value 1790.0 was reached at Year 2022",
+      "The lowest Revenue in million U.S. dollars, of value 130.0 was reported at Year 2012"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 8 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2012 to 2017, roughly constant from 2017 to 2019, and lastly roughly increasing from 2019 to 2022.",
+      "The steepest increase occurs in between the Year 2019 and 2022.",
+      "The highest Revenue in million U.S. dollars, of value 1790.0 was reached at Year 2022",
+      "The lowest Revenue in million U.S. dollars, of value 130.0 was reported at Year 2012",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2022",
+         "Revenue in million U.S. dollars": 1790.0
+      },
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": 1096.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 865.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 655.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 493.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 325.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 194.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 130.0
+      }
+   ]
+}

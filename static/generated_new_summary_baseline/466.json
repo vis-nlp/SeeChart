@@ -1,0 +1,64 @@
+{
+   "title": "Vehicle sales in the United States 2019",
+   "xAxis": "Vehicles",
+   "yAxis": "Vehicle retail sales in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Vehicles in the x axis and Vehicle retail sales in thousands in the y axis. ",
+      "The Vehicle retail sales in thousands is appeared to be the highest at Vehicles Motor vehicles (total) and lowest at Vehicles Heavy trucks. ",
+      "The difference of Vehicle retail sales in thousands between the highest and lowest Vehicles is 16965.1. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Vehicles in the x axis and Vehicle retail sales in thousands in the y axis. ",
+      "The maximum Vehicle retail sales in thousands 17494.6 is found at Vehicles Motor vehicles (total) and the minimum is found at Heavy trucks where Vehicle retail sales in thousands is 529.5. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Vehicles in the x axis and Vehicle retail sales in thousands in the y axis. ",
+      "The Vehicle retail sales in thousands is appeared to be the highest at Vehicles Motor vehicles (total) and lowest at Vehicles Heavy trucks. ",
+      "The difference of Vehicle retail sales in thousands between the highest and lowest Vehicles is 16965.1. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Vehicles in the x axis and Vehicle retail sales in thousands in the y axis. ",
+      "Vehicles Motor vehicles (total) has the highest Vehicle retail sales in thousands and Heavy trucks has the lowest Vehicle retail sales in thousands. ",
+      "Vehicles Motor vehicles (total) has 33.04 times more Vehicle retail sales in thousands than Vehicles Heavy trucks which is has the lowest. ",
+      "Vehicles Motor vehicles (total) is higher than any other Vehicless with value 17494.6, followed by , and Thereof light trucks. Down to Vehicles Heavy trucks with the lowest value 529.5. ",
+      "The average Vehicle retail sales in thousands in all 5 Vehicless is 10390.88. ",
+      "The Vehicle retail sales in thousands is 51954.4 if we add up values of all Vehicless. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Vehicles": "Light vehicles (total)",
+         "Vehicle retail sales in thousands": 16965.2
+      },
+      {
+         "Vehicles": "Thereof light trucks",
+         "Vehicle retail sales in thousands": 12237.8
+      },
+      {
+         "Vehicles": "Thereof autos",
+         "Vehicle retail sales in thousands": 4727.3
+      },
+      {
+         "Vehicles": "Heavy trucks",
+         "Vehicle retail sales in thousands": 529.5
+      },
+      {
+         "Vehicles": "Motor vehicles (total)",
+         "Vehicle retail sales in thousands": 17494.6
+      }
+   ]
+}

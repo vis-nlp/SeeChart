@@ -1,0 +1,64 @@
+{
+   "title": "Daily added sugar intake in England in 2008 - 2012 , by age group",
+   "xAxis": "Age Group",
+   "yAxis": "Sugar intake in grams",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Age Group in the x axis and Sugar intake in grams in the y axis. ",
+      "Age Group Teenagers 11-18 years has the highest Sugar intake in grams and Children 1.5-3 years has the lowest Sugar intake in grams. ",
+      "The highest Age Group Teenagers 11-18 years has 38.1 more Sugar intake in grams than the lowest Age Group Children 1.5-3 years. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Age Group, and Sugar intake in grams in each Age Group on the y axis. ",
+      "Age Group Teenagers 11-18 years has the highest Sugar intake in grams and Children 1.5-3 years has the lowest Sugar intake in grams. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Age Group in the x axis and Sugar intake in grams in the y axis. ",
+      "Age Group Teenagers 11-18 years has the highest Sugar intake in grams and Children 1.5-3 years has the lowest Sugar intake in grams. ",
+      "The highest Age Group Teenagers 11-18 years has 38.1 more Sugar intake in grams than the lowest Age Group Children 1.5-3 years. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Age Group, and Sugar intake in grams in each Age Group on the y axis. ",
+      "The Sugar intake in grams is highest at Age Group Teenagers 11-18 years and lowest at Age Group Children 1.5-3 years. ",
+      "The highest Age Group Teenagers 11-18 years has 38.1 more Sugar intake in grams than the lowest Age Group Children 1.5-3 years. ",
+      "Sugar intake in grams at Age Group Teenagers 11-18 years is 74.2 , second place is  at 36.1, and thirdly is Adults 19-64 years at 58.8.",
+      "The highest value 74.2 at Teenagers 11-18 years is almost 1.32 times larger than the average value 56.3. ",
+      "The Sugar intake in grams is 281.5 if we add up values of all Age Groups. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age Group": "Children 1.5-3 years",
+         "Sugar intake in grams": 36.1
+      },
+      {
+         "Age Group": "Children 4-10 years",
+         "Sugar intake in grams": 60.8
+      },
+      {
+         "Age Group": "Teenagers 11-18 years",
+         "Sugar intake in grams": 74.2
+      },
+      {
+         "Age Group": "Adults 19-64 years",
+         "Sugar intake in grams": 58.8
+      },
+      {
+         "Age Group": "Adults 65 years and over",
+         "Sugar intake in grams": 51.6
+      }
+   ]
+}

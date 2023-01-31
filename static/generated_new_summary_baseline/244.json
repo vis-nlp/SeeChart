@@ -1,0 +1,71 @@
+{
+   "title": "UK survey : when most consumers will start their Christmas shopping in the UK in 2013",
+   "xAxis": "Month",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 6 number of Months. ",
+      "The maximum Share of respondents 31.0 is found at Month November and the minimum is found at The week before Christmas where Share of respondents is 2.0. ",
+      "Month November has 15.5 times more Share of respondents than Month The week before Christmas which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 6 number of Months. ",
+      "The maximum Share of respondents 31.0 is found at Month November and the minimum is found at The week before Christmas where Share of respondents is 2.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 6 number of Months. ",
+      "The maximum Share of respondents 31.0 is found at Month November and the minimum is found at The week before Christmas where Share of respondents is 2.0. ",
+      "Month November has 15.5 times more Share of respondents than Month The week before Christmas which is has the lowest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 6 number of Months. ",
+      "Month November has the highest Share of respondents and The week before Christmas has the lowest Share of respondents. ",
+      "The second highest Share of respondents is appeared to be the Month . ",
+      "The difference of Share of respondents between the highest and lowest Month is 29.0. ",
+      "Month November is higher than any other Months with value 31.0, followed by , and December. Down to Month The week before Christmas with the lowest value 2.0. ",
+      "Over the past 6 Months, the Share of respondents has decreased. ",
+      "Similar Share of respondents is found in Month October, and December. ",
+      "The Month November has 1.86 times more Share of respondents than average. ",
+      "Summing up the values of all Months, we get total 100.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "November",
+         "Share of respondents": 31.0
+      },
+      {
+         "Month": "Alredy bought presents",
+         "Share of respondents": 25.0
+      },
+      {
+         "Month": "October",
+         "Share of respondents": 17.0
+      },
+      {
+         "Month": "December",
+         "Share of respondents": 17.0
+      },
+      {
+         "Month": "September",
+         "Share of respondents": 8.0
+      },
+      {
+         "Month": "The week before Christmas",
+         "Share of respondents": 2.0
+      }
+   ]
+}

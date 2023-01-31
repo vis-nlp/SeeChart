@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="static/css/homeStyle.css" rel="stylesheet">
+
+    <script type="text/javascript" src="static/js/study.js" ></script>
+
+</head>
+<body>
+
+<div class="container">
+    <div class="main">
+        <h2>Please Login to Access The User Study of Accessible Information Visualization Interfaces</h2>
+
+        <form method="post">
+            <br>
+            <label>Participant ID :</label>
+            <input type="text" name="username" required placeholder="Enter Participant ID" id="username" class="mainLoginInput" onkeyup="success()"/>
+            <label>Password :</label>
+            <input type="password" name="password" required placeholder="Enter Password" id="password" class="mainLoginInput" onkeyup="success()"/>
+
+            <div>
+                <input type="checkbox" required name="checkbox" value="check" id="agree" onchange="document.getElementById('submit').disabled = !this.checked;"/> By clicking the "Checkbox", you confirm that you have read the <a href="{{ url_for('consent') }}" target="_blank">consent form</a>, are at least 18 years old, and agree to participate in the <strong>Study of accessible information visualization interfaces</strong>.
+            </div>
+
+            <br>
+
+            <input type="submit" value="Login" id="submit"/>
+
+
+
+        </form>
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <script>
+                        alert('{{ message }}');
+                    </script>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <span><b class="note">Note : </b>If you have not received your ID and Password, please contact the instructor. </span>
+
+<!--        <span><b class="note">Note : </b>For this demo use following username and password. <br/><b class="valid">User Name : Formget<br/>Password : formget#123</b></span>-->
+    </div>
+</div>
+</body>
+</html>
+
+

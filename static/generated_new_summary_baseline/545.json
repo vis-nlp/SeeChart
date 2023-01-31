@@ -1,0 +1,145 @@
+{
+   "title": "Daily internet usage per capita worldwide 2011 - 2021 , by device",
+   "labels": [
+      "Year",
+      "Desktop",
+      "Mobile"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Desktop, and Mobile. The y axis indicates the Time in minutes and the x axis indicates Year.",
+      "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
+      "Mobile has increased by 4.8 times.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Mobile, and lastly, 2. Desktop. ",
+      "Throughout the period, Mobile generally had the highest Time in minutes relative to others with an average of 92.0, and it reached its maximum at 2021 with a value of 155.0.",
+      "Desktop mostly had the least Time in minutes with a mean value of 42.09, which peaked at 2013 with a value of 49.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Time in minutes",
+   "min_summary": [
+      "The given chart is of multi-line type with 2 lines namely Desktop, and Mobile. The y axis represents Time in minutes and the x axis represents Year.",
+      "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
+      "Throughout the period, Mobile generally had the highest Time in minutes relative to others with an average of 92.0, and it reached its maximum at 2021 with a value of 155.0.",
+      "Desktop mostly had the least Time in minutes with a mean value of 42.09, which peaked at 2013 with a value of 49.0. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Desktop, and Mobile. The y axis indicates the Time in minutes and the x axis indicates Year.",
+      "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
+      "Mobile has increased by 4.8 times.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Mobile, and lastly, 2. Desktop. ",
+      "Throughout the period, Mobile generally had the highest Time in minutes relative to others with an average of 92.0, and it reached its maximum at 2021 with a value of 155.0.",
+      "Desktop mostly had the least Time in minutes with a mean value of 42.09, which peaked at 2013 with a value of 49.0. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing Desktop, and Mobile. The y axis denotes Time in minutes and the x axis denotes Year.",
+      "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
+      "Mobile has increased by 4.8 times.",
+      "The lines ordered according to average values of Time in minutes in descending order is: 1. Mobile, and lastly, 2. Desktop. ",
+      "Throughout the period, Mobile generally had the highest Time in minutes relative to others with an average of 92.0, and it reached its maximum at 2021 with a value of 155.0.",
+      "Desktop mostly had the least Time in minutes with a mean value of 42.09, which peaked at 2013 with a value of 49.0. ",
+      "The minimum Time in minutes about 32.0, occured at 2011 by Mobile.",
+      "The greatest difference of Time in minutes between Desktop and Mobile occurs at Year 2021 and the smallest difference occurs at 2013."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "9": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "10",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "10": [
+            "2",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2011",
+         "Desktop": "43",
+         "Mobile": "32"
+      },
+      {
+         "Year": "2012",
+         "Desktop": "47",
+         "Mobile": "36"
+      },
+      {
+         "Year": "2013",
+         "Desktop": "49",
+         "Mobile": "45"
+      },
+      {
+         "Year": "2014",
+         "Desktop": "47",
+         "Mobile": "63"
+      },
+      {
+         "Year": "2015",
+         "Desktop": "42",
+         "Mobile": "81"
+      },
+      {
+         "Year": "2016",
+         "Desktop": "40",
+         "Mobile": "94"
+      },
+      {
+         "Year": "2017",
+         "Desktop": "42",
+         "Mobile": "109"
+      },
+      {
+         "Year": "2018",
+         "Desktop": "39",
+         "Mobile": "122"
+      },
+      {
+         "Year": "2019 ",
+         "Desktop": "39",
+         "Mobile": "132"
+      },
+      {
+         "Year": "2020 ",
+         "Desktop": "38",
+         "Mobile": "143"
+      },
+      {
+         "Year": "2021",
+         "Desktop": "37",
+         "Mobile": "155"
+      }
+   ]
+}

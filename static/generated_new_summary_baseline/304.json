@@ -1,0 +1,136 @@
+{
+   "title": "Leading car brand sales in Italy 2016 to 2019",
+   "labels": [
+      "Brand",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 10 different Brands on X-axis for 4 groups 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Units sold. ",
+      " Brand Fiat had the maximum Units sold among all 4 groups, and it was for 2017. The minimum Units sold was observed in Brand Jeep/Dodge for 2016. ",
+      " The maximum Units sold for 2017 that was found in Brand Fiat was 8.13 times larger than the minimum Units sold observed in Brand Jeep/Dodge. ",
+      "On average, the Brand Fiat had the highest Units sold for all 4 groups 2016, 2017, 2018, and 2019. Whereas Dacia had the lowest average Units sold. "
+   ],
+   "xAxis": "Brand",
+   "yAxis": "Units sold",
+   "min_summary": [
+      "This grouped bar chart represents 10 different Brands on X-axis for 4 groups 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Units sold. ",
+      " For Brand Fiat, 2017 had the highest Units sold 402430.0 among the 4 groups and in Jeep/Dodge, 2016 had the lowest Units sold 40456.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 10 different Brands on X-axis for 4 groups 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Units sold. ",
+      " Brand Fiat had the maximum Units sold among all 4 groups, and it was for 2017. The minimum Units sold was observed in Brand Jeep/Dodge for 2016. ",
+      " The maximum Units sold for 2017 that was found in Brand Fiat was 8.13 times larger than the minimum Units sold observed in Brand Jeep/Dodge. ",
+      "On average, the Brand Fiat had the highest Units sold for all 4 groups 2016, 2017, 2018, and 2019. Whereas Dacia had the lowest average Units sold. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Units sold on the Y-axis for 10 different Brands for 4 groups 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " For Brand Fiat, 2017 had the highest Units sold 402430.0 among the 4 groups and in Jeep/Dodge, 2016 had the lowest Units sold 40456.0. ",
+      " For Brand Fiat, 2017 had the maximum Units sold and it saw the lowest in Brand Jeep/Dodge out of all 10 Brands. ",
+      " The maximum Units sold for 2017 that was found in Brand Fiat was 8.13 times larger than the minimum Units sold observed in Brand Jeep/Dodge. ",
+      " Out of all 4 groups, the highest gap between the maximum and minimum Units sold was found in case of 2017. ",
+      " 2017 had the maximum Units sold out of all 4 groups in Brand Fiat followed by 2017 in Fiat, and the minimum Units sold is found for 2016 in Jeep/Dodge. ",
+      "Averaging all 4 groups 2016, 2017, 2018, and 2019, the Brand Fiat is the maximum Units sold and Dacia is the minimum Units sold. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Fiat",
+         "2016": "385798",
+         "2017": "402430",
+         "2018": "323342",
+         "2019": "285888"
+      },
+      {
+         "Brand": "Volkswagen",
+         "2016": "139168",
+         "2017": "144885",
+         "2018": "162850",
+         "2019": "176813"
+      },
+      {
+         "Brand": "Ford",
+         "2016": "124328",
+         "2017": "134124",
+         "2018": "129615",
+         "2019": "122527"
+      },
+      {
+         "Brand": "Renault",
+         "2016": "118303",
+         "2017": "133715",
+         "2018": "125143",
+         "2019": "113924"
+      },
+      {
+         "Brand": "Peugeot",
+         "2016": "94132",
+         "2017": "104274",
+         "2018": "108502",
+         "2019": "110034"
+      },
+      {
+         "Brand": "Opel",
+         "2016": "95056",
+         "2017": "98979",
+         "2018": "95317",
+         "2019": "96559"
+      },
+      {
+         "Brand": "Toyota",
+         "2016": "71934",
+         "2017": "85245",
+         "2018": "87956",
+         "2019": "90052"
+      },
+      {
+         "Brand": "Citroen",
+         "2016": "60511",
+         "2017": "78225",
+         "2018": "82850",
+         "2019": "86468"
+      },
+      {
+         "Brand": "Dacia",
+         "2016": "47979",
+         "2017": "58011",
+         "2018": "61628",
+         "2019": "84087"
+      },
+      {
+         "Brand": "Jeep/Dodge",
+         "2016": "40456",
+         "2017": "49503",
+         "2018": "84551",
+         "2019": "81510"
+      }
+   ]
+}

@@ -1,0 +1,74 @@
+{
+   "title": "Religious diversity in North America in 2010 , by religion",
+   "xAxis": "Religion",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 columns on the x axis representing Religion, and Percentage of population in each Religion on the y axis. ",
+      "The maximum Percentage of population 77.0 is found at Religion Christians and the minimum is found at Muslims where Percentage of population is 1.0. ",
+      "There is a difference of 76.0 between the maximum Religion Christians and minimum Religion Muslims. "
+   ],
+   "min_summary": [
+      "This bar chart has 7 columns on the x axis representing Religion, and Percentage of population in each Religion on the y axis. ",
+      "The Percentage of population is appeared to be the highest at Religion Christians and lowest at Religion Muslims. "
+   ],
+   "mid_summary": [
+      "This bar chart has 7 columns on the x axis representing Religion, and Percentage of population in each Religion on the y axis. ",
+      "The maximum Percentage of population 77.0 is found at Religion Christians and the minimum is found at Muslims where Percentage of population is 1.0. ",
+      "There is a difference of 76.0 between the maximum Religion Christians and minimum Religion Muslims. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Percentage of population for 7 number of Religions. ",
+      "The Percentage of population is appeared to be the highest at Religion Christians and lowest at Religion Muslims. ",
+      "The second highest Percentage of population is appeared to be the Religion . ",
+      "The difference of Percentage of population between the highest and lowest Religion is 76.0. ",
+      "Percentage of population at Religion Christians is 77.0 , second place is  at 77.0, and thirdly is Jews at 2.0.",
+      "Religion Muslims, Other religions, Hindus, and Buddhists have a similar Percentage of population that is 1.0. ",
+      "Considered together, the average Percentage of population in all 7 Religions is roughly 14.29. ",
+      "The Percentage of population is 100.0 if we add up values of all Religions. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Religion": "Christians",
+         "Percentage of population": 77.0
+      },
+      {
+         "Religion": "Unaffiliated",
+         "Percentage of population": 17.0
+      },
+      {
+         "Religion": "Jews",
+         "Percentage of population": 2.0
+      },
+      {
+         "Religion": "Muslims",
+         "Percentage of population": 1.0
+      },
+      {
+         "Religion": "Other religions",
+         "Percentage of population": 1.0
+      },
+      {
+         "Religion": "Hindus",
+         "Percentage of population": 1.0
+      },
+      {
+         "Religion": "Buddhists",
+         "Percentage of population": 1.0
+      }
+   ]
+}

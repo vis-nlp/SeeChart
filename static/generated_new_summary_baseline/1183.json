@@ -1,0 +1,177 @@
+{
+   "title": "Growth of U.S. beauty product face mask online searches 2016",
+   "xAxis": "Beauty Product",
+   "yAxis": "Year-on-year growth of search phrase volume",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 33 columns on the x axis representing Beauty Product, and Year-on-year growth of search phrase volume in each Beauty Product on the y axis. ",
+      "The maximum Year-on-year growth of search phrase volume 5030.0 is found at Beauty Product carbonated clay mask and the minimum is found at face masks for acne where Year-on-year growth of search phrase volume is 1.0. ",
+      "The maximum Beauty Product carbonated clay mask has got 5030.0 times higher Year-on-year growth of search phrase volume than the minimum Beauty Product face masks for acne. "
+   ],
+   "min_summary": [
+      "This bar chart has 33 columns on the x axis representing Beauty Product, and Year-on-year growth of search phrase volume in each Beauty Product on the y axis. ",
+      "Beauty Product carbonated clay mask has the highest Year-on-year growth of search phrase volume and face masks for acne has the lowest Year-on-year growth of search phrase volume. "
+   ],
+   "mid_summary": [
+      "This bar chart has 33 columns on the x axis representing Beauty Product, and Year-on-year growth of search phrase volume in each Beauty Product on the y axis. ",
+      "The maximum Year-on-year growth of search phrase volume 5030.0 is found at Beauty Product carbonated clay mask and the minimum is found at face masks for acne where Year-on-year growth of search phrase volume is 1.0. ",
+      "The maximum Beauty Product carbonated clay mask has got 5030.0 times higher Year-on-year growth of search phrase volume than the minimum Beauty Product face masks for acne. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Year-on-year growth of search phrase volume for 33 number of Beauty Products. ",
+      "The Year-on-year growth of search phrase volume is highest at Beauty Product carbonated clay mask and lowest at Beauty Product face masks for acne. ",
+      "Beauty Product  has the second highest value for Year-on-year growth of search phrase volume. ",
+      "There is a difference of 5029.0 between the maximum Beauty Product carbonated clay mask and minimum Beauty Product face masks for acne. ",
+      "The Beauty Product carbonated clay mask has the highest Year-on-year growth of search phrase volume, followed by , and bubble clay mask. Down to the Beauty Product face masks for acne which is the lowest. ",
+      "Beauty Product baking soda face mask, and honey face mask share the same value 15.0. ",
+      "Considered together, the average Year-on-year growth of search phrase volume in all 33 Beauty Products is roughly 363.27. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 26,
+         "12": 26
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Beauty Product": "carbonated clay mask",
+         "Year-on-year growth of search phrase volume": 5030.0
+      },
+      {
+         "Beauty Product": "carbonated bubble clay mask",
+         "Year-on-year growth of search phrase volume": 2188.0
+      },
+      {
+         "Beauty Product": "bubble clay mask",
+         "Year-on-year growth of search phrase volume": 1899.0
+      },
+      {
+         "Beauty Product": "blackhead mask",
+         "Year-on-year growth of search phrase volume": 756.0
+      },
+      {
+         "Beauty Product": "dead sea mud mask",
+         "Year-on-year growth of search phrase volume": 329.0
+      },
+      {
+         "Beauty Product": "charcoal mask",
+         "Year-on-year growth of search phrase volume": 274.0
+      },
+      {
+         "Beauty Product": "sheet mask",
+         "Year-on-year growth of search phrase volume": 184.0
+      },
+      {
+         "Beauty Product": "korean face mask",
+         "Year-on-year growth of search phrase volume": 173.0
+      },
+      {
+         "Beauty Product": "charcoal face mask",
+         "Year-on-year growth of search phrase volume": 151.0
+      },
+      {
+         "Beauty Product": "peel-off face mask",
+         "Year-on-year growth of search phrase volume": 117.0
+      },
+      {
+         "Beauty Product": "black face mask",
+         "Year-on-year growth of search phrase volume": 100.0
+      },
+      {
+         "Beauty Product": "turmeric mask",
+         "Year-on-year growth of search phrase volume": 80.0
+      },
+      {
+         "Beauty Product": "indian clay mask",
+         "Year-on-year growth of search phrase volume": 79.0
+      },
+      {
+         "Beauty Product": "aztec clay mask",
+         "Year-on-year growth of search phrase volume": 72.0
+      },
+      {
+         "Beauty Product": "egg white mask",
+         "Year-on-year growth of search phrase volume": 67.0
+      },
+      {
+         "Beauty Product": "best face masks",
+         "Year-on-year growth of search phrase volume": 66.0
+      },
+      {
+         "Beauty Product": "best face mask",
+         "Year-on-year growth of search phrase volume": 62.0
+      },
+      {
+         "Beauty Product": "DIY face mask",
+         "Year-on-year growth of search phrase volume": 48.0
+      },
+      {
+         "Beauty Product": "mud mask",
+         "Year-on-year growth of search phrase volume": 45.0
+      },
+      {
+         "Beauty Product": "bentonite clay mask",
+         "Year-on-year growth of search phrase volume": 35.0
+      },
+      {
+         "Beauty Product": "face mask for acne",
+         "Year-on-year growth of search phrase volume": 33.0
+      },
+      {
+         "Beauty Product": "clay mask",
+         "Year-on-year growth of search phrase volume": 28.0
+      },
+      {
+         "Beauty Product": "face mask",
+         "Year-on-year growth of search phrase volume": 26.0
+      },
+      {
+         "Beauty Product": "turmeric face mask",
+         "Year-on-year growth of search phrase volume": 16.0
+      },
+      {
+         "Beauty Product": "baking soda face mask",
+         "Year-on-year growth of search phrase volume": 15.0
+      },
+      {
+         "Beauty Product": "DIY hair mask",
+         "Year-on-year growth of search phrase volume": 4.0
+      },
+      {
+         "Beauty Product": "face masks for acne",
+         "Year-on-year growth of search phrase volume": 1.0
+      },
+      {
+         "Beauty Product": "avocado mask",
+         "Year-on-year growth of search phrase volume": 6.0
+      },
+      {
+         "Beauty Product": "avocado face mask",
+         "Year-on-year growth of search phrase volume": 14.0
+      },
+      {
+         "Beauty Product": "honey face mask",
+         "Year-on-year growth of search phrase volume": 15.0
+      },
+      {
+         "Beauty Product": "homemade face mask",
+         "Year-on-year growth of search phrase volume": 19.0
+      },
+      {
+         "Beauty Product": "oatmeal face mask",
+         "Year-on-year growth of search phrase volume": 20.0
+      },
+      {
+         "Beauty Product": "winter face mask",
+         "Year-on-year growth of search phrase volume": 36.0
+      }
+   ]
+}

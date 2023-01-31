@@ -1,0 +1,94 @@
+{
+   "title": "Oil spills - worldwide",
+   "xAxis": "Oil Spill Event",
+   "yAxis": "Amount of leaked oil (in tons)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 columns on the x axis representing Oil Spill Event, and Amount of leaked oil (in tons) in each Oil Spill Event on the y axis. ",
+      "The maximum Amount of leaked oil (in tons) 1000000.0 is found at Oil Spill Event Itox Uno (Gulf of Mexico 1979 oil rig) and the minimum is found at Erika (Atlantic 1999 tanker) where Amount of leaked oil (in tons) is 20000.0. ",
+      "There is a difference of 980000.0 between the maximum Oil Spill Event Itox Uno (Gulf of Mexico 1979 oil rig) and minimum Oil Spill Event Erika (Atlantic 1999 tanker). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Amount of leaked oil (in tons) for 12 number of Oil Spill Events. ",
+      "The Amount of leaked oil (in tons) is highest at Oil Spill Event Itox Uno (Gulf of Mexico 1979 oil rig) and lowest at Oil Spill Event Erika (Atlantic 1999 tanker). "
+   ],
+   "mid_summary": [
+      "This bar chart has 12 columns on the x axis representing Oil Spill Event, and Amount of leaked oil (in tons) in each Oil Spill Event on the y axis. ",
+      "The maximum Amount of leaked oil (in tons) 1000000.0 is found at Oil Spill Event Itox Uno (Gulf of Mexico 1979 oil rig) and the minimum is found at Erika (Atlantic 1999 tanker) where Amount of leaked oil (in tons) is 20000.0. ",
+      "There is a difference of 980000.0 between the maximum Oil Spill Event Itox Uno (Gulf of Mexico 1979 oil rig) and minimum Oil Spill Event Erika (Atlantic 1999 tanker). "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Amount of leaked oil (in tons) for 12 number of Oil Spill Events. ",
+      "Oil Spill Event Itox Uno (Gulf of Mexico 1979 oil rig) has the highest Amount of leaked oil (in tons) and Erika (Atlantic 1999 tanker) has the lowest Amount of leaked oil (in tons). ",
+      "Oil Spill Event  has the second highest value for Amount of leaked oil (in tons). ",
+      "The minimum Oil Spill Event Erika (Atlantic 1999 tanker) has got 50.0 times less Amount of leaked oil (in tons) than the maximum Oil Spill Event Itox Uno (Gulf of Mexico 1979 oil rig). ",
+      "Oil Spill Event Itox Uno (Gulf of Mexico 1979 oil rig) is higher than any other Oil Spill Events with value 1000000.0, followed by , and Amoco Cadiz (Atlantic 1978 tanker). Down to Oil Spill Event Erika (Atlantic 1999 tanker) with the lowest value 20000.0. ",
+      "Oil Spill Event Itox Uno (Gulf of Mexico 1979 oil rig), and Gulf War (Persian Gulf 1991 oil platform) have the same Amount of leaked oil (in tons). ",
+      "The Oil Spill Event Itox Uno (Gulf of Mexico 1979 oil rig) tends to be 3.92 percent higher than average. ",
+      "Summing up the values of all Oil Spill Events, we get total 3059000.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 11,
+         "12": 11
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Oil Spill Event": "Itox Uno (Gulf of Mexico 1979 oil rig)",
+         "Amount of leaked oil (in tons)": 1000000.0
+      },
+      {
+         "Oil Spill Event": "Gulf War (Persian Gulf 1991 oil platform)",
+         "Amount of leaked oil (in tons)": 1000000.0
+      },
+      {
+         "Oil Spill Event": "Amoco Cadiz (Atlantic 1978 tanker)",
+         "Amount of leaked oil (in tons)": 230000.0
+      },
+      {
+         "Oil Spill Event": "Pipeline (Komi 1994 pipeline) ",
+         "Amount of leaked oil (in tons)": 200000.0
+      },
+      {
+         "Oil Spill Event": "Sea Empress (Atlantic 1996 tanker)",
+         "Amount of leaked oil (in tons)": 147000.0
+      },
+      {
+         "Oil Spill Event": "Torrey Canyon (Atlantic 1967 tanker)",
+         "Amount of leaked oil (in tons)": 120000.0
+      },
+      {
+         "Oil Spill Event": "Urquijo (Atlantic 1976 tanker)",
+         "Amount of leaked oil (in tons)": 100000.0
+      },
+      {
+         "Oil Spill Event": "Prestige (Atlantic 2002 tanker) ",
+         "Amount of leaked oil (in tons)": 77000.0
+      },
+      {
+         "Oil Spill Event": "Aegean Sea (Atlantic 1992 tanker)",
+         "Amount of leaked oil (in tons)": 70000.0
+      },
+      {
+         "Oil Spill Event": "Andros Patria (Atlantic 1978 tanker)",
+         "Amount of leaked oil (in tons)": 50000.0
+      },
+      {
+         "Oil Spill Event": "Exxon Valdez (Pacific 1989 tanker)",
+         "Amount of leaked oil (in tons)": 45000.0
+      },
+      {
+         "Oil Spill Event": "Erika (Atlantic 1999 tanker)",
+         "Amount of leaked oil (in tons)": 20000.0
+      }
+   ]
+}

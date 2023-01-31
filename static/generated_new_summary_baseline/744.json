@@ -1,0 +1,65 @@
+{
+   "title": "Reasons for eating fast food in the U.S. as of August 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 67.2 is found at Response Convenient and the minimum is found at Other where Share of respondents is 5.6. ",
+      "The highest Response Convenient has 61.6 more Share of respondents than the lowest Response Other. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 67.2 is found at Response Convenient and the minimum is found at Other where Share of respondents is 5.6. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 67.2 is found at Response Convenient and the minimum is found at Other where Share of respondents is 5.6. ",
+      "The highest Response Convenient has 61.6 more Share of respondents than the lowest Response Other. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The Share of respondents is highest at Response Convenient and lowest at Response Other. ",
+      "Response  has the second highest value for Share of respondents. ",
+      "Response Convenient has 12.0 times more Share of respondents than Response Other which is has the lowest. ",
+      "The Response Convenient has the highest Share of respondents, followed by , and I just like it. Down to the Response Other which is the lowest. ",
+      "The lowest value 5.6 at Other is almost 2.27 times smaller than the average value 29.66. ",
+      "Summing up the values of all Responses, we get total 148.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Convenient",
+         "Share of respondents": 67.2
+      },
+      {
+         "Response": "Cheap",
+         "Share of respondents": 31.7
+      },
+      {
+         "Response": "I just like it",
+         "Share of respondents": 30.6
+      },
+      {
+         "Response": "Lack of other options",
+         "Share of respondents": 13.2
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 5.6
+      }
+   ]
+}

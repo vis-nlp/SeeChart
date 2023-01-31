@@ -1,0 +1,49 @@
+{
+   "title": "Revenue of the U.S. employee wellness market 2011 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, containing a total of 2 data points.",
+      " Overall Revenue in billion U.S. dollars has increased over the Year.",
+      "Revenue in billion U.S. dollars is slightly increasing from 2011 to 2016.",
+      "The most drastic increase took place within the Year 2011 and 2016.",
+      "Maximum Revenue in billion U.S. dollars, about 2.9 was reported at Year 2016",
+      "The lowest Revenue in billion U.S. dollars, of value 1.45 was reported at Year 2011"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, containing a total of 2 data points.",
+      " Overall Revenue in billion U.S. dollars has increased over the Year.",
+      "Revenue in billion U.S. dollars is slightly increasing from 2011 to 2016."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, containing a total of 2 data points.",
+      " Overall Revenue in billion U.S. dollars has increased over the Year.",
+      "Revenue in billion U.S. dollars is slightly increasing from 2011 to 2016.",
+      "The most drastic increase took place within the Year 2011 and 2016.",
+      "Maximum Revenue in billion U.S. dollars, about 2.9 was reported at Year 2016",
+      "The lowest Revenue in billion U.S. dollars, of value 1.45 was reported at Year 2011"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, containing a total of 2 data points.",
+      " Overall Revenue in billion U.S. dollars has increased over the Year.",
+      "Revenue in billion U.S. dollars is slightly increasing from 2011 to 2016.",
+      "The steepest increase occurs in between the Year 2011 and 2016.",
+      "Maximum Revenue in billion U.S. dollars, about 2.9 was reported at Year 2016",
+      "The lowest Revenue in billion U.S. dollars, of value 1.45 was reported at Year 2011",
+      "The line rapidly increased by 100.0% from Year 2011 to 2016."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2011",
+         "Revenue in billion U.S. dollars": 1.45
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion U.S. dollars": 2.9
+      }
+   ]
+}

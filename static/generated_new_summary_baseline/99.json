@@ -1,0 +1,117 @@
+{
+   "title": "Dentists : number practicing in Europe in 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 18 columns on the x axis representing Country, and Number of employees in each Country on the y axis. ",
+      "The Number of employees is appeared to be the highest at Country Germany and lowest at Country Luxembourg. ",
+      "There is a difference of 69864.0 between the maximum Country Germany and minimum Country Luxembourg. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
+      "Country Germany has the highest Number of employees and Luxembourg has the lowest Number of employees. "
+   ],
+   "mid_summary": [
+      "This bar chart has 18 columns on the x axis representing Country, and Number of employees in each Country on the y axis. ",
+      "The Number of employees is appeared to be the highest at Country Germany and lowest at Country Luxembourg. ",
+      "There is a difference of 69864.0 between the maximum Country Germany and minimum Country Luxembourg. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
+      "The maximum Number of employees 70445.0 is found at Country Germany and the minimum is found at Luxembourg where Number of employees is 581.0. ",
+      "Second maximum Number of employees is found at Country . ",
+      "The highest Country Germany has 69864.0 more Number of employees than the lowest Country Luxembourg. ",
+      "The Country Germany has the highest Number of employees, followed by , and France. Down to the Country Luxembourg which is the lowest. ",
+      "The Country Luxembourg has 4.73 times less Number of employees than average. ",
+      "The Number of employees is 267941.0 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of employees": 70445.0
+      },
+      {
+         "Country": "Italy",
+         "Number of employees": 49552.0
+      },
+      {
+         "Country": "France",
+         "Number of employees": 43167.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of employees": 34760.0
+      },
+      {
+         "Country": "Poland",
+         "Number of employees": 13331.0
+      },
+      {
+         "Country": "Belgium",
+         "Number of employees": 8516.0
+      },
+      {
+         "Country": "Sweden",
+         "Number of employees": 8077.0
+      },
+      {
+         "Country": "Czechia",
+         "Number of employees": 7921.0
+      },
+      {
+         "Country": "Hungary",
+         "Number of employees": 6589.0
+      },
+      {
+         "Country": "Austria",
+         "Number of employees": 5009.0
+      },
+      {
+         "Country": "Norway",
+         "Number of employees": 4590.0
+      },
+      {
+         "Country": "Denmark",
+         "Number of employees": 4247.0
+      },
+      {
+         "Country": "Switzerland",
+         "Number of employees": 4217.0
+      },
+      {
+         "Country": "Lithuania",
+         "Number of employees": 2839.0
+      },
+      {
+         "Country": "Slovenia",
+         "Number of employees": 1455.0
+      },
+      {
+         "Country": "Latvia",
+         "Number of employees": 1380.0
+      },
+      {
+         "Country": "Estonia",
+         "Number of employees": 1265.0
+      },
+      {
+         "Country": "Luxembourg",
+         "Number of employees": 581.0
+      }
+   ]
+}

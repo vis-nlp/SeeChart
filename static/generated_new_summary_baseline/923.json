@@ -1,0 +1,81 @@
+{
+   "title": "Average ticket price Indiana Pacers ( NBA ) games 2015/16",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 10.",
+      " Overall Average ticket price in U.S. dollars has decreased over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2008/09, slightly decreasing from 2008/09 to 2009/10, roughly constant from 2009/10 to 2014/15, and finally slightly increasing from 2014/15 to 2015/16.",
+      "The most drastic decrease took place within the Year 2008/09 and 2009/10.",
+      "Maximum Average ticket price in U.S. dollars, about 42.39 was reported at Year 2006/07, and 2007/08",
+      "The lowest Average ticket price in U.S. dollars, of value 29.13 was reported at Year 2010/11"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 10.",
+      " In general Average ticket price in U.S. dollars has fallen over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2008/09, slightly decreasing from 2008/09 to 2009/10, roughly constant from 2009/10 to 2014/15, and finally slightly increasing from 2014/15 to 2015/16."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 10.",
+      " Overall Average ticket price in U.S. dollars has decreased over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2008/09, slightly decreasing from 2008/09 to 2009/10, roughly constant from 2009/10 to 2014/15, and finally slightly increasing from 2014/15 to 2015/16.",
+      "The most drastic decrease took place within the Year 2008/09 and 2009/10.",
+      "Maximum Average ticket price in U.S. dollars, about 42.39 was reported at Year 2006/07, and 2007/08",
+      "The lowest Average ticket price in U.S. dollars, of value 29.13 was reported at Year 2010/11"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 10 data points.",
+      " Overall Average ticket price in U.S. dollars has decreased over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2008/09, slightly decreasing from 2008/09 to 2009/10, roughly constant from 2009/10 to 2014/15, and finally slightly increasing from 2014/15 to 2015/16.",
+      "The steepest decrease occurs in between the Year 2008/09 and 2009/10.",
+      "Maximum Average ticket price in U.S. dollars, about 42.39 was reported at Year 2006/07, and 2007/08",
+      "The lowest Average ticket price in U.S. dollars, of value 29.13 was reported at Year 2010/11",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2015/16",
+         "Average ticket price in U.S. dollars": 38.97
+      },
+      {
+         "Year": "2014/15",
+         "Average ticket price in U.S. dollars": 32.59
+      },
+      {
+         "Year": "2013/14",
+         "Average ticket price in U.S. dollars": 31.62
+      },
+      {
+         "Year": "2012/13",
+         "Average ticket price in U.S. dollars": 31.62
+      },
+      {
+         "Year": "2011/12",
+         "Average ticket price in U.S. dollars": 30.59
+      },
+      {
+         "Year": "2010/11",
+         "Average ticket price in U.S. dollars": 29.13
+      },
+      {
+         "Year": "2009/10",
+         "Average ticket price in U.S. dollars": 30.02
+      },
+      {
+         "Year": "2008/09",
+         "Average ticket price in U.S. dollars": 41.09
+      },
+      {
+         "Year": "2007/08",
+         "Average ticket price in U.S. dollars": 42.39
+      },
+      {
+         "Year": "2006/07",
+         "Average ticket price in U.S. dollars": 42.39
+      }
+   ]
+}

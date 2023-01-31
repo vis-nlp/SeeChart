@@ -1,0 +1,76 @@
+{
+   "title": "Population of Michigan , by race and ethnicity 2018",
+   "xAxis": "Race",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Race in the x axis and Number of residents in the y axis. ",
+      "The Number of residents is highest at Race White alone and lowest at Race Native Hawaiian and Other Pacific Islander alone. ",
+      "The highest Race White alone has 7472757.0 more Number of residents than the lowest Race Native Hawaiian and Other Pacific Islander alone. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Race in the x axis and Number of residents in the y axis. ",
+      "Race White alone has the highest Number of residents and Native Hawaiian and Other Pacific Islander alone has the lowest Number of residents. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Race in the x axis and Number of residents in the y axis. ",
+      "The Number of residents is highest at Race White alone and lowest at Race Native Hawaiian and Other Pacific Islander alone. ",
+      "The highest Race White alone has 7472757.0 more Number of residents than the lowest Race Native Hawaiian and Other Pacific Islander alone. "
+   ],
+   "max_summary": [
+      "This bar chart has 8 columns on the x axis representing Race, and Number of residents in each Race on the y axis. ",
+      "The Number of residents is appeared to be the highest at Race White alone and lowest at Race Native Hawaiian and Other Pacific Islander alone. ",
+      "There is a difference of 7472757.0 between the maximum Race White alone and minimum Race Native Hawaiian and Other Pacific Islander alone. ",
+      "Number of residents at Race White alone is 7476047.0 , second place is  at 7476047.0, and thirdly is Hispanic or Latino (of any race) at 517381.0.",
+      "Considered together, the average Number of residents in all 8 Races is roughly 1249489.38. ",
+      "Summing up the values of all Races, we get total 9995915.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "White alone",
+         "Number of residents": 7476047.0
+      },
+      {
+         "Race": "Black or African American alone",
+         "Number of residents": 1363183.0
+      },
+      {
+         "Race": "Hispanic or Latino (of any race)",
+         "Number of residents": 517381.0
+      },
+      {
+         "Race": "Asian alone",
+         "Number of residents": 324358.0
+      },
+      {
+         "Race": "Two or more races",
+         "Number of residents": 250796.0
+      },
+      {
+         "Race": "American Indian and Alaska Native alone",
+         "Number of residents": 46417.0
+      },
+      {
+         "Race": "Some other race alone",
+         "Number of residents": 14443.0
+      },
+      {
+         "Race": "Native Hawaiian and Other Pacific Islander alone",
+         "Number of residents": 3290.0
+      }
+   ]
+}

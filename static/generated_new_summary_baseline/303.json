@@ -1,0 +1,246 @@
+{
+   "title": "All-time Summer Olympics medals table 1896 to 2016",
+   "xAxis": "Country",
+   "yAxis": "Medals won (gold, silver, bronze)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Medals won (gold, silver, bronze) in the y axis. ",
+      "The Medals won (gold, silver, bronze) is appeared to be the highest at Country United States and lowest at Country Indonesia. ",
+      "The highest Country United States has 2490.0 more Medals won (gold, silver, bronze) than the lowest Country Indonesia. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Medals won (gold, silver, bronze) in the y axis. ",
+      "The Medals won (gold, silver, bronze) is appeared to be the highest at Country United States and lowest at Country Indonesia. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Medals won (gold, silver, bronze) in the y axis. ",
+      "The Medals won (gold, silver, bronze) is appeared to be the highest at Country United States and lowest at Country Indonesia. ",
+      "The highest Country United States has 2490.0 more Medals won (gold, silver, bronze) than the lowest Country Indonesia. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Medals won (gold, silver, bronze) in the y axis. ",
+      "The maximum Medals won (gold, silver, bronze) 2520.0 is found at Country United States and the minimum is found at Indonesia where Medals won (gold, silver, bronze) is 30.0. ",
+      "Second maximum Medals won (gold, silver, bronze) is found at Country . ",
+      "The highest Country United States has 2490.0 more Medals won (gold, silver, bronze) than the lowest Country Indonesia. ",
+      "Medals won (gold, silver, bronze) at Country United States is 2520.0 , second place is  at 2520.0, and thirdly is Germany at 1681.0.",
+      "Similar Medals won (gold, silver, bronze) is found in Country Belgium, and Spain. ",
+      "The lowest value 30.0 at Indonesia is almost 8.05 times smaller than the average value 312.96. ",
+      "Summing up the values of all Countrys, we get total 15648.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 49,
+         "12": 49
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Medals won (gold, silver, bronze)": 2520.0
+      },
+      {
+         "Country": "Russia",
+         "Medals won (gold, silver, bronze)": 1865.0
+      },
+      {
+         "Country": "Germany",
+         "Medals won (gold, silver, bronze)": 1681.0
+      },
+      {
+         "Country": "Great Britain",
+         "Medals won (gold, silver, bronze)": 847.0
+      },
+      {
+         "Country": "France",
+         "Medals won (gold, silver, bronze)": 713.0
+      },
+      {
+         "Country": "Italy",
+         "Medals won (gold, silver, bronze)": 577.0
+      },
+      {
+         "Country": "China",
+         "Medals won (gold, silver, bronze)": 543.0
+      },
+      {
+         "Country": "Australia",
+         "Medals won (gold, silver, bronze)": 497.0
+      },
+      {
+         "Country": "Sweden",
+         "Medals won (gold, silver, bronze)": 494.0
+      },
+      {
+         "Country": "Hungary",
+         "Medals won (gold, silver, bronze)": 491.0
+      },
+      {
+         "Country": "Japan",
+         "Medals won (gold, silver, bronze)": 439.0
+      },
+      {
+         "Country": "Romania",
+         "Medals won (gold, silver, bronze)": 306.0
+      },
+      {
+         "Country": "Finland",
+         "Medals won (gold, silver, bronze)": 303.0
+      },
+      {
+         "Country": "Canada",
+         "Medals won (gold, silver, bronze)": 301.0
+      },
+      {
+         "Country": "Netherlands",
+         "Medals won (gold, silver, bronze)": 285.0
+      },
+      {
+         "Country": "Poland",
+         "Medals won (gold, silver, bronze)": 282.0
+      },
+      {
+         "Country": "South Korea",
+         "Medals won (gold, silver, bronze)": 264.0
+      },
+      {
+         "Country": "Cuba",
+         "Medals won (gold, silver, bronze)": 220.0
+      },
+      {
+         "Country": "Bulgaria",
+         "Medals won (gold, silver, bronze)": 214.0
+      },
+      {
+         "Country": "Czech Republic",
+         "Medals won (gold, silver, bronze)": 197.0
+      },
+      {
+         "Country": "Denmark",
+         "Medals won (gold, silver, bronze)": 194.0
+      },
+      {
+         "Country": "Switzerland",
+         "Medals won (gold, silver, bronze)": 193.0
+      },
+      {
+         "Country": "Norway",
+         "Medals won (gold, silver, bronze)": 152.0
+      },
+      {
+         "Country": "Belgium",
+         "Medals won (gold, silver, bronze)": 148.0
+      },
+      {
+         "Country": "Spain",
+         "Medals won (gold, silver, bronze)": 148.0
+      },
+      {
+         "Country": "Brazil",
+         "Medals won (gold, silver, bronze)": 128.0
+      },
+      {
+         "Country": "Ukraine",
+         "Medals won (gold, silver, bronze)": 124.0
+      },
+      {
+         "Country": "Greece",
+         "Medals won (gold, silver, bronze)": 117.0
+      },
+      {
+         "Country": "New Zealand",
+         "Medals won (gold, silver, bronze)": 117.0
+      },
+      {
+         "Country": "Kenya",
+         "Medals won (gold, silver, bronze)": 100.0
+      },
+      {
+         "Country": "Serbia",
+         "Medals won (gold, silver, bronze)": 110.0
+      },
+      {
+         "Country": "Turkey",
+         "Medals won (gold, silver, bronze)": 93.0
+      },
+      {
+         "Country": "Austria",
+         "Medals won (gold, silver, bronze)": 87.0
+      },
+      {
+         "Country": "South Africa",
+         "Medals won (gold, silver, bronze)": 86.0
+      },
+      {
+         "Country": "Belarus",
+         "Medals won (gold, silver, bronze)": 85.0
+      },
+      {
+         "Country": "Jamaica",
+         "Medals won (gold, silver, bronze)": 78.0
+      },
+      {
+         "Country": "Argentina",
+         "Medals won (gold, silver, bronze)": 69.0
+      },
+      {
+         "Country": "Kazakhstan",
+         "Medals won (gold, silver, bronze)": 69.0
+      },
+      {
+         "Country": "Iran",
+         "Medals won (gold, silver, bronze)": 68.0
+      },
+      {
+         "Country": "Mexico",
+         "Medals won (gold, silver, bronze)": 67.0
+      },
+      {
+         "Country": "North Korea",
+         "Medals won (gold, silver, bronze)": 54.0
+      },
+      {
+         "Country": "Ethiopia",
+         "Medals won (gold, silver, bronze)": 53.0
+      },
+      {
+         "Country": "Azerbaijan",
+         "Medals won (gold, silver, bronze)": 44.0
+      },
+      {
+         "Country": "Estonia",
+         "Medals won (gold, silver, bronze)": 34.0
+      },
+      {
+         "Country": "Croatia",
+         "Medals won (gold, silver, bronze)": 33.0
+      },
+      {
+         "Country": "Uzbekistan",
+         "Medals won (gold, silver, bronze)": 33.0
+      },
+      {
+         "Country": "Georgia",
+         "Medals won (gold, silver, bronze)": 32.0
+      },
+      {
+         "Country": "Ireland",
+         "Medals won (gold, silver, bronze)": 32.0
+      },
+      {
+         "Country": "Thailand",
+         "Medals won (gold, silver, bronze)": 31.0
+      },
+      {
+         "Country": "Indonesia",
+         "Medals won (gold, silver, bronze)": 30.0
+      }
+   ]
+}

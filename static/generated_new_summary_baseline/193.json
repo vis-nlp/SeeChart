@@ -1,0 +1,97 @@
+{
+   "title": "Nuclear power plants : permanent shutdowns 2005 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of shutdowns",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of shutdowns. In total the number of data points it has is 15.",
+      " In general Number of shutdowns has rose over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Number of shutdowns, about 13.0 was reported at Year 2011",
+      "Minimum Number of shutdowns about 1.0 was reached at Year 2007,  2010, and 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of shutdowns. In total the number of data points it has is 15.",
+      " In general Number of shutdowns has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of shutdowns. In total the number of data points it has is 15.",
+      " In general Number of shutdowns has rose over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Number of shutdowns, about 13.0 was reported at Year 2011",
+      "Minimum Number of shutdowns about 1.0 was reached at Year 2007,  2010, and 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of shutdowns, containing a total of 15 data points.",
+      " In general Number of shutdowns has rose over the Year.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Maximum Number of shutdowns, about 13.0 was reported at Year 2011",
+      "Minimum Number of shutdowns about 1.0 was reached at Year 2007,  2010, and 2014",
+      "The line significantly increased by 6.0 from Year 2005 to 2006,remained stable by 7.0 from Year 2006 to 2007,remained stable by 1.0 from Year 2007 to 2008,increased by 12.0 from Year 2010 to 2011,remained stable by 10.0 from Year 2011 to 2012,remained stable by 3.0 from Year 2012 to 2013,remained stable by 5.0 from Year 2013 to 2014, and lastly, increased by 6.0 from Year 2014 to 2015."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2018",
+         "Number of shutdowns": 7.0
+      },
+      {
+         "Year": "2017",
+         "Number of shutdowns": 5.0
+      },
+      {
+         "Year": "2016",
+         "Number of shutdowns": 4.0
+      },
+      {
+         "Year": "2015",
+         "Number of shutdowns": 7.0
+      },
+      {
+         "Year": "2014",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2013",
+         "Number of shutdowns": 6.0
+      },
+      {
+         "Year": "2012",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2011",
+         "Number of shutdowns": 13.0
+      },
+      {
+         "Year": "2010",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2009",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2008",
+         "Number of shutdowns": 2.0
+      },
+      {
+         "Year": "2007",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2006",
+         "Number of shutdowns": 8.0
+      },
+      {
+         "Year": "2005",
+         "Number of shutdowns": 2.0
+      }
+   ]
+}

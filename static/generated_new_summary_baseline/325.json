@@ -1,0 +1,64 @@
+{
+   "title": "Video game industry 's wealthiest entrepreneurs 2016",
+   "xAxis": "Entrepreneur (company)",
+   "yAxis": "Net worth in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 columns on the x axis representing Entrepreneur (company), and Net worth in billion U.S. dollars in each Entrepreneur (company) on the y axis. ",
+      "Entrepreneur (company) Ma Huateng (Tencent) has the highest Net worth in billion U.S. dollars and Kim Jung-Ju (Nexon) has the lowest Net worth in billion U.S. dollars. ",
+      "The highest value at Entrepreneur (company) Ma Huateng (Tencent) is 6.26x times more than the lowest value at Kim Jung-Ju (Nexon). "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Entrepreneur (company), and Net worth in billion U.S. dollars in each Entrepreneur (company) on the y axis. ",
+      "Entrepreneur (company) Ma Huateng (Tencent) has the highest Net worth in billion U.S. dollars and Kim Jung-Ju (Nexon) has the lowest Net worth in billion U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Entrepreneur (company), and Net worth in billion U.S. dollars in each Entrepreneur (company) on the y axis. ",
+      "Entrepreneur (company) Ma Huateng (Tencent) has the highest Net worth in billion U.S. dollars and Kim Jung-Ju (Nexon) has the lowest Net worth in billion U.S. dollars. ",
+      "The highest value at Entrepreneur (company) Ma Huateng (Tencent) is 6.26x times more than the lowest value at Kim Jung-Ju (Nexon). "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Net worth in billion U.S. dollars for 5 number of Entrepreneur (company)s. ",
+      "The Net worth in billion U.S. dollars is highest at Entrepreneur (company) Ma Huateng (Tencent) and lowest at Entrepreneur (company) Kim Jung-Ju (Nexon). ",
+      "The highest Entrepreneur (company) Ma Huateng (Tencent) has 18.4 more Net worth in billion U.S. dollars than the lowest Entrepreneur (company) Kim Jung-Ju (Nexon). ",
+      "The Entrepreneur (company) Ma Huateng (Tencent) has the highest Net worth in billion U.S. dollars, followed by , and Shi Yuzhu (Giant Interactive). Down to the Entrepreneur (company) Kim Jung-Ju (Nexon) which is the lowest. ",
+      "The lowest value 3.5 at Kim Jung-Ju (Nexon) is almost 2.32 times smaller than the average value 9.44. ",
+      "The Net worth in billion U.S. dollars is 47.2 if we add up values of all Entrepreneur (company)s. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Entrepreneur (company)": "Ma Huateng (Tencent)",
+         "Net worth in billion U.S. dollars": 21.9
+      },
+      {
+         "Entrepreneur (company)": "William Ding (NetEase)",
+         "Net worth in billion U.S. dollars": 11.5
+      },
+      {
+         "Entrepreneur (company)": "Shi Yuzhu (Giant Interactive)",
+         "Net worth in billion U.S. dollars": 5.4
+      },
+      {
+         "Entrepreneur (company)": "Kwon Hyuk-Bin (SmileGate)",
+         "Net worth in billion U.S. dollars": 4.9
+      },
+      {
+         "Entrepreneur (company)": "Kim Jung-Ju (Nexon)",
+         "Net worth in billion U.S. dollars": 3.5
+      }
+   ]
+}

@@ -1,0 +1,84 @@
+{
+   "title": "Top U.S. states by number of hogs and pigs 2019",
+   "xAxis": "State",
+   "yAxis": "Number in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing State, and Number in thousands in each State on the y axis. ",
+      "The Number in thousands is appeared to be the highest at State Iowa and lowest at State Kansas. ",
+      "The highest State Iowa has 21460.0 more Number in thousands than the lowest State Kansas. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing State, and Number in thousands in each State on the y axis. ",
+      "The Number in thousands is highest at State Iowa and lowest at State Kansas. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing State, and Number in thousands in each State on the y axis. ",
+      "The Number in thousands is appeared to be the highest at State Iowa and lowest at State Kansas. ",
+      "The highest State Iowa has 21460.0 more Number in thousands than the lowest State Kansas. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number in thousands for 10 number of States. ",
+      "The maximum Number in thousands 23500.0 is found at State Iowa and the minimum is found at Kansas where Number in thousands is 2040.0. ",
+      "The highest State Iowa has 21460.0 more Number in thousands than the lowest State Kansas. ",
+      "Number in thousands at State Iowa is 23500.0 , second place is  at 23500.0, and thirdly is Minnesota at 8700.0.",
+      "The State Kansas tends to be 3.65 percent lower than average. ",
+      "The Number in thousands is 64310.0 if we add up values of all States. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "Iowa",
+         "Number in thousands": 23500.0
+      },
+      {
+         "State": "North Carolina",
+         "Number in thousands": 8900.0
+      },
+      {
+         "State": "Minnesota",
+         "Number in thousands": 8700.0
+      },
+      {
+         "State": "Illinois",
+         "Number in thousands": 5200.0
+      },
+      {
+         "State": "Indiana",
+         "Number in thousands": 4150.0
+      },
+      {
+         "State": "Nebraska",
+         "Number in thousands": 3550.0
+      },
+      {
+         "State": "Missouri",
+         "Number in thousands": 3500.0
+      },
+      {
+         "State": "Ohio",
+         "Number in thousands": 2600.0
+      },
+      {
+         "State": "Oklahoma",
+         "Number in thousands": 2170.0
+      },
+      {
+         "State": "Kansas",
+         "Number in thousands": 2040.0
+      }
+   ]
+}

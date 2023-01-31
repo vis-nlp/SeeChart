@@ -1,0 +1,84 @@
+{
+   "title": "Most shazamed songs of all time worldwide 2018",
+   "xAxis": "Song Titles",
+   "yAxis": "Number of identifications in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Song Titles in the x axis and Number of identifications in millions in the y axis. ",
+      "The Number of identifications in millions is appeared to be the highest at Song Titles Wake Me Up by Avicii and lowest at Song Titles All of Me by John Legend. ",
+      "There is a difference of 6.19 between the maximum Song Titles Wake Me Up by Avicii and minimum Song Titles All of Me by John Legend. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of identifications in millions for 10 number of Song Titless. ",
+      "The Number of identifications in millions is highest at Song Titles Wake Me Up by Avicii and lowest at Song Titles All of Me by John Legend. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Song Titles in the x axis and Number of identifications in millions in the y axis. ",
+      "The Number of identifications in millions is appeared to be the highest at Song Titles Wake Me Up by Avicii and lowest at Song Titles All of Me by John Legend. ",
+      "There is a difference of 6.19 between the maximum Song Titles Wake Me Up by Avicii and minimum Song Titles All of Me by John Legend. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Song Titles, and Number of identifications in millions in each Song Titles on the y axis. ",
+      "The maximum Number of identifications in millions 23.77 is found at Song Titles Wake Me Up by Avicii and the minimum is found at All of Me by John Legend where Number of identifications in millions is 17.58. ",
+      "Song Titles  has the second highest value for Number of identifications in millions. ",
+      "The highest Song Titles Wake Me Up by Avicii has 6.19 more Number of identifications in millions than the lowest Song Titles All of Me by John Legend. ",
+      "Number of identifications in millions at Song Titles Wake Me Up by Avicii is 23.77 , second place is  at 23.77, and thirdly is Lean On by Major Lazer Feat. M\u00d8 & DJ Snake at 21.38.",
+      "The average Number of identifications in millions in all 10 Song Titless is 20.64. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Song Titles": "Wake Me Up by Avicii",
+         "Number of identifications in millions": 23.77
+      },
+      {
+         "Song Titles": "Somebody That I Used To Know by Gotye feat. Kimbra",
+         "Number of identifications in millions": 21.63
+      },
+      {
+         "Song Titles": "Lean On by Major Lazer Feat. M\u00d8 & DJ Snake",
+         "Number of identifications in millions": 21.38
+      },
+      {
+         "Song Titles": "Let Her Go by Passenger",
+         "Number of identifications in millions": 21.29
+      },
+      {
+         "Song Titles": "Thinking Out Loud by Ed Sheeran",
+         "Number of identifications in millions": 20.66
+      },
+      {
+         "Song Titles": "Blurred Lines by Robin Thicke T.I. and Pharrell",
+         "Number of identifications in millions": 20.4
+      },
+      {
+         "Song Titles": "Take Me To Church by Hozier",
+         "Number of identifications in millions": 20.13
+      },
+      {
+         "Song Titles": "Rather Be by Clean Bandit feat. Jess Glynne",
+         "Number of identifications in millions": 19.82
+      },
+      {
+         "Song Titles": "Cheerleader (Felix Jaehn Remix) by Omi",
+         "Number of identifications in millions": 19.77
+      },
+      {
+         "Song Titles": "All of Me by John Legend",
+         "Number of identifications in millions": 17.58
+      }
+   ]
+}

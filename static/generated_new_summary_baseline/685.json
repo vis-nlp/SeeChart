@@ -1,0 +1,65 @@
+{
+   "title": "Canada retail e-commerce sales growth 2018 to 2023",
+   "xAxis": "Year",
+   "yAxis": "Year-over-year change",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Year-over-year change. In total the number of data points it has is 6.",
+      " In general Year-over-year change has fallen over the Year.",
+      "Year-over-year change is roughly constant from 2018 to 2020, and finally slightly decreasing from 2020 to 2023.",
+      "The steepest decrease occurs in between the Year 2021 and 2022.",
+      "Maximum Year-over-year change, about 10.1 was reported at Year 2019",
+      "Minimum Year-over-year change about 3.1 was reached at Year 2023"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year-over-year change, containing a total of 6 data points.",
+      " In general Year-over-year change has fallen over the Year.",
+      "Year-over-year change is roughly constant from 2018 to 2020, and finally slightly decreasing from 2020 to 2023."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Year-over-year change. In total the number of data points it has is 6.",
+      " In general Year-over-year change has fallen over the Year.",
+      "Year-over-year change is roughly constant from 2018 to 2020, and finally slightly decreasing from 2020 to 2023.",
+      "The steepest decrease occurs in between the Year 2021 and 2022.",
+      "Maximum Year-over-year change, about 10.1 was reported at Year 2019",
+      "Minimum Year-over-year change about 3.1 was reached at Year 2023"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year-over-year change, containing a total of 6 data points.",
+      " Overall Year-over-year change has decreased over the Year.",
+      "Year-over-year change is roughly constant from 2018 to 2020, and finally slightly decreasing from 2020 to 2023.",
+      "The steepest decrease occurs in between the Year 2021 and 2022.",
+      "Maximum Year-over-year change, about 10.1 was reported at Year 2019",
+      "Minimum Year-over-year change about 3.1 was reached at Year 2023",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2023",
+         "Year-over-year change": 3.1
+      },
+      {
+         "Year": "2022",
+         "Year-over-year change": 4.7
+      },
+      {
+         "Year": "2021",
+         "Year-over-year change": 6.9
+      },
+      {
+         "Year": "2020",
+         "Year-over-year change": 9.1
+      },
+      {
+         "Year": "2019",
+         "Year-over-year change": 10.1
+      },
+      {
+         "Year": "2018",
+         "Year-over-year change": 9.1
+      }
+   ]
+}

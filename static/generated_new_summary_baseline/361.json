@@ -1,0 +1,73 @@
+{
+   "title": "Election 2016 exit polls : percentage of votes by gender",
+   "labels": [
+      "Sex",
+      "Hillary Clinton",
+      "Donald Trump"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Percentage of votes on the Y-axis for 2 different Sexs for 2 groups Hillary Clinton, and Donald Trump that are presented on the X-axis. ",
+      " Out of all 2 groups, Hillary Clinton had the highest Percentage of votes for Sex Female and Hillary Clinton had the lowest Percentage of votes for Sex Male. ",
+      " There is a gap of 11.0 between the highest and lowest Percentage of votes found for Donald Trump in Sex Male and Female. ",
+      "On average, the Sex Female had the highest Percentage of votes for all 2 groups Hillary Clinton, and Donald Trump. Whereas Male had the lowest average Percentage of votes. "
+   ],
+   "xAxis": "Sex",
+   "yAxis": "Percentage of votes",
+   "min_summary": [
+      "This grouped bar chart shows Percentage of votes on the Y-axis for 2 different Sexs for 2 groups Hillary Clinton, and Donald Trump that are presented on the X-axis. ",
+      " Out of all 2 groups, Hillary Clinton had the highest Percentage of votes for Sex Female and Hillary Clinton had the lowest Percentage of votes for Sex Male. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Percentage of votes on the Y-axis for 2 different Sexs for 2 groups Hillary Clinton, and Donald Trump that are presented on the X-axis. ",
+      " Out of all 2 groups, Hillary Clinton had the highest Percentage of votes for Sex Female and Hillary Clinton had the lowest Percentage of votes for Sex Male. ",
+      " There is a gap of 11.0 between the highest and lowest Percentage of votes found for Donald Trump in Sex Male and Female. ",
+      "On average, the Sex Female had the highest Percentage of votes for all 2 groups Hillary Clinton, and Donald Trump. Whereas Male had the lowest average Percentage of votes. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 2 different Sexs on X-axis for 2 groups Hillary Clinton, and Donald Trump. On the Y-axis it shows their corresponding Percentage of votes. ",
+      " For Sex Female, Hillary Clinton had the highest Percentage of votes 54.0 among the 2 groups and in Male, Hillary Clinton had the lowest Percentage of votes 41.0. ",
+      " For Sex Male, Donald Trump had the highest Percentage of votes among all 2 Sexs and it has the lowest Percentage of votes in Sex Female. ",
+      " The maximum Percentage of votes for Donald Trump that was found in Sex Male was 1.26 times larger than the minimum Percentage of votes observed in Sex Female. ",
+      " Among the groups, Hillary Clinton had the biggest difference in Percentage of votes. Where the maximum Percentage of votes was 1.32 times larger than the minimum Percentage of votes. ",
+      "Averaging all 2 groups Hillary Clinton, and Donald Trump, the Sex Female is the maximum Percentage of votes and Male is the minimum Percentage of votes. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Hillary Clinton": "41",
+         "Donald Trump": "53"
+      },
+      {
+         "Sex": "Female",
+         "Hillary Clinton": "54",
+         "Donald Trump": "42"
+      }
+   ]
+}

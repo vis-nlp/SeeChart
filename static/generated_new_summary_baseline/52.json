@@ -1,0 +1,85 @@
+{
+   "title": "Ratio of government expenditure to gross domestic product ( GDP ) in Malaysia 2024",
+   "xAxis": "Year",
+   "yAxis": "Ratio of government expenditure to GDP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, containing a total of 11 data points.",
+      " In general Ratio of government expenditure to GDP has fallen over the Year.",
+      "Ratio of government expenditure to GDP is gradually decreasing from 2014 to 2017, slightly increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly decreasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "The steepest decrease occurs in between the Year 2019 and 2020.",
+      "Maximum Ratio of government expenditure to GDP, about 25.96 was reported at Year 2014",
+      "Minimum Ratio of government expenditure to GDP about 20.35 was reached at Year 2024"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Ratio of government expenditure to GDP. In total the number of data points it has is 11.",
+      " Overall Ratio of government expenditure to GDP has decreased over the Year.",
+      "Ratio of government expenditure to GDP is gradually decreasing from 2014 to 2017, slightly increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly decreasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, containing a total of 11 data points.",
+      " In general Ratio of government expenditure to GDP has fallen over the Year.",
+      "Ratio of government expenditure to GDP is gradually decreasing from 2014 to 2017, slightly increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly decreasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "The steepest decrease occurs in between the Year 2019 and 2020.",
+      "Maximum Ratio of government expenditure to GDP, about 25.96 was reported at Year 2014",
+      "Minimum Ratio of government expenditure to GDP about 20.35 was reached at Year 2024"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, containing a total of 11 data points.",
+      " In general Ratio of government expenditure to GDP has fallen over the Year.",
+      "Ratio of government expenditure to GDP is gradually decreasing from 2014 to 2017, slightly increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly decreasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "The steepest decrease occurs in between the Year 2019 and 2020.",
+      "Maximum Ratio of government expenditure to GDP, about 25.96 was reported at Year 2014",
+      "Minimum Ratio of government expenditure to GDP about 20.35 was reached at Year 2024",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "Ratio of government expenditure to GDP": 20.35
+      },
+      {
+         "Year": "2023",
+         "Ratio of government expenditure to GDP": 20.37
+      },
+      {
+         "Year": "2022",
+         "Ratio of government expenditure to GDP": 20.46
+      },
+      {
+         "Year": "2021",
+         "Ratio of government expenditure to GDP": 20.41
+      },
+      {
+         "Year": "2020",
+         "Ratio of government expenditure to GDP": 20.54
+      },
+      {
+         "Year": "2019",
+         "Ratio of government expenditure to GDP": 22.97
+      },
+      {
+         "Year": "2018",
+         "Ratio of government expenditure to GDP": 22.7
+      },
+      {
+         "Year": "2017",
+         "Ratio of government expenditure to GDP": 21.58
+      },
+      {
+         "Year": "2016",
+         "Ratio of government expenditure to GDP": 22.7
+      },
+      {
+         "Year": "2015",
+         "Ratio of government expenditure to GDP": 24.71
+      },
+      {
+         "Year": "2014",
+         "Ratio of government expenditure to GDP": 25.96
+      }
+   ]
+}

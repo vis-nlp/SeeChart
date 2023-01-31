@@ -1,0 +1,105 @@
+{
+   "title": "Annual net sales of Amazon 2004 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Net revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars, containing a total of 16 data points.",
+      " In general Net revenue in billion U.S. dollars has rose over the Year.",
+      "Net revenue in billion U.S. dollars is slightly increasing from 2004 to 2019.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest Net revenue in billion U.S. dollars, of value 280.52 was reached at Year 2019",
+      "Minimum Net revenue in billion U.S. dollars about 6.92 was reached at Year 2004"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net revenue in billion U.S. dollars. In total the number of data points it has is 16.",
+      " Overall Net revenue in billion U.S. dollars has increased over the Year.",
+      "Net revenue in billion U.S. dollars is slightly increasing from 2004 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars, containing a total of 16 data points.",
+      " In general Net revenue in billion U.S. dollars has rose over the Year.",
+      "Net revenue in billion U.S. dollars is slightly increasing from 2004 to 2019.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest Net revenue in billion U.S. dollars, of value 280.52 was reached at Year 2019",
+      "Minimum Net revenue in billion U.S. dollars about 6.92 was reached at Year 2004"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net revenue in billion U.S. dollars. In total the number of data points it has is 16.",
+      " In general Net revenue in billion U.S. dollars has rose over the Year.",
+      "Net revenue in billion U.S. dollars is slightly increasing from 2004 to 2019.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Net revenue in billion U.S. dollars, of value 280.52 was reached at Year 2019",
+      "Minimum Net revenue in billion U.S. dollars about 6.92 was reached at Year 2004",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Net revenue in billion U.S. dollars": 280.52
+      },
+      {
+         "Year": "2018",
+         "Net revenue in billion U.S. dollars": 232.89
+      },
+      {
+         "Year": "2017",
+         "Net revenue in billion U.S. dollars": 177.87
+      },
+      {
+         "Year": "2016",
+         "Net revenue in billion U.S. dollars": 135.99
+      },
+      {
+         "Year": "2015",
+         "Net revenue in billion U.S. dollars": 107.01
+      },
+      {
+         "Year": "2014",
+         "Net revenue in billion U.S. dollars": 88.99
+      },
+      {
+         "Year": "2013",
+         "Net revenue in billion U.S. dollars": 74.45
+      },
+      {
+         "Year": "2012",
+         "Net revenue in billion U.S. dollars": 61.09
+      },
+      {
+         "Year": "2011",
+         "Net revenue in billion U.S. dollars": 48.08
+      },
+      {
+         "Year": "2010",
+         "Net revenue in billion U.S. dollars": 34.2
+      },
+      {
+         "Year": "2009",
+         "Net revenue in billion U.S. dollars": 24.51
+      },
+      {
+         "Year": "2008",
+         "Net revenue in billion U.S. dollars": 19.17
+      },
+      {
+         "Year": "2007",
+         "Net revenue in billion U.S. dollars": 14.84
+      },
+      {
+         "Year": "2006",
+         "Net revenue in billion U.S. dollars": 10.71
+      },
+      {
+         "Year": "2005",
+         "Net revenue in billion U.S. dollars": 8.49
+      },
+      {
+         "Year": "2004",
+         "Net revenue in billion U.S. dollars": 6.92
+      }
+   ]
+}

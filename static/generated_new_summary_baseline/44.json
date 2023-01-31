@@ -1,0 +1,115 @@
+{
+   "title": "Facebook usage frequency in the United States 2018 , by ethnicity",
+   "labels": [
+      "Frequency",
+      "White",
+      "Hispanic",
+      "Black",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 7 different Frequencys on X-axis for 4 groups White, Hispanic, Black, and Other. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Frequency At least once a day had the maximum Share of respondents among all 4 groups, and it was for White. The minimum Share of respondents was observed in Frequency Don't know/No opinion for Hispanic. ",
+      "Frequency At least once a day and Don't know/No opinion had the biggest gap of 47.0 between the highest and lowest Share of respondents found for Other. ",
+      "On average, the Frequency At least once a day had the highest Share of respondents for all 4 groups White, Hispanic, Black, and Other. Whereas Don't know/No opinion had the lowest average Share of respondents. "
+   ],
+   "xAxis": "Frequency",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 7 different Frequencys on X-axis for 4 groups White, Hispanic, Black, and Other. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Frequency At least once a day had the maximum Share of respondents among all 4 groups, and it was for White. The minimum Share of respondents was observed in Frequency Don't know/No opinion for Hispanic. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 7 different Frequencys on X-axis for 4 groups White, Hispanic, Black, and Other. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Frequency At least once a day had the maximum Share of respondents among all 4 groups, and it was for White. The minimum Share of respondents was observed in Frequency Don't know/No opinion for Hispanic. ",
+      "Frequency At least once a day and Don't know/No opinion had the biggest gap of 47.0 between the highest and lowest Share of respondents found for Other. ",
+      "On average, the Frequency At least once a day had the highest Share of respondents for all 4 groups White, Hispanic, Black, and Other. Whereas Don't know/No opinion had the lowest average Share of respondents. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 7 different Frequencys on X-axis for 4 groups White, Hispanic, Black, and Other. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Frequency At least once a day had the maximum Share of respondents among all 4 groups, and it was for White. The minimum Share of respondents was observed in Frequency Don't know/No opinion for Hispanic. ",
+      " Among all the Frequencys, Other had the highest Share of respondents 49.0 in Frequency At least once a day and lowest value 2.0 in Frequency Don't know/No opinion. ",
+      " The maximum Share of respondents for Other that was found in Frequency At least once a day was 24.5 times larger than the minimum Share of respondents observed in Frequency Don't know/No opinion. ",
+      " Out of all 4 groups, the highest gap between the maximum and minimum Share of respondents was found in case of White. ",
+      " In case of Frequency At least once a day, White had the highest Share of respondents 64.0 among the 4 groups and in Don't know/No opinion, Hispanic had the lowest Share of respondents 1.0. The second highest Share of respondents 53.0 was observed for White in Frequency At least once a day. ",
+      "Averaging all 4 groups White, Hispanic, Black, and Other, the Frequency At least once a day is the maximum Share of respondents and Don't know/No opinion is the minimum Share of respondents. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "5"
+         ],
+         "14": [
+            "4",
+            "5"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Frequency": "At least once a day",
+         "White": "64",
+         "Hispanic": "56",
+         "Black": "53",
+         "Other": "49"
+      },
+      {
+         "Frequency": "A few times a week",
+         "White": "12",
+         "Hispanic": "15",
+         "Black": "15",
+         "Other": "14"
+      },
+      {
+         "Frequency": "At least once a week",
+         "White": "4",
+         "Hispanic": "4",
+         "Black": "7",
+         "Other": "3"
+      },
+      {
+         "Frequency": "A few times a month",
+         "White": "3",
+         "Hispanic": "6",
+         "Black": "3",
+         "Other": "7"
+      },
+      {
+         "Frequency": "At least once a month",
+         "White": "4",
+         "Hispanic": "5",
+         "Black": "4",
+         "Other": "6"
+      },
+      {
+         "Frequency": "Never",
+         "White": "11",
+         "Hispanic": "13",
+         "Black": "13",
+         "Other": "19"
+      },
+      {
+         "Frequency": "Don't know/No opinion",
+         "White": "2",
+         "Hispanic": "1",
+         "Black": "5",
+         "Other": "2"
+      }
+   ]
+}

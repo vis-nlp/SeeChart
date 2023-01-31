@@ -1,0 +1,164 @@
+{
+   "title": "United Kingdom ( UK ) : Live births 1931 to 1960",
+   "xAxis": "Years 1931-1960",
+   "yAxis": "Number of live births",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 30 columns on the x axis representing Years 1931-1960, and Number of live births in each Years 1931-1960 on the y axis. ",
+      "Years 1931-1960 '47 has the highest Number of live births and '33 has the lowest Number of live births. ",
+      "The highest Years 1931-1960 '47 has 333867.0 more Number of live births than the lowest Years 1931-1960 '33. "
+   ],
+   "min_summary": [
+      "This bar chart has 30 columns on the x axis representing Years 1931-1960, and Number of live births in each Years 1931-1960 on the y axis. ",
+      "Years 1931-1960 '47 has the highest Number of live births and '33 has the lowest Number of live births. "
+   ],
+   "mid_summary": [
+      "This bar chart has 30 columns on the x axis representing Years 1931-1960, and Number of live births in each Years 1931-1960 on the y axis. ",
+      "Years 1931-1960 '47 has the highest Number of live births and '33 has the lowest Number of live births. ",
+      "The highest Years 1931-1960 '47 has 333867.0 more Number of live births than the lowest Years 1931-1960 '33. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Years 1931-1960 in the x axis and Number of live births in the y axis. ",
+      "The Number of live births is appeared to be the highest at Years 1931-1960 '47 and lowest at Years 1931-1960 '33. ",
+      "The second highest Number of live births is appeared to be the Years 1931-1960 . ",
+      "The difference of Number of live births between the highest and lowest Years 1931-1960 is 333867.0. ",
+      "Years 1931-1960 '47 is higher than any other Years 1931-1960s with value 1025427.0, followed by , and '60. Down to Years 1931-1960 '33 with the lowest value 691560.0. ",
+      "The Years 1931-1960 '33 tends to be 1.28 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 13,
+         "12": 13
+      },
+      {
+         "7": 27,
+         "12": 27
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Years 1931-1960": "'60",
+         "Number of live births": 918286.0
+      },
+      {
+         "Years 1931-1960": "'59",
+         "Number of live births": 878561.0
+      },
+      {
+         "Years 1931-1960": "'58",
+         "Number of live births": 870497.0
+      },
+      {
+         "Years 1931-1960": "'57",
+         "Number of live births": 851466.0
+      },
+      {
+         "Years 1931-1960": "'56",
+         "Number of live births": 825137.0
+      },
+      {
+         "Years 1931-1960": "'55",
+         "Number of live births": 789315.0
+      },
+      {
+         "Years 1931-1960": "'54",
+         "Number of live births": 794769.0
+      },
+      {
+         "Years 1931-1960": "'53",
+         "Number of live births": 804269.0
+      },
+      {
+         "Years 1931-1960": "'52",
+         "Number of live births": 792917.0
+      },
+      {
+         "Years 1931-1960": "'51",
+         "Number of live births": 796645.0
+      },
+      {
+         "Years 1931-1960": "'50",
+         "Number of live births": 818421.0
+      },
+      {
+         "Years 1931-1960": "'49",
+         "Number of live births": 855298.0
+      },
+      {
+         "Years 1931-1960": "'48",
+         "Number of live births": 905182.0
+      },
+      {
+         "Years 1931-1960": "'47",
+         "Number of live births": 1025427.0
+      },
+      {
+         "Years 1931-1960": "'46",
+         "Number of live births": 955266.0
+      },
+      {
+         "Years 1931-1960": "'45",
+         "Number of live births": 795868.0
+      },
+      {
+         "Years 1931-1960": "'44",
+         "Number of live births": 878298.0
+      },
+      {
+         "Years 1931-1960": "'43",
+         "Number of live births": 810524.0
+      },
+      {
+         "Years 1931-1960": "'42",
+         "Number of live births": 771851.0
+      },
+      {
+         "Years 1931-1960": "'41",
+         "Number of live births": 695726.0
+      },
+      {
+         "Years 1931-1960": "'40",
+         "Number of live births": 701875.0
+      },
+      {
+         "Years 1931-1960": "'39",
+         "Number of live births": 726632.0
+      },
+      {
+         "Years 1931-1960": "'38",
+         "Number of live births": 735573.0
+      },
+      {
+         "Years 1931-1960": "'37",
+         "Number of live births": 723779.0
+      },
+      {
+         "Years 1931-1960": "'36",
+         "Number of live births": 720129.0
+      },
+      {
+         "Years 1931-1960": "'35",
+         "Number of live births": 711426.0
+      },
+      {
+         "Years 1931-1960": "'34",
+         "Number of live births": 711843.0
+      },
+      {
+         "Years 1931-1960": "'33",
+         "Number of live births": 691560.0
+      },
+      {
+         "Years 1931-1960": "'32",
+         "Number of live births": 730079.0
+      },
+      {
+         "Years 1931-1960": "'31",
+         "Number of live births": 749974.0
+      }
+   ]
+}

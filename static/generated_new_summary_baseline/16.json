@@ -1,0 +1,62 @@
+{
+   "title": "Number of Pok\u00e9mon GO daily users in the U.S. 2016",
+   "xAxis": "Month",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of users in millions for 4 number of Months. ",
+      "The Number of users in millions is appeared to be the highest at Month July 19 and lowest at Month July 12. ",
+      "There is a difference of 24.0 between the maximum Month July 19 and minimum Month July 12. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Number of users in millions in the y axis. ",
+      "The Number of users in millions is appeared to be the highest at Month July 19 and lowest at Month July 12. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of users in millions for 4 number of Months. ",
+      "The Number of users in millions is appeared to be the highest at Month July 19 and lowest at Month July 12. ",
+      "There is a difference of 24.0 between the maximum Month July 19 and minimum Month July 12. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of users in millions for 4 number of Months. ",
+      "Month July 19 has the highest Number of users in millions and July 12 has the lowest Number of users in millions. ",
+      "The second highest Number of users in millions is appeared to be the Month . ",
+      "The highest Month July 19 has 24.0 more Number of users in millions than the lowest Month July 12. ",
+      "Month July 19 is higher than any other Months with value 45.0, followed by , and July 14. Down to Month July 12 with the lowest value 21.0. ",
+      "The Number of users in millions has reduced over the past 4 Months. ",
+      "Considered together, the average Number of users in millions in all 4 Months is roughly 30.25. ",
+      "The Number of users in millions is 121.0 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "August 16",
+         "Number of users in millions": 30.0
+      },
+      {
+         "Month": "July 19",
+         "Number of users in millions": 45.0
+      },
+      {
+         "Month": "July 14",
+         "Number of users in millions": 25.0
+      },
+      {
+         "Month": "July 12",
+         "Number of users in millions": 21.0
+      }
+   ]
+}

@@ -1,0 +1,121 @@
+{
+   "title": "Year-to-year percentage of change in holiday retail sales in the U.S. 2000 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Percentage change in retail sales",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage change in retail sales. In total the number of data points it has is 20.",
+      " In general Percentage change in retail sales has rose over the Year.",
+      "Percentage change in retail sales is roughly constant from 2000 to 2009, gradually increasing from 2009 to 2010, and finally roughly constant from 2010 to 2019.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Percentage change in retail sales, of value 6.8 was reached at Year 2004",
+      "The lowest Percentage change in retail sales, of value 0.2 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage change in retail sales. In total the number of data points it has is 20.",
+      " In general Percentage change in retail sales has rose over the Year.",
+      "Percentage change in retail sales is roughly constant from 2000 to 2009, gradually increasing from 2009 to 2010, and finally roughly constant from 2010 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage change in retail sales. In total the number of data points it has is 20.",
+      " In general Percentage change in retail sales has rose over the Year.",
+      "Percentage change in retail sales is roughly constant from 2000 to 2009, gradually increasing from 2009 to 2010, and finally roughly constant from 2010 to 2019.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Percentage change in retail sales, of value 6.8 was reached at Year 2004",
+      "The lowest Percentage change in retail sales, of value 0.2 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage change in retail sales. In total the number of data points it has is 20.",
+      " Overall Percentage change in retail sales has increased over the Year.",
+      "Percentage change in retail sales is roughly constant from 2000 to 2009, gradually increasing from 2009 to 2010, and finally roughly constant from 2010 to 2019.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest Percentage change in retail sales, of value 6.8 was reached at Year 2004",
+      "The lowest Percentage change in retail sales, of value 0.2 was reported at Year 2009",
+      "The line rapidly increased by 142.86% from Year 2002 to 2003,remained stable by 74.07% from Year 2007 to 2008,remained stable by 95.74% from Year 2008 to 2009,increased by 2500.0% from Year 2009 to 2010,remained stable by 75.86% from Year 2013 to 2014, and lastly, remained stable by 90.48% from Year 2018 to 2019."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Percentage change in retail sales": 4.0
+      },
+      {
+         "Year": "2018",
+         "Percentage change in retail sales": 2.1
+      },
+      {
+         "Year": "2017",
+         "Percentage change in retail sales": 5.2
+      },
+      {
+         "Year": "2016",
+         "Percentage change in retail sales": 3.2
+      },
+      {
+         "Year": "2015",
+         "Percentage change in retail sales": 3.1
+      },
+      {
+         "Year": "2014",
+         "Percentage change in retail sales": 5.1
+      },
+      {
+         "Year": "2013",
+         "Percentage change in retail sales": 2.9
+      },
+      {
+         "Year": "2012",
+         "Percentage change in retail sales": 2.6
+      },
+      {
+         "Year": "2011",
+         "Percentage change in retail sales": 4.6
+      },
+      {
+         "Year": "2010",
+         "Percentage change in retail sales": 5.2
+      },
+      {
+         "Year": "2009",
+         "Percentage change in retail sales": 0.2
+      },
+      {
+         "Year": "2008",
+         "Percentage change in retail sales": 4.7
+      },
+      {
+         "Year": "2007",
+         "Percentage change in retail sales": 2.7
+      },
+      {
+         "Year": "2006",
+         "Percentage change in retail sales": 3.2
+      },
+      {
+         "Year": "2005",
+         "Percentage change in retail sales": 6.2
+      },
+      {
+         "Year": "2004",
+         "Percentage change in retail sales": 6.8
+      },
+      {
+         "Year": "2003",
+         "Percentage change in retail sales": 5.1
+      },
+      {
+         "Year": "2002",
+         "Percentage change in retail sales": 2.1
+      },
+      {
+         "Year": "2001",
+         "Percentage change in retail sales": 2.07
+      },
+      {
+         "Year": "2000",
+         "Percentage change in retail sales": 3.4
+      }
+   ]
+}

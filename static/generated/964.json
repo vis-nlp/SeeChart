@@ -1,0 +1,95 @@
+{
+   "title": "Test",
+   "labels": [
+      "Response",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 6 categories of Response on the x axis representing 5 groups: 2014, 2015, 2016, 2017, and 2018.",
+      " Averaging these 5 groups, the highest category is found for Response Yes if I believe the reviews are authentic with a mean value of 25.2.",
+      " The lowest category is observed at No I am often skeptical about online reviews that has a mean value of 9.4",
+      " showing a difference of 91.3% with the maximum value.",
+      " In case of Yes for some types of businesses no for others, 2014 shows more dominance than any other Response with a value 34.0 and it has the lowest value 3.0 in Yes always.  However, 2018 being the 2nd most important group, has the highest value 25.0 for Response Yes if there are multiple customer reviews to read and the lowest 6.0 in case of No I don't trust reviews at all. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "5",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Yes always",
+         "2014": "3",
+         "2015": "8",
+         "2016": "18",
+         "2017": "19",
+         "2018": "19"
+      },
+      {
+         "Response": "Yes if I believe the reviews are authentic",
+         "2014": "22",
+         "2015": "31",
+         "2016": "27",
+         "2017": "27",
+         "2018": "19"
+      },
+      {
+         "Response": "Yes for some types of businesses no for others",
+         "2014": "34",
+         "2015": "22",
+         "2016": "19",
+         "2017": "20",
+         "2018": "15"
+      },
+      {
+         "Response": "Yes if there are multiple customer reviews to read",
+         "2014": "26",
+         "2015": "19",
+         "2016": "20",
+         "2017": "20",
+         "2018": "25"
+      },
+      {
+         "Response": "No I am often skeptical about online reviews",
+         "2014": "4",
+         "2015": "2",
+         "2016": "12",
+         "2017": "13",
+         "2018": "16"
+      },
+      {
+         "Response": "No I don't trust reviews at all",
+         "2014": "17",
+         "2015": "20",
+         "2016": "4",
+         "2017": "3",
+         "2018": "6"
+      }
+   ]
+}

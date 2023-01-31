@@ -1,0 +1,77 @@
+{
+   "title": "Ownership and personal use of tablet computers 2012 , by country",
+   "xAxis": "Country",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 columns on the x axis representing Country, and Percentage of population in each Country on the y axis. ",
+      "The maximum Percentage of population 24.0 is found at Country Spain and the minimum is found at Germany where Percentage of population is 10.0. ",
+      "The highest Country Spain has 14.0 more Percentage of population than the lowest Country Germany. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Percentage of population for 8 number of Countrys. ",
+      "The Percentage of population is highest at Country Spain and lowest at Country Germany. "
+   ],
+   "mid_summary": [
+      "This bar chart has 8 columns on the x axis representing Country, and Percentage of population in each Country on the y axis. ",
+      "The maximum Percentage of population 24.0 is found at Country Spain and the minimum is found at Germany where Percentage of population is 10.0. ",
+      "The highest Country Spain has 14.0 more Percentage of population than the lowest Country Germany. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Percentage of population in the y axis. ",
+      "Country Spain has the highest Percentage of population and Germany has the lowest Percentage of population. ",
+      "The second highest Percentage of population is appeared to be the Country . ",
+      "The highest Country Spain has 14.0 more Percentage of population than the lowest Country Germany. ",
+      "The Country Spain has the highest Percentage of population, followed by , and Italy. Down to the Country Germany which is the lowest. ",
+      "Country Spain, and Australia have the same Percentage of population. ",
+      "Considered together, the average Percentage of population in all 8 Countrys is roughly 18.38. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Spain",
+         "Percentage of population": 24.0
+      },
+      {
+         "Country": "Australia",
+         "Percentage of population": 24.0
+      },
+      {
+         "Country": "Italy",
+         "Percentage of population": 23.0
+      },
+      {
+         "Country": "United States",
+         "Percentage of population": 20.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Percentage of population": 19.0
+      },
+      {
+         "Country": "France",
+         "Percentage of population": 15.0
+      },
+      {
+         "Country": "Japan",
+         "Percentage of population": 12.0
+      },
+      {
+         "Country": "Germany",
+         "Percentage of population": 10.0
+      }
+   ]
+}

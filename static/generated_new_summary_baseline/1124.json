@@ -1,0 +1,60 @@
+{
+   "title": "Frequency of internet use in Spain 2017",
+   "xAxis": "Duration",
+   "yAxis": "Share of individuals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of individuals for 4 number of Durations. ",
+      "The maximum Share of individuals 80.0 is found at Duration Once a week (including every day) and the minimum is found at Less than once a week where Share of individuals is 5.0. ",
+      "The Share of individuals of Duration Less than once a week is 16.0% smaller than the maximum value at Once a week (including every day). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of individuals for 4 number of Durations. ",
+      "The maximum Share of individuals 80.0 is found at Duration Once a week (including every day) and the minimum is found at Less than once a week where Share of individuals is 5.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of individuals for 4 number of Durations. ",
+      "The maximum Share of individuals 80.0 is found at Duration Once a week (including every day) and the minimum is found at Less than once a week where Share of individuals is 5.0. ",
+      "The Share of individuals of Duration Less than once a week is 16.0% smaller than the maximum value at Once a week (including every day). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Duration in the x axis and Share of individuals in the y axis. ",
+      "The Share of individuals is highest at Duration Once a week (including every day) and lowest at Duration Less than once a week. ",
+      "There is a difference of 75.0 between the maximum Duration Once a week (including every day) and minimum Duration Less than once a week. ",
+      "Duration Once a week (including every day) is higher than any other Durations with value 80.0, followed by , and At least once a week (but not every day). Down to Duration Less than once a week with the lowest value 5.0. ",
+      "The Duration Once a week (including every day) tends to be 1.94 percent higher than average. ",
+      "Summing up the values of all Durations, we get total 165.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Duration": "Once a week (including every day)",
+         "Share of individuals": 80.0
+      },
+      {
+         "Duration": "Daily",
+         "Share of individuals": 69.0
+      },
+      {
+         "Duration": "At least once a week (but not every day)",
+         "Share of individuals": 11.0
+      },
+      {
+         "Duration": "Less than once a week",
+         "Share of individuals": 5.0
+      }
+   ]
+}

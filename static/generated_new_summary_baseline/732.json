@@ -1,0 +1,58 @@
+{
+   "title": "United States - lasting of love in a relationship in 2019",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 5.",
+      " In general Share of respondents has stayed the same over the Year.",
+      "Share of respondents is roughly constant from 11_to_20_years to 6_to_10_years, gradually increasing from 6_to_10_years to A_lifetime, and lastly roughly constant from A_lifetime to Less_than_two_years.",
+      "The highest Share of respondents, of value 77.0 was reached at Year A_lifetime",
+      "Minimum Share of respondents about 2.0 was reached at Year 11_to_20_years, and Less_than_two_years"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 5.",
+      " Overall Share of respondents has constant over the Year.",
+      "Share of respondents is roughly constant from 11_to_20_years to 6_to_10_years, gradually increasing from 6_to_10_years to A_lifetime, and lastly roughly constant from A_lifetime to Less_than_two_years."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 5.",
+      " In general Share of respondents has stayed the same over the Year.",
+      "Share of respondents is roughly constant from 11_to_20_years to 6_to_10_years, gradually increasing from 6_to_10_years to A_lifetime, and lastly roughly constant from A_lifetime to Less_than_two_years.",
+      "The highest Share of respondents, of value 77.0 was reached at Year A_lifetime",
+      "Minimum Share of respondents about 2.0 was reached at Year 11_to_20_years, and Less_than_two_years"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
+      " Overall Share of respondents has constant over the Year.",
+      "Share of respondents is roughly constant from 11_to_20_years to 6_to_10_years, gradually increasing from 6_to_10_years to A_lifetime, and lastly roughly constant from A_lifetime to Less_than_two_years.",
+      "The highest Share of respondents, of value 77.0 was reached at Year A_lifetime",
+      "Minimum Share of respondents about 2.0 was reached at Year 11_to_20_years, and Less_than_two_years",
+      "The line significantly remained stable by 4.0 from Year 11_to_20_years to 2_to_5_years,increased by 74.0 from Year 6_to_10_years to A_lifetime, and lastly, remained stable by 75.0 from Year A_lifetime to Less_than_two_years."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "Less than two years",
+         "Share of respondents": 2.0
+      },
+      {
+         "Year": "2 to 5 years",
+         "Share of respondents": 6.0
+      },
+      {
+         "Year": "6 to 10 years",
+         "Share of respondents": 3.0
+      },
+      {
+         "Year": "11 to 20 years",
+         "Share of respondents": 2.0
+      },
+      {
+         "Year": "A lifetime",
+         "Share of respondents": 77.0
+      }
+   ]
+}

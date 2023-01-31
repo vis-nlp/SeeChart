@@ -1,0 +1,359 @@
+/*body {*/
+/*    margin: 0px;*/
+/*    !*min-width: fit-content;*!*/
+/*    width: 100%;*/
+/*}*/
+
+.main {
+  margin-top: 40px; /* Add a top margin to avoid content overlay */
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: rgba(151, 210, 243, 0);
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    height: 40px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #000000;
+    color: #ffffff;
+    pointer-events: none;
+}
+
+.topnav p {
+
+    float: left;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 10px 10px;
+    font-weight: 900;
+    margin: 0px 0px;
+}
+
+
+/*LOGIN*/
+
+/* Below line is used for online Google font */
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+h2{
+    background-color: rgba(148, 207, 227, 0.68);
+    padding: 30px 35px;
+    margin: -10px -50px;
+    text-align:center;
+    border-radius: 10px 10px 0 0;
+}
+hr{
+    margin: 10px -50px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin-bottom: 40px;
+}
+div.container{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+div.main{
+    width: available;
+    padding: 10px 50px 25px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    font-family: raleway;
+    float: bottom;
+    margin-top:50px;
+}
+input[type=text],input[type=password]{
+    width: 100%;
+    height: 40px;
+    padding: 5px;
+    margin-bottom: 25px;
+    margin-top: 5px;
+    border: 2px solid #ccc;
+    color: #4f4f4f;
+    font-size: 16px;
+    border-radius: 5px;
+}
+label{
+    color: #464646;
+    text-shadow: 0 1px 0 #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+center{
+    font-size:32px;
+}
+.note{
+    color:red;
+    alignment: center;
+}
+.valid{
+    color:green;
+}
+.back{
+    text-decoration: none;
+    border: 1px solid rgb(0, 143, 255);
+    background-color: rgb(0, 214, 255);
+    padding: 3px 20px;
+    border-radius: 2px;
+    color: black;
+}
+input[type=submit]{
+    font-size: 16px;
+    background: linear-gradient(#94cfe3 5%, #57c0e1 100%);
+    border: 1px solid #e5a900;
+    color: #000000;
+    font-weight: bold;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px 0;
+    outline:none;
+}
+input[type=submit]:hover{
+    background: linear-gradient(#57c0e1 5%, #94cfe3 100%);
+}
+
+.mainLoginInput::-webkit-input-placeholder {
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+    color: #999999;
+
+}
+
+.mainLoginInput:-ms-input-placeholder {
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+    color: grey;
+}
+
+.mainLoginInput:-moz-placeholder {
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+}
+
+.mainLoginInput::-moz-placeholder {
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+}
+
+
+/*LIKERT*/
+h1.likert-header {
+  padding-left:4.25%;
+  margin:20px 0 0;
+}
+form .statement {
+  display:block;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 30px 0 0 4.25%;
+  margin-bottom:10px;
+}
+form .likert {
+  list-style:none;
+  width:100%;
+  margin:0;
+  padding:0 0 35px;
+  display:block;
+  border-bottom:2px solid #efefef;
+}
+form .likert:last-of-type {border-bottom:0;}
+form .likert:before {
+  content: '';
+  position:relative;
+  top:11px;
+  left:9.5%;
+  display:block;
+  background-color:#efefef;
+  height:4px;
+  width:78%;
+}
+form .likert li {
+  display:inline-block;
+  width:19%;
+  text-align:center;
+  vertical-align: top;
+}
+form .likert li input[type=radio] {
+  display:block;
+  position:relative;
+  top:0;
+  left:50%;
+  margin-left:-6px;
+
+}
+form .likert li label {width:100%;}
+
+
+/*TABLE*/
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+
+/*STOPWATCH*/
+
+button {
+    width: 200px;
+    height: 50px;
+    border: 3px solid white;
+    border-radius: 20px;
+    background: #21C199FF;
+    color: black;
+    font-size: large;
+    cursor: pointer;
+    outline: none;
+}
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    /*right: -20px;*/
+    transition: 0.5s;
+}
+
+.button:hover {
+    background-color: #6bd8fb;
+}
+
+.button:hover span {
+    padding-right: 25px;
+}
+
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+
+#stopwatch {
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    /*padding-left: 46%;*/
+
+    /*position: absolute;*/
+    /*top: 45%;*/
+    /*left: 50%;*/
+    /*transform: translate(-50%, -55%);*/
+}
+#buttons {
+    text-align: center;
+    padding-left: 0px;
+}
+#buttons li {
+    display: inline;
+    /*padding-left: 10px;*/
+}
+
+
+/*DROPDOWN*/
+
+select {
+  white-space:pre-wrap;
+    font-size: 1.5rem;
+}
+
+option {
+  border: solid 1px #DDDDDD;
+    font-size: 1rem !important;
+}
+
+
+/*BLINK*/
+
+.blink {
+        animation: blinker 0.6s linear infinite;
+        font-size: 30px;
+        font-weight: bold;
+        font-family: sans-serif;
+      }
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
+  .blink-one {
+    animation: blinker-one 1s linear infinite;
+  }
+  @keyframes blinker-one {
+    0% {
+      opacity: 0;
+    }
+  }
+  .blink-two {
+    animation: blinker-two 1.4s linear infinite;
+  }
+  @keyframes blinker-two {
+    100% {
+      opacity: 0;
+    }
+  }

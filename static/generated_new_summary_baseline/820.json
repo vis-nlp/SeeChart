@@ -1,0 +1,85 @@
+{
+   "title": "Total population of Myanmar 2024",
+   "xAxis": "Year",
+   "yAxis": "Inhabitants in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inhabitants in millions. In total the number of data points it has is 11.",
+      " Overall Inhabitants in millions has increased over the Year.",
+      "Inhabitants in millions is slightly increasing from 2014 to 2017, roughly constant from 2017 to 2019, and lastly slightly increasing from 2019 to 2024.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Inhabitants in millions, about 54.65 was reported at Year 2024",
+      "Minimum Inhabitants in millions about 51.42 was reached at Year 2014"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inhabitants in millions, containing a total of 11 data points.",
+      " Overall Inhabitants in millions has increased over the Year.",
+      "Inhabitants in millions is slightly increasing from 2014 to 2017, roughly constant from 2017 to 2019, and lastly slightly increasing from 2019 to 2024."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inhabitants in millions. In total the number of data points it has is 11.",
+      " Overall Inhabitants in millions has increased over the Year.",
+      "Inhabitants in millions is slightly increasing from 2014 to 2017, roughly constant from 2017 to 2019, and lastly slightly increasing from 2019 to 2024.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Inhabitants in millions, about 54.65 was reported at Year 2024",
+      "Minimum Inhabitants in millions about 51.42 was reached at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inhabitants in millions, containing a total of 11 data points.",
+      " Overall Inhabitants in millions has increased over the Year.",
+      "Inhabitants in millions is slightly increasing from 2014 to 2017, roughly constant from 2017 to 2019, and lastly slightly increasing from 2019 to 2024.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Inhabitants in millions, about 54.65 was reported at Year 2024",
+      "Minimum Inhabitants in millions about 51.42 was reached at Year 2014",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "Inhabitants in millions": 54.65
+      },
+      {
+         "Year": "2023",
+         "Inhabitants in millions": 54.36
+      },
+      {
+         "Year": "2022",
+         "Inhabitants in millions": 54.05
+      },
+      {
+         "Year": "2021",
+         "Inhabitants in millions": 53.72
+      },
+      {
+         "Year": "2020",
+         "Inhabitants in millions": 53.38
+      },
+      {
+         "Year": "2019",
+         "Inhabitants in millions": 53.02
+      },
+      {
+         "Year": "2018",
+         "Inhabitants in millions": 52.83
+      },
+      {
+         "Year": "2017",
+         "Inhabitants in millions": 52.65
+      },
+      {
+         "Year": "2016",
+         "Inhabitants in millions": 52.25
+      },
+      {
+         "Year": "2015",
+         "Inhabitants in millions": 51.85
+      },
+      {
+         "Year": "2014",
+         "Inhabitants in millions": 51.42
+      }
+   ]
+}

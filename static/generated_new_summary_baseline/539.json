@@ -1,0 +1,182 @@
+{
+   "title": "Rate of homicide in Canada and the United States 2000 to 2018",
+   "labels": [
+      "Year",
+      "Canada",
+      "United States"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Canada, and United States. The y axis denotes Rate of himicide per 100 thousand residents and the x axis denotes Year.",
+      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. United States, and lastly, 2. Canada. ",
+      "Overall across the Year, United States mostly maintained the highest Rate of himicide per 100 thousand residents when compared to others with a mean value of 5.25, and it peaked at 2007.",
+      "Canada mostly had the least Rate of himicide per 100 thousand residents with a mean value of 1.75, which peaked at 2005 with a value of 2.06. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Rate of himicide per 100 thousand residents",
+   "min_summary": [
+      "The given chart is of multi-line type with 2 lines namely Canada, and United States. The y axis represents Rate of himicide per 100 thousand residents and the x axis represents Year.",
+      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year",
+      "Throughout the period, United States generally had the highest Rate of himicide per 100 thousand residents relative to others with an average of 5.25, and it reached its maximum at 2007 with a value of 5.8.",
+      "Canada mostly had the least Rate of himicide per 100 thousand residents with a mean value of 1.75, which peaked at 2005 with a value of 2.06. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing Canada, and United States. The y axis denotes Rate of himicide per 100 thousand residents and the x axis denotes Year.",
+      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. United States, and lastly, 2. Canada. ",
+      "Overall across the Year, United States mostly maintained the highest Rate of himicide per 100 thousand residents when compared to others with a mean value of 5.25, and it peaked at 2007.",
+      "Canada mostly had the least Rate of himicide per 100 thousand residents with a mean value of 1.75, which peaked at 2005 with a value of 2.06. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Canada, and United States. The y axis represents Rate of himicide per 100 thousand residents and the x axis represents Year.",
+      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Rate of himicide per 100 thousand residents in descending order is: 1. United States, and lastly, 2. Canada. ",
+      "Throughout the period, United States generally had the highest Rate of himicide per 100 thousand residents relative to others with an average of 5.25, and it reached its maximum at 2007 with a value of 5.8.",
+      "Canada mostly had the least Rate of himicide per 100 thousand residents with a mean value of 1.75, which peaked at 2005 with a value of 2.06. ",
+      "Canada reported the lowest Rate of himicide per 100 thousand residents about 1.46 in Year 2013",
+      "The difference of Rate of himicide per 100 thousand residents between Canada and United States is smaller at Year 2018 compared to the Year 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "18",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "7",
+            "1"
+         ],
+         "9": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "18",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "0"
+         ],
+         "10": [
+            "5",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2000",
+         "Canada": "1.78",
+         "United States": "5.7"
+      },
+      {
+         "Year": "2001",
+         "Canada": "1.78",
+         "United States": "5.5"
+      },
+      {
+         "Year": "2002",
+         "Canada": "1.86",
+         "United States": "5.6"
+      },
+      {
+         "Year": "2003",
+         "Canada": "1.74",
+         "United States": "5.6"
+      },
+      {
+         "Year": "2004",
+         "Canada": "1.95",
+         "United States": "5.7"
+      },
+      {
+         "Year": "2005",
+         "Canada": "2.06",
+         "United States": "5.5"
+      },
+      {
+         "Year": "2006",
+         "Canada": "1.86",
+         "United States": "5.6"
+      },
+      {
+         "Year": "2007",
+         "Canada": "1.81",
+         "United States": "5.8"
+      },
+      {
+         "Year": "2008",
+         "Canada": "1.84",
+         "United States": "5.7"
+      },
+      {
+         "Year": "2009",
+         "Canada": "1.81",
+         "United States": "5.4"
+      },
+      {
+         "Year": "2010",
+         "Canada": "1.63",
+         "United States": "5.0"
+      },
+      {
+         "Year": "2011",
+         "Canada": "1.74",
+         "United States": "4.8"
+      },
+      {
+         "Year": "2012",
+         "Canada": "1.56",
+         "United States": "4.7"
+      },
+      {
+         "Year": "2013",
+         "Canada": "1.46",
+         "United States": "4.7"
+      },
+      {
+         "Year": "2014",
+         "Canada": "1.47",
+         "United States": "4.5"
+      },
+      {
+         "Year": "2015",
+         "Canada": "1.71",
+         "United States": "4.4"
+      },
+      {
+         "Year": "2016",
+         "Canada": "1.69",
+         "United States": "4.9"
+      },
+      {
+         "Year": "2017",
+         "Canada": "1.82",
+         "United States": "5.4"
+      },
+      {
+         "Year": "2018",
+         "Canada": "1.76",
+         "United States": "5.3"
+      }
+   ]
+}

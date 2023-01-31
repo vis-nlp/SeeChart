@@ -1,0 +1,124 @@
+{
+   "title": "Leading telecommunication companies in Norway 2019 , by turnover",
+   "xAxis": "Telecom Name",
+   "yAxis": "Turnover in million NOK",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Turnover in million NOK for 20 number of Telecom Names. ",
+      "Telecom Name Telenor ASA has the highest Turnover in million NOK and Netel AS has the lowest Turnover in million NOK. ",
+      "The difference of Turnover in million NOK between the highest and lowest Telecom Name is 124270.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Telecom Name, and Turnover in million NOK in each Telecom Name on the y axis. ",
+      "Telecom Name Telenor ASA has the highest Turnover in million NOK and Netel AS has the lowest Turnover in million NOK. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Turnover in million NOK for 20 number of Telecom Names. ",
+      "Telecom Name Telenor ASA has the highest Turnover in million NOK and Netel AS has the lowest Turnover in million NOK. ",
+      "The difference of Turnover in million NOK between the highest and lowest Telecom Name is 124270.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Turnover in million NOK for 20 number of Telecom Names. ",
+      "Telecom Name Telenor ASA has the highest Turnover in million NOK and Netel AS has the lowest Turnover in million NOK. ",
+      "There is a difference of 124270.0 between the maximum Telecom Name Telenor ASA and minimum Telecom Name Netel AS. ",
+      "Telecom Name Telenor ASA is higher than any other Telecom Names with value 124756.0, followed by , and Telia Norge AS. Down to Telecom Name Netel AS with the lowest value 486.0. ",
+      "The lowest value 486.0 at Netel AS is almost 13.7 times smaller than the average value 9109.45. ",
+      "The Turnover in million NOK is 182189.0 if we add up values of all Telecom Names. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Telecom Name": "Telenor ASA",
+         "Turnover in million NOK": 124756.0
+      },
+      {
+         "Telecom Name": "Telenor Norge AS",
+         "Turnover in million NOK": 24669.0
+      },
+      {
+         "Telecom Name": "Telia Norge AS",
+         "Turnover in million NOK": 9091.0
+      },
+      {
+         "Telecom Name": "Telenor Global Services AS",
+         "Turnover in million NOK": 3128.0
+      },
+      {
+         "Telecom Name": "Get AS",
+         "Turnover in million NOK": 2867.0
+      },
+      {
+         "Telecom Name": "Eltel Networks AS",
+         "Turnover in million NOK": 2445.0
+      },
+      {
+         "Telecom Name": "Canal Digital Norge AS",
+         "Turnover in million NOK": 2157.0
+      },
+      {
+         "Telecom Name": "Broadnet Topholding AS",
+         "Turnover in million NOK": 1579.0
+      },
+      {
+         "Telecom Name": "Broadnet AS",
+         "Turnover in million NOK": 1424.0
+      },
+      {
+         "Telecom Name": "Nextgentel Holding ASA",
+         "Turnover in million NOK": 1359.0
+      },
+      {
+         "Telecom Name": "RiksTV AS",
+         "Turnover in million NOK": 1220.0
+      },
+      {
+         "Telecom Name": "Phonero AS",
+         "Turnover in million NOK": 1109.0
+      },
+      {
+         "Telecom Name": "Viken Fiber Holding AS",
+         "Turnover in million NOK": 1106.0
+      },
+      {
+         "Telecom Name": "Norkring AS",
+         "Turnover in million NOK": 995.0
+      },
+      {
+         "Telecom Name": "TDC AS",
+         "Turnover in million NOK": 946.0
+      },
+      {
+         "Telecom Name": "Telenor Satellite AS",
+         "Turnover in million NOK": 846.0
+      },
+      {
+         "Telecom Name": "Fugro Norway AS",
+         "Turnover in million NOK": 702.0
+      },
+      {
+         "Telecom Name": "Viasat AS",
+         "Turnover in million NOK": 686.0
+      },
+      {
+         "Telecom Name": "Kongsberg Satellite Services AS",
+         "Turnover in million NOK": 618.0
+      },
+      {
+         "Telecom Name": "Netel AS",
+         "Turnover in million NOK": 486.0
+      }
+   ]
+}

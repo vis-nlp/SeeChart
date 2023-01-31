@@ -1,0 +1,85 @@
+{
+   "title": "Inflation rate in South Sudan 2024",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 11 data points.",
+      " In general Inflation rate compared to previous year has rose over the Year.",
+      "Inflation rate compared to previous year is slightly increasing from 2014 to 2016, and finally roughly constant from 2016 to 2024.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum Inflation rate compared to previous year, about 379.85 was reported at Year 2016",
+      "Minimum Inflation rate compared to previous year about 1.66 was reached at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 11.",
+      " Overall Inflation rate compared to previous year has increased over the Year.",
+      "Inflation rate compared to previous year is slightly increasing from 2014 to 2016, and finally roughly constant from 2016 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 11 data points.",
+      " In general Inflation rate compared to previous year has rose over the Year.",
+      "Inflation rate compared to previous year is slightly increasing from 2014 to 2016, and finally roughly constant from 2016 to 2024.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum Inflation rate compared to previous year, about 379.85 was reported at Year 2016",
+      "Minimum Inflation rate compared to previous year about 1.66 was reached at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 11 data points.",
+      " In general Inflation rate compared to previous year has rose over the Year.",
+      "Inflation rate compared to previous year is slightly increasing from 2014 to 2016, and finally roughly constant from 2016 to 2024.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum Inflation rate compared to previous year, about 379.85 was reported at Year 2016",
+      "Minimum Inflation rate compared to previous year about 1.66 was reached at Year 2014",
+      "The line drastically increased by 31.8 times from Year 2014 to 2015,increased by 7.2 times from Year 2015 to 2016, and lastly, remained stable by 3.4 times from Year 2018 to 2019."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2024",
+         "Inflation rate compared to previous year": 7.95
+      },
+      {
+         "Year": "2023",
+         "Inflation rate compared to previous year": 8.21
+      },
+      {
+         "Year": "2022",
+         "Inflation rate compared to previous year": 8.61
+      },
+      {
+         "Year": "2021",
+         "Inflation rate compared to previous year": 9.74
+      },
+      {
+         "Year": "2020",
+         "Inflation rate compared to previous year": 16.89
+      },
+      {
+         "Year": "2019",
+         "Inflation rate compared to previous year": 24.47
+      },
+      {
+         "Year": "2018",
+         "Inflation rate compared to previous year": 83.49
+      },
+      {
+         "Year": "2017",
+         "Inflation rate compared to previous year": 187.87
+      },
+      {
+         "Year": "2016",
+         "Inflation rate compared to previous year": 379.85
+      },
+      {
+         "Year": "2015",
+         "Inflation rate compared to previous year": 52.81
+      },
+      {
+         "Year": "2014",
+         "Inflation rate compared to previous year": 1.66
+      }
+   ]
+}

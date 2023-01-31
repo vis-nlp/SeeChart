@@ -1,0 +1,89 @@
+{
+   "title": "Number of arrivals in tourist accommodation Slovakia 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Number of arrivals in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of arrivals in millions, containing a total of 13 data points.",
+      " Overall Number of arrivals in millions has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Number of arrivals in millions, of value 5.49 was reached at Year 2018",
+      "Minimum Number of arrivals in millions about 3.34 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of arrivals in millions. In total the number of data points it has is 13.",
+      " In general Number of arrivals in millions has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of arrivals in millions, containing a total of 13 data points.",
+      " Overall Number of arrivals in millions has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Number of arrivals in millions, of value 5.49 was reached at Year 2018",
+      "Minimum Number of arrivals in millions about 3.34 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of arrivals in millions, containing a total of 13 data points.",
+      " In general Number of arrivals in millions has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Number of arrivals in millions, of value 5.49 was reached at Year 2018",
+      "Minimum Number of arrivals in millions about 3.34 was reached at Year 2009",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of arrivals in millions": 5.49
+      },
+      {
+         "Year": "2017",
+         "Number of arrivals in millions": 5.29
+      },
+      {
+         "Year": "2016",
+         "Number of arrivals in millions": 4.94
+      },
+      {
+         "Year": "2015",
+         "Number of arrivals in millions": 4.27
+      },
+      {
+         "Year": "2014",
+         "Number of arrivals in millions": 3.69
+      },
+      {
+         "Year": "2013",
+         "Number of arrivals in millions": 4.0
+      },
+      {
+         "Year": "2012",
+         "Number of arrivals in millions": 3.73
+      },
+      {
+         "Year": "2011",
+         "Number of arrivals in millions": 3.54
+      },
+      {
+         "Year": "2010",
+         "Number of arrivals in millions": 3.36
+      },
+      {
+         "Year": "2009",
+         "Number of arrivals in millions": 3.34
+      },
+      {
+         "Year": "2008",
+         "Number of arrivals in millions": 4.03
+      },
+      {
+         "Year": "2007",
+         "Number of arrivals in millions": 3.74
+      },
+      {
+         "Year": "2006",
+         "Number of arrivals in millions": 3.55
+      }
+   ]
+}

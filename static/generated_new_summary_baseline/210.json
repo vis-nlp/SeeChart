@@ -1,0 +1,56 @@
+{
+   "title": "Average spend of eating out for lunch in the U.S. 2015",
+   "xAxis": "Days",
+   "yAxis": "Average cost in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 3 columns on the x axis representing Days, and Average cost in U.S. dollars in each Days on the y axis. ",
+      "The Average cost in U.S. dollars is appeared to be the highest at Days Per year and lowest at Days Per day. ",
+      "The highest Days Per year has 1031.86 more Average cost in U.S. dollars than the lowest Days Per day. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Days in the x axis and Average cost in U.S. dollars in the y axis. ",
+      "The Average cost in U.S. dollars is highest at Days Per year and lowest at Days Per day. "
+   ],
+   "mid_summary": [
+      "This bar chart has 3 columns on the x axis representing Days, and Average cost in U.S. dollars in each Days on the y axis. ",
+      "The Average cost in U.S. dollars is appeared to be the highest at Days Per year and lowest at Days Per day. ",
+      "The highest Days Per year has 1031.86 more Average cost in U.S. dollars than the lowest Days Per day. "
+   ],
+   "max_summary": [
+      "This bar chart has 3 columns on the x axis representing Days, and Average cost in U.S. dollars in each Days on the y axis. ",
+      "The maximum Average cost in U.S. dollars 1043.0 is found at Days Per year and the minimum is found at Per day where Average cost in U.S. dollars is 11.14. ",
+      "Days  has the second highest value for Average cost in U.S. dollars. ",
+      "The lowest value at Days Per day is 93.63x times less than the highest value at Per year. ",
+      "The lowest value 11.14 at Per day is almost 2.91 times smaller than the average value 358.06. ",
+      "Summing up the values of all Dayss, we get total 1074.19. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Days": "Per day",
+         "Average cost in U.S. dollars": 11.14
+      },
+      {
+         "Days": "Per week",
+         "Average cost in U.S. dollars": 20.05
+      },
+      {
+         "Days": "Per year",
+         "Average cost in U.S. dollars": 1043.0
+      }
+   ]
+}

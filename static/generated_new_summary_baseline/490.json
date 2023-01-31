@@ -1,0 +1,154 @@
+{
+   "title": "Rice export prices worldwide 2011 - 2018 , by variety",
+   "labels": [
+      "Year",
+      "U.S. Long Grain 2.4",
+      "U.S. California Medium Grain 1.4",
+      "Thai Parboiled 100",
+      "India 25",
+      "Pak Basmati"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 5 lines representing U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, Thai Parboiled 100, India 25, and Pak Basmati. The y axis denotes Price in USD per ton and the x axis denotes Year.",
+      "Overall Thai Parboiled 100 is gradually decreasing, U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, India 25, and Pak Basmati are roughly constant,  throughout the Year",
+      "Throughout the period, Pak Basmati generally had the highest Price in USD per ton relative to others with an average of 1086.38, and it reached its maximum at 2013 with a value of 1372.0.",
+      "After Pak Basmati, U.S. California Medium Grain 1.4 overall has the second highest values , with a mean value of 788.4, peaking at 2014. ",
+      "The botommost line, India 25,  has a mean of 373.0, and peaked at 2011. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Price in USD per ton",
+   "min_summary": [
+      "This is a multi-line chart with 5 lines representing U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, Thai Parboiled 100, India 25, and Pak Basmati. The y axis denotes Price in USD per ton and the x axis denotes Year.",
+      "Overall Thai Parboiled 100 is gradually decreasing, U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, India 25, and Pak Basmati are roughly constant,  throughout the Year",
+      "Throughout the period, Pak Basmati generally had the highest Price in USD per ton relative to others with an average of 1086.38, and it reached its maximum at 2013 with a value of 1372.0.",
+      "Followed by U.S. California Medium Grain 1.4 which ranks as the second topmpost line , with an average of 788.4 Price in USD per ton,reaching its highest point  at 2014 with a value of 1007.0. ",
+      "The botommost line, India 25,  has a mean of 373.0, and peaked at 2011. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 5 lines representing U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, Thai Parboiled 100, India 25, and Pak Basmati. The y axis denotes Price in USD per ton and the x axis denotes Year.",
+      "Overall Thai Parboiled 100 is gradually decreasing, U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, India 25, and Pak Basmati are roughly constant,  throughout the Year",
+      "Throughout the period, Pak Basmati generally had the highest Price in USD per ton relative to others with an average of 1086.38, and it reached its maximum at 2013 with a value of 1372.0.",
+      "After Pak Basmati, U.S. California Medium Grain 1.4 overall has the second highest values , with a mean value of 788.4, peaking at 2014. ",
+      "The botommost line, India 25,  has a mean of 373.0, and peaked at 2011. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 5 lines representing U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, Thai Parboiled 100, India 25, and Pak Basmati. The y axis denotes Price in USD per ton and the x axis denotes Year.",
+      "Overall Thai Parboiled 100 is gradually decreasing, U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, India 25, and Pak Basmati are roughly constant,  throughout the Year",
+      "Throughout the period, Pak Basmati generally had the highest Price in USD per ton relative to others with an average of 1086.38, and it reached its maximum at 2013 with a value of 1372.0.",
+      "After Pak Basmati, U.S. California Medium Grain 1.4 overall has the second highest values , with a mean value of 788.4, peaking at 2014. ",
+      "The botommost line, India 25,  has a mean of 373.0, and peaked at 2011. ",
+      "The minimum Price in USD per ton about 333.0, occured at 2016 by India 25."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "16": [
+            "7",
+            "4"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "4"
+         ],
+         "9": [
+            "5",
+            "4"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "4",
+            "1"
+         ],
+         "10": [
+            "4",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "U.S. Long Grain 2.4": "531",
+         "U.S. California Medium Grain 1.4": "888",
+         "Thai Parboiled 100": "365",
+         "India 25": "374",
+         "Pak Basmati": "1023"
+      },
+      {
+         "Year": "2017",
+         "U.S. Long Grain 2.4": "456",
+         "U.S. California Medium Grain 1.4": "673",
+         "Thai Parboiled 100": "421",
+         "India 25": "361",
+         "Pak Basmati": "1131"
+      },
+      {
+         "Year": "2016",
+         "U.S. Long Grain 2.4": "438",
+         "U.S. California Medium Grain 1.4": "651",
+         "Thai Parboiled 100": "410",
+         "India 25": "333",
+         "Pak Basmati": "795"
+      },
+      {
+         "Year": "2015",
+         "U.S. Long Grain 2.4": "490",
+         "U.S. California Medium Grain 1.4": "857",
+         "Thai Parboiled 100": "392",
+         "India 25": "337",
+         "Pak Basmati": "849"
+      },
+      {
+         "Year": "2014",
+         "U.S. Long Grain 2.4": "571",
+         "U.S. California Medium Grain 1.4": "1007",
+         "Thai Parboiled 100": "435",
+         "India 25": "377",
+         "Pak Basmati": "1324"
+      },
+      {
+         "Year": "2013",
+         "U.S. Long Grain 2.4": "628",
+         "U.S. California Medium Grain 1.4": "692",
+         "Thai Parboiled 100": "530",
+         "India 25": "402",
+         "Pak Basmati": "1372"
+      },
+      {
+         "Year": "2012",
+         "U.S. Long Grain 2.4": "567",
+         "U.S. California Medium Grain 1.4": "718",
+         "Thai Parboiled 100": "594",
+         "India 25": "391",
+         "Pak Basmati": "1137"
+      },
+      {
+         "Year": "2011",
+         "U.S. Long Grain 2.4": "577",
+         "U.S. California Medium Grain 1.4": "821",
+         "Thai Parboiled 100": "563",
+         "India 25": "409",
+         "Pak Basmati": "1060"
+      }
+   ]
+}

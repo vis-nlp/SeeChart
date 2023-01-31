@@ -1,0 +1,86 @@
+{
+   "title": "Usage of top level domains for websites 2019",
+   "xAxis": "DNS names",
+   "yAxis": "Share of global TLD",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of global TLD for 10 number of DNS namess. ",
+      "The Share of global TLD is appeared to be the highest at DNS names .com and lowest at DNS names .au. ",
+      "The Share of global TLD of DNS names .au is 36.92% smaller than the maximum value at .com. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of global TLD for 10 number of DNS namess. ",
+      "The Share of global TLD is appeared to be the highest at DNS names .com and lowest at DNS names .au. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of global TLD for 10 number of DNS namess. ",
+      "The Share of global TLD is appeared to be the highest at DNS names .com and lowest at DNS names .au. ",
+      "The Share of global TLD of DNS names .au is 36.92% smaller than the maximum value at .com. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing DNS names, and Share of global TLD in each DNS names on the y axis. ",
+      "The Share of global TLD is appeared to be the highest at DNS names .com and lowest at DNS names .au. ",
+      "DNS names  has the second highest value for Share of global TLD. ",
+      "The difference of Share of global TLD between the highest and lowest DNS names is 46.7. ",
+      "Share of global TLD at DNS names .com is 48.0 , second place is  at 48.0, and thirdly is .org at 4.9.",
+      "Similar Share of global TLD is found in DNS names .au, and .jp. ",
+      "The DNS names .com tends to be 6.66 percent higher than average. ",
+      "The Share of global TLD is 72.1 if we add up values of all DNS namess. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "DNS names": ".com",
+         "Share of global TLD": 48.0
+      },
+      {
+         "DNS names": ".ru",
+         "Share of global TLD": 5.2
+      },
+      {
+         "DNS names": ".org",
+         "Share of global TLD": 4.9
+      },
+      {
+         "DNS names": ".net",
+         "Share of global TLD": 3.5
+      },
+      {
+         "DNS names": ".de",
+         "Share of global TLD": 2.7
+      },
+      {
+         "DNS names": ".br",
+         "Share of global TLD": 1.9
+      },
+      {
+         "DNS names": ".uk",
+         "Share of global TLD": 1.8
+      },
+      {
+         "DNS names": ".in",
+         "Share of global TLD": 1.5
+      },
+      {
+         "DNS names": ".au",
+         "Share of global TLD": 1.3
+      },
+      {
+         "DNS names": ".jp",
+         "Share of global TLD": 1.3
+      }
+   ]
+}

@@ -1,0 +1,83 @@
+{
+   "title": "Highest earning eSports countries in 2018 , by prize winnings",
+   "xAxis": "Country",
+   "yAxis": "Prize money in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Prize money in million U.S. dollars for 10 number of Countrys. ",
+      "The maximum Prize money in million U.S. dollars 28.07 is found at Country United States and the minimum is found at Germany where Prize money in million U.S. dollars is 4.16. ",
+      "There is a difference of 23.91 between the maximum Country United States and minimum Country Germany. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Prize money in million U.S. dollars for 10 number of Countrys. ",
+      "The Prize money in million U.S. dollars is highest at Country United States and lowest at Country Germany. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Prize money in million U.S. dollars for 10 number of Countrys. ",
+      "The maximum Prize money in million U.S. dollars 28.07 is found at Country United States and the minimum is found at Germany where Prize money in million U.S. dollars is 4.16. ",
+      "There is a difference of 23.91 between the maximum Country United States and minimum Country Germany. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Prize money in million U.S. dollars in the y axis. ",
+      "The Prize money in million U.S. dollars is appeared to be the highest at Country United States and lowest at Country Germany. ",
+      "The highest Country United States has 23.91 more Prize money in million U.S. dollars than the lowest Country Germany. ",
+      "Prize money in million U.S. dollars at Country United States is 28.07 , second place is  at 28.07, and thirdly is South Korea at 13.54.",
+      "The Country Germany has 2.72 times less Prize money in million U.S. dollars than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Prize money in million U.S. dollars": 28.07
+      },
+      {
+         "Country": "China",
+         "Prize money in million U.S. dollars": 16.02
+      },
+      {
+         "Country": "South Korea",
+         "Prize money in million U.S. dollars": 13.54
+      },
+      {
+         "Country": "Denmark",
+         "Prize money in million U.S. dollars": 10.4
+      },
+      {
+         "Country": "Finland",
+         "Prize money in million U.S. dollars": 7.31
+      },
+      {
+         "Country": "Russia",
+         "Prize money in million U.S. dollars": 6.86
+      },
+      {
+         "Country": "Sweden",
+         "Prize money in million U.S. dollars": 6.29
+      },
+      {
+         "Country": "France",
+         "Prize money in million U.S. dollars": 6.04
+      },
+      {
+         "Country": "Canada",
+         "Prize money in million U.S. dollars": 4.68
+      },
+      {
+         "Country": "Germany",
+         "Prize money in million U.S. dollars": 4.16
+      }
+   ]
+}

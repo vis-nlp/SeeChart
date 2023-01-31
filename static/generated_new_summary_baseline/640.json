@@ -1,0 +1,109 @@
+{
+   "title": "Estimated U.S. retail per capita sales from 2000 to 2017",
+   "xAxis": "Year",
+   "yAxis": "Per capita sales in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita sales in U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Per capita sales in U.S. dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest Per capita sales in U.S. dollars, of value 15522.0 was reached at Year 2017",
+      "The lowest Per capita sales in U.S. dollars, of value 10573.0 was reported at Year 2000"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita sales in U.S. dollars, containing a total of 18 data points.",
+      " Overall Per capita sales in U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita sales in U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Per capita sales in U.S. dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest Per capita sales in U.S. dollars, of value 15522.0 was reached at Year 2017",
+      "The lowest Per capita sales in U.S. dollars, of value 10573.0 was reported at Year 2000"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita sales in U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Per capita sales in U.S. dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest Per capita sales in U.S. dollars, of value 15522.0 was reached at Year 2017",
+      "The lowest Per capita sales in U.S. dollars, of value 10573.0 was reported at Year 2000",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2017",
+         "Per capita sales in U.S. dollars": 15522.0
+      },
+      {
+         "Year": "2016",
+         "Per capita sales in U.S. dollars": 15018.0
+      },
+      {
+         "Year": "2015",
+         "Per capita sales in U.S. dollars": 14721.0
+      },
+      {
+         "Year": "2014",
+         "Per capita sales in U.S. dollars": 14561.0
+      },
+      {
+         "Year": "2013",
+         "Per capita sales in U.S. dollars": 14099.0
+      },
+      {
+         "Year": "2012",
+         "Per capita sales in U.S. dollars": 13702.0
+      },
+      {
+         "Year": "2011",
+         "Per capita sales in U.S. dollars": 13166.0
+      },
+      {
+         "Year": "2010",
+         "Per capita sales in U.S. dollars": 12343.0
+      },
+      {
+         "Year": "2009",
+         "Per capita sales in U.S. dollars": 11776.0
+      },
+      {
+         "Year": "2008",
+         "Per capita sales in U.S. dollars": 12941.0
+      },
+      {
+         "Year": "2007",
+         "Per capita sales in U.S. dollars": 13263.0
+      },
+      {
+         "Year": "2006",
+         "Per capita sales in U.S. dollars": 12975.0
+      },
+      {
+         "Year": "2005",
+         "Per capita sales in U.S. dollars": 12484.0
+      },
+      {
+         "Year": "2004",
+         "Per capita sales in U.S. dollars": 11861.0
+      },
+      {
+         "Year": "2003",
+         "Per capita sales in U.S. dollars": 11247.0
+      },
+      {
+         "Year": "2002",
+         "Per capita sales in U.S. dollars": 10877.0
+      },
+      {
+         "Year": "2001",
+         "Per capita sales in U.S. dollars": 10746.0
+      },
+      {
+         "Year": "2000",
+         "Per capita sales in U.S. dollars": 10573.0
+      }
+   ]
+}

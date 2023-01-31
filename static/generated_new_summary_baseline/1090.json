@@ -1,0 +1,87 @@
+{
+   "title": "Groupon : TTM gross profit per average active customer 2017 to 2019",
+   "xAxis": "Quarter",
+   "yAxis": "TTM gross billings per average active customer in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows TTM gross billings per average active customer in U.S. dollars for 10 number of Quarters. ",
+      "The maximum TTM gross billings per average active customer in U.S. dollars 27.59 is found at Quarter Q1 '19 and the minimum is found at Q3 '17 where TTM gross billings per average active customer in U.S. dollars is 26.43. ",
+      "There is a difference of 1.16 between the maximum Quarter Q1 '19 and minimum Quarter Q3 '17. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows TTM gross billings per average active customer in U.S. dollars for 10 number of Quarters. ",
+      "Quarter Q1 '19 has the highest TTM gross billings per average active customer in U.S. dollars and Q3 '17 has the lowest TTM gross billings per average active customer in U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows TTM gross billings per average active customer in U.S. dollars for 10 number of Quarters. ",
+      "The maximum TTM gross billings per average active customer in U.S. dollars 27.59 is found at Quarter Q1 '19 and the minimum is found at Q3 '17 where TTM gross billings per average active customer in U.S. dollars is 26.43. ",
+      "There is a difference of 1.16 between the maximum Quarter Q1 '19 and minimum Quarter Q3 '17. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Quarter, and TTM gross billings per average active customer in U.S. dollars in each Quarter on the y axis. ",
+      "Quarter Q1 '19 has the highest TTM gross billings per average active customer in U.S. dollars and Q3 '17 has the lowest TTM gross billings per average active customer in U.S. dollars. ",
+      "Second maximum TTM gross billings per average active customer in U.S. dollars is found at Quarter . ",
+      "The highest Quarter Q1 '19 has 1.16 more TTM gross billings per average active customer in U.S. dollars than the lowest Quarter Q3 '17. ",
+      "Quarter Q1 '19 is higher than any other Quarters with value 27.59, followed by , and Q3 '18. Down to Quarter Q3 '17 with the lowest value 26.43. ",
+      "Over the past 10 Quarters, the TTM gross billings per average active customer in U.S. dollars has lowered. ",
+      "Quarter Q2 '19, and Q3 '18 have the same TTM gross billings per average active customer in U.S. dollars. ",
+      "Considered together, the average TTM gross billings per average active customer in U.S. dollars in all 10 Quarters is roughly 27.25. ",
+      "Summing up the values of all Quarters, we get total 272.46. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "TTM gross billings per average active customer in U.S. dollars": 27.19
+      },
+      {
+         "Quarter": "Q3 '19",
+         "TTM gross billings per average active customer in U.S. dollars": 27.45
+      },
+      {
+         "Quarter": "Q2 '19",
+         "TTM gross billings per average active customer in U.S. dollars": 27.51
+      },
+      {
+         "Quarter": "Q1 '19",
+         "TTM gross billings per average active customer in U.S. dollars": 27.59
+      },
+      {
+         "Quarter": "Q4 '18",
+         "TTM gross billings per average active customer in U.S. dollars": 27.42
+      },
+      {
+         "Quarter": "Q3 '18",
+         "TTM gross billings per average active customer in U.S. dollars": 27.51
+      },
+      {
+         "Quarter": "Q2 '18",
+         "TTM gross billings per average active customer in U.S. dollars": 27.27
+      },
+      {
+         "Quarter": "Q1 '18",
+         "TTM gross billings per average active customer in U.S. dollars": 27.16
+      },
+      {
+         "Quarter": "Q4 '17",
+         "TTM gross billings per average active customer in U.S. dollars": 26.93
+      },
+      {
+         "Quarter": "Q3 '17",
+         "TTM gross billings per average active customer in U.S. dollars": 26.43
+      }
+   ]
+}

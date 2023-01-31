@@ -1,0 +1,79 @@
+{
+   "title": "Main export partners of Germany 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total exports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Share in total exports in the y axis. ",
+      "Country United States has the highest Share in total exports and Switzerland has the lowest Share in total exports. ",
+      "The lowest value at Country Switzerland is 2.1x times less than the highest value at United States. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Share in total exports in the y axis. ",
+      "The maximum Share in total exports 8.8 is found at Country United States and the minimum is found at Switzerland where Share in total exports is 4.2. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Share in total exports in the y axis. ",
+      "Country United States has the highest Share in total exports and Switzerland has the lowest Share in total exports. ",
+      "The lowest value at Country Switzerland is 2.1x times less than the highest value at United States. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Share in total exports in the y axis. ",
+      "The Share in total exports is appeared to be the highest at Country United States and lowest at Country Switzerland. ",
+      "The difference of Share in total exports between the highest and lowest Country is 4.6. ",
+      "Share in total exports at Country United States is 8.8 , second place is  at 8.8, and thirdly is China at 6.8.",
+      "The Country Switzerland has 1.41 times less Share in total exports than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share in total exports": 8.8
+      },
+      {
+         "Country": "France",
+         "Share in total exports": 8.2
+      },
+      {
+         "Country": "China",
+         "Share in total exports": 6.8
+      },
+      {
+         "Country": "Netherlands",
+         "Share in total exports": 6.7
+      },
+      {
+         "Country": "United Kingdom",
+         "Share in total exports": 6.6
+      },
+      {
+         "Country": "Italy",
+         "Share in total exports": 5.1
+      },
+      {
+         "Country": "Austria",
+         "Share in total exports": 4.9
+      },
+      {
+         "Country": "Poland",
+         "Share in total exports": 4.7
+      },
+      {
+         "Country": "Switzerland",
+         "Share in total exports": 4.2
+      }
+   ]
+}

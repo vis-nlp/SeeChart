@@ -1,0 +1,121 @@
+{
+   "title": "Unemployment rate in Belgium 2019",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "The most drastic decrease took place within the Year 1999 and 2000.",
+      "Maximum Unemployment rate, about 8.65 was reported at Year 1999",
+      "The lowest Unemployment rate, of value 6.18 was reported at Year 2001"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " Overall Unemployment rate has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "The most drastic decrease took place within the Year 1999 and 2000.",
+      "Maximum Unemployment rate, about 8.65 was reported at Year 1999",
+      "The lowest Unemployment rate, of value 6.18 was reported at Year 2001"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 1999 and 2000.",
+      "Maximum Unemployment rate, about 8.65 was reported at Year 1999",
+      "The lowest Unemployment rate, of value 6.18 was reported at Year 2001",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 6.44
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 6.32
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 7.09
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 7.83
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 8.48
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 8.52
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 8.43
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 7.54
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 7.14
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 8.29
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 7.91
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 6.98
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 7.46
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 8.25
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 8.44
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 7.36
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 7.68
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 6.91
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 6.18
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 6.59
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 8.65
+      }
+   ]
+}

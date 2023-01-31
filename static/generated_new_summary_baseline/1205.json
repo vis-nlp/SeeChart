@@ -1,0 +1,85 @@
+{
+   "title": "FIFA World Cup : players with most matches 1930 to 2018",
+   "xAxis": "Player",
+   "yAxis": "Number of appearances",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Player, and Number of appearances in each Player on the y axis. ",
+      "The maximum Number of appearances 25.0 is found at Player Lothar Matth\u00e4us (Germany) and the minimum is found at Cafu (Brazil) where Number of appearances is 20.0. ",
+      "The difference of Number of appearances between the highest and lowest Player is 5.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of appearances for 10 number of Players. ",
+      "The maximum Number of appearances 25.0 is found at Player Lothar Matth\u00e4us (Germany) and the minimum is found at Cafu (Brazil) where Number of appearances is 20.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Player, and Number of appearances in each Player on the y axis. ",
+      "The maximum Number of appearances 25.0 is found at Player Lothar Matth\u00e4us (Germany) and the minimum is found at Cafu (Brazil) where Number of appearances is 20.0. ",
+      "The difference of Number of appearances between the highest and lowest Player is 5.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of appearances for 10 number of Players. ",
+      "The Number of appearances is appeared to be the highest at Player Lothar Matth\u00e4us (Germany) and lowest at Player Cafu (Brazil). ",
+      "The second highest Number of appearances is appeared to be the Player . ",
+      "The highest Player Lothar Matth\u00e4us (Germany) has 5.0 more Number of appearances than the lowest Player Cafu (Brazil). ",
+      "Player Lothar Matth\u00e4us (Germany) is higher than any other Players with value 25.0, followed by , and Paolo Maldini (Italy). Down to Player Cafu (Brazil) with the lowest value 20.0. ",
+      "Player Cafu (Brazil), Bastian Schweinsteiger (Germany), Philipp Lahm (Germany), and Grzegorz Lato (Poland) have a similar Number of appearances that is 20.0. ",
+      "The Player Lothar Matth\u00e4us (Germany) tends to be 1.16 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Player": "Lothar Matth\u00e4us (Germany)",
+         "Number of appearances": 25.0
+      },
+      {
+         "Player": "Miroslav Klose (Germany)",
+         "Number of appearances": 24.0
+      },
+      {
+         "Player": "Paolo Maldini (Italy)",
+         "Number of appearances": 23.0
+      },
+      {
+         "Player": "Uwe Seeler (Germany)",
+         "Number of appearances": 21.0
+      },
+      {
+         "Player": "Diege Maradona (Argentina)",
+         "Number of appearances": 21.0
+      },
+      {
+         "Player": "W\u0142adys\u0142aw \u017bmuda (Poland)",
+         "Number of appearances": 21.0
+      },
+      {
+         "Player": "Cafu (Brazil)",
+         "Number of appearances": 20.0
+      },
+      {
+         "Player": "Bastian Schweinsteiger (Germany)",
+         "Number of appearances": 20.0
+      },
+      {
+         "Player": "Philipp Lahm (Germany)",
+         "Number of appearances": 20.0
+      },
+      {
+         "Player": "Grzegorz Lato (Poland)",
+         "Number of appearances": 20.0
+      }
+   ]
+}

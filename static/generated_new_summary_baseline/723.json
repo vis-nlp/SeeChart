@@ -1,0 +1,84 @@
+{
+   "title": "Fastest supercomputers - number of computer cores 2019",
+   "xAxis": "Location",
+   "yAxis": "Number of cores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Location, and Number of cores in each Location on the y axis. ",
+      "The Number of cores is highest at Location Sunway TaihuLight  China and lowest at Location Lassen United States. ",
+      "The difference of Number of cores between the highest and lowest Location is 10361312.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Location, and Number of cores in each Location on the y axis. ",
+      "Location Sunway TaihuLight  China has the highest Number of cores and Lassen United States has the lowest Number of cores. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Location, and Number of cores in each Location on the y axis. ",
+      "The Number of cores is highest at Location Sunway TaihuLight  China and lowest at Location Lassen United States. ",
+      "The difference of Number of cores between the highest and lowest Location is 10361312.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Location in the x axis and Number of cores in the y axis. ",
+      "The Number of cores is highest at Location Sunway TaihuLight  China and lowest at Location Lassen United States. ",
+      "The second highest Number of cores is appeared to be the Location . ",
+      "The difference of Number of cores between the highest and lowest Location is 10361312.0. ",
+      "The Location Sunway TaihuLight  China has the highest Number of cores, followed by , and Summit United States. Down to the Location Lassen United States which is the lowest. ",
+      "The Location Lassen United States has 4.75 times less Number of cores than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Location": "Summit United States",
+         "Number of cores": 2414592.0
+      },
+      {
+         "Location": "Sierra  United States",
+         "Number of cores": 1572480.0
+      },
+      {
+         "Location": "Sunway TaihuLight  China",
+         "Number of cores": 10649600.0
+      },
+      {
+         "Location": "Tianhe-2A China",
+         "Number of cores": 4981760.0
+      },
+      {
+         "Location": "Frontera United States",
+         "Number of cores": 448448.0
+      },
+      {
+         "Location": "Piz Daint  Switzerland",
+         "Number of cores": 387872.0
+      },
+      {
+         "Location": "Trinity  United States",
+         "Number of cores": 979072.0
+      },
+      {
+         "Location": "AI Bridging Cloud Infrastructure (ABCI) Japan",
+         "Number of cores": 391680.0
+      },
+      {
+         "Location": "SuperMUC-NG Germany",
+         "Number of cores": 305856.0
+      },
+      {
+         "Location": "Lassen United States",
+         "Number of cores": 288288.0
+      }
+   ]
+}

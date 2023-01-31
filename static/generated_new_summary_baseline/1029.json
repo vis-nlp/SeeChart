@@ -1,0 +1,86 @@
+{
+   "title": "Leading causes of death among black U.S. residents in 2017",
+   "xAxis": "Month",
+   "yAxis": "Percentage of all causes of death",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Percentage of all causes of death in the y axis. ",
+      "The Percentage of all causes of death is highest at Month Diseases of the heart and lowest at Month Septicemia. ",
+      "There is a difference of 21.3 between the maximum Month Diseases of the heart and minimum Month Septicemia. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Percentage of all causes of death for 10 number of Months. ",
+      "The Percentage of all causes of death is appeared to be the highest at Month Diseases of the heart and lowest at Month Septicemia. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Percentage of all causes of death in the y axis. ",
+      "The Percentage of all causes of death is highest at Month Diseases of the heart and lowest at Month Septicemia. ",
+      "There is a difference of 21.3 between the maximum Month Diseases of the heart and minimum Month Septicemia. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Percentage of all causes of death in the y axis. ",
+      "Month Diseases of the heart has the highest Percentage of all causes of death and Septicemia has the lowest Percentage of all causes of death. ",
+      "Second maximum Percentage of all causes of death is found at Month . ",
+      "The difference of Percentage of all causes of death between the highest and lowest Month is 21.3. ",
+      "Percentage of all causes of death at Month Diseases of the heart is 23.3 , second place is  at 23.3, and thirdly is Accidents (unintentional injuries) at 5.9.",
+      "Over the past 10 Months, the Percentage of all causes of death has decreased. ",
+      "The average Percentage of all causes of death in all 10 Months is 7.39. ",
+      "The Percentage of all causes of death is 73.9 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Diseases of the heart",
+         "Percentage of all causes of death": 23.3
+      },
+      {
+         "Month": "Malignant neoplasms (cancers)",
+         "Percentage of all causes of death": 20.8
+      },
+      {
+         "Month": "Accidents (unintentional injuries)",
+         "Percentage of all causes of death": 5.9
+      },
+      {
+         "Month": "Cerebrovascular diseases (stroke)",
+         "Percentage of all causes of death": 5.7
+      },
+      {
+         "Month": "Diabetes mellitus",
+         "Percentage of all causes of death": 4.4
+      },
+      {
+         "Month": "Chronic lower respiratorydiseases (CLRD)",
+         "Percentage of all causes of death": 3.3
+      },
+      {
+         "Month": "Assault (homicide)",
+         "Percentage of all causes of death": 3.0
+      },
+      {
+         "Month": "Nephritis nephrotic syndrome and nephrosis (kidney diseases)",
+         "Percentage of all causes of death": 2.8
+      },
+      {
+         "Month": "Alzheimer's disease",
+         "Percentage of all causes of death": 2.7
+      },
+      {
+         "Month": "Septicemia",
+         "Percentage of all causes of death": 2.0
+      }
+   ]
+}

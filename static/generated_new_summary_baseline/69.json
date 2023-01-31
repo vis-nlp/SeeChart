@@ -1,0 +1,64 @@
+{
+   "title": "Casino visitors in the U.S. ordered by age group 2010",
+   "xAxis": "Age of casino visitors",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 columns on the x axis representing Age of casino visitors, and Percentage of respondents in each Age of casino visitors on the y axis. ",
+      "The Percentage of respondents is highest at Age of casino visitors Age 50-64 and lowest at Age of casino visitors Don't know / refused. ",
+      "The highest Age of casino visitors Age 50-64 has 30.0 more Percentage of respondents than the lowest Age of casino visitors Don't know / refused. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Percentage of respondents for 5 number of Age of casino visitorss. ",
+      "The Percentage of respondents is appeared to be the highest at Age of casino visitors Age 50-64 and lowest at Age of casino visitors Don't know / refused. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Age of casino visitors, and Percentage of respondents in each Age of casino visitors on the y axis. ",
+      "The Percentage of respondents is highest at Age of casino visitors Age 50-64 and lowest at Age of casino visitors Don't know / refused. ",
+      "The highest Age of casino visitors Age 50-64 has 30.0 more Percentage of respondents than the lowest Age of casino visitors Don't know / refused. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Age of casino visitors in the x axis and Percentage of respondents in the y axis. ",
+      "The Percentage of respondents is highest at Age of casino visitors Age 50-64 and lowest at Age of casino visitors Don't know / refused. ",
+      "There is a difference of 30.0 between the maximum Age of casino visitors Age 50-64 and minimum Age of casino visitors Don't know / refused. ",
+      "Age of casino visitors Age 50-64 is higher than any other Age of casino visitorss with value 33.0, followed by , and Age 35-49. Down to Age of casino visitors Don't know / refused with the lowest value 3.0. ",
+      "The highest value 33.0 at Age 50-64 is almost 1.65 times larger than the average value 20.0. ",
+      "The Percentage of respondents is 100.0 if we add up values of all Age of casino visitorss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age of casino visitors": "Age 21-34",
+         "Percentage of respondents": 18.0
+      },
+      {
+         "Age of casino visitors": "Age 35-49",
+         "Percentage of respondents": 21.0
+      },
+      {
+         "Age of casino visitors": "Age 50-64",
+         "Percentage of respondents": 33.0
+      },
+      {
+         "Age of casino visitors": "Age 65 and over",
+         "Percentage of respondents": 25.0
+      },
+      {
+         "Age of casino visitors": "Don't know / refused",
+         "Percentage of respondents": 3.0
+      }
+   ]
+}

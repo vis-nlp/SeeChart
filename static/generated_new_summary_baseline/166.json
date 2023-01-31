@@ -1,0 +1,113 @@
+{
+   "title": "National Basketball Association highest-paid players ( salaries & endorsements ) 2019",
+   "labels": [
+      "Player",
+      "Salary",
+      "Endorsements"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Earnings in million USD on the Y-axis for 10 different Players for 2 groups Salary, and Endorsements that are presented on the X-axis. ",
+      " For Player Stephen Curry (Golden State Warriors), Salary had the highest Earnings in million USD 375.0 among the 2 groups and in Blake Griffin (Detroit Pistons), Endorsements had the lowest Earnings in million USD 7.0. ",
+      "Player LeBron James (Cleveland Cavaliers) and Blake Griffin (Detroit Pistons) had the biggest gap of 46.0 between the highest and lowest Earnings in million USD found for Endorsements. ",
+      "On average, the Player LeBron James (Cleveland Cavaliers) had the highest Earnings in million USD for all 2 groups Salary, and Endorsements. Whereas Paul George (Oklahoma City Thunder) had the lowest average Earnings in million USD. "
+   ],
+   "xAxis": "Player",
+   "yAxis": "Earnings in million USD",
+   "min_summary": [
+      "This grouped bar chart shows Earnings in million USD on the Y-axis for 10 different Players for 2 groups Salary, and Endorsements that are presented on the X-axis. ",
+      " Out of all 2 groups, Salary had the highest Earnings in million USD for Player Stephen Curry (Golden State Warriors) and Endorsements had the lowest Earnings in million USD for Player Blake Griffin (Detroit Pistons). "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Earnings in million USD on the Y-axis for 10 different Players for 2 groups Salary, and Endorsements that are presented on the X-axis. ",
+      " For Player Stephen Curry (Golden State Warriors), Salary had the highest Earnings in million USD 375.0 among the 2 groups and in Blake Griffin (Detroit Pistons), Endorsements had the lowest Earnings in million USD 7.0. ",
+      "Player LeBron James (Cleveland Cavaliers) and Blake Griffin (Detroit Pistons) had the biggest gap of 46.0 between the highest and lowest Earnings in million USD found for Endorsements. ",
+      "On average, the Player LeBron James (Cleveland Cavaliers) had the highest Earnings in million USD for all 2 groups Salary, and Endorsements. Whereas Paul George (Oklahoma City Thunder) had the lowest average Earnings in million USD. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Earnings in million USD on the Y-axis for 10 different Players for 2 groups Salary, and Endorsements that are presented on the X-axis. ",
+      " For Player Stephen Curry (Golden State Warriors), Salary had the highest Earnings in million USD 375.0 among the 2 groups and in Blake Griffin (Detroit Pistons), Endorsements had the lowest Earnings in million USD 7.0. ",
+      " Among all the Players, Endorsements had the highest Earnings in million USD 53.0 in Player LeBron James (Cleveland Cavaliers) and lowest value 7.0 in Player Blake Griffin (Detroit Pistons). ",
+      " There is a gap of 46.0 between the highest and lowest Earnings in million USD found for Endorsements in Player LeBron James (Cleveland Cavaliers) and Blake Griffin (Detroit Pistons). ",
+      " Among the groups, Salary had the biggest difference in Earnings in million USD. Where the maximum Earnings in million USD was 1.55 times larger than the minimum Earnings in million USD. ",
+      "Averaging all 2 groups Salary, and Endorsements, the Player LeBron James (Cleveland Cavaliers) is the maximum Earnings in million USD and Paul George (Oklahoma City Thunder) is the minimum Earnings in million USD. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Player": "LeBron James (Cleveland Cavaliers)",
+         "Salary": "35.7",
+         "Endorsements": "53"
+      },
+      {
+         "Player": "Stephen Curry (Golden State Warriors)",
+         "Salary": "37.5",
+         "Endorsements": "42"
+      },
+      {
+         "Player": "Kevin Durant (Golden State Warriors)",
+         "Salary": "30.0",
+         "Endorsements": "35"
+      },
+      {
+         "Player": "Russell Westbrook (Oklahoma City Thunder)",
+         "Salary": "35.7",
+         "Endorsements": "18"
+      },
+      {
+         "Player": "James Harden (Houston Rockets)",
+         "Salary": "30.4",
+         "Endorsements": "17"
+      },
+      {
+         "Player": "Chris Paul (Los Angeles Clippers)",
+         "Salary": "35.7",
+         "Endorsements": "8"
+      },
+      {
+         "Player": "Giannis Antetokounmpo (Milwaukee Bucks)",
+         "Salary": "24.2",
+         "Endorsements": "19"
+      },
+      {
+         "Player": "Damian Lillard (Portland Trail Blazers)",
+         "Salary": "28.0",
+         "Endorsements": "13"
+      },
+      {
+         "Player": "Blake Griffin (Detroit Pistons)",
+         "Salary": "32.1",
+         "Endorsements": "7"
+      },
+      {
+         "Player": "Paul George (Oklahoma City Thunder)",
+         "Salary": "30.6",
+         "Endorsements": "8"
+      }
+   ]
+}

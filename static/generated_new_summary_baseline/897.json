@@ -1,0 +1,108 @@
+{
+   "title": "Mexico : foreign direct investment ( FDI ) 3rd quarter 2019 , by country",
+   "labels": [
+      "Country",
+      "Q2 2019",
+      "Q3 2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of FDI on the Y-axis for 9 different Countrys for 2 groups Q2 2019, and Q3 2019 that are presented on the X-axis. ",
+      " Country United States had the maximum Share of FDI among all 2 groups, and it was for Q2 2019. The minimum Share of FDI was observed in Country Belgium for Q2 2019. ",
+      "Country United States and Belgium had the biggest gap of 3606.0 between the highest and lowest Share of FDI found for Q2 2019. ",
+      "On average, the Country United States had the highest Share of FDI for all 2 groups Q2 2019, and Q3 2019. Whereas Belgium had the lowest average Share of FDI. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Share of FDI",
+   "min_summary": [
+      "This grouped bar chart shows Share of FDI on the Y-axis for 9 different Countrys for 2 groups Q2 2019, and Q3 2019 that are presented on the X-axis. ",
+      " For Country United States, Q2 2019 had the highest Share of FDI 3607.0 among the 2 groups and in Belgium, Q2 2019 had the lowest Share of FDI 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of FDI on the Y-axis for 9 different Countrys for 2 groups Q2 2019, and Q3 2019 that are presented on the X-axis. ",
+      " Country United States had the maximum Share of FDI among all 2 groups, and it was for Q2 2019. The minimum Share of FDI was observed in Country Belgium for Q2 2019. ",
+      "Country United States and Belgium had the biggest gap of 3606.0 between the highest and lowest Share of FDI found for Q2 2019. ",
+      "On average, the Country United States had the highest Share of FDI for all 2 groups Q2 2019, and Q3 2019. Whereas Belgium had the lowest average Share of FDI. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 2 groups Q2 2019, and Q3 2019. On the Y-axis it shows their corresponding Share of FDI. ",
+      " Out of all 2 groups, Q2 2019 had the highest Share of FDI for Country United States and Q2 2019 had the lowest Share of FDI for Country Belgium. ",
+      " For Country United States, Q2 2019 had the maximum Share of FDI and it saw the lowest in Country Belgium out of all 9 Countrys. ",
+      " There is a gap of 3606.0 between the highest and lowest Share of FDI found for Q2 2019 in Country United States and Belgium. ",
+      " Among the groups, Q2 2019 had the biggest difference in Share of FDI. Where the maximum Share of FDI was 3607.0 times larger than the minimum Share of FDI. ",
+      "Averaging all 2 groups Q2 2019, and Q3 2019, the Country United States is the maximum Share of FDI and Belgium is the minimum Share of FDI. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Q2 2019": "36.07",
+         "Q3 2019": "24.93"
+      },
+      {
+         "Country": "Canada",
+         "Q2 2019": "34.97",
+         "Q3 2019": "1.46"
+      },
+      {
+         "Country": "Germany",
+         "Q2 2019": "9.81",
+         "Q3 2019": "19.38"
+      },
+      {
+         "Country": "Spain",
+         "Q2 2019": "6.32",
+         "Q3 2019": "26.79"
+      },
+      {
+         "Country": "Belgium",
+         "Q2 2019": "0",
+         "Q3 2019": "0.01"
+      },
+      {
+         "Country": "Netherlands",
+         "Q2 2019": "0",
+         "Q3 2019": "0.71"
+      },
+      {
+         "Country": "Australia",
+         "Q2 2019": "0",
+         "Q3 2019": "1.42"
+      },
+      {
+         "Country": "Japan",
+         "Q2 2019": "0",
+         "Q3 2019": "7.64"
+      },
+      {
+         "Country": "Italy",
+         "Q2 2019": "3.18",
+         "Q3 2019": "6.94"
+      }
+   ]
+}

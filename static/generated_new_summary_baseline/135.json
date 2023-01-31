@@ -1,0 +1,133 @@
+{
+   "title": "Latin America & the Caribbean : homicide rates 2017 , by country",
+   "xAxis": "Country",
+   "yAxis": "Homicides per 100,000 inhabitants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Homicides per 100,000 inhabitants in the y axis. ",
+      "The maximum Homicides per 100,000 inhabitants 61.8 is found at Country El Salvador and the minimum is found at Chile where Homicides per 100,000 inhabitants is 4.3. ",
+      "The difference of Homicides per 100,000 inhabitants between the highest and lowest Country is 57.5. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Homicides per 100,000 inhabitants in the y axis. ",
+      "The maximum Homicides per 100,000 inhabitants 61.8 is found at Country El Salvador and the minimum is found at Chile where Homicides per 100,000 inhabitants is 4.3. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Homicides per 100,000 inhabitants in the y axis. ",
+      "The maximum Homicides per 100,000 inhabitants 61.8 is found at Country El Salvador and the minimum is found at Chile where Homicides per 100,000 inhabitants is 4.3. ",
+      "The difference of Homicides per 100,000 inhabitants between the highest and lowest Country is 57.5. "
+   ],
+   "max_summary": [
+      "This bar chart has 22 columns on the x axis representing Country, and Homicides per 100,000 inhabitants in each Country on the y axis. ",
+      "The maximum Homicides per 100,000 inhabitants 61.8 is found at Country El Salvador and the minimum is found at Chile where Homicides per 100,000 inhabitants is 4.3. ",
+      "The second highest Homicides per 100,000 inhabitants is appeared to be the Country . ",
+      "There is a difference of 57.5 between the maximum Country El Salvador and minimum Country Chile. ",
+      "Homicides per 100,000 inhabitants at Country El Salvador is 61.8 , second place is  at 61.8, and thirdly is Honduras at 41.7.",
+      "The average Homicides per 100,000 inhabitants in all 22 Countrys is 20.79. ",
+      "The Homicides per 100,000 inhabitants is 457.4 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 21,
+         "12": 21
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "El Salvador",
+         "Homicides per 100,000 inhabitants": 61.8
+      },
+      {
+         "Country": "Jamaica",
+         "Homicides per 100,000 inhabitants": 57.0
+      },
+      {
+         "Country": "Honduras",
+         "Homicides per 100,000 inhabitants": 41.7
+      },
+      {
+         "Country": "Belize",
+         "Homicides per 100,000 inhabitants": 37.9
+      },
+      {
+         "Country": "Bahamas",
+         "Homicides per 100,000 inhabitants": 30.9
+      },
+      {
+         "Country": "Brazil",
+         "Homicides per 100,000 inhabitants": 30.5
+      },
+      {
+         "Country": "Guatemala",
+         "Homicides per 100,000 inhabitants": 26.1
+      },
+      {
+         "Country": "Colombia",
+         "Homicides per 100,000 inhabitants": 24.9
+      },
+      {
+         "Country": "Mexico",
+         "Homicides per 100,000 inhabitants": 24.8
+      },
+      {
+         "Country": "Puerto Rico",
+         "Homicides per 100,000 inhabitants": 18.5
+      },
+      {
+         "Country": "Guyana",
+         "Homicides per 100,000 inhabitants": 14.8
+      },
+      {
+         "Country": "Costa Rica",
+         "Homicides per 100,000 inhabitants": 12.3
+      },
+      {
+         "Country": "Dominican Republic",
+         "Homicides per 100,000 inhabitants": 11.3
+      },
+      {
+         "Country": "Grenada",
+         "Homicides per 100,000 inhabitants": 11.1
+      },
+      {
+         "Country": "Panama",
+         "Homicides per 100,000 inhabitants": 9.7
+      },
+      {
+         "Country": "Uruguay",
+         "Homicides per 100,000 inhabitants": 8.2
+      },
+      {
+         "Country": "Peru",
+         "Homicides per 100,000 inhabitants": 7.7
+      },
+      {
+         "Country": "Nicaragua",
+         "Homicides per 100,000 inhabitants": 7.4
+      },
+      {
+         "Country": "Ecuador",
+         "Homicides per 100,000 inhabitants": 5.8
+      },
+      {
+         "Country": "Suriname",
+         "Homicides per 100,000 inhabitants": 5.5
+      },
+      {
+         "Country": "Argentina",
+         "Homicides per 100,000 inhabitants": 5.2
+      },
+      {
+         "Country": "Chile",
+         "Homicides per 100,000 inhabitants": 4.3
+      }
+   ]
+}

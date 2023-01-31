@@ -1,0 +1,158 @@
+{
+   "title": "Zynga 's quarterly revenue from Q4 2012- Q3 2019",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 28 number of Quarters. ",
+      "Quarter Q3 '19 has the highest Revenue in million U.S. dollars and Q2 '14 has the lowest Revenue in million U.S. dollars. ",
+      "There is a difference of 192.06 between the maximum Quarter Q3 '19 and minimum Quarter Q2 '14. "
+   ],
+   "min_summary": [
+      "This bar chart has 28 columns on the x axis representing Quarter, and Revenue in million U.S. dollars in each Quarter on the y axis. ",
+      "The Revenue in million U.S. dollars is highest at Quarter Q3 '19 and lowest at Quarter Q2 '14. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 28 number of Quarters. ",
+      "Quarter Q3 '19 has the highest Revenue in million U.S. dollars and Q2 '14 has the lowest Revenue in million U.S. dollars. ",
+      "There is a difference of 192.06 between the maximum Quarter Q3 '19 and minimum Quarter Q2 '14. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Quarter in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "Quarter Q3 '19 has the highest Revenue in million U.S. dollars and Q2 '14 has the lowest Revenue in million U.S. dollars. ",
+      "The second highest Revenue in million U.S. dollars is appeared to be the Quarter . ",
+      "The highest Quarter Q3 '19 has 192.06 more Revenue in million U.S. dollars than the lowest Quarter Q2 '14. ",
+      "The Quarter Q3 '19 has the highest Revenue in million U.S. dollars, followed by , and Q2 '19. Down to the Quarter Q2 '14 which is the lowest. ",
+      "The Revenue in million U.S. dollars has declined over the past 28 Quarters. ",
+      "The Quarter Q2 '14 tends to be 1.59 percent lower than average. ",
+      "Summing up the values of all Quarters, we get total 6066.78. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 21,
+         "12": 21
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 '19",
+         "Revenue in million U.S. dollars": 345.29
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Revenue in million U.S. dollars": 306.5
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Revenue in million U.S. dollars": 265.4
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Revenue in million U.S. dollars": 248.69
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Revenue in million U.S. dollars": 233.24
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Revenue in million U.S. dollars": 217.04
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Revenue in million U.S. dollars": 208.23
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Revenue in million U.S. dollars": 233.28
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Revenue in million U.S. dollars": 224.59
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Revenue in million U.S. dollars": 209.23
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Revenue in million U.S. dollars": 194.3
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Revenue in million U.S. dollars": 190.54
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Revenue in million U.S. dollars": 182.42
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Revenue in million U.S. dollars": 181.74
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Revenue in million U.S. dollars": 186.72
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Revenue in million U.S. dollars": 185.77
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Revenue in million U.S. dollars": 195.74
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Revenue in million U.S. dollars": 199.92
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Revenue in million U.S. dollars": 183.29
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Revenue in million U.S. dollars": 192.55
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Revenue in million U.S. dollars": 176.61
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Revenue in million U.S. dollars": 153.23
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Revenue in million U.S. dollars": 168.02
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Revenue in million U.S. dollars": 176.36
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Revenue in million U.S. dollars": 202.58
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Revenue in million U.S. dollars": 230.74
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Revenue in million U.S. dollars": 263.59
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Revenue in million U.S. dollars": 311.17
+      }
+   ]
+}

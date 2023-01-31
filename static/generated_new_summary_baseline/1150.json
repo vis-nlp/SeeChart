@@ -1,0 +1,109 @@
+{
+   "title": "Public opinion on the most important problem facing the U.S. 2020",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 28.0 is found at Response Dissatisfaction with government/Poor leadership and the minimum is found at Situation in Iraq/ISIS where Share of respondents is 2.0. ",
+      "The minimum Response Situation in Iraq/ISIS has got 14.0 times less Share of respondents than the maximum Response Dissatisfaction with government/Poor leadership. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 28.0 is found at Response Dissatisfaction with government/Poor leadership and the minimum is found at Situation in Iraq/ISIS where Share of respondents is 2.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 28.0 is found at Response Dissatisfaction with government/Poor leadership and the minimum is found at Situation in Iraq/ISIS where Share of respondents is 2.0. ",
+      "The minimum Response Situation in Iraq/ISIS has got 14.0 times less Share of respondents than the maximum Response Dissatisfaction with government/Poor leadership. "
+   ],
+   "max_summary": [
+      "This bar chart has 16 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Dissatisfaction with government/Poor leadership and lowest at Response Situation in Iraq/ISIS. ",
+      "The difference of Share of respondents between the highest and lowest Response is 26.0. ",
+      "Response Dissatisfaction with government/Poor leadership is higher than any other Responses with value 28.0, followed by , and Healthcare. Down to Response Situation in Iraq/ISIS with the lowest value 2.0. ",
+      "Similar Share of respondents is found in Response Situation in Iraq/ISIS, Foreign policy/Foreign aid/Focus overseas, Economy in general, Guns/Gun control, Gap between rich and poor, Education, and Wars/War (nonspecific)/Fear of war. ",
+      "The Response Dissatisfaction with government/Poor leadership has 5.6 times more Share of respondents than average. ",
+      "Summing up the values of all Responses, we get total 80.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Dissatisfaction with government/Poor leadership",
+         "Share of respondents": 28.0
+      },
+      {
+         "Response": "Immigration",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Healthcare",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Ethics/moral/religious/family decline",
+         "Share of respondents": 5.0
+      },
+      {
+         "Response": "Unifying the country",
+         "Share of respondents": 5.0
+      },
+      {
+         "Response": "Poverty/Hunger/Homelessness",
+         "Share of respondents": 5.0
+      },
+      {
+         "Response": "Lack of respect for each other",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Environment/Pollution/Climate change",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Race relations/Racism",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Situation in Iraq/ISIS",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Foreign policy/Foreign aid/Focus overseas",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Economy in general",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Guns/Gun control",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Gap between rich and poor",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Education",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "Wars/War (nonspecific)/Fear of war",
+         "Share of respondents": 2.0
+      }
+   ]
+}

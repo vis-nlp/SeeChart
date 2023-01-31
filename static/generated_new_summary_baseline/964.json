@@ -1,0 +1,115 @@
+{
+   "title": "Trust in online customer reviews 2014 to 2018",
+   "labels": [
+      "Response",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 6 different Responses on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Trust Percentage. ",
+      " Out of all 5 groups, 2014 had the highest Trust Percentage for Response Yes for some types of businesses no for others and 2014 had the lowest Trust Percentage for Response Yes always. ",
+      " The maximum Trust Percentage for 2016 that was found in Response Yes if I believe the reviews are authentic was 6.75 times larger than the minimum Trust Percentage observed in Response No I don't trust reviews at all. ",
+      "Averaging all 5 groups 2014, 2015, 2016, 2017, and 2018, the Response Yes if I believe the reviews are authentic is the maximum Trust Percentage and No I am often skeptical about online reviews is the minimum Trust Percentage. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Trust Percentage",
+   "min_summary": [
+      "This grouped bar chart shows Trust Percentage on the Y-axis for 6 different Responses for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " For Response Yes for some types of businesses no for others, 2014 had the highest Trust Percentage 34.0 among the 5 groups and in Yes always, 2014 had the lowest Trust Percentage 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 6 different Responses on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Trust Percentage. ",
+      " Out of all 5 groups, 2014 had the highest Trust Percentage for Response Yes for some types of businesses no for others and 2014 had the lowest Trust Percentage for Response Yes always. ",
+      " The maximum Trust Percentage for 2016 that was found in Response Yes if I believe the reviews are authentic was 6.75 times larger than the minimum Trust Percentage observed in Response No I don't trust reviews at all. ",
+      "Averaging all 5 groups 2014, 2015, 2016, 2017, and 2018, the Response Yes if I believe the reviews are authentic is the maximum Trust Percentage and No I am often skeptical about online reviews is the minimum Trust Percentage. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 6 different Responses on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Trust Percentage. ",
+      " Response Yes for some types of businesses no for others had the maximum Trust Percentage among all 5 groups, and it was for 2014. The minimum Trust Percentage was observed in Response Yes always for 2014. ",
+      " Among all the Responses, 2016 had the highest Trust Percentage 27.0 in Response Yes if I believe the reviews are authentic and lowest value 4.0 in Response No I don't trust reviews at all. ",
+      " There is a gap of 23.0 between the highest and lowest Trust Percentage found for 2016 in Response Yes if I believe the reviews are authentic and No I don't trust reviews at all. ",
+      " Among all 5 groups, 2014 had the gap of 34.0 between the maximum and minimum Trust Percentage observed in Response Yes for some types of businesses no for others and Yes always respectively. ",
+      " In case of Response Yes for some types of businesses no for others, 2014 had the highest Trust Percentage 34.0 among the 5 groups and in Yes always, 2014 had the lowest Trust Percentage 0.0. The second highest Trust Percentage 27.0 was observed for 2014 in Response Yes for some types of businesses no for others. ",
+      "On average, the Response Yes if I believe the reviews are authentic had the highest Trust Percentage for all 5 groups 2014, 2015, 2016, 2017, and 2018. Whereas No I am often skeptical about online reviews had the lowest average Trust Percentage. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "5",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Yes always",
+         "2014": "0",
+         "2015": "8",
+         "2016": "18",
+         "2017": "19",
+         "2018": "19"
+      },
+      {
+         "Response": "Yes if I believe the reviews are authentic",
+         "2014": "22",
+         "2015": "31",
+         "2016": "27",
+         "2017": "27",
+         "2018": "19"
+      },
+      {
+         "Response": "Yes for some types of businesses no for others",
+         "2014": "34",
+         "2015": "22",
+         "2016": "19",
+         "2017": "20",
+         "2018": "15"
+      },
+      {
+         "Response": "Yes if there are multiple customer reviews to read",
+         "2014": "26",
+         "2015": "19",
+         "2016": "20",
+         "2017": "20",
+         "2018": "25"
+      },
+      {
+         "Response": "No I am often skeptical about online reviews",
+         "2014": "0",
+         "2015": "0",
+         "2016": "12",
+         "2017": "13",
+         "2018": "16"
+      },
+      {
+         "Response": "No I don't trust reviews at all",
+         "2014": "17",
+         "2015": "20",
+         "2016": "4",
+         "2017": "3",
+         "2018": "6"
+      }
+   ]
+}

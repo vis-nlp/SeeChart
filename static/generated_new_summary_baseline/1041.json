@@ -1,0 +1,85 @@
+{
+   "title": "Largest Ecuadorian-American population groups in the U.S. , by county 2010",
+   "xAxis": "Population Group",
+   "yAxis": "Population number",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Population Group in the x axis and Population number in the y axis. ",
+      "The Population number is highest at Population Group Queens County NY and lowest at Population Group Suffolk County NY. ",
+      "There is a difference of 80874.0 between the maximum Population Group Queens County NY and minimum Population Group Suffolk County NY. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Population Group in the x axis and Population number in the y axis. ",
+      "The maximum Population number 98512.0 is found at Population Group Queens County NY and the minimum is found at Suffolk County NY where Population number is 17638.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Population Group in the x axis and Population number in the y axis. ",
+      "The Population number is highest at Population Group Queens County NY and lowest at Population Group Suffolk County NY. ",
+      "There is a difference of 80874.0 between the maximum Population Group Queens County NY and minimum Population Group Suffolk County NY. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Population number for 10 number of Population Groups. ",
+      "The Population number is appeared to be the highest at Population Group Queens County NY and lowest at Population Group Suffolk County NY. ",
+      "Second maximum Population number is found at Population Group . ",
+      "The difference of Population number between the highest and lowest Population Group is 80874.0. ",
+      "Population number at Population Group Queens County NY is 98512.0 , second place is  at 98512.0, and thirdly is Hudson County NJ at 26650.0.",
+      "The lowest value 17638.0 at Suffolk County NY is almost 3.27 times smaller than the average value 30118.9. ",
+      "The Population number is 301189.0 if we add up values of all Population Groups. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Population Group": "Queens County NY",
+         "Population number": 98512.0
+      },
+      {
+         "Population Group": "Kings County NJ",
+         "Population number": 28684.0
+      },
+      {
+         "Population Group": "Hudson County NJ",
+         "Population number": 26650.0
+      },
+      {
+         "Population Group": "Essex County NJ",
+         "Population number": 25169.0
+      },
+      {
+         "Population Group": "Bronx County NY",
+         "Population number": 23206.0
+      },
+      {
+         "Population Group": "Westchester County NY",
+         "Population number": 22460.0
+      },
+      {
+         "Population Group": "Miami-Dade County FL",
+         "Population number": 19832.0
+      },
+      {
+         "Population Group": "Los Angeles County CA",
+         "Population number": 19588.0
+      },
+      {
+         "Population Group": "Cook County IL",
+         "Population number": 19450.0
+      },
+      {
+         "Population Group": "Suffolk County NY",
+         "Population number": 17638.0
+      }
+   ]
+}

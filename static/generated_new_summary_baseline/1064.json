@@ -1,0 +1,65 @@
+{
+   "title": "Number of people freelancing in U.S. 2014 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of people doing freelance work in million",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of people doing freelance work in million. In total the number of data points it has is 6.",
+      " Overall Number of people doing freelance work in million has increased over the Year.",
+      "Number of people doing freelance work in million is slightly increasing from 2014 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Number of people doing freelance work in million, of value 57.3 was reached at Year 2017",
+      "The lowest Number of people doing freelance work in million, of value 53.0 was reported at Year 2014"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of people doing freelance work in million, containing a total of 6 data points.",
+      " Overall Number of people doing freelance work in million has increased over the Year.",
+      "Number of people doing freelance work in million is slightly increasing from 2014 to 2017, and lastly roughly constant from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of people doing freelance work in million. In total the number of data points it has is 6.",
+      " Overall Number of people doing freelance work in million has increased over the Year.",
+      "Number of people doing freelance work in million is slightly increasing from 2014 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Number of people doing freelance work in million, of value 57.3 was reached at Year 2017",
+      "The lowest Number of people doing freelance work in million, of value 53.0 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of people doing freelance work in million, containing a total of 6 data points.",
+      " In general Number of people doing freelance work in million has rose over the Year.",
+      "Number of people doing freelance work in million is slightly increasing from 2014 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "The highest Number of people doing freelance work in million, of value 57.3 was reached at Year 2017",
+      "The lowest Number of people doing freelance work in million, of value 53.0 was reported at Year 2014",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of people doing freelance work in million": 57.0
+      },
+      {
+         "Year": "2018",
+         "Number of people doing freelance work in million": 56.7
+      },
+      {
+         "Year": "2017",
+         "Number of people doing freelance work in million": 57.3
+      },
+      {
+         "Year": "2016",
+         "Number of people doing freelance work in million": 55.0
+      },
+      {
+         "Year": "2015",
+         "Number of people doing freelance work in million": 53.7
+      },
+      {
+         "Year": "2014",
+         "Number of people doing freelance work in million": 53.0
+      }
+   ]
+}

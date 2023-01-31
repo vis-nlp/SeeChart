@@ -1,0 +1,97 @@
+{
+   "title": "U.S.- employment by industry 2019",
+   "xAxis": "Industry",
+   "yAxis": "Employment in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Industry in the x axis and Employment in thousands in the y axis. ",
+      "The Employment in thousands is highest at Industry Education and health services and lowest at Industry Mining quarrying and oil and gas extraction. ",
+      "There is a difference of 35144.0 between the maximum Industry Education and health services and minimum Industry Mining quarrying and oil and gas extraction. "
+   ],
+   "min_summary": [
+      "This bar chart has 13 columns on the x axis representing Industry, and Employment in thousands in each Industry on the y axis. ",
+      "The Employment in thousands is highest at Industry Education and health services and lowest at Industry Mining quarrying and oil and gas extraction. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Industry in the x axis and Employment in thousands in the y axis. ",
+      "The Employment in thousands is highest at Industry Education and health services and lowest at Industry Mining quarrying and oil and gas extraction. ",
+      "There is a difference of 35144.0 between the maximum Industry Education and health services and minimum Industry Mining quarrying and oil and gas extraction. "
+   ],
+   "max_summary": [
+      "This bar chart has 13 columns on the x axis representing Industry, and Employment in thousands in each Industry on the y axis. ",
+      "Industry Education and health services has the highest Employment in thousands and Mining quarrying and oil and gas extraction has the lowest Employment in thousands. ",
+      "Industry  has the second highest value for Employment in thousands. ",
+      "The highest Industry Education and health services has 35144.0 more Employment in thousands than the lowest Industry Mining quarrying and oil and gas extraction. ",
+      "Industry Education and health services is higher than any other Industrys with value 35894.0, followed by , and Professional and business services. Down to Industry Mining quarrying and oil and gas extraction with the lowest value 750.0. ",
+      "The Industry Education and health services tends to be 2.96 percent higher than average. ",
+      "The Employment in thousands is 157538.0 if we add up values of all Industrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Education and health services",
+         "Employment in thousands": 35894.0
+      },
+      {
+         "Industry": "Wholesale and retail trade",
+         "Employment in thousands": 19742.0
+      },
+      {
+         "Industry": "Professional and business services",
+         "Employment in thousands": 19606.0
+      },
+      {
+         "Industry": "Manufacturing",
+         "Employment in thousands": 15741.0
+      },
+      {
+         "Industry": "Leisure and hospitality",
+         "Employment in thousands": 14643.0
+      },
+      {
+         "Industry": "Construction",
+         "Employment in thousands": 11373.0
+      },
+      {
+         "Industry": "Financial activities",
+         "Employment in thousands": 10765.0
+      },
+      {
+         "Industry": "Transportation and utilities",
+         "Employment in thousands": 8991.0
+      },
+      {
+         "Industry": "Other services",
+         "Employment in thousands": 7617.0
+      },
+      {
+         "Industry": "Public administration",
+         "Employment in thousands": 7225.0
+      },
+      {
+         "Industry": "Information",
+         "Employment in thousands": 2766.0
+      },
+      {
+         "Industry": "Agriculture and related",
+         "Employment in thousands": 2425.0
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "Employment in thousands": 750.0
+      }
+   ]
+}

@@ -1,0 +1,61 @@
+{
+   "title": "Spain : number of hotels and similar accommodation by number of rooms 2015",
+   "xAxis": "Year",
+   "yAxis": "Number of hotels",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of hotels. In total the number of data points it has is 5.",
+      " In general Number of hotels has rose over the Year.",
+      "Number of hotels is roughly constant from 100_rooms_or_more to 250_rooms_or_more, and finally slightly increasing from 250_rooms_or_more to Less_than_25_rooms.",
+      "The most drastic increase took place within the Year From_25_to_99_rooms and Less_than_25_rooms.",
+      "Maximum Number of hotels, about 12170.0 was reported at Year Less_than_25_rooms",
+      "The lowest Number of hotels, of value 679.0 was reported at Year 250_rooms_or_more"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of hotels. In total the number of data points it has is 5.",
+      " Overall Number of hotels has increased over the Year.",
+      "Number of hotels is roughly constant from 100_rooms_or_more to 250_rooms_or_more, and finally slightly increasing from 250_rooms_or_more to Less_than_25_rooms."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of hotels. In total the number of data points it has is 5.",
+      " In general Number of hotels has rose over the Year.",
+      "Number of hotels is roughly constant from 100_rooms_or_more to 250_rooms_or_more, and finally slightly increasing from 250_rooms_or_more to Less_than_25_rooms.",
+      "The most drastic increase took place within the Year From_25_to_99_rooms and Less_than_25_rooms.",
+      "Maximum Number of hotels, about 12170.0 was reported at Year Less_than_25_rooms",
+      "The lowest Number of hotels, of value 679.0 was reported at Year 250_rooms_or_more"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of hotels. In total the number of data points it has is 5.",
+      " In general Number of hotels has rose over the Year.",
+      "Number of hotels is roughly constant from 100_rooms_or_more to 250_rooms_or_more, and finally slightly increasing from 250_rooms_or_more to Less_than_25_rooms.",
+      "The most drastic increase took place within the Year From_25_to_99_rooms and Less_than_25_rooms.",
+      "Maximum Number of hotels, about 12170.0 was reported at Year Less_than_25_rooms",
+      "The lowest Number of hotels, of value 679.0 was reported at Year 250_rooms_or_more",
+      "The line significantly remained stable by 1758.0 from Year 100_rooms_or_more to 250_rooms_or_more,increased by 1079.0 from Year 250_rooms_or_more to From_100_to_249_rooms,increased by 3353.0 from Year From_100_to_249_rooms to From_25_to_99_rooms, and lastly, increased by 7059.0 from Year From_25_to_99_rooms to Less_than_25_rooms."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "Less than 25 rooms",
+         "Number of hotels": 12170.0
+      },
+      {
+         "Year": "From 25 to 99 rooms",
+         "Number of hotels": 5111.0
+      },
+      {
+         "Year": "100 rooms or more",
+         "Number of hotels": 2437.0
+      },
+      {
+         "Year": "From 100 to 249 rooms",
+         "Number of hotels": 1758.0
+      },
+      {
+         "Year": "250 rooms or more",
+         "Number of hotels": 679.0
+      }
+   ]
+}

@@ -1,0 +1,141 @@
+{
+   "title": "World ranking of Sweden 's national football team 1993 to 2018",
+   "xAxis": "Year",
+   "yAxis": "FIFA World Ranking position",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes FIFA World Ranking position. In total the number of data points it has is 26.",
+      " Overall FIFA World Ranking position has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest FIFA World Ranking position, of value 44.0 was reached at Year 2014",
+      "The lowest FIFA World Ranking position, of value 3.0 was reported at Year 1994"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes FIFA World Ranking position. In total the number of data points it has is 26.",
+      " Overall FIFA World Ranking position has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes FIFA World Ranking position. In total the number of data points it has is 26.",
+      " Overall FIFA World Ranking position has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest FIFA World Ranking position, of value 44.0 was reached at Year 2014",
+      "The lowest FIFA World Ranking position, of value 3.0 was reported at Year 1994"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes FIFA World Ranking position. In total the number of data points it has is 26.",
+      " Overall FIFA World Ranking position has increased over the Year.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "The highest FIFA World Ranking position, of value 44.0 was reached at Year 2014",
+      "The lowest FIFA World Ranking position, of value 3.0 was reported at Year 1994",
+      "The line rapidly increased by 333.33% from Year 1994 to 1995, and lastly, increased by 71.43% from Year 2006 to 2007."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "1993",
+         "FIFA World Ranking position": 9.0
+      },
+      {
+         "Year": "1994",
+         "FIFA World Ranking position": 3.0
+      },
+      {
+         "Year": "1995",
+         "FIFA World Ranking position": 13.0
+      },
+      {
+         "Year": "1996",
+         "FIFA World Ranking position": 17.0
+      },
+      {
+         "Year": "1997",
+         "FIFA World Ranking position": 18.0
+      },
+      {
+         "Year": "1998",
+         "FIFA World Ranking position": 18.0
+      },
+      {
+         "Year": "1999",
+         "FIFA World Ranking position": 16.0
+      },
+      {
+         "Year": "2000",
+         "FIFA World Ranking position": 23.0
+      },
+      {
+         "Year": "2001",
+         "FIFA World Ranking position": 16.0
+      },
+      {
+         "Year": "2002",
+         "FIFA World Ranking position": 25.0
+      },
+      {
+         "Year": "2003",
+         "FIFA World Ranking position": 19.0
+      },
+      {
+         "Year": "2004",
+         "FIFA World Ranking position": 13.0
+      },
+      {
+         "Year": "2005",
+         "FIFA World Ranking position": 14.0
+      },
+      {
+         "Year": "2006",
+         "FIFA World Ranking position": 14.0
+      },
+      {
+         "Year": "2007",
+         "FIFA World Ranking position": 24.0
+      },
+      {
+         "Year": "2008",
+         "FIFA World Ranking position": 32.0
+      },
+      {
+         "Year": "2009",
+         "FIFA World Ranking position": 42.0
+      },
+      {
+         "Year": "2010",
+         "FIFA World Ranking position": 33.0
+      },
+      {
+         "Year": "2011",
+         "FIFA World Ranking position": 18.0
+      },
+      {
+         "Year": "2012",
+         "FIFA World Ranking position": 20.0
+      },
+      {
+         "Year": "2013",
+         "FIFA World Ranking position": 27.0
+      },
+      {
+         "Year": "2014",
+         "FIFA World Ranking position": 44.0
+      },
+      {
+         "Year": "2015",
+         "FIFA World Ranking position": 35.0
+      },
+      {
+         "Year": "2016",
+         "FIFA World Ranking position": 41.0
+      },
+      {
+         "Year": "2017",
+         "FIFA World Ranking position": 18.0
+      },
+      {
+         "Year": "2018",
+         "FIFA World Ranking position": 23.0
+      }
+   ]
+}

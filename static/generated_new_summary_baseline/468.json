@@ -1,0 +1,78 @@
+{
+   "title": "Life expectancy in North America 2019",
+   "labels": [
+      "Country",
+      "Males",
+      "Females"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Life expectancy in years on the Y-axis for 3 different Countrys for 2 groups Males, and Females that are presented on the X-axis. ",
+      " Country Canada had the maximum Life expectancy in years among all 2 groups, and it was for Females. The minimum Life expectancy in years was observed in Country North America for Males. ",
+      "Country Canada and North America had the biggest gap of 4.0 between the highest and lowest Life expectancy in years found for Males. ",
+      "On average, the Country Canada had the highest Life expectancy in years for all 2 groups Males, and Females. Whereas North America had the lowest average Life expectancy in years. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Life expectancy in years",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Countrys on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding Life expectancy in years. ",
+      " Out of all 2 groups, Females had the highest Life expectancy in years for Country Canada and Males had the lowest Life expectancy in years for Country North America. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Life expectancy in years on the Y-axis for 3 different Countrys for 2 groups Males, and Females that are presented on the X-axis. ",
+      " Country Canada had the maximum Life expectancy in years among all 2 groups, and it was for Females. The minimum Life expectancy in years was observed in Country North America for Males. ",
+      "Country Canada and North America had the biggest gap of 4.0 between the highest and lowest Life expectancy in years found for Males. ",
+      "On average, the Country Canada had the highest Life expectancy in years for all 2 groups Males, and Females. Whereas North America had the lowest average Life expectancy in years. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 3 different Countrys on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding Life expectancy in years. ",
+      " Out of all 2 groups, Females had the highest Life expectancy in years for Country Canada and Males had the lowest Life expectancy in years for Country North America. ",
+      " Among all the Countrys, Males had the highest Life expectancy in years in Country Canada and lowest Life expectancy in years in Country North America. ",
+      "Country Canada and North America had the biggest gap of 4.0 between the highest and lowest Life expectancy in years found for Males. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Life expectancy in years was found in case of Males. ",
+      "Averaging all 2 groups Males, and Females, the Country Canada is the maximum Life expectancy in years and North America is the minimum Life expectancy in years. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "North America",
+         "Males": "76",
+         "Females": "81"
+      },
+      {
+         "Country": "Canada",
+         "Males": "80",
+         "Females": "84"
+      },
+      {
+         "Country": "USA",
+         "Males": "76",
+         "Females": "81"
+      }
+   ]
+}

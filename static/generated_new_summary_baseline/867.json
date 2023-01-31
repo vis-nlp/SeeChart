@@ -1,0 +1,86 @@
+{
+   "title": "Most popular leisure activities among adults in the U.S. 2013",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
+      "The maximum Share of respondents 42.0 is found at Response Watch TV and the minimum is found at Gardening where Share of respondents is 7.0. ",
+      "The lowest value at Response Gardening is 6.0x times less than the highest value at Watch TV. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Watch TV and lowest at Response Gardening. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
+      "The maximum Share of respondents 42.0 is found at Response Watch TV and the minimum is found at Gardening where Share of respondents is 7.0. ",
+      "The lowest value at Response Gardening is 6.0x times less than the highest value at Watch TV. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Watch TV has the highest Share of respondents and Gardening has the lowest Share of respondents. ",
+      "Second maximum Share of respondents is found at Response . ",
+      "There is a difference of 35.0 between the maximum Response Watch TV and minimum Response Gardening. ",
+      "The Response Watch TV has the highest Share of respondents, followed by , and Computer/internet. Down to the Response Gardening which is the lowest. ",
+      "Response Exercise/working out, and Playing video games and computer/internet games share the same value 10.0. ",
+      "The highest value 42.0 at Watch TV is almost 2.49 times larger than the average value 16.9. ",
+      "The Share of respondents is 169.0 if we add up values of all Responses. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Watch TV",
+         "Share of respondents": 42.0
+      },
+      {
+         "Response": "Reading",
+         "Share of respondents": 37.0
+      },
+      {
+         "Response": "Computer/internet",
+         "Share of respondents": 19.0
+      },
+      {
+         "Response": "Spending time with family and friends",
+         "Share of respondents": 18.0
+      },
+      {
+         "Response": "Watching/going to the movies",
+         "Share of respondents": 11.0
+      },
+      {
+         "Response": "Exercise/working out",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Playing video games and computer/internet games",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Walking/running/jogging",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "Gardening",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Concerts/listening to/playing music",
+         "Share of respondents": 7.0
+      }
+   ]
+}

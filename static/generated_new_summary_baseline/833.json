@@ -1,0 +1,53 @@
+{
+   "title": "Consumer spending on mobile games in the U.S. 2014 to 2016",
+   "xAxis": "Year",
+   "yAxis": "Average expenditure in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average expenditure in U.S. dollars. In total the number of data points it has is 3.",
+      " Overall Average expenditure in U.S. dollars has increased over the Year.",
+      "Average expenditure in U.S. dollars is slightly increasing from 2014 to 2016.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Average expenditure in U.S. dollars, of value 77.6 was reached at Year 2016",
+      "The lowest Average expenditure in U.S. dollars, of value 60.95 was reported at Year 2014"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average expenditure in U.S. dollars, containing a total of 3 data points.",
+      " In general Average expenditure in U.S. dollars has rose over the Year.",
+      "Average expenditure in U.S. dollars is slightly increasing from 2014 to 2016."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average expenditure in U.S. dollars. In total the number of data points it has is 3.",
+      " Overall Average expenditure in U.S. dollars has increased over the Year.",
+      "Average expenditure in U.S. dollars is slightly increasing from 2014 to 2016.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Average expenditure in U.S. dollars, of value 77.6 was reached at Year 2016",
+      "The lowest Average expenditure in U.S. dollars, of value 60.95 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average expenditure in U.S. dollars, containing a total of 3 data points.",
+      " In general Average expenditure in U.S. dollars has rose over the Year.",
+      "Average expenditure in U.S. dollars is slightly increasing from 2014 to 2016.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Average expenditure in U.S. dollars, of value 77.6 was reached at Year 2016",
+      "The lowest Average expenditure in U.S. dollars, of value 60.95 was reported at Year 2014",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2016",
+         "Average expenditure in U.S. dollars": 77.6
+      },
+      {
+         "Year": "2015",
+         "Average expenditure in U.S. dollars": 70.44
+      },
+      {
+         "Year": "2014",
+         "Average expenditure in U.S. dollars": 60.95
+      }
+   ]
+}

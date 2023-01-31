@@ -1,0 +1,89 @@
+{
+   "title": "Number of visitors to the World War II Memorial in the U.S. 2008 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Number of visitors in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of visitors in millions. In total the number of data points it has is 12.",
+      " Overall Number of visitors in millions has increased over the Year.",
+      "Number of visitors in millions is roughly constant from 2008 to 2009, roughly decreasing from 2009 to 2010, rapidly increasing from 2010 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Number of visitors in millions, about 5.07 was reported at Year 2015",
+      "The lowest Number of visitors in millions, of value 3.75 was reported at Year 2011"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of visitors in millions. In total the number of data points it has is 12.",
+      " In general Number of visitors in millions has rose over the Year.",
+      "Number of visitors in millions is roughly constant from 2008 to 2009, roughly decreasing from 2009 to 2010, rapidly increasing from 2010 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of visitors in millions. In total the number of data points it has is 12.",
+      " Overall Number of visitors in millions has increased over the Year.",
+      "Number of visitors in millions is roughly constant from 2008 to 2009, roughly decreasing from 2009 to 2010, rapidly increasing from 2010 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Number of visitors in millions, about 5.07 was reported at Year 2015",
+      "The lowest Number of visitors in millions, of value 3.75 was reported at Year 2011"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of visitors in millions. In total the number of data points it has is 12.",
+      " Overall Number of visitors in millions has increased over the Year.",
+      "Number of visitors in millions is roughly constant from 2008 to 2009, roughly decreasing from 2009 to 2010, rapidly increasing from 2010 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Number of visitors in millions, about 5.07 was reported at Year 2015",
+      "The lowest Number of visitors in millions, of value 3.75 was reported at Year 2011",
+      "The line drastically "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of visitors in millions": 4.83
+      },
+      {
+         "Year": "2018",
+         "Number of visitors in millions": 4.65
+      },
+      {
+         "Year": "2017",
+         "Number of visitors in millions": 4.88
+      },
+      {
+         "Year": "2016",
+         "Number of visitors in millions": 4.86
+      },
+      {
+         "Year": "2015",
+         "Number of visitors in millions": 5.07
+      },
+      {
+         "Year": "2014",
+         "Number of visitors in millions": 4.23
+      },
+      {
+         "Year": "2013",
+         "Number of visitors in millions": 3.93
+      },
+      {
+         "Year": "2012",
+         "Number of visitors in millions": 4.16
+      },
+      {
+         "Year": "2011",
+         "Number of visitors in millions": 3.75
+      },
+      {
+         "Year": "2010",
+         "Number of visitors in millions": 3.96
+      },
+      {
+         "Year": "2009",
+         "Number of visitors in millions": 4.12
+      },
+      {
+         "Year": "2008",
+         "Number of visitors in millions": 4.15
+      }
+   ]
+}

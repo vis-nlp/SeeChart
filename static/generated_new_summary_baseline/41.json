@@ -1,0 +1,65 @@
+{
+   "title": "Consumers with a newspaper or magazine subscriptions in the U.S. 2017 , by age group",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The maximum Share of respondents 54.0 is found at Response Retirees and the minimum is found at Millennials where Share of respondents is 33.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 21.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response Retirees has the highest Share of respondents and Millennials has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The maximum Share of respondents 54.0 is found at Response Retirees and the minimum is found at Millennials where Share of respondents is 33.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 21.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The maximum Share of respondents 54.0 is found at Response Retirees and the minimum is found at Millennials where Share of respondents is 33.0. ",
+      "The second highest Share of respondents is appeared to be the Response . ",
+      "Response Retirees has 1.64 times more Share of respondents than Response Millennials which is has the lowest. ",
+      "The Response Retirees has the highest Share of respondents, followed by , and Total. Down to the Response Millennials which is the lowest. ",
+      "The average Share of respondents in all 5 Responses is 41.6. ",
+      "Summing up the values of all Responses, we get total 208.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Total",
+         "Share of respondents": 41.0
+      },
+      {
+         "Response": "Millennials",
+         "Share of respondents": 33.0
+      },
+      {
+         "Response": "Gen X",
+         "Share of respondents": 35.0
+      },
+      {
+         "Response": "Boomers",
+         "Share of respondents": 45.0
+      },
+      {
+         "Response": "Retirees",
+         "Share of respondents": 54.0
+      }
+   ]
+}

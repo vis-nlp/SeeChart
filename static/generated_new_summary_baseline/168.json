@@ -1,0 +1,133 @@
+{
+   "title": "Gender distribution of newspaper journalists in the U.S. 2017 , by publication",
+   "labels": [
+      "Newspaper",
+      "Female",
+      "Male"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 14 different Newspapers on X-axis for 2 groups Female, and Male. On the Y-axis it shows their corresponding Share of journalists. ",
+      " Newspaper USA Today had the maximum Share of journalists among all 2 groups, and it was for Male. The minimum Share of journalists was observed in Newspaper USA Today for Female. ",
+      "Newspaper USA Today and The Philadelphia Inquirer had the biggest gap of 17.0 between the highest and lowest Share of journalists found for Male. ",
+      "On average, the Newspaper The Philadelphia Inquirer had the highest Share of journalists for all 2 groups Female, and Male. Whereas USA Today had the lowest average Share of journalists. "
+   ],
+   "xAxis": "Newspaper",
+   "yAxis": "Share of journalists",
+   "min_summary": [
+      "This grouped bar chart represents 14 different Newspapers on X-axis for 2 groups Female, and Male. On the Y-axis it shows their corresponding Share of journalists. ",
+      " For Newspaper USA Today, Male had the highest Share of journalists 69.0 among the 2 groups and in USA Today, Female had the lowest Share of journalists 31.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 14 different Newspapers on X-axis for 2 groups Female, and Male. On the Y-axis it shows their corresponding Share of journalists. ",
+      " Newspaper USA Today had the maximum Share of journalists among all 2 groups, and it was for Male. The minimum Share of journalists was observed in Newspaper USA Today for Female. ",
+      "Newspaper USA Today and The Philadelphia Inquirer had the biggest gap of 17.0 between the highest and lowest Share of journalists found for Male. ",
+      "On average, the Newspaper The Philadelphia Inquirer had the highest Share of journalists for all 2 groups Female, and Male. Whereas USA Today had the lowest average Share of journalists. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 14 different Newspapers on X-axis for 2 groups Female, and Male. On the Y-axis it shows their corresponding Share of journalists. ",
+      " For Newspaper USA Today, Male had the highest Share of journalists 69.0 among the 2 groups and in USA Today, Female had the lowest Share of journalists 31.0. ",
+      " For Newspaper USA Today, Male had the maximum Share of journalists and it saw the lowest in Newspaper The Philadelphia Inquirer out of all 14 Newspapers. ",
+      " The maximum Share of journalists for Male that was found in Newspaper USA Today was 1.33 times larger than the minimum Share of journalists observed in Newspaper The Philadelphia Inquirer. ",
+      " Among all 2 groups, Female had the gap of 17.0 between the maximum and minimum Share of journalists observed in Newspaper The Philadelphia Inquirer and USA Today respectively. ",
+      "Averaging all 2 groups Female, and Male, the Newspaper The Philadelphia Inquirer is the maximum Share of journalists and USA Today is the minimum Share of journalists. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "13"
+         ],
+         "13": [
+            "2",
+            "13"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "12"
+         ],
+         "14": [
+            "2",
+            "12"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Newspaper": "USA Today",
+         "Female": "31",
+         "Male": "69"
+      },
+      {
+         "Newspaper": "Chicago Sun Times",
+         "Female": "32",
+         "Male": "68"
+      },
+      {
+         "Newspaper": "The Wall Street Journal",
+         "Female": "36",
+         "Male": "64"
+      },
+      {
+         "Newspaper": "Houston Chronicle",
+         "Female": "38",
+         "Male": "62"
+      },
+      {
+         "Newspaper": "San Jose Mercury News",
+         "Female": "38",
+         "Male": "62"
+      },
+      {
+         "Newspaper": "The New York Times",
+         "Female": "41",
+         "Male": "59"
+      },
+      {
+         "Newspaper": "Chicago Tribune",
+         "Female": "42",
+         "Male": "58"
+      },
+      {
+         "Newspaper": "New York Post",
+         "Female": "42",
+         "Male": "58"
+      },
+      {
+         "Newspaper": "Los Angeles Times",
+         "Female": "43",
+         "Male": "57"
+      },
+      {
+         "Newspaper": "Newsday",
+         "Female": "43",
+         "Male": "57"
+      },
+      {
+         "Newspaper": "The Washington Post",
+         "Female": "44",
+         "Male": "56"
+      },
+      {
+         "Newspaper": "The Dallas Morning News",
+         "Female": "44",
+         "Male": "56"
+      },
+      {
+         "Newspaper": "The Arizona Republic",
+         "Female": "46",
+         "Male": "54"
+      },
+      {
+         "Newspaper": "The Philadelphia Inquirer",
+         "Female": "48",
+         "Male": "52"
+      }
+   ]
+}

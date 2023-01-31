@@ -1,0 +1,121 @@
+{
+   "title": "Median age of the population in New Zealand 2015",
+   "xAxis": "Year",
+   "yAxis": "Median age in years",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Median age in years. In total the number of data points it has is 21.",
+      " In general Median age in years has rose over the Year.",
+      "The most drastic increase took place within the Year 1995 and 2000.",
+      "The highest Median age in years, of value 43.7 was reached at Year 2050",
+      "The lowest Median age in years, of value 25.6 was reported at Year 1970"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Median age in years. In total the number of data points it has is 21.",
+      " Overall Median age in years has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Median age in years. In total the number of data points it has is 21.",
+      " In general Median age in years has rose over the Year.",
+      "The most drastic increase took place within the Year 1995 and 2000.",
+      "The highest Median age in years, of value 43.7 was reached at Year 2050",
+      "The lowest Median age in years, of value 25.6 was reported at Year 1970"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Median age in years, containing a total of 21 data points.",
+      " In general Median age in years has rose over the Year.",
+      "The most drastic increase took place within the Year 1995 and 2000.",
+      "The highest Median age in years, of value 43.7 was reached at Year 2050",
+      "The lowest Median age in years, of value 25.6 was reported at Year 1970",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2050",
+         "Median age in years": 43.7
+      },
+      {
+         "Year": "2045",
+         "Median age in years": 43.1
+      },
+      {
+         "Year": "2040",
+         "Median age in years": 42.3
+      },
+      {
+         "Year": "2035",
+         "Median age in years": 41.3
+      },
+      {
+         "Year": "2030",
+         "Median age in years": 40.0
+      },
+      {
+         "Year": "2025",
+         "Median age in years": 38.9
+      },
+      {
+         "Year": "2020",
+         "Median age in years": 38.0
+      },
+      {
+         "Year": "2015",
+         "Median age in years": 37.3
+      },
+      {
+         "Year": "2010",
+         "Median age in years": 36.6
+      },
+      {
+         "Year": "2005",
+         "Median age in years": 35.5
+      },
+      {
+         "Year": "2000",
+         "Median age in years": 34.3
+      },
+      {
+         "Year": "1995",
+         "Median age in years": 32.6
+      },
+      {
+         "Year": "1990",
+         "Median age in years": 31.1
+      },
+      {
+         "Year": "1985",
+         "Median age in years": 29.5
+      },
+      {
+         "Year": "1980",
+         "Median age in years": 27.9
+      },
+      {
+         "Year": "1975",
+         "Median age in years": 26.3
+      },
+      {
+         "Year": "1970",
+         "Median age in years": 25.6
+      },
+      {
+         "Year": "1965",
+         "Median age in years": 25.8
+      },
+      {
+         "Year": "1960",
+         "Median age in years": 27.4
+      },
+      {
+         "Year": "1955",
+         "Median age in years": 28.7
+      },
+      {
+         "Year": "1950",
+         "Median age in years": 29.4
+      }
+   ]
+}

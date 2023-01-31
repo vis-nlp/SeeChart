@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ JSGlue.include() }}
+    <meta charset="UTF-8">
+    <title>User Study Home for Admin</title>
+    <link href="static/css/homeStyle.css" rel="stylesheet">
+    <script type=text/javascript src="{{ url_for('static', filename='js/study.js') }}"></script>
+
+</head>
+
+<div class="topnav">
+<!--    <a href="{{ url_for('home') }}">Home</a>-->
+    <a class="active" href="{{ url_for('config') }}">Study Config</a>
+    <a href="{{ url_for('timer') }}">Timer</a>
+    <a href="{{ url_for('all_charts') }}">Charts</a>
+<!--    <a href="#" onClick="(function(){-->
+<!--        if (confirm('Are you sure?') == true){-->
+<!--            window.location.replace(Flask.url_for('logout'));-->
+<!--        }-->
+
+<!--    })();">Log Out</a>-->
+
+<!--    <p> Participant ID: ADMIN </p>-->
+</div>
+
+<body>
+<!--    <h3 class="main" align="center">Admin Portal</h3>-->
+
+    <div class="container" align="center">
+<!--        <h2 align="center"> Select Activated Summary Types </h2>-->
+
+<!--        <table id="timer" border="1" class="styled-table" style="width: 90%;">-->
+<!--            <tr>-->
+<!--                <th align="left" style="background: #c4e3f3;">-->
+<!--                    Type of Summary-->
+<!--                </th>-->
+<!--                <th align="left" style="background: #c4e3f3;">-->
+<!--                    Active-->
+<!--                </th>-->
+<!--            </tr>-->
+<!--            <tr>-->
+<!--                <td>-->
+<!--&lt;!&ndash;                        <p id="stopwatch" align="center">00:00:00</p>&ndash;&gt;-->
+<!--                    <h3 id="stopwatch" align="center">00:00:00</h3>-->
+
+
+
+<!--                </td>-->
+<!--                <td>-->
+<!--                    <button class="button" onclick="startTimer()">Start</button>-->
+<!--                    <button class="button" onclick="resetTimer()">Reset</button>-->
+<!--                    <button class="button" onclick="stopTimer()">Stop</button>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--        </table>-->
+
+
+        <form>
+            <table id="sum_type" border="1" class="styled-table" style="width: 90%;">
+                <tr>
+                    <th align="left" style="background: #c4e3f3;">
+                        Type of Summary
+                    </th>
+                    <th align="left" style="background: #c4e3f3;">
+                        Active
+                    </th>
+                </tr>
+                <tr>
+                    <td align="left">
+                        <label for="summary_type_temp"> Template-based Summary</label>
+                    </td>
+                    <td align="left">
+                        <input type="checkbox" id="summary_type_temp" name="choice" value="yes" onclick="summary_type(s_type='temp');">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left">
+                        <label for="summary_type_ml"> Chart-to-text Summary</label>
+                    </td>
+                    <td align="left">
+                        <input type="checkbox" id="summary_type_ml" name="choice" value="yes" onclick="summary_type(s_type='ml');">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left">
+                        <label for="summary_type_human"> Human-Written Summary</label>
+                    </td>
+                    <td align="left">
+                        <input type="checkbox" id="summary_type_human" name="choice" value="yes" onclick="summary_type(s_type='hum');">
+                    </td>
+                </tr>
+            </table>
+
+<!--            <table id="latin_sqr" border="1" class="styled-table" style="width: 90%;">-->
+<!--                <tr>-->
+<!--                    <th align="left" style="background: #c4e3f3;">-->
+<!--                        4x4 Latin Square Group-->
+<!--                    </th>-->
+<!--                    <th align="left" style="background: #c4e3f3;">-->
+<!--                        Active-->
+<!--                    </th>-->
+<!--                </tr>-->
+<!--                <tr>-->
+<!--                    <td align="left">-->
+<!--                        <label for="grp_a">Group A [SB, MB, SL, ML]</label>-->
+<!--                    </td>-->
+<!--                    <td align="left">-->
+<!--                        <input id="grp_a" type="radio" name="latin_sqr_choice" checked value="yes" onclick="summary_type(s_type='grp_a');">-->
+<!--                    </td>-->
+<!--                </tr>-->
+<!--                <tr>-->
+<!--                    <td align="left">-->
+<!--                        <label for="grp_b">Group B [MB, SL, ML, SB]</label>-->
+<!--                    </td>-->
+<!--                    <td align="left">-->
+<!--                        <input id="grp_b" type="radio" name="latin_sqr_choice" value="no" onclick="summary_type(s_type='grp_b');">-->
+<!--                    </td>-->
+<!--                </tr>-->
+<!--                <tr>-->
+<!--                    <td align="left">-->
+<!--                        <label for="grp_c">Group C [ML, SL, MB, SL]</label>-->
+<!--                    </td>-->
+<!--                    <td align="left">-->
+<!--                        <input id="grp_c" type="radio" name="latin_sqr_choice" value="no" onclick="summary_type(s_type='grp_c');">-->
+<!--                    </td>-->
+<!--                </tr>-->
+<!--                <tr>-->
+<!--                    <td align="left">-->
+<!--                        <label for="grp_d">Group D [SL, ML, SB, MB]</label>-->
+<!--                    </td>-->
+<!--                    <td align="left">-->
+<!--                        <input id="grp_d" type="radio" name="latin_sqr_choice" value="no" onclick="summary_type(s_type='grp_d');">-->
+<!--                    </td>-->
+<!--                </tr>-->
+<!--            </table>-->
+
+
+            <table id="sel_type" border="1" class="styled-table" style="width: 90%;">
+                <tr>
+                    <th align="left" style="background: #c4e3f3;">
+                        Type of Data Selection
+                    </th>
+                    <th align="left" style="background: #c4e3f3;">
+                        Active
+                    </th>
+                </tr>
+                <tr>
+                    <td align="left">
+                        <label for="brush_selection"> Brush Selection</label>
+                    </td>
+                    <td align="left">
+                        <input id="brush_selection" type="radio" name="choice" checked value="no" onclick="summary_type(s_type='brush');">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left">
+                        <label for="lasso_selection"> Lasso Selection</label>
+                    </td>
+                    <td align="left">
+                        <input id="lasso_selection" type="radio" name="choice" value="yes" onclick="summary_type(s_type='lasso');">
+                    </td>
+                </tr>
+            </table>
+
+
+
+
+        </form>
+
+
+    </div>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            initStopWatch();
+
+        }, false);
+
+
+        check_summary_status();
+
+
+
+
+        function summary_type(s_type)
+        {
+            var xmlhttp = new XMLHttpRequest();   // new HttpRequest instance
+
+            var theUrl;
+
+            if (s_type === "temp"){
+                var status = document.getElementById("summary_type_temp").checked
+                theUrl = "{{ url_for('summary_set', s_type= 'template', stat= 'status') }}".replace("status", status);
+
+            }
+            else if (s_type === "ml"){
+                var status = document.getElementById("summary_type_ml").checked
+                theUrl = "{{ url_for('summary_set', s_type= 'ml', stat= 'status') }}".replace("status", status);
+
+            }
+            else if (s_type === "hum"){
+                var status = document.getElementById("summary_type_human").checked
+                theUrl = "{{ url_for('summary_set', s_type= 'human', stat= 'status') }}".replace("status", status);
+
+            }
+            else if (s_type === "brush"){
+                var status = true
+                theUrl = "{{ url_for('summary_set', s_type= 'brush', stat= 'status') }}".replace("status", status);
+
+            }
+            else if (s_type === "lasso"){
+                var status = false
+                theUrl = "{{ url_for('summary_set', s_type= 'brush', stat= 'status') }}".replace("status", status);
+
+            }
+            else if (s_type === "grp_a"){
+                var status = true
+                theUrl = "{{ url_for('summary_set', s_type= 'grp_a', stat= 'status') }}".replace("status", status);
+            }
+            else if (s_type === "grp_b"){
+                var status = true
+                theUrl = "{{ url_for('summary_set', s_type= 'grp_b', stat= 'status') }}".replace("status", status);
+            }
+            else if (s_type === "grp_c"){
+                var status = true
+                theUrl = "{{ url_for('summary_set', s_type= 'grp_c', stat= 'status') }}".replace("status", status);
+            }
+            else if (s_type === "grp_d"){
+                var status = true
+                theUrl = "{{ url_for('summary_set', s_type= 'grp_d', stat= 'status') }}".replace("status", status);
+            }
+
+            xmlhttp.open("POST", theUrl);
+
+            console.log(theUrl)
+
+            xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+            xmlhttp.send();
+
+            xmlhttp.onloadend = function () {
+                console.log(xmlhttp.status);
+            }
+        }
+
+
+    </script>
+
+</body>
+
+
+</html>

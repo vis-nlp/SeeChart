@@ -1,0 +1,104 @@
+{
+   "title": "Sales of the leading 15 optical retailers in the U.S. 2018",
+   "xAxis": "Optical retailer",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 15 columns on the x axis representing Optical retailer, and Sales in million U.S. dollars in each Optical retailer on the y axis. ",
+      "The Sales in million U.S. dollars is highest at Optical retailer Vision Source and lowest at Optical retailer Emerging Vision Inc.. ",
+      "There is a difference of 2729.6 between the maximum Optical retailer Vision Source and minimum Optical retailer Emerging Vision Inc.. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Sales in million U.S. dollars for 15 number of Optical retailers. ",
+      "The Sales in million U.S. dollars is appeared to be the highest at Optical retailer Vision Source and lowest at Optical retailer Emerging Vision Inc.. "
+   ],
+   "mid_summary": [
+      "This bar chart has 15 columns on the x axis representing Optical retailer, and Sales in million U.S. dollars in each Optical retailer on the y axis. ",
+      "The Sales in million U.S. dollars is highest at Optical retailer Vision Source and lowest at Optical retailer Emerging Vision Inc.. ",
+      "There is a difference of 2729.6 between the maximum Optical retailer Vision Source and minimum Optical retailer Emerging Vision Inc.. "
+   ],
+   "max_summary": [
+      "This bar chart has 15 columns on the x axis representing Optical retailer, and Sales in million U.S. dollars in each Optical retailer on the y axis. ",
+      "Optical retailer Vision Source has the highest Sales in million U.S. dollars and Emerging Vision Inc. has the lowest Sales in million U.S. dollars. ",
+      "Optical retailer  has the second highest value for Sales in million U.S. dollars. ",
+      "The Sales in million U.S. dollars of Optical retailer Emerging Vision Inc. is 25.72% smaller than the maximum value at Vision Source. ",
+      "The Optical retailer Vision Source has the highest Sales in million U.S. dollars, followed by , and Walmart stores. Down to the Optical retailer Emerging Vision Inc. which is the lowest. ",
+      "The average Sales in million U.S. dollars in all 15 Optical retailers is 873.27. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Optical retailer": "Vision Source",
+         "Sales in million U.S. dollars": 2840.0
+      },
+      {
+         "Optical retailer": "Luxottica retail",
+         "Sales in million U.S. dollars": 2470.0
+      },
+      {
+         "Optical retailer": "Walmart stores",
+         "Sales in million U.S. dollars": 1762.0
+      },
+      {
+         "Optical retailer": "National Vision",
+         "Sales in million U.S. dollars": 1537.0
+      },
+      {
+         "Optical retailer": "Costco Wholesale",
+         "Sales in million U.S. dollars": 1129.8
+      },
+      {
+         "Optical retailer": "Visionworks of America",
+         "Sales in million U.S. dollars": 947.4
+      },
+      {
+         "Optical retailer": "MyEyeDr/Capital Vision Services LLC",
+         "Sales in million U.S. dollars": 602.0
+      },
+      {
+         "Optical retailer": "Eyecare Partners",
+         "Sales in million U.S. dollars": 420.0
+      },
+      {
+         "Optical retailer": "Warby Parker",
+         "Sales in million U.S. dollars": 315.0
+      },
+      {
+         "Optical retailer": "Refac Optical Group",
+         "Sales in million U.S. dollars": 275.5
+      },
+      {
+         "Optical retailer": "Eyemart Express",
+         "Sales in million U.S. dollars": 263.0
+      },
+      {
+         "Optical retailer": "Now Optics LLC",
+         "Sales in million U.S. dollars": 155.0
+      },
+      {
+         "Optical retailer": "Cohen's Fashion Optical",
+         "Sales in million U.S. dollars": 152.0
+      },
+      {
+         "Optical retailer": "Texas State Optical",
+         "Sales in million U.S. dollars": 120.0
+      },
+      {
+         "Optical retailer": "Emerging Vision Inc.",
+         "Sales in million U.S. dollars": 110.4
+      }
+   ]
+}

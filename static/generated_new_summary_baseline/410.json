@@ -1,0 +1,86 @@
+{
+   "title": "U.S. women who have given oral sex to a male in their lifetime , by age group",
+   "xAxis": "Age group",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Age groups. ",
+      "The Share of respondents is appeared to be the highest at Age group 25-29 and lowest at Age group 14-15. ",
+      "The highest Age group 25-29 has 76.0 more Share of respondents than the lowest Age group 14-15. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Age groups. ",
+      "The Share of respondents is appeared to be the highest at Age group 25-29 and lowest at Age group 14-15. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Age groups. ",
+      "The Share of respondents is appeared to be the highest at Age group 25-29 and lowest at Age group 14-15. ",
+      "The highest Age group 25-29 has 76.0 more Share of respondents than the lowest Age group 14-15. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Age group, and Share of respondents in each Age group on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Age group 25-29 and lowest at Age group 14-15. ",
+      "Second maximum Share of respondents is found at Age group . ",
+      "There is a difference of 76.0 between the maximum Age group 25-29 and minimum Age group 14-15. ",
+      "The Age group 25-29 has the highest Share of respondents, followed by , and 50-59. Down to the Age group 14-15 which is the lowest. ",
+      "Similar Share of respondents is found in Age group 30-39, and 50-59. ",
+      "The Age group 25-29 tends to be 1.41 percent higher than average. ",
+      "The Share of respondents is 629.0 if we add up values of all Age groups. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age group": "14-15",
+         "Share of respondents": 13.0
+      },
+      {
+         "Age group": "16-17",
+         "Share of respondents": 29.0
+      },
+      {
+         "Age group": "18-19",
+         "Share of respondents": 61.0
+      },
+      {
+         "Age group": "20-24",
+         "Share of respondents": 78.0
+      },
+      {
+         "Age group": "25-29",
+         "Share of respondents": 89.0
+      },
+      {
+         "Age group": "30-39",
+         "Share of respondents": 80.0
+      },
+      {
+         "Age group": "40-49",
+         "Share of respondents": 83.0
+      },
+      {
+         "Age group": "50-59",
+         "Share of respondents": 80.0
+      },
+      {
+         "Age group": "60-69",
+         "Share of respondents": 73.0
+      },
+      {
+         "Age group": "70 and older",
+         "Share of respondents": 43.0
+      }
+   ]
+}

@@ -1,0 +1,82 @@
+{
+   "title": "Facebook : annual revenue 2009 to 2019",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 11 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is slightly increasing from 2009 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "Maximum Revenue in million U.S. dollars, about 70697.0 was reported at Year 2019",
+      "The lowest Revenue in million U.S. dollars, of value 777.0 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 11.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is slightly increasing from 2009 to 2017, and lastly roughly constant from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 11 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is slightly increasing from 2009 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "Maximum Revenue in million U.S. dollars, about 70697.0 was reported at Year 2019",
+      "The lowest Revenue in million U.S. dollars, of value 777.0 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 11.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is slightly increasing from 2009 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "Maximum Revenue in million U.S. dollars, about 70697.0 was reported at Year 2019",
+      "The lowest Revenue in million U.S. dollars, of value 777.0 was reported at Year 2009",
+      "The line drastically increased by 2.5 times from Year 2009 to 2010, and lastly, increased by 1.9 times from Year 2010 to 2011."
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": 70697.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 55838.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 40653.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 27638.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 17928.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 12466.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 7872.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 5089.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 3711.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 1974.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 777.0
+      }
+   ]
+}

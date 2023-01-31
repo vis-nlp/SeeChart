@@ -1,0 +1,129 @@
+{
+   "title": "Most popular social media apps in the U.S. 2019 , by audience",
+   "xAxis": "Platform",
+   "yAxis": "Million unique visitors",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Platform in the x axis and Million unique visitors in the y axis. ",
+      "The maximum Million unique visitors 169.76 is found at Platform Facebook (main) and the minimum is found at WeChat where Million unique visitors is 1.48. ",
+      "The difference of Million unique visitors between the highest and lowest Platform is 168.28. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Million unique visitors for 21 number of Platforms. ",
+      "The Million unique visitors is appeared to be the highest at Platform Facebook (main) and lowest at Platform WeChat. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Platform in the x axis and Million unique visitors in the y axis. ",
+      "The maximum Million unique visitors 169.76 is found at Platform Facebook (main) and the minimum is found at WeChat where Million unique visitors is 1.48. ",
+      "The difference of Million unique visitors between the highest and lowest Platform is 168.28. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Platform in the x axis and Million unique visitors in the y axis. ",
+      "The Million unique visitors is appeared to be the highest at Platform Facebook (main) and lowest at Platform WeChat. ",
+      "Platform  has the second highest value for Million unique visitors. ",
+      "The difference of Million unique visitors between the highest and lowest Platform is 168.28. ",
+      "The Platform Facebook (main) has the highest Million unique visitors, followed by , and Facebook Messenger. Down to the Platform WeChat which is the lowest. ",
+      "The average Million unique visitors in all 21 Platforms is 36.82. ",
+      "The Million unique visitors is 773.29 if we add up values of all Platforms. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 20,
+         "12": 20
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Platform": "Facebook (main)",
+         "Million unique visitors": 169.76
+      },
+      {
+         "Platform": "Instagram (main)",
+         "Million unique visitors": 121.23
+      },
+      {
+         "Platform": "Facebook Messenger",
+         "Million unique visitors": 106.4
+      },
+      {
+         "Platform": "Twitter (main)",
+         "Million unique visitors": 81.47
+      },
+      {
+         "Platform": "Pinterest",
+         "Million unique visitors": 66.88
+      },
+      {
+         "Platform": "Reddit",
+         "Million unique visitors": 47.87
+      },
+      {
+         "Platform": "Snapchat",
+         "Million unique visitors": 45.98
+      },
+      {
+         "Platform": "WhatsApp",
+         "Million unique visitors": 25.58
+      },
+      {
+         "Platform": "Messenger by Google",
+         "Million unique visitors": 17.46
+      },
+      {
+         "Platform": "Tumblr",
+         "Million unique visitors": 16.74
+      },
+      {
+         "Platform": "Discord - Chat for Games",
+         "Million unique visitors": 15.01
+      },
+      {
+         "Platform": "Google Hangouts (main)",
+         "Million unique visitors": 14.19
+      },
+      {
+         "Platform": "GroupMe",
+         "Million unique visitors": 10.75
+      },
+      {
+         "Platform": "Kik",
+         "Million unique visitors": 7.72
+      },
+      {
+         "Platform": "TikTok (main)",
+         "Million unique visitors": 6.24
+      },
+      {
+         "Platform": "Skype (main)",
+         "Million unique visitors": 5.53
+      },
+      {
+         "Platform": "TikTok",
+         "Million unique visitors": 3.76
+      },
+      {
+         "Platform": "Telegram",
+         "Million unique visitors": 3.47
+      },
+      {
+         "Platform": "LINE",
+         "Million unique visitors": 3.15
+      },
+      {
+         "Platform": "Google+",
+         "Million unique visitors": 2.62
+      },
+      {
+         "Platform": "WeChat",
+         "Million unique visitors": 1.48
+      }
+   ]
+}

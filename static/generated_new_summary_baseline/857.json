@@ -1,0 +1,116 @@
+{
+   "title": "Google : global corporate demography 2014 - 2019 , by gender",
+   "labels": [
+      "Year",
+      "Female",
+      "Male"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Female, and Male. The y axis denotes Share of employees and the x axis denotes Year.",
+      "Overall Female, and Male are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of employees in descending order is: 1. Male, and lastly, 2. Female. ",
+      "Throughout the period, Male generally had the highest Share of employees relative to others with an average of 69.15, and it reached its maximum at 2014, 2015, and 2016 with a value of 69.4.",
+      "Female mostly had the least Share of employees with a mean value of 30.85, which peaked at 2019 with a value of 31.6. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of employees",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing Female, and Male. The y axis denotes Share of employees and the x axis denotes Year.",
+      "Overall Female, and Male are roughly constant,  throughout the Year",
+      "Throughout the period, Male generally had the highest Share of employees relative to others with an average of 69.15, and it reached its maximum at 2014, 2015, and 2016 with a value of 69.4.",
+      "Female mostly had the least Share of employees with a mean value of 30.85, which peaked at 2019 with a value of 31.6. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing Female, and Male. The y axis denotes Share of employees and the x axis denotes Year.",
+      "Overall Female, and Male are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of employees in descending order is: 1. Male, and lastly, 2. Female. ",
+      "Throughout the period, Male generally had the highest Share of employees relative to others with an average of 69.15, and it reached its maximum at 2014, 2015, and 2016 with a value of 69.4.",
+      "Female mostly had the least Share of employees with a mean value of 30.85, which peaked at 2019 with a value of 31.6. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Female, and Male. The y axis represents Share of employees and the x axis represents Year.",
+      "Overall Female, and Male are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Share of employees in descending order is: 1. Male, and lastly, 2. Female. ",
+      "Throughout the period, Male generally had the highest Share of employees relative to others with an average of 69.15, and it reached its maximum at 2014, 2015, and 2016 with a value of 69.4.",
+      "The botommost line, Female,  has a mean of 30.85, and peaked at 2019. ",
+      "The difference of Share of employees between Female and Male is smaller at Year 2019 compared to the Year 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "9": [
+            "0",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "0"
+         ],
+         "10": [
+            "5",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Female": "30.6",
+         "Male": "69.4"
+      },
+      {
+         "Year": "2015",
+         "Female": "30.6",
+         "Male": "69.4"
+      },
+      {
+         "Year": "2016",
+         "Female": "30.6",
+         "Male": "69.4"
+      },
+      {
+         "Year": "2017",
+         "Female": "30.8",
+         "Male": "69.2"
+      },
+      {
+         "Year": "2018",
+         "Female": "30.9",
+         "Male": "69.1"
+      },
+      {
+         "Year": "2019",
+         "Female": "31.6",
+         "Male": "68.4"
+      }
+   ]
+}

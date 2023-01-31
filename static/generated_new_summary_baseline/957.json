@@ -1,0 +1,72 @@
+{
+   "title": "Preferred social login ID worldwide 2016",
+   "xAxis": "Platform",
+   "yAxis": "Share of logins",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Platform in the x axis and Share of logins in the y axis. ",
+      "The Share of logins is highest at Platform Facebook and lowest at Platform Live. ",
+      "The highest Platform Facebook has 52.99 more Share of logins than the lowest Platform Live. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of logins for 7 number of Platforms. ",
+      "Platform Facebook has the highest Share of logins and Live has the lowest Share of logins. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Platform in the x axis and Share of logins in the y axis. ",
+      "The Share of logins is highest at Platform Facebook and lowest at Platform Live. ",
+      "The highest Platform Facebook has 52.99 more Share of logins than the lowest Platform Live. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Platform in the x axis and Share of logins in the y axis. ",
+      "The Share of logins is appeared to be the highest at Platform Facebook and lowest at Platform Live. ",
+      "The second highest Share of logins is appeared to be the Platform . ",
+      "The highest Platform Facebook has 52.99 more Share of logins than the lowest Platform Live. ",
+      "Platform Facebook is higher than any other Platforms with value 53.1, followed by , and Twitter. Down to Platform Live with the lowest value 0.11. ",
+      "The Platform Facebook tends to be 3.72 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Share of logins": 53.1
+      },
+      {
+         "Platform": "GooglePlus",
+         "Share of logins": 44.8
+      },
+      {
+         "Platform": "Twitter",
+         "Share of logins": 1.01
+      },
+      {
+         "Platform": "LinkedIn",
+         "Share of logins": 0.56
+      },
+      {
+         "Platform": "Yahoo",
+         "Share of logins": 0.29
+      },
+      {
+         "Platform": "Vkontakte",
+         "Share of logins": 0.15
+      },
+      {
+         "Platform": "Live",
+         "Share of logins": 0.11
+      }
+   ]
+}

@@ -1,0 +1,157 @@
+{
+   "title": "UEFA Europa League most titles by club 2019",
+   "xAxis": "Soccer Club",
+   "yAxis": "Number of titles",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of titles for 28 number of Soccer Clubs. ",
+      "The maximum Number of titles 5.0 is found at Soccer Club Sevilla FC and the minimum is found at Ipswich Town FC where Number of titles is 1.0. ",
+      "The highest Soccer Club Sevilla FC has 4.0 more Number of titles than the lowest Soccer Club Ipswich Town FC. "
+   ],
+   "min_summary": [
+      "This bar chart has 28 columns on the x axis representing Soccer Club, and Number of titles in each Soccer Club on the y axis. ",
+      "The maximum Number of titles 5.0 is found at Soccer Club Sevilla FC and the minimum is found at Ipswich Town FC where Number of titles is 1.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of titles for 28 number of Soccer Clubs. ",
+      "The maximum Number of titles 5.0 is found at Soccer Club Sevilla FC and the minimum is found at Ipswich Town FC where Number of titles is 1.0. ",
+      "The highest Soccer Club Sevilla FC has 4.0 more Number of titles than the lowest Soccer Club Ipswich Town FC. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of titles for 28 number of Soccer Clubs. ",
+      "The Number of titles is highest at Soccer Club Sevilla FC and lowest at Soccer Club Ipswich Town FC. ",
+      "The difference of Number of titles between the highest and lowest Soccer Club is 4.0. ",
+      "Number of titles at Soccer Club Sevilla FC is 5.0 , second place is  at 5.0, and thirdly is Juventus at 3.0.",
+      "Soccer Club Ipswich Town FC, FC Zenit, PSV Eindhoven, FC Bayern Munich, SSC Napoli, RSC Anderlecht, CSKA Moscow, Valencia CF, FC Schalke 04, Bayer 04 Leverkusen, Manchester United, AFC Ajax, FC Shakhtar Donetsk, Galatasaray AS, and Eintracht Frankfurt have the same Number of titles. ",
+      "The Soccer Club Ipswich Town FC has 2.92 times less Number of titles than average. ",
+      "Summing up the values of all Soccer Clubs, we get total 48.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Soccer Club": "Sevilla FC",
+         "Number of titles": 5.0
+      },
+      {
+         "Soccer Club": "Atletico Madrid",
+         "Number of titles": 3.0
+      },
+      {
+         "Soccer Club": "FC Internazionale Milano",
+         "Number of titles": 3.0
+      },
+      {
+         "Soccer Club": "Liverpool FC",
+         "Number of titles": 3.0
+      },
+      {
+         "Soccer Club": "Juventus",
+         "Number of titles": 3.0
+      },
+      {
+         "Soccer Club": "VfL Borussia M\u00f6nchengladbach",
+         "Number of titles": 2.0
+      },
+      {
+         "Soccer Club": "Chelsea FC",
+         "Number of titles": 2.0
+      },
+      {
+         "Soccer Club": "IFK G\u00f6teborg",
+         "Number of titles": 2.0
+      },
+      {
+         "Soccer Club": "Feyenoord",
+         "Number of titles": 2.0
+      },
+      {
+         "Soccer Club": "Parma FC",
+         "Number of titles": 2.0
+      },
+      {
+         "Soccer Club": "Real Madrid CF",
+         "Number of titles": 2.0
+      },
+      {
+         "Soccer Club": "Tottenham Hotspur FC",
+         "Number of titles": 2.0
+      },
+      {
+         "Soccer Club": "FC Porto",
+         "Number of titles": 2.0
+      },
+      {
+         "Soccer Club": "Ipswich Town FC",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "FC Zenit",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "PSV Eindhoven",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "FC Bayern Munich",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "SSC Napoli",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "RSC Anderlecht",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "CSKA Moscow",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "Valencia CF",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "FC Schalke 04",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "Bayer 04 Leverkusen",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "Manchester United",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "AFC Ajax",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "FC Shakhtar Donetsk",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "Galatasaray AS",
+         "Number of titles": 1.0
+      },
+      {
+         "Soccer Club": "Eintracht Frankfurt",
+         "Number of titles": 1.0
+      }
+   ]
+}

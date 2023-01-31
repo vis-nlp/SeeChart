@@ -1,0 +1,99 @@
+{
+   "title": "U.S. disposable personal income - monthly percentage of change 2019/20",
+   "xAxis": "Month",
+   "yAxis": "Monthly percentage of change",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Monthly percentage of change for 13 number of Months. ",
+      "The Monthly percentage of change is appeared to be the highest at Month Jan '20 and lowest at Month Oct '19. ",
+      "The highest Month Jan '20 has 0.6 more Monthly percentage of change than the lowest Month Oct '19. "
+   ],
+   "min_summary": [
+      "This bar chart has 13 columns on the x axis representing Month, and Monthly percentage of change in each Month on the y axis. ",
+      "The Monthly percentage of change is appeared to be the highest at Month Jan '20 and lowest at Month Oct '19. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Monthly percentage of change for 13 number of Months. ",
+      "The Monthly percentage of change is appeared to be the highest at Month Jan '20 and lowest at Month Oct '19. ",
+      "The highest Month Jan '20 has 0.6 more Monthly percentage of change than the lowest Month Oct '19. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Monthly percentage of change in the y axis. ",
+      "The Monthly percentage of change is appeared to be the highest at Month Jan '20 and lowest at Month Oct '19. ",
+      "The second highest Monthly percentage of change is appeared to be the Month . ",
+      "There is a difference of 0.6 between the maximum Month Jan '20 and minimum Month Oct '19. ",
+      "The Month Jan '20 has the highest Monthly percentage of change, followed by , and Feb '19. Down to the Month Oct '19 which is the lowest. ",
+      "Overall Monthly percentage of change has decreased over the Months. ",
+      "Month Nov '19, Jun '19, Apr '19, and Mar '19 have the same Monthly percentage of change. ",
+      "The highest value 0.6 at Jan '20 is almost 1.73 times larger than the average value 0.35. ",
+      "The Monthly percentage of change is 4.5 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Jan '20",
+         "Monthly percentage of change": 0.6
+      },
+      {
+         "Month": "Dec '19",
+         "Monthly percentage of change": 0.1
+      },
+      {
+         "Month": "Nov '19",
+         "Monthly percentage of change": 0.4
+      },
+      {
+         "Month": "Oct '19",
+         "Monthly percentage of change": 0.0
+      },
+      {
+         "Month": "Sep '19",
+         "Monthly percentage of change": 0.3
+      },
+      {
+         "Month": "Aug '19",
+         "Monthly percentage of change": 0.6
+      },
+      {
+         "Month": "Jul '19",
+         "Monthly percentage of change": 0.3
+      },
+      {
+         "Month": "Jun '19",
+         "Monthly percentage of change": 0.4
+      },
+      {
+         "Month": "May '19",
+         "Monthly percentage of change": 0.3
+      },
+      {
+         "Month": "Apr '19",
+         "Monthly percentage of change": 0.4
+      },
+      {
+         "Month": "Mar '19",
+         "Monthly percentage of change": 0.4
+      },
+      {
+         "Month": "Feb '19",
+         "Monthly percentage of change": 0.5
+      },
+      {
+         "Month": "Jan '19",
+         "Monthly percentage of change": 0.2
+      }
+   ]
+}

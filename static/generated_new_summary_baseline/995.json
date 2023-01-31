@@ -1,0 +1,101 @@
+{
+   "title": "Revenue of the BSH Group 2003 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Revenue in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion euros. In total the number of data points it has is 16.",
+      " Overall Revenue in billion euros has increased over the Year.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Revenue in billion euros, of value 13.8 was reached at Year 2017",
+      "Minimum Revenue in billion euros about 6.3 was reached at Year 2003"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion euros, containing a total of 16 data points.",
+      " Overall Revenue in billion euros has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion euros. In total the number of data points it has is 16.",
+      " Overall Revenue in billion euros has increased over the Year.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Revenue in billion euros, of value 13.8 was reached at Year 2017",
+      "Minimum Revenue in billion euros about 6.3 was reached at Year 2003"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion euros. In total the number of data points it has is 16.",
+      " In general Revenue in billion euros has rose over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Revenue in billion euros, of value 13.8 was reached at Year 2017",
+      "Minimum Revenue in billion euros about 6.3 was reached at Year 2003",
+      "The line significantly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in billion euros": 13.4
+      },
+      {
+         "Year": "2017",
+         "Revenue in billion euros": 13.8
+      },
+      {
+         "Year": "2016",
+         "Revenue in billion euros": 13.1
+      },
+      {
+         "Year": "2015",
+         "Revenue in billion euros": 12.6
+      },
+      {
+         "Year": "2014",
+         "Revenue in billion euros": 11.4
+      },
+      {
+         "Year": "2013",
+         "Revenue in billion euros": 10.5
+      },
+      {
+         "Year": "2012",
+         "Revenue in billion euros": 9.8
+      },
+      {
+         "Year": "2011",
+         "Revenue in billion euros": 9.65
+      },
+      {
+         "Year": "2010",
+         "Revenue in billion euros": 9.07
+      },
+      {
+         "Year": "2009",
+         "Revenue in billion euros": 8.41
+      },
+      {
+         "Year": "2008",
+         "Revenue in billion euros": 8.76
+      },
+      {
+         "Year": "2007",
+         "Revenue in billion euros": 8.82
+      },
+      {
+         "Year": "2006",
+         "Revenue in billion euros": 8.31
+      },
+      {
+         "Year": "2005",
+         "Revenue in billion euros": 7.34
+      },
+      {
+         "Year": "2004",
+         "Revenue in billion euros": 6.84
+      },
+      {
+         "Year": "2003",
+         "Revenue in billion euros": 6.3
+      }
+   ]
+}
